@@ -66,42 +66,42 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 296938,
+          "confirmed": 298242,
           "date": "2021-12-29",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 241069,
+          "confirmed": 242726,
           "date": "2021-12-29",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 254908,
+          "confirmed": 255995,
           "date": "2021-12-29",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 246985,
+          "confirmed": 247927,
           "date": "2021-12-29",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 221550,
+          "confirmed": 222404,
           "date": "2021-12-29",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 211685,
+          "confirmed": 212600,
           "date": "2021-12-29",
           "deaths": 0
         }
@@ -898,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1070570,
+      "confirmed": 1071035,
       "date": "2021-12-29",
       "deaths": 18199
     }
@@ -1032,9 +1032,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 374763,
+      "confirmed": 375065,
       "date": "2021-12-29",
-      "deaths": 9625
+      "deaths": 9645
     }
   },
   "Mongolia": {
@@ -1143,32 +1143,32 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 181247,
+          "confirmed": 181285,
           "date": "2021-12-29",
-          "deaths": 5922
+          "deaths": 5924
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 444670,
+          "confirmed": 444752,
           "date": "2021-12-29",
           "deaths": 13066
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 480901,
+          "confirmed": 481096,
           "date": "2021-12-29",
-          "deaths": 7663
+          "deaths": 7666
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 488341,
+      "confirmed": 489695,
       "date": "2021-12-29",
-      "deaths": 7418
+      "deaths": 7421
     }
   },
   "Paraguay": {
@@ -1670,9 +1670,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 443612,
+      "confirmed": 443983,
       "date": "2021-12-29",
-      "deaths": 5316
+      "deaths": 5319
     }
   },
   "Vietnam": {
