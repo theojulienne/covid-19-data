@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 744630,
+          "confirmed": 750128,
           "date": "2021-12-30",
-          "deaths": 10224
+          "deaths": 10226
         }
       },
       "Quebec": {
@@ -1141,13 +1141,6 @@
   },
   "Pakistan": {
     "subseries": {
-      "Khyber Pakhtunkhwa": {
-        "live": {
-          "confirmed": 181334,
-          "date": "2021-12-30",
-          "deaths": 5927
-        }
-      },
       "Punjab": {
         "live": {
           "confirmed": 444862,
@@ -1448,9 +1441,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9404053,
+      "confirmed": 9443734,
       "date": "2021-12-30",
-      "deaths": 82059
+      "deaths": 82198
     }
   },
   "US": {
@@ -1471,9 +1464,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1891930,
+          "confirmed": 2077144,
           "date": "2021-12-30",
-          "deaths": 15576
+          "deaths": 41083
         }
       },
       "Illinois": {
@@ -1541,9 +1534,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 225040,
+          "confirmed": 226602,
           "date": "2021-12-30",
-          "deaths": 1312
+          "deaths": 1314
         }
       },
       "Washington": {
@@ -1626,30 +1619,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 10683026,
+          "confirmed": 10828575,
           "date": "2021-12-30",
-          "deaths": 128724
+          "deaths": 129041
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 390153,
+          "confirmed": 394854,
           "date": "2021-12-30",
-          "deaths": 2976
+          "deaths": 2979
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 886065,
+          "confirmed": 902889,
           "date": "2021-12-30",
-          "deaths": 9836
+          "deaths": 9845
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 600682,
+          "confirmed": 621732,
           "date": "2021-12-30",
-          "deaths": 6553
+          "deaths": 6556
         }
       }
     }
