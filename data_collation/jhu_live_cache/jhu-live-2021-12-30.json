@@ -317,9 +317,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 530276,
+      "confirmed": 530645,
       "date": "2021-12-30",
-      "deaths": 19262
+      "deaths": 19265
     }
   },
   "Canada": {
@@ -340,7 +340,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 740988,
+          "confirmed": 741235,
           "date": "2021-12-30",
           "deaths": 10224
         }
@@ -555,16 +555,16 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 277201,
+          "confirmed": 278847,
           "date": "2021-12-30",
-          "deaths": 4619
+          "deaths": 4632
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 649026,
+          "confirmed": 651463,
           "date": "2021-12-30",
-          "deaths": 12822
+          "deaths": 12879
         }
       },
       "Sachsen-Anhalt": {
@@ -1062,51 +1062,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 354067,
+          "confirmed": 355272,
           "date": "2021-12-30",
-          "deaths": 2561
+          "deaths": 2573
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 228404,
+          "confirmed": 229222,
           "date": "2021-12-30",
-          "deaths": 2051
+          "deaths": 2052
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 475213,
+          "confirmed": 477454,
           "date": "2021-12-30",
-          "deaths": 3525
+          "deaths": 3530
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 510758,
+          "confirmed": 513750,
           "date": "2021-12-30",
-          "deaths": 3086
+          "deaths": 3089
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 199859,
+          "confirmed": 200758,
           "date": "2021-12-30",
-          "deaths": 1331
+          "deaths": 1334
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 243776,
+          "confirmed": 244627,
           "date": "2021-12-30",
-          "deaths": 1455
+          "deaths": 1460
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 704291,
+          "confirmed": 707903,
           "date": "2021-12-30",
-          "deaths": 4846
+          "deaths": 4850
         }
       }
     }
@@ -1120,9 +1120,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 224134,
+      "confirmed": 224507,
       "date": "2021-12-30",
-      "deaths": 7935
+      "deaths": 7953
     }
   },
   "Norway": {
@@ -1293,9 +1293,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1295198,
+      "confirmed": 1297147,
       "date": "2021-12-30",
-      "deaths": 12665
+      "deaths": 12688
     }
   },
   "Singapore": {
@@ -1427,9 +1427,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 1294592,
+      "confirmed": 1313628,
       "date": "2021-12-30",
-      "deaths": 12194
+      "deaths": 12196
     }
   },
   "Thailand": {
@@ -1513,9 +1513,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1945418,
+          "confirmed": 1976808,
           "date": "2021-12-30",
-          "deaths": 40488
+          "deaths": 40530
         }
       },
       "Ohio": {
@@ -1527,9 +1527,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 220803,
+          "confirmed": 221806,
           "date": "2021-12-30",
-          "deaths": 4249
+          "deaths": 4254
         }
       },
       "Texas": {
