@@ -585,9 +585,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1134713,
+      "confirmed": 1170293,
       "date": "2021-12-30",
-      "deaths": 20636
+      "deaths": 20708
     }
   },
   "Guatemala": {
@@ -875,14 +875,14 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 203660,
+          "confirmed": 203712,
           "date": "2021-12-30",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382956,
+          "confirmed": 383020,
           "date": "2021-12-30",
           "deaths": 3175
         }
@@ -1046,9 +1046,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 959098,
+      "confirmed": 961058,
       "date": "2021-12-30",
-      "deaths": 14842
+      "deaths": 14844
     }
   },
   "Nepal": {
@@ -1205,9 +1205,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1330158,
+      "confirmed": 1358817,
       "date": "2021-12-30",
-      "deaths": 18921
+      "deaths": 18937
     }
   },
   "Qatar": {
