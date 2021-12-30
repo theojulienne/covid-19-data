@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5514207,
+      "confirmed": 5556239,
       "date": "2021-12-29",
-      "deaths": 117085
+      "deaths": 117111
     }
   },
   "Armenia": {
@@ -362,42 +362,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 786101,
+          "confirmed": 787965,
           "date": "2021-12-29",
           "deaths": 16879
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 342768,
+          "confirmed": 343008,
           "date": "2021-12-29",
           "deaths": 9749
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1476082,
+          "confirmed": 1477623,
           "date": "2021-12-29",
           "deaths": 27707
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 267571,
+          "confirmed": 267671,
           "date": "2021-12-29",
           "deaths": 6859
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 234960,
+          "confirmed": 235079,
           "date": "2021-12-29",
           "deaths": 7517
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 424273,
+          "confirmed": 425860,
           "date": "2021-12-29",
           "deaths": 13315
         }
@@ -1485,9 +1485,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 201332,
+          "confirmed": 204638,
           "date": "2021-12-29",
-          "deaths": 4109
+          "deaths": 4117
         }
       },
       "Michigan": {
