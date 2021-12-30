@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 580690,
+      "confirmed": 585624,
       "date": "2021-12-30",
-      "deaths": 19576
+      "deaths": 19622
     }
   },
   "Bosnia and Herzegovina": {
@@ -326,9 +326,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 235658,
+          "confirmed": 246671,
           "date": "2021-12-30",
-          "deaths": 2414
+          "deaths": 2419
         }
       },
       "Ontario": {
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 620938,
+      "confirmed": 625967,
       "date": "2021-12-30",
-      "deaths": 5382
+      "deaths": 5455
     }
   },
   "Kuwait": {
@@ -940,9 +940,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 715950,
+      "confirmed": 719103,
       "date": "2021-12-30",
-      "deaths": 9072
+      "deaths": 9087
     }
   },
   "Libya": {
@@ -1113,9 +1113,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 239019,
+      "confirmed": 240387,
       "date": "2021-12-30",
-      "deaths": 3027
+      "deaths": 3030
     }
   },
   "North Macedonia": {
@@ -1127,7 +1127,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 382789,
+      "confirmed": 387196,
       "date": "2021-12-30",
       "deaths": 1305
     }
@@ -1513,9 +1513,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1934968,
+          "confirmed": 1945418,
           "date": "2021-12-30",
-          "deaths": 40396
+          "deaths": 40488
         }
       },
       "Ohio": {
@@ -1656,9 +1656,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 408894,
+      "confirmed": 410311,
       "date": "2021-12-30",
-      "deaths": 6167
+      "deaths": 6168
     }
   },
   "Uzbekistan": {
