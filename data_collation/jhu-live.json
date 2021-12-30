@@ -124,9 +124,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 289676,
+      "confirmed": 290471,
       "date": "2021-12-30",
-      "deaths": 13397
+      "deaths": 13428
     }
   },
   "Botswana": {
@@ -441,9 +441,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 762299,
+      "confirmed": 783702,
       "date": "2021-12-30",
-      "deaths": 3247
+      "deaths": 3256
     }
   },
   "Dominican Republic": {
@@ -513,7 +513,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1323008,
+          "confirmed": 1323082,
           "date": "2021-12-30",
           "deaths": 19607
         }
@@ -569,9 +569,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 223785,
+          "confirmed": 225074,
           "date": "2021-12-30",
-          "deaths": 4250
+          "deaths": 4268
         }
       },
       "Thuringen": {
@@ -778,16 +778,16 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6190762,
+      "confirmed": 6192698,
       "date": "2021-12-30",
-      "deaths": 131527
+      "deaths": 131572
     }
   },
   "Iraq": {
     "live": {
-      "confirmed": 2093136,
+      "confirmed": 2093436,
       "date": "2021-12-30",
-      "deaths": 24151
+      "deaths": 24154
     }
   },
   "Ireland": {
@@ -905,9 +905,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 288951,
+      "confirmed": 292237,
       "date": "2021-12-30",
-      "deaths": 5372
+      "deaths": 5376
     }
   },
   "Korea, South": {
@@ -1404,23 +1404,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 189147,
+          "confirmed": 191383,
           "date": "2021-12-30",
           "deaths": 1829
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 317191,
+          "confirmed": 320190,
           "date": "2021-12-30",
-          "deaths": 4558
+          "deaths": 4568
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 221677,
+          "confirmed": 222903,
           "date": "2021-12-30",
-          "deaths": 2486
+          "deaths": 2484
         }
       }
     }
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1294592,
       "date": "2021-12-30",
-      "deaths": 12186
+      "deaths": 12194
     }
   },
   "Thailand": {
