@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 410445,
+      "confirmed": 415443,
       "date": "2021-12-30",
-      "deaths": 6916
+      "deaths": 6926
     }
   },
   "Finland": {
@@ -792,7 +792,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1379165,
+      "confirmed": 1380046,
       "date": "2021-12-30",
       "deaths": 8243
     }
@@ -933,9 +933,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 719103,
+      "confirmed": 723640,
       "date": "2021-12-30",
-      "deaths": 9087
+      "deaths": 9102
     }
   },
   "Libya": {
@@ -1300,9 +1300,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1363478,
+      "confirmed": 1367361,
       "date": "2021-12-30",
-      "deaths": 16554
+      "deaths": 16598
     }
   },
   "Slovenia": {
