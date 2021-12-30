@@ -1663,7 +1663,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 198626,
+      "confirmed": 198769,
       "date": "2021-12-30",
       "deaths": 1485
     }
@@ -1698,9 +1698,9 @@
   },
   "Zimbabwe": {
     "live": {
-      "confirmed": 207548,
+      "confirmed": 209655,
       "date": "2021-12-30",
-      "deaths": 4940
+      "deaths": 4967
     }
   }
 }
