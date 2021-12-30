@@ -50,9 +50,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1584518,
+      "confirmed": 1585027,
       "date": "2021-12-30",
-      "deaths": 28063
+      "deaths": 28070
     }
   },
   "Belarus": {
@@ -420,9 +420,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 703720,
+      "confirmed": 709678,
       "date": "2021-12-30",
-      "deaths": 12466
+      "deaths": 12493
     }
   },
   "Cuba": {
@@ -1053,7 +1053,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 827972,
+      "confirmed": 828207,
       "date": "2021-12-30",
       "deaths": 11590
     }
@@ -1191,9 +1191,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2839790,
+      "confirmed": 2841260,
       "date": "2021-12-30",
-      "deaths": 51241
+      "deaths": 51373
     }
   },
   "Poland": {
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1805726,
+      "confirmed": 1807223,
       "date": "2021-12-30",
-      "deaths": 58677
+      "deaths": 58714
     }
   },
   "Russia": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1294592,
       "date": "2021-12-30",
-      "deaths": 12183
+      "deaths": 12186
     }
   },
   "Thailand": {
