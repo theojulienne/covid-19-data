@@ -506,79 +506,79 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1012194,
+          "confirmed": 1012227,
           "date": "2021-12-30",
-          "deaths": 12956
+          "deaths": 12955
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1318057,
+          "confirmed": 1323008,
           "date": "2021-12-30",
-          "deaths": 19562
+          "deaths": 19607
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 325813,
+          "confirmed": 327754,
           "date": "2021-12-30",
-          "deaths": 4002
+          "deaths": 4010
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 239301,
+          "confirmed": 241542,
           "date": "2021-12-30",
-          "deaths": 4655
+          "deaths": 4675
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 474490,
+          "confirmed": 477279,
           "date": "2021-12-30",
-          "deaths": 8532
+          "deaths": 8548
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 436868,
+          "confirmed": 440381,
           "date": "2021-12-30",
-          "deaths": 6800
+          "deaths": 6814
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1365496,
+          "confirmed": 1372712,
           "date": "2021-12-30",
-          "deaths": 20226
+          "deaths": 20282
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 277172,
+          "confirmed": 277201,
           "date": "2021-12-30",
           "deaths": 4619
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 648847,
+          "confirmed": 649026,
           "date": "2021-12-30",
-          "deaths": 12803
+          "deaths": 12822
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 223782,
+          "confirmed": 223785,
           "date": "2021-12-30",
           "deaths": 4250
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 285587,
+          "confirmed": 287974,
           "date": "2021-12-30",
-          "deaths": 5808
+          "deaths": 5840
         }
       }
     }
@@ -1039,9 +1039,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 388973,
+      "confirmed": 389089,
       "date": "2021-12-30",
-      "deaths": 2057
+      "deaths": 2058
     }
   },
   "Morocco": {
@@ -1166,9 +1166,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 489695,
+      "confirmed": 491043,
       "date": "2021-12-30",
-      "deaths": 7421
+      "deaths": 7425
     }
   },
   "Paraguay": {
