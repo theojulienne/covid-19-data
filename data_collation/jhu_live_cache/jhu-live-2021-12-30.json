@@ -66,42 +66,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 298242,
+          "confirmed": 299741,
           "date": "2021-12-30",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 242726,
+          "confirmed": 244707,
           "date": "2021-12-30",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 255995,
+          "confirmed": 257625,
+          "date": "2021-12-30",
+          "deaths": 0
+        }
+      },
+      "Flemish Brabant": {
+        "live": {
+          "confirmed": 181155,
           "date": "2021-12-30",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 247927,
+          "confirmed": 249398,
           "date": "2021-12-30",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 222404,
+          "confirmed": 223730,
           "date": "2021-12-30",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 212600,
+          "confirmed": 213615,
           "date": "2021-12-30",
           "deaths": 0
         }
@@ -641,13 +648,6 @@
           "deaths": 25107
         }
       },
-      "Goa": {
-        "live": {
-          "confirmed": 180229,
-          "date": "2021-12-30",
-          "deaths": 3520
-        }
-      },
       "Gujarat": {
         "live": {
           "confirmed": 829957,
@@ -898,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1071035,
+      "confirmed": 1071515,
       "date": "2021-12-30",
       "deaths": 18211
     }
@@ -1143,21 +1143,21 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 181285,
+          "confirmed": 181334,
           "date": "2021-12-30",
-          "deaths": 5924
+          "deaths": 5927
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 444752,
+          "confirmed": 444862,
           "date": "2021-12-30",
           "deaths": 13066
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 481096,
+          "confirmed": 481381,
           "date": "2021-12-30",
           "deaths": 7666
         }
