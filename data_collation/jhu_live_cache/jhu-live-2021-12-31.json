@@ -344,9 +344,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 767151,
+          "confirmed": 773645,
           "date": "2021-12-31",
-          "deaths": 10245
+          "deaths": 10252
         }
       },
       "Quebec": {
