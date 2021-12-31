@@ -61,16 +61,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1585027,
+      "confirmed": 1585539,
       "date": "2021-12-31",
-      "deaths": 28070
+      "deaths": 28072
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 697600,
+      "confirmed": 699110,
       "date": "2021-12-31",
-      "deaths": 5561
+      "deaths": 5578
     }
   },
   "Belgium": {
@@ -128,9 +128,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 290471,
+      "confirmed": 291313,
       "date": "2021-12-31",
-      "deaths": 13428
+      "deaths": 13442
     }
   },
   "Botswana": {
@@ -445,9 +445,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 783702,
+      "confirmed": 802397,
       "date": "2021-12-31",
-      "deaths": 3256
+      "deaths": 3267
     }
   },
   "Dominican Republic": {
@@ -517,7 +517,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1328017,
+          "confirmed": 1328035,
           "date": "2021-12-31",
           "deaths": 19678
         }
@@ -789,9 +789,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2093436,
+      "confirmed": 2093740,
       "date": "2021-12-31",
-      "deaths": 24154
+      "deaths": 24158
     }
   },
   "Ireland": {
@@ -803,7 +803,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1381677,
+      "confirmed": 1383932,
       "date": "2021-12-31",
       "deaths": 8243
     }
@@ -1195,9 +1195,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2841260,
+      "confirmed": 2843979,
       "date": "2021-12-31",
-      "deaths": 51373
+      "deaths": 51504
     }
   },
   "Poland": {
@@ -1399,9 +1399,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 586746,
+      "confirmed": 587245,
       "date": "2021-12-31",
-      "deaths": 14962
+      "deaths": 14979
     }
   },
   "Sweden": {
@@ -1688,9 +1688,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 249193,
+      "confirmed": 254274,
       "date": "2021-12-31",
-      "deaths": 3730
+      "deaths": 3734
     }
   },
   "Zimbabwe": {
