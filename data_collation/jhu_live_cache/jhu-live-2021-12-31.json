@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 218037,
+      "confirmed": 218432,
       "date": "2021-12-31",
-      "deaths": 6271
+      "deaths": 6276
     }
   },
   "Argentina": {
@@ -344,9 +344,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 764321,
+          "confirmed": 766359,
           "date": "2021-12-31",
-          "deaths": 10243
+          "deaths": 10245
         }
       },
       "Quebec": {
@@ -510,9 +510,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1017426,
+          "confirmed": 1021816,
           "date": "2021-12-31",
-          "deaths": 12992
+          "deaths": 13014
         }
       },
       "Bayern": {
@@ -1468,9 +1468,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3278742,
+          "confirmed": 3293178,
           "date": "2021-12-31",
-          "deaths": 49511
+          "deaths": 49536
         }
       },
       "Florida": {
