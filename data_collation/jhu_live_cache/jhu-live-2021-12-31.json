@@ -66,42 +66,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 299741,
+          "confirmed": 301358,
           "date": "2021-12-31",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 244707,
+          "confirmed": 246849,
           "date": "2021-12-31",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 257625,
+          "confirmed": 259270,
+          "date": "2021-12-31",
+          "deaths": 0
+        }
+      },
+      "Flemish Brabant": {
+        "live": {
+          "confirmed": 182864,
           "date": "2021-12-31",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 249398,
+          "confirmed": 251067,
           "date": "2021-12-31",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 223730,
+          "confirmed": 225058,
           "date": "2021-12-31",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 213615,
+          "confirmed": 214638,
           "date": "2021-12-31",
           "deaths": 0
         }
@@ -891,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1071515,
+      "confirmed": 1072037,
       "date": "2021-12-31",
       "deaths": 18211
     }
@@ -1143,16 +1150,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 444862,
+          "confirmed": 444977,
           "date": "2021-12-31",
           "deaths": 13066
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 481381,
+          "confirmed": 481689,
           "date": "2021-12-31",
-          "deaths": 7666
+          "deaths": 7670
         }
       }
     }
@@ -1457,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3258573,
+          "confirmed": 3278742,
           "date": "2021-12-31",
-          "deaths": 49487
+          "deaths": 49511
         }
       },
       "Florida": {
@@ -1598,13 +1605,6 @@
           "date": "2021-12-31",
           "deaths": 5550
         }
-      },
-      "Zaporizhia Oblast": {
-        "live": {
-          "confirmed": 181982,
-          "date": "2021-12-31",
-          "deaths": 5244
-        }
       }
     }
   },
@@ -1663,16 +1663,16 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 444186,
+      "confirmed": 444411,
       "date": "2021-12-31",
-      "deaths": 5321
+      "deaths": 5324
     }
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1694874,
+      "confirmed": 1714742,
       "date": "2021-12-31",
-      "deaths": 31877
+      "deaths": 32168
     }
   },
   "West Bank and Gaza": {
