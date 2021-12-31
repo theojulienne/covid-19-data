@@ -487,9 +487,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 248958,
+      "confirmed": 260292,
       "date": "2021-12-31",
-      "deaths": 1554
+      "deaths": 1564
     }
   },
   "France": {
@@ -559,9 +559,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 278879,
+          "confirmed": 279671,
           "date": "2021-12-31",
-          "deaths": 4632
+          "deaths": 4638
         }
       },
       "Sachsen": {
@@ -775,9 +775,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4262540,
+      "confirmed": 4262720,
       "date": "2021-12-31",
-      "deaths": 144088
+      "deaths": 144094
     }
   },
   "Iran": {
@@ -937,9 +937,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 275517,
+      "confirmed": 276674,
       "date": "2021-12-31",
-      "deaths": 4561
+      "deaths": 4570
     }
   },
   "Lebanon": {
@@ -1064,9 +1064,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 828207,
+      "confirmed": 828431,
       "date": "2021-12-31",
-      "deaths": 11590
+      "deaths": 11594
     }
   },
   "Netherlands": {
@@ -1216,9 +1216,9 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 249787,
+      "confirmed": 250528,
       "date": "2021-12-31",
-      "deaths": 617
+      "deaths": 618
     }
   },
   "Romania": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 1313628,
       "date": "2021-12-31",
-      "deaths": 12212
+      "deaths": 12216
     }
   },
   "Thailand": {
@@ -1674,9 +1674,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1714742,
+      "confirmed": 1731257,
       "date": "2021-12-31",
-      "deaths": 32168
+      "deaths": 32394
     }
   },
   "West Bank and Gaza": {
