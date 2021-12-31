@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 208899,
+      "confirmed": 210224,
       "date": "2021-12-31",
-      "deaths": 3212
+      "deaths": 3217
     }
   },
   "Algeria": {
@@ -344,16 +344,16 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 766359,
+          "confirmed": 767151,
           "date": "2021-12-31",
           "deaths": 10245
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 586606,
+          "confirmed": 603067,
           "date": "2021-12-31",
-          "deaths": 11711
+          "deaths": 11724
         }
       }
     }
@@ -494,9 +494,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 9529614,
+      "confirmed": 9761814,
       "date": "2021-12-31",
-      "deaths": 121012
+      "deaths": 121201
     }
   },
   "Georgia": {
@@ -596,9 +596,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 627562,
+      "confirmed": 628359,
       "date": "2021-12-31",
-      "deaths": 16106
+      "deaths": 16107
     }
   },
   "Honduras": {
@@ -909,9 +909,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 292237,
+      "confirmed": 295028,
       "date": "2021-12-31",
-      "deaths": 5376
+      "deaths": 5378
     }
   },
   "Korea, South": {
@@ -967,35 +967,35 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 244558,
+          "confirmed": 244940,
           "date": "2021-12-31",
-          "deaths": 3859
+          "deaths": 3860
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 240301,
+          "confirmed": 240532,
           "date": "2021-12-31",
-          "deaths": 2782
+          "deaths": 2783
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252286,
+          "confirmed": 252300,
           "date": "2021-12-31",
           "deaths": 1615
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 785681,
+          "confirmed": 786630,
           "date": "2021-12-31",
-          "deaths": 9944
+          "deaths": 9954
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 210645,
+          "confirmed": 210850,
           "date": "2021-12-31",
           "deaths": 2673
         }
@@ -1325,9 +1325,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3446532,
+      "confirmed": 3458286,
       "date": "2021-12-31",
-      "deaths": 91061
+      "deaths": 91145
     }
   },
   "Spain": {
@@ -1524,9 +1524,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 430755,
+          "confirmed": 436343,
           "date": "2021-12-31",
-          "deaths": 4726
+          "deaths": 4783
         }
       },
       "Pennsylvania": {
@@ -1559,9 +1559,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 184125,
+          "confirmed": 186450,
           "date": "2021-12-31",
-          "deaths": 1809
+          "deaths": 1811
         }
       }
     }
