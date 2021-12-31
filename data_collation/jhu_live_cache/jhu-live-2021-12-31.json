@@ -54,7 +54,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 281406,
+      "confirmed": 282062,
       "date": "2021-12-31",
       "deaths": 1394
     }
@@ -373,42 +373,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 790740,
+          "confirmed": 793448,
           "date": "2021-12-31",
           "deaths": 16894
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 343360,
+          "confirmed": 343876,
           "date": "2021-12-31",
           "deaths": 9750
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1479622,
+          "confirmed": 1482495,
           "date": "2021-12-31",
           "deaths": 27721
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 267776,
+          "confirmed": 268029,
           "date": "2021-12-31",
           "deaths": 6859
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 235201,
+          "confirmed": 235387,
           "date": "2021-12-31",
           "deaths": 7522
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 427826,
+          "confirmed": 430076,
           "date": "2021-12-31",
           "deaths": 13324
         }
@@ -480,9 +480,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 415443,
+      "confirmed": 420342,
       "date": "2021-12-31",
-      "deaths": 6926
+      "deaths": 6937
     }
   },
   "Finland": {
@@ -923,7 +923,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 416631,
+      "confirmed": 417135,
       "date": "2021-12-31",
       "deaths": 2468
     }
@@ -1517,9 +1517,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2031924,
+          "confirmed": 2052384,
           "date": "2021-12-31",
-          "deaths": 40572
+          "deaths": 40582
         }
       },
       "Ohio": {
