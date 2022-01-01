@@ -886,14 +886,14 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 203790,
+          "confirmed": 203860,
           "date": "2022-01-01",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 383078,
+          "confirmed": 383157,
           "date": "2022-01-01",
           "deaths": 3175
         }
@@ -1216,9 +1216,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1389646,
+      "confirmed": 1412936,
       "date": "2022-01-01",
-      "deaths": 18955
+      "deaths": 18976
     }
   },
   "Qatar": {
@@ -1406,9 +1406,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 587245,
+      "confirmed": 587596,
       "date": "2022-01-01",
-      "deaths": 14979
+      "deaths": 14997
     }
   },
   "Sweden": {
