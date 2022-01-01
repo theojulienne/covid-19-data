@@ -54,7 +54,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 282062,
+      "confirmed": 282677,
       "date": "2022-01-01",
       "deaths": 1394
     }
@@ -810,7 +810,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1389240,
+      "confirmed": 1390053,
       "date": "2022-01-01",
       "deaths": 8244
     }
@@ -1526,7 +1526,7 @@
         "live": {
           "confirmed": 2086662,
           "date": "2022-01-01",
-          "deaths": 40602
+          "deaths": 40617
         }
       },
       "Ohio": {
@@ -1545,7 +1545,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1812296,
+          "confirmed": 1816178,
           "date": "2022-01-01",
           "deaths": 25869
         }
