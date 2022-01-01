@@ -35,13 +35,6 @@
           "date": "2022-01-01",
           "deaths": 663
         }
-      },
-      "Victoria": {
-        "live": {
-          "confirmed": 183976,
-          "date": "2022-01-01",
-          "deaths": 1534
-        }
       }
     }
   },
@@ -84,42 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 301358,
+          "confirmed": 303202,
           "date": "2022-01-01",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 246849,
+          "confirmed": 249566,
           "date": "2022-01-01",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 259270,
+          "confirmed": 260967,
+          "date": "2022-01-01",
+          "deaths": 0
+        }
+      },
+      "Flemish Brabant": {
+        "live": {
+          "confirmed": 184728,
           "date": "2022-01-01",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 251067,
+          "confirmed": 252893,
           "date": "2022-01-01",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 225058,
+          "confirmed": 226576,
           "date": "2022-01-01",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 214638,
+          "confirmed": 215978,
           "date": "2022-01-01",
           "deaths": 0
         }
@@ -909,7 +909,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1072037,
+      "confirmed": 1072518,
       "date": "2022-01-01",
       "deaths": 18211
     }
@@ -1177,9 +1177,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 493707,
+      "confirmed": 495920,
       "date": "2022-01-01",
-      "deaths": 7427
+      "deaths": 7428
     }
   },
   "Paraguay": {
@@ -1311,9 +1311,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 279061,
+      "confirmed": 279405,
       "date": "2022-01-01",
-      "deaths": 827
+      "deaths": 828
     }
   },
   "Slovakia": {
@@ -1702,9 +1702,9 @@
   },
   "Zimbabwe": {
     "live": {
-      "confirmed": 211728,
+      "confirmed": 213258,
       "date": "2022-01-01",
-      "deaths": 4997
+      "deaths": 5004
     }
   }
 }
