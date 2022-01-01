@@ -459,7 +459,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 418778,
+      "confirmed": 419927,
       "date": "2022-01-01",
       "deaths": 4247
     }
@@ -603,9 +603,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 628359,
+      "confirmed": 628589,
       "date": "2022-01-01",
-      "deaths": 16107
+      "deaths": 16108
     }
   },
   "Honduras": {
@@ -930,7 +930,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 417135,
+      "confirmed": 417723,
       "date": "2022-01-01",
       "deaths": 2468
     }
@@ -951,9 +951,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 727930,
+      "confirmed": 731288,
       "date": "2022-01-01",
-      "deaths": 9119
+      "deaths": 9136
     }
   },
   "Libya": {
