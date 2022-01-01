@@ -31,9 +31,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 187504,
+          "confirmed": 210051,
           "date": "2022-01-01",
-          "deaths": 663
+          "deaths": 667
         }
       }
     }
@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 616947,
+      "confirmed": 617311,
       "date": "2022-01-01",
-      "deaths": 8358
+      "deaths": 8365
     }
   },
   "Bahrain": {
@@ -438,9 +438,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 966004,
+      "confirmed": 966473,
       "date": "2022-01-01",
-      "deaths": 8322
+      "deaths": 8323
     }
   },
   "Czechia": {
@@ -810,9 +810,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1383932,
+      "confirmed": 1389240,
       "date": "2022-01-01",
-      "deaths": 8243
+      "deaths": 8244
     }
   },
   "Italy": {
@@ -974,37 +974,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 244940,
+          "confirmed": 245366,
           "date": "2022-01-01",
-          "deaths": 3860
+          "deaths": 3861
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 240532,
+          "confirmed": 240796,
           "date": "2022-01-01",
           "deaths": 2783
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252300,
+          "confirmed": 252324,
           "date": "2022-01-01",
-          "deaths": 1615
+          "deaths": 1616
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 786630,
+          "confirmed": 787416,
           "date": "2022-01-01",
-          "deaths": 9954
+          "deaths": 9958
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 210850,
+          "confirmed": 211041,
           "date": "2022-01-01",
-          "deaths": 2673
+          "deaths": 2680
         }
       }
     }
@@ -1057,9 +1057,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 963092,
+      "confirmed": 965420,
       "date": "2022-01-01",
-      "deaths": 14849
+      "deaths": 14851
     }
   },
   "Mozambique": {
@@ -1223,7 +1223,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 250528,
+      "confirmed": 251361,
       "date": "2022-01-01",
       "deaths": 618
     }
@@ -1630,9 +1630,9 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 10988851,
+          "confirmed": 11151423,
           "date": "2022-01-01",
-          "deaths": 129219
+          "deaths": 129373
         }
       },
       "Northern Ireland": {
