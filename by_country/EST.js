@@ -2137,7 +2137,8 @@ var covid19_dataset_country_est = {
       1918,
       1922,
       1928,
-      1932
+      1932,
+      1938
     ],
     "recovered": [
       0,
