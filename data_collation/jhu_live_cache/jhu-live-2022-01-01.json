@@ -1318,9 +1318,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1371082,
+      "confirmed": 1374354,
       "date": "2022-01-01",
-      "deaths": 16635
+      "deaths": 16665
     }
   },
   "Slovenia": {
@@ -1695,9 +1695,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 254274,
+      "confirmed": 257948,
       "date": "2022-01-01",
-      "deaths": 3734
+      "deaths": 3740
     }
   },
   "Zimbabwe": {
