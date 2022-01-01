@@ -35,6 +35,13 @@
           "date": "2022-01-01",
           "deaths": 663
         }
+      },
+      "Victoria": {
+        "live": {
+          "confirmed": 183976,
+          "date": "2022-01-01",
+          "deaths": 1534
+        }
       }
     }
   },
@@ -337,9 +344,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 251054,
+          "confirmed": 254849,
           "date": "2022-01-01",
-          "deaths": 2420
+          "deaths": 2423
         }
       },
       "Ontario": {
@@ -916,9 +923,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 630838,
+      "confirmed": 635253,
       "date": "2022-01-01",
-      "deaths": 5563
+      "deaths": 5625
     }
   },
   "Kuwait": {
@@ -930,9 +937,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 184633,
+      "confirmed": 184689,
       "date": "2022-01-01",
-      "deaths": 2800
+      "deaths": 2802
     }
   },
   "Latvia": {
@@ -944,9 +951,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 723640,
+      "confirmed": 727930,
       "date": "2022-01-01",
-      "deaths": 9102
+      "deaths": 9119
     }
   },
   "Libya": {
@@ -1036,9 +1043,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 375780,
+      "confirmed": 376155,
       "date": "2022-01-01",
-      "deaths": 9690
+      "deaths": 10275
     }
   },
   "Mongolia": {
@@ -1461,23 +1468,23 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 866014,
+          "confirmed": 870996,
           "date": "2022-01-01",
-          "deaths": 13670
+          "deaths": 13675
         }
       },
       "California": {
         "live": {
-          "confirmed": 3293178,
+          "confirmed": 3320215,
           "date": "2022-01-01",
-          "deaths": 49536
+          "deaths": 49548
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 2077144,
+          "confirmed": 1928266,
           "date": "2022-01-01",
-          "deaths": 41083
+          "deaths": 15576
         }
       },
       "Illinois": {
@@ -1653,9 +1660,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 411658,
+      "confirmed": 413383,
       "date": "2022-01-01",
-      "deaths": 6169
+      "deaths": 6170
     }
   },
   "Uzbekistan": {
@@ -1667,9 +1674,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 444411,
+      "confirmed": 444635,
       "date": "2022-01-01",
-      "deaths": 5324
+      "deaths": 5328
     }
   },
   "Vietnam": {
