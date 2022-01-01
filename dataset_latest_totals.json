@@ -571,17 +571,17 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 1954918,
+        "confirmed": 1978590,
         "deaths": 30185,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1867545,
+        "confirmed": 1876618,
         "deaths": 30065,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2145630,
+        "confirmed": 2192498,
         "deaths": 30328,
         "recovered": 0
       },
@@ -627,7 +627,7 @@
           "deaths": 4
         },
         "Ontario": {
-          "confirmed": 750128,
+          "confirmed": 773645,
           "deaths": 10226
         },
         "Prince Edward Island": {
