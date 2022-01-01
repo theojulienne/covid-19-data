@@ -40,9 +40,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1278619,
+      "confirmed": 1282227,
       "date": "2022-01-01",
-      "deaths": 13733
+      "deaths": 13749
     }
   },
   "Azerbaijan": {
@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 699110,
+      "confirmed": 700421,
       "date": "2022-01-01",
-      "deaths": 5578
+      "deaths": 5594
     }
   },
   "Belgium": {
@@ -789,9 +789,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6194401,
+      "confirmed": 6195403,
       "date": "2022-01-01",
-      "deaths": 131606
+      "deaths": 131639
     }
   },
   "Iraq": {
@@ -1621,9 +1621,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 761937,
+      "confirmed": 764493,
       "date": "2022-01-01",
-      "deaths": 2164
+      "deaths": 2165
     }
   },
   "United Kingdom": {
@@ -1681,9 +1681,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1731257,
+      "confirmed": 1746092,
       "date": "2022-01-01",
-      "deaths": 32394
+      "deaths": 32610
     }
   },
   "West Bank and Gaza": {
