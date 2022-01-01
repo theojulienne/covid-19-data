@@ -480,7 +480,7 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 241408,
+      "confirmed": 242123,
       "date": "2022-01-01",
       "deaths": 1932
     }
@@ -944,9 +944,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 276674,
+      "confirmed": 276841,
       "date": "2022-01-01",
-      "deaths": 4570
+      "deaths": 4577
     }
   },
   "Lebanon": {
@@ -1209,9 +1209,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 4108215,
+      "confirmed": 4120248,
       "date": "2022-01-01",
-      "deaths": 97054
+      "deaths": 97559
     }
   },
   "Portugal": {
@@ -1239,67 +1239,67 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2030744,
+          "confirmed": 2033216,
           "date": "2022-01-01",
-          "deaths": 36771
+          "deaths": 36838
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 641444,
+          "confirmed": 642715,
           "date": "2022-01-01",
-          "deaths": 12105
+          "deaths": 12151
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 231401,
+          "confirmed": 231713,
           "date": "2022-01-01",
-          "deaths": 9798
+          "deaths": 9824
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 193927,
+          "confirmed": 194305,
           "date": "2022-01-01",
-          "deaths": 9611
+          "deaths": 9631
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 851908,
+          "confirmed": 853442,
           "date": "2022-01-01",
-          "deaths": 28036
+          "deaths": 28092
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 200012,
+          "confirmed": 200324,
           "date": "2022-01-01",
-          "deaths": 6272
+          "deaths": 6290
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 198630,
+          "confirmed": 199129,
           "date": "2022-01-01",
-          "deaths": 9406
+          "deaths": 9432
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 194134,
+          "confirmed": 194396,
           "date": "2022-01-01",
-          "deaths": 6897
+          "deaths": 6923
         }
       }
     }
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 556236,
+      "confirmed": 557082,
       "date": "2022-01-01",
-      "deaths": 8877
+      "deaths": 8878
     }
   },
   "Serbia": {
