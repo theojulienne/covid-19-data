@@ -351,9 +351,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 773832,
+          "confirmed": 776257,
           "date": "2022-01-02",
-          "deaths": 10252
+          "deaths": 10254
         }
       },
       "Quebec": {
@@ -819,65 +819,65 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 597150,
+          "confirmed": 602342,
           "date": "2022-01-02",
-          "deaths": 8471
+          "deaths": 8474
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 549175,
+          "confirmed": 558263,
           "date": "2022-01-02",
-          "deaths": 14231
+          "deaths": 14239
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 517619,
+          "confirmed": 525612,
           "date": "2022-01-02",
-          "deaths": 9275
+          "deaths": 9290
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 1254634,
+          "confirmed": 1265059,
           "date": "2022-01-02",
-          "deaths": 35095
+          "deaths": 35140
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 502219,
+          "confirmed": 504838,
           "date": "2022-01-02",
-          "deaths": 12059
+          "deaths": 12065
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 312157,
+          "confirmed": 315608,
           "date": "2022-01-02",
           "deaths": 6987
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 378368,
+          "confirmed": 382332,
           "date": "2022-01-02",
-          "deaths": 7514
+          "deaths": 7527
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 396593,
+          "confirmed": 402960,
           "date": "2022-01-02",
-          "deaths": 7562
+          "deaths": 7568
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 659993,
+          "confirmed": 663809,
           "date": "2022-01-02",
-          "deaths": 12395
+          "deaths": 12408
         }
       }
     }
@@ -1630,9 +1630,9 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 11151423,
+          "confirmed": 11272332,
           "date": "2022-01-02",
-          "deaths": 129373
+          "deaths": 129432
         }
       },
       "Northern Ireland": {
@@ -1651,9 +1651,9 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 632125,
+          "confirmed": 646159,
           "date": "2022-01-02",
-          "deaths": 6567
+          "deaths": 6581
         }
       }
     }
