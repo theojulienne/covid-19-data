@@ -38,7 +38,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 191148,
+          "confirmed": 190999,
           "date": "2022-01-02",
           "deaths": 1537
         }
@@ -358,9 +358,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 620189,
+          "confirmed": 636034,
           "date": "2022-01-02",
-          "deaths": 11732
+          "deaths": 11745
         }
       }
     }
@@ -487,9 +487,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 424340,
+      "confirmed": 426656,
       "date": "2022-01-02",
-      "deaths": 6947
+      "deaths": 6958
     }
   },
   "Finland": {
@@ -951,9 +951,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 731288,
+      "confirmed": 732733,
       "date": "2022-01-02",
-      "deaths": 9136
+      "deaths": 9154
     }
   },
   "Libya": {
@@ -1531,7 +1531,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 436343,
+          "confirmed": 446855,
           "date": "2022-01-02",
           "deaths": 4783
         }
