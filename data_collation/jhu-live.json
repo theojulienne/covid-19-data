@@ -22,9 +22,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 344980,
+      "confirmed": 345007,
       "date": "2022-01-02",
-      "deaths": 7975
+      "deaths": 7977
     }
   },
   "Australia": {
@@ -937,9 +937,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 184748,
+      "confirmed": 184786,
       "date": "2022-01-02",
-      "deaths": 2802
+      "deaths": 2804
     }
   },
   "Latvia": {
@@ -1667,7 +1667,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 199030,
+      "confirmed": 199118,
       "date": "2022-01-02",
       "deaths": 1485
     }
