@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 210224,
+      "confirmed": 210885,
       "date": "2022-01-02",
-      "deaths": 3217
+      "deaths": 3220
     }
   },
   "Algeria": {
@@ -501,9 +501,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 9980940,
+      "confirmed": 10039372,
       "date": "2022-01-02",
-      "deaths": 121311
+      "deaths": 121402
     }
   },
   "Georgia": {
@@ -930,7 +930,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 417723,
+      "confirmed": 418332,
       "date": "2022-01-02",
       "deaths": 2468
     }
@@ -1043,9 +1043,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 376434,
+      "confirmed": 376602,
       "date": "2022-01-02",
-      "deaths": 10284
+      "deaths": 10290
     }
   },
   "Mongolia": {
@@ -1138,9 +1138,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 225484,
+      "confirmed": 225730,
       "date": "2022-01-02",
-      "deaths": 7969
+      "deaths": 7975
     }
   },
   "Norway": {
@@ -1332,9 +1332,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3468079,
+      "confirmed": 3472436,
       "date": "2022-01-02",
-      "deaths": 91198
+      "deaths": 91228
     }
   },
   "Spain": {
@@ -1468,7 +1468,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 877142,
+          "confirmed": 877144,
           "date": "2022-01-02",
           "deaths": 13737
         }
