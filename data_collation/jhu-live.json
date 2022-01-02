@@ -789,9 +789,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6195403,
+      "confirmed": 6196913,
       "date": "2022-01-02",
-      "deaths": 131639
+      "deaths": 131680
     }
   },
   "Iraq": {
@@ -1202,9 +1202,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2847486,
+      "confirmed": 2851931,
       "date": "2022-01-02",
-      "deaths": 51545
+      "deaths": 51570
     }
   },
   "Poland": {
@@ -1621,9 +1621,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 764493,
+      "confirmed": 767093,
       "date": "2022-01-02",
-      "deaths": 2165
+      "deaths": 2168
     }
   },
   "United Kingdom": {
