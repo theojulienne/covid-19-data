@@ -517,37 +517,37 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1021855,
+          "confirmed": 1023803,
           "date": "2022-01-02",
-          "deaths": 13014
+          "deaths": 13020
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1331261,
+          "confirmed": 1333167,
           "date": "2022-01-02",
-          "deaths": 19701
+          "deaths": 19703
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 331233,
+          "confirmed": 331306,
           "date": "2022-01-02",
           "deaths": 4016
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 244380,
+          "confirmed": 245058,
           "date": "2022-01-02",
-          "deaths": 4682
+          "deaths": 4687
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 481831,
+          "confirmed": 482839,
           "date": "2022-01-02",
-          "deaths": 8564
+          "deaths": 8566
         }
       },
       "Niedersachsen": {
@@ -559,37 +559,37 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1386725,
+          "confirmed": 1389292,
           "date": "2022-01-02",
-          "deaths": 20331
+          "deaths": 20348
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 279988,
+          "confirmed": 280003,
           "date": "2022-01-02",
           "deaths": 4638
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 654950,
+          "confirmed": 654956,
           "date": "2022-01-02",
-          "deaths": 12979
+          "deaths": 12983
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 225963,
+          "confirmed": 226359,
           "date": "2022-01-02",
           "deaths": 4277
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 290772,
+          "confirmed": 291061,
           "date": "2022-01-02",
-          "deaths": 5886
+          "deaths": 5887
         }
       }
     }
@@ -1177,9 +1177,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 495920,
+      "confirmed": 497808,
       "date": "2022-01-02",
-      "deaths": 7428
+      "deaths": 7430
     }
   },
   "Paraguay": {
