@@ -54,9 +54,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 617311,
+      "confirmed": 617679,
       "date": "2022-01-02",
-      "deaths": 8365
+      "deaths": 8375
     }
   },
   "Bahrain": {
@@ -68,9 +68,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1585909,
+      "confirmed": 1586466,
       "date": "2022-01-02",
-      "deaths": 28076
+      "deaths": 28077
     }
   },
   "Belarus": {
@@ -328,9 +328,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 530946,
+      "confirmed": 531025,
       "date": "2022-01-02",
-      "deaths": 19272
+      "deaths": 19274
     }
   },
   "Canada": {
@@ -452,9 +452,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 823282,
+      "confirmed": 831236,
       "date": "2022-01-02",
-      "deaths": 3272
+      "deaths": 3287
     }
   },
   "Dominican Republic": {
@@ -573,9 +573,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 654956,
+          "confirmed": 655757,
           "date": "2022-01-02",
-          "deaths": 12983
+          "deaths": 12987
         }
       },
       "Sachsen-Anhalt": {
@@ -1526,7 +1526,7 @@
         "live": {
           "confirmed": 2086662,
           "date": "2022-01-02",
-          "deaths": 40617
+          "deaths": 40663
         }
       },
       "Ohio": {
