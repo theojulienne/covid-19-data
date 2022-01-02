@@ -886,14 +886,14 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 203860,
+          "confirmed": 203917,
           "date": "2022-01-02",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 383157,
+          "confirmed": 383241,
           "date": "2022-01-02",
           "deaths": 3175
         }
@@ -974,37 +974,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 245366,
+          "confirmed": 245773,
           "date": "2022-01-02",
-          "deaths": 3861
+          "deaths": 3864
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 240796,
+          "confirmed": 240961,
           "date": "2022-01-02",
-          "deaths": 2783
+          "deaths": 2785
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252324,
+          "confirmed": 252341,
           "date": "2022-01-02",
           "deaths": 1616
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 787416,
+          "confirmed": 788150,
           "date": "2022-01-02",
-          "deaths": 9958
+          "deaths": 9963
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 211041,
+          "confirmed": 211176,
           "date": "2022-01-02",
-          "deaths": 2680
+          "deaths": 2681
         }
       }
     }
@@ -1223,7 +1223,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 251361,
+      "confirmed": 252359,
       "date": "2022-01-02",
       "deaths": 618
     }
@@ -1311,7 +1311,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 279861,
+      "confirmed": 280290,
       "date": "2022-01-02",
       "deaths": 829
     }
@@ -1406,9 +1406,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 587596,
+      "confirmed": 587935,
       "date": "2022-01-02",
-      "deaths": 14997
+      "deaths": 15019
     }
   },
   "Sweden": {
