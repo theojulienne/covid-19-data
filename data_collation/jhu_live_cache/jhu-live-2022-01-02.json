@@ -796,9 +796,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2093891,
+      "confirmed": 2094097,
       "date": "2022-01-02",
-      "deaths": 24163
+      "deaths": 24167
     }
   },
   "Ireland": {
@@ -1080,49 +1080,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 358686,
+          "confirmed": 360460,
           "date": "2022-01-02",
           "deaths": 2575
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 230880,
+          "confirmed": 231680,
           "date": "2022-01-02",
           "deaths": 2060
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 482027,
+          "confirmed": 484462,
           "date": "2022-01-02",
           "deaths": 3537
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 520137,
+          "confirmed": 523877,
           "date": "2022-01-02",
-          "deaths": 3106
+          "deaths": 3110
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 202714,
+          "confirmed": 203633,
           "date": "2022-01-02",
-          "deaths": 1338
+          "deaths": 1339
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 247982,
+          "confirmed": 249215,
           "date": "2022-01-02",
-          "deaths": 1463
+          "deaths": 1464
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 714235,
+          "confirmed": 718452,
           "date": "2022-01-02",
           "deaths": 4857
         }
@@ -1216,9 +1216,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1412936,
+      "confirmed": 1424016,
       "date": "2022-01-02",
-      "deaths": 18976
+      "deaths": 18990
     }
   },
   "Qatar": {
@@ -1304,9 +1304,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1300949,
+      "confirmed": 1302856,
       "date": "2022-01-02",
-      "deaths": 12739
+      "deaths": 12760
     }
   },
   "Singapore": {
@@ -1524,7 +1524,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2086662,
+          "confirmed": 2118519,
           "date": "2022-01-02",
           "deaths": 40663
         }
