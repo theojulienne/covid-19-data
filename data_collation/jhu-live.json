@@ -103,13 +103,6 @@
           "deaths": 0
         }
       },
-      "Flemish Brabant": {
-        "live": {
-          "confirmed": 184728,
-          "date": "2022-01-02",
-          "deaths": 0
-        }
-      },
       "Hainaut": {
         "live": {
           "confirmed": 252893,
@@ -940,6 +933,13 @@
       "confirmed": 417723,
       "date": "2022-01-02",
       "deaths": 2468
+    }
+  },
+  "Kyrgyzstan": {
+    "live": {
+      "confirmed": 184748,
+      "date": "2022-01-02",
+      "deaths": 2802
     }
   },
   "Latvia": {
