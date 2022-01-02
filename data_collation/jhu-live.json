@@ -61,9 +61,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 282677,
+      "confirmed": 283344,
       "date": "2022-01-02",
-      "deaths": 1394
+      "deaths": 1395
     }
   },
   "Bangladesh": {
@@ -351,7 +351,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 776257,
+          "confirmed": 776342,
           "date": "2022-01-02",
           "deaths": 10254
         }
@@ -1440,7 +1440,7 @@
     "live": {
       "confirmed": 1332615,
       "date": "2022-01-02",
-      "deaths": 12225
+      "deaths": 12227
     }
   },
   "Thailand": {
@@ -1545,7 +1545,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1816178,
+          "confirmed": 1818856,
           "date": "2022-01-02",
           "deaths": 25869
         }
