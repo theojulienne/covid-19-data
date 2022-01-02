@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 218818,
+      "confirmed": 219159,
       "date": "2022-01-02",
-      "deaths": 6284
+      "deaths": 6291
     }
   },
   "Argentina": {
@@ -369,9 +369,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 753301,
+          "confirmed": 754564,
           "date": "2022-01-02",
-          "deaths": 19944
+          "deaths": 19949
         }
       }
     }
@@ -431,16 +431,16 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 720538,
+      "confirmed": 720951,
       "date": "2022-01-02",
-      "deaths": 12571
+      "deaths": 12609
     }
   },
   "Cuba": {
     "live": {
-      "confirmed": 966473,
+      "confirmed": 966942,
       "date": "2022-01-02",
-      "deaths": 8323
+      "deaths": 8324
     }
   },
   "Czechia": {
@@ -459,9 +459,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 419927,
+      "confirmed": 421953,
       "date": "2022-01-02",
-      "deaths": 4247
+      "deaths": 4249
     }
   },
   "Ecuador": {
@@ -810,7 +810,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1392137,
+      "confirmed": 1394400,
       "date": "2022-01-02",
       "deaths": 8244
     }
@@ -916,9 +916,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 297155,
+      "confirmed": 298509,
       "date": "2022-01-02",
-      "deaths": 5381
+      "deaths": 5384
     }
   },
   "Korea, South": {
@@ -1057,16 +1057,16 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 965420,
+      "confirmed": 966777,
       "date": "2022-01-02",
-      "deaths": 14851
+      "deaths": 14855
     }
   },
   "Mozambique": {
     "live": {
-      "confirmed": 191722,
+      "confirmed": 192453,
       "date": "2022-01-02",
-      "deaths": 2012
+      "deaths": 2019
     }
   },
   "Nepal": {
