@@ -909,7 +909,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1072518,
+      "confirmed": 1072999,
       "date": "2022-01-02",
       "deaths": 18211
     }
@@ -1050,9 +1050,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 389650,
+      "confirmed": 389876,
       "date": "2022-01-02",
-      "deaths": 2059
+      "deaths": 2060
     }
   },
   "Morocco": {
@@ -1161,16 +1161,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 445107,
+          "confirmed": 445228,
           "date": "2022-01-02",
-          "deaths": 13070
+          "deaths": 13073
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 482029,
+          "confirmed": 482411,
           "date": "2022-01-02",
-          "deaths": 7670
+          "deaths": 7673
         }
       }
     }
@@ -1311,9 +1311,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 279405,
+      "confirmed": 279861,
       "date": "2022-01-02",
-      "deaths": 828
+      "deaths": 829
     }
   },
   "Slovakia": {
@@ -1674,9 +1674,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 444635,
+      "confirmed": 444828,
       "date": "2022-01-02",
-      "deaths": 5328
+      "deaths": 5331
     }
   },
   "Vietnam": {
