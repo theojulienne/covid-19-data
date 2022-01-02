@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5654408,
+      "confirmed": 5674428,
       "date": "2022-01-01",
-      "deaths": 117169
+      "deaths": 117181
     }
   },
   "Armenia": {
@@ -31,9 +31,16 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 210051,
+          "confirmed": 228307,
           "date": "2022-01-01",
-          "deaths": 667
+          "deaths": 669
+        }
+      },
+      "Victoria": {
+        "live": {
+          "confirmed": 191148,
+          "date": "2022-01-01",
+          "deaths": 1537
         }
       }
     }
@@ -321,9 +328,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 747108,
+      "confirmed": 748184,
       "date": "2022-01-01",
-      "deaths": 30955
+      "deaths": 30983
     }
   },
   "Burma": {
@@ -380,44 +387,44 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 793448,
+          "confirmed": 796911,
           "date": "2022-01-01",
-          "deaths": 16903
+          "deaths": 16910
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 343876,
+          "confirmed": 344411,
           "date": "2022-01-01",
           "deaths": 9750
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1482495,
+          "confirmed": 1484791,
           "date": "2022-01-01",
-          "deaths": 27723
+          "deaths": 27730
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 268029,
+          "confirmed": 268272,
           "date": "2022-01-01",
-          "deaths": 6860
+          "deaths": 6861
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 235387,
+          "confirmed": 235578,
           "date": "2022-01-01",
-          "deaths": 7523
+          "deaths": 7525
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 430076,
+          "confirmed": 434082,
           "date": "2022-01-01",
-          "deaths": 13333
+          "deaths": 13340
         }
       }
     }
@@ -935,13 +942,6 @@
       "deaths": 2468
     }
   },
-  "Kyrgyzstan": {
-    "live": {
-      "confirmed": 184689,
-      "date": "2022-01-01",
-      "deaths": 2802
-    }
-  },
   "Latvia": {
     "live": {
       "confirmed": 276841,
@@ -1440,7 +1440,7 @@
     "live": {
       "confirmed": 1332615,
       "date": "2022-01-01",
-      "deaths": 12219
+      "deaths": 12220
     }
   },
   "Thailand": {
@@ -1452,9 +1452,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 726706,
+      "confirmed": 727843,
       "date": "2022-01-01",
-      "deaths": 25569
+      "deaths": 25576
     }
   },
   "Turkey": {
