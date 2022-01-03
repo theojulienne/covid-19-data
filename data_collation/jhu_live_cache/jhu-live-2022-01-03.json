@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 219159,
+      "confirmed": 219532,
       "date": "2022-01-03",
-      "deaths": 6291
+      "deaths": 6298
     }
   },
   "Argentina": {
@@ -501,9 +501,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 10039372,
+      "confirmed": 10106833,
       "date": "2022-01-03",
-      "deaths": 121402
+      "deaths": 121672
     }
   },
   "Georgia": {
@@ -517,9 +517,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1025205,
+          "confirmed": 1028075,
           "date": "2022-01-03",
-          "deaths": 13040
+          "deaths": 13081
         }
       },
       "Bayern": {
@@ -1131,9 +1131,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 225730,
+      "confirmed": 225972,
       "date": "2022-01-03",
-      "deaths": 7975
+      "deaths": 7981
     }
   },
   "Norway": {
@@ -1325,9 +1325,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3472436,
+      "confirmed": 3475512,
       "date": "2022-01-03",
-      "deaths": 91228
+      "deaths": 91312
     }
   },
   "Spain": {
@@ -1468,9 +1468,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3364925,
+          "confirmed": 3379499,
           "date": "2022-01-03",
-          "deaths": 49551
+          "deaths": 49556
         }
       },
       "Florida": {
@@ -1482,9 +1482,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 821472,
+          "confirmed": 862761,
           "date": "2022-01-03",
-          "deaths": 11986
+          "deaths": 12055
         }
       },
       "Massachusetts": {
@@ -1545,9 +1545,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1818856,
+          "confirmed": 1822595,
           "date": "2022-01-03",
-          "deaths": 25869
+          "deaths": 25882
         }
       },
       "Utah": {
