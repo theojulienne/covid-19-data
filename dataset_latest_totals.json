@@ -1246,17 +1246,17 @@
     },
     "EST": {
       "back_1week": {
-        "confirmed": 236133,
-        "deaths": 1907,
+        "confirmed": 236565,
+        "deaths": 1909,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 231694,
-        "deaths": 1882,
+        "confirmed": 232120,
+        "deaths": 1884,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 242123,
+        "confirmed": 242552,
         "deaths": 1938,
         "recovered": 0
       }
@@ -2640,18 +2640,18 @@
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 827058,
-        "deaths": 11583,
+        "confirmed": 827271,
+        "deaths": 11585,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 825603,
-        "deaths": 11572,
+        "confirmed": 825736,
+        "deaths": 11573,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 828773,
-        "deaths": 11594,
+        "confirmed": 828986,
+        "deaths": 11596,
         "recovered": 0
       }
     },
@@ -2681,17 +2681,17 @@
     },
     "OMN": {
       "back_1week": {
-        "confirmed": 304984,
+        "confirmed": 305105,
         "deaths": 4113,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 304783,
+        "confirmed": 304843,
         "deaths": 4113,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 305489,
+        "confirmed": 305832,
         "deaths": 4116,
         "recovered": 0
       }
@@ -3140,18 +3140,18 @@
     },
     "SVK": {
       "back_1week": {
-        "confirmed": 1349146,
-        "deaths": 16336,
+        "confirmed": 1349806,
+        "deaths": 16398,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1321091,
-        "deaths": 15931,
+        "confirmed": 1325153,
+        "deaths": 16014,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1374354,
-        "deaths": 16665,
+        "confirmed": 1374850,
+        "deaths": 16701,
         "recovered": 0
       }
     },

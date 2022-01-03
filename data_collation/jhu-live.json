@@ -480,9 +480,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 242552,
+      "confirmed": 243236,
       "date": "2022-01-03",
-      "deaths": 1938
+      "deaths": 1939
     }
   },
   "Ethiopia": {
@@ -494,9 +494,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 260292,
+      "confirmed": 277339,
       "date": "2022-01-03",
-      "deaths": 1564
+      "deaths": 1592
     }
   },
   "France": {
@@ -517,7 +517,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1025186,
+          "confirmed": 1025205,
           "date": "2022-01-03",
           "deaths": 13040
         }
@@ -1071,9 +1071,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 828986,
+      "confirmed": 829277,
       "date": "2022-01-03",
-      "deaths": 11596
+      "deaths": 11598
     }
   },
   "Netherlands": {
@@ -1152,7 +1152,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 305832,
+      "confirmed": 306008,
       "date": "2022-01-03",
       "deaths": 4117
     }
@@ -1318,9 +1318,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1374850,
+      "confirmed": 1376559,
       "date": "2022-01-03",
-      "deaths": 16701
+      "deaths": 16740
     }
   },
   "Slovenia": {
@@ -1440,7 +1440,7 @@
     "live": {
       "confirmed": 1332615,
       "date": "2022-01-03",
-      "deaths": 12232
+      "deaths": 12234
     }
   },
   "Thailand": {
