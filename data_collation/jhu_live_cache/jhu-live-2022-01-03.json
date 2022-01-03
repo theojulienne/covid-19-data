@@ -937,9 +937,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 184786,
+      "confirmed": 184827,
       "date": "2022-01-03",
-      "deaths": 2804
+      "deaths": 2805
     }
   },
   "Latvia": {
@@ -1445,9 +1445,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2229558,
+      "confirmed": 2232485,
       "date": "2022-01-03",
-      "deaths": 21720
+      "deaths": 21738
     }
   },
   "Tunisia": {
