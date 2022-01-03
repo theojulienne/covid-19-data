@@ -508,9 +508,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 937640,
+      "confirmed": 938583,
       "date": "2022-01-03",
-      "deaths": 13905
+      "deaths": 13942
     }
   },
   "Germany": {
@@ -531,7 +531,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 331784,
+          "confirmed": 331785,
           "date": "2022-01-03",
           "deaths": 4016
         }
@@ -1667,7 +1667,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 199118,
+      "confirmed": 199182,
       "date": "2022-01-03",
       "deaths": 1485
     }
