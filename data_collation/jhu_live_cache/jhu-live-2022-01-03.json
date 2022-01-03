@@ -603,9 +603,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 628589,
+      "confirmed": 628695,
       "date": "2022-01-03",
-      "deaths": 16108
+      "deaths": 16109
     }
   },
   "Honduras": {
@@ -1177,9 +1177,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 497808,
+      "confirmed": 498785,
       "date": "2022-01-03",
-      "deaths": 7430
+      "deaths": 7433
     }
   },
   "Paraguay": {
@@ -1475,9 +1475,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3320215,
+          "confirmed": 3364925,
           "date": "2022-01-03",
-          "deaths": 49548
+          "deaths": 49551
         }
       },
       "Florida": {
@@ -1674,9 +1674,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 444828,
+      "confirmed": 444972,
       "date": "2022-01-03",
-      "deaths": 5331
+      "deaths": 5333
     }
   },
   "Vietnam": {
