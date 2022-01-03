@@ -452,9 +452,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 831236,
+      "confirmed": 840037,
       "date": "2022-01-03",
-      "deaths": 3287
+      "deaths": 3292
     }
   },
   "Dominican Republic": {
@@ -524,7 +524,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1336202,
+          "confirmed": 1336209,
           "date": "2022-01-03",
           "deaths": 19714
         }
@@ -573,9 +573,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 655763,
+          "confirmed": 656424,
           "date": "2022-01-03",
-          "deaths": 12989
+          "deaths": 13024
         }
       },
       "Sachsen-Anhalt": {
@@ -796,9 +796,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2094097,
+      "confirmed": 2094349,
       "date": "2022-01-03",
-      "deaths": 24167
+      "deaths": 24174
     }
   },
   "Ireland": {
@@ -916,9 +916,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 298509,
+      "confirmed": 299732,
       "date": "2022-01-03",
-      "deaths": 5384
+      "deaths": 5394
     }
   },
   "Korea, South": {
@@ -933,13 +933,6 @@
       "confirmed": 418332,
       "date": "2022-01-03",
       "deaths": 2468
-    }
-  },
-  "Kyrgyzstan": {
-    "live": {
-      "confirmed": 184827,
-      "date": "2022-01-03",
-      "deaths": 2805
     }
   },
   "Latvia": {
@@ -1131,9 +1124,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 242877,
+      "confirmed": 243450,
       "date": "2022-01-03",
-      "deaths": 3033
+      "deaths": 3039
     }
   },
   "North Macedonia": {
@@ -1184,9 +1177,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 468025,
+      "confirmed": 468346,
       "date": "2022-01-03",
-      "deaths": 16629
+      "deaths": 16631
     }
   },
   "Peru": {
@@ -1440,7 +1433,7 @@
     "live": {
       "confirmed": 1371062,
       "date": "2022-01-03",
-      "deaths": 12245
+      "deaths": 12253
     }
   },
   "Thailand": {
@@ -1524,9 +1517,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2118519,
+          "confirmed": 2374875,
           "date": "2022-01-03",
-          "deaths": 40681
+          "deaths": 43112
         }
       },
       "Ohio": {
@@ -1621,9 +1614,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 767093,
+      "confirmed": 769608,
       "date": "2022-01-03",
-      "deaths": 2168
+      "deaths": 2169
     }
   },
   "United Kingdom": {
@@ -1681,9 +1674,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1763040,
+      "confirmed": 1778976,
       "date": "2022-01-03",
-      "deaths": 32831
+      "deaths": 33021
     }
   },
   "West Bank and Gaza": {
