@@ -1144,18 +1144,18 @@
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 413887,
-        "deaths": 4237,
+        "confirmed": 414226,
+        "deaths": 4238,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 411449,
+        "confirmed": 411721,
         "deaths": 4223,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 419927,
-        "deaths": 4247,
+        "confirmed": 421953,
+        "deaths": 4249,
         "recovered": 0
       }
     },
@@ -2142,18 +2142,18 @@
     },
     "LKA": {
       "back_1week": {
-        "confirmed": 583251,
-        "deaths": 14871,
+        "confirmed": 583649,
+        "deaths": 14884,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 579134,
-        "deaths": 14734,
+        "confirmed": 579685,
+        "deaths": 14752,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 587596,
-        "deaths": 14997,
+        "confirmed": 587935,
+        "deaths": 15019,
         "recovered": 0
       }
     },
@@ -2987,17 +2987,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 277555,
+        "confirmed": 277764,
         "deaths": 821,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 275655,
+        "confirmed": 275910,
         "deaths": 810,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 279861,
+        "confirmed": 280290,
         "deaths": 829,
         "recovered": 0
       }

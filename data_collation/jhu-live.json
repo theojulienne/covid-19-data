@@ -351,9 +351,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 777310,
+          "confirmed": 782514,
           "date": "2022-01-03",
-          "deaths": 10255
+          "deaths": 10258
         }
       },
       "Quebec": {
@@ -459,9 +459,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 421953,
+      "confirmed": 424809,
       "date": "2022-01-03",
-      "deaths": 4249
+      "deaths": 4251
     }
   },
   "Ecuador": {
@@ -1304,7 +1304,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 280290,
+      "confirmed": 280754,
       "date": "2022-01-03",
       "deaths": 829
     }
@@ -1399,9 +1399,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 587935,
+      "confirmed": 588300,
       "date": "2022-01-03",
-      "deaths": 15019
+      "deaths": 15037
     }
   },
   "Sweden": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 1371062,
       "date": "2022-01-03",
-      "deaths": 12264
+      "deaths": 12267
     }
   },
   "Thailand": {
@@ -1503,9 +1503,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 203703,
+          "confirmed": 206084,
           "date": "2022-01-03",
-          "deaths": 2179
+          "deaths": 2189
         }
       },
       "Nevada": {
@@ -1520,6 +1520,13 @@
           "confirmed": 2374875,
           "date": "2022-01-03",
           "deaths": 43112
+        }
+      },
+      "North Carolina": {
+        "live": {
+          "confirmed": 188500,
+          "date": "2022-01-03",
+          "deaths": 1315
         }
       },
       "Ohio": {
@@ -1589,13 +1596,6 @@
           "deaths": 8217
         }
       },
-      "Kiev Oblast": {
-        "live": {
-          "confirmed": 185880,
-          "date": "2022-01-03",
-          "deaths": 4672
-        }
-      },
       "Lviv Oblast": {
         "live": {
           "confirmed": 220678,
@@ -1623,9 +1623,9 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 11272332,
+          "confirmed": 11408560,
           "date": "2022-01-03",
-          "deaths": 129432
+          "deaths": 129474
         }
       },
       "Northern Ireland": {
@@ -1637,7 +1637,7 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 914841,
+          "confirmed": 966027,
           "date": "2022-01-03",
           "deaths": 9858
         }
