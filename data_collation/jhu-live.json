@@ -328,9 +328,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 531025,
+      "confirmed": 531155,
       "date": "2022-01-03",
-      "deaths": 19274
+      "deaths": 19277
     }
   },
   "Canada": {
@@ -369,9 +369,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 754564,
+          "confirmed": 754920,
           "date": "2022-01-03",
-          "deaths": 19949
+          "deaths": 19952
         }
       }
     }
@@ -566,9 +566,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 280597,
+          "confirmed": 281915,
           "date": "2022-01-03",
-          "deaths": 4638
+          "deaths": 4659
         }
       },
       "Sachsen": {
@@ -580,9 +580,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 226783,
+          "confirmed": 227490,
           "date": "2022-01-03",
-          "deaths": 4280
+          "deaths": 4290
         }
       },
       "Thuringen": {
@@ -886,14 +886,14 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 203917,
+          "confirmed": 203996,
           "date": "2022-01-03",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 383241,
+          "confirmed": 383344,
           "date": "2022-01-03",
           "deaths": 3175
         }
@@ -967,37 +967,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 245773,
+          "confirmed": 246102,
           "date": "2022-01-03",
-          "deaths": 3864
+          "deaths": 3866
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 240961,
+          "confirmed": 241122,
           "date": "2022-01-03",
-          "deaths": 2785
+          "deaths": 2787
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252341,
+          "confirmed": 252353,
           "date": "2022-01-03",
-          "deaths": 1616
+          "deaths": 1617
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 788150,
+          "confirmed": 788823,
           "date": "2022-01-03",
-          "deaths": 9963
+          "deaths": 9969
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 211176,
+          "confirmed": 211343,
           "date": "2022-01-03",
-          "deaths": 2681
+          "deaths": 2680
         }
       }
     }
@@ -1073,51 +1073,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 360460,
+          "confirmed": 361934,
           "date": "2022-01-03",
-          "deaths": 2575
+          "deaths": 2578
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 231680,
+          "confirmed": 232692,
           "date": "2022-01-03",
-          "deaths": 2060
+          "deaths": 2062
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 484462,
+          "confirmed": 486295,
           "date": "2022-01-03",
           "deaths": 3537
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 523877,
+          "confirmed": 526696,
           "date": "2022-01-03",
           "deaths": 3110
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 203633,
+          "confirmed": 204534,
           "date": "2022-01-03",
           "deaths": 1339
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 249215,
+          "confirmed": 250235,
           "date": "2022-01-03",
-          "deaths": 1464
+          "deaths": 1472
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 718452,
+          "confirmed": 721767,
           "date": "2022-01-03",
-          "deaths": 4857
+          "deaths": 4858
         }
       }
     }
@@ -1209,9 +1209,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1424016,
+      "confirmed": 1434570,
       "date": "2022-01-03",
-      "deaths": 18990
+      "deaths": 19000
     }
   },
   "Qatar": {
@@ -1297,9 +1297,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1302856,
+      "confirmed": 1305621,
       "date": "2022-01-03",
-      "deaths": 12760
+      "deaths": 12787
     }
   },
   "Singapore": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 1371062,
       "date": "2022-01-03",
-      "deaths": 12253
+      "deaths": 12264
     }
   },
   "Thailand": {
