@@ -31,16 +31,16 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 228307,
+          "confirmed": 249064,
           "date": "2022-01-02",
-          "deaths": 669
+          "deaths": 673
         }
       },
       "Victoria": {
         "live": {
-          "confirmed": 190999,
+          "confirmed": 199576,
           "date": "2022-01-02",
-          "deaths": 1537
+          "deaths": 1540
         }
       }
     }
@@ -380,42 +380,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 796911,
+          "confirmed": 800483,
           "date": "2022-01-02",
           "deaths": 16910
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 344411,
+          "confirmed": 345011,
           "date": "2022-01-02",
           "deaths": 9750
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1484791,
+          "confirmed": 1487264,
           "date": "2022-01-02",
           "deaths": 27730
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 268272,
+          "confirmed": 268696,
           "date": "2022-01-02",
           "deaths": 6861
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 235578,
+          "confirmed": 235864,
           "date": "2022-01-02",
           "deaths": 7525
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 434082,
+          "confirmed": 435544,
           "date": "2022-01-02",
           "deaths": 13340
         }
@@ -810,7 +810,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1394400,
+      "confirmed": 1395113,
       "date": "2022-01-02",
       "deaths": 8244
     }
@@ -1526,7 +1526,7 @@
         "live": {
           "confirmed": 2118519,
           "date": "2022-01-02",
-          "deaths": 40663
+          "deaths": 40681
         }
       },
       "Ohio": {
