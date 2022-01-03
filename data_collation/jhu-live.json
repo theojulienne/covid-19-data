@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 283344,
+      "confirmed": 284224,
       "date": "2022-01-03",
       "deaths": 1395
     }
@@ -84,42 +84,42 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 303202,
+          "confirmed": 307088,
           "date": "2022-01-03",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 249566,
+          "confirmed": 254834,
           "date": "2022-01-03",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 260967,
+          "confirmed": 264246,
           "date": "2022-01-03",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 252893,
+          "confirmed": 255607,
           "date": "2022-01-03",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 226576,
+          "confirmed": 228403,
           "date": "2022-01-03",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 215978,
+          "confirmed": 218180,
           "date": "2022-01-03",
           "deaths": 0
         }
@@ -603,9 +603,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 628695,
+      "confirmed": 628804,
       "date": "2022-01-03",
-      "deaths": 16109
+      "deaths": 16110
     }
   },
   "Honduras": {
@@ -810,9 +810,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1403814,
+      "confirmed": 1404916,
       "date": "2022-01-03",
-      "deaths": 8245
+      "deaths": 8247
     }
   },
   "Italy": {
@@ -944,9 +944,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 732733,
+      "confirmed": 735727,
       "date": "2022-01-03",
-      "deaths": 9154
+      "deaths": 9174
     }
   },
   "Libya": {
@@ -1177,9 +1177,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 468346,
+      "confirmed": 469523,
       "date": "2022-01-03",
-      "deaths": 16631
+      "deaths": 16642
     }
   },
   "Peru": {
@@ -1452,9 +1452,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9554771,
+      "confirmed": 9599640,
       "date": "2022-01-03",
-      "deaths": 82635
+      "deaths": 82795
     }
   },
   "US": {
@@ -1510,7 +1510,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 366051,
+          "confirmed": 377518,
           "date": "2022-01-03",
           "deaths": 6461
         }
@@ -1545,16 +1545,16 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1822595,
+          "confirmed": 1893172,
           "date": "2022-01-03",
-          "deaths": 25882
+          "deaths": 25930
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 226602,
+          "confirmed": 233157,
           "date": "2022-01-03",
-          "deaths": 1314
+          "deaths": 1315
         }
       },
       "Washington": {
