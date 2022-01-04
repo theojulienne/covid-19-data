@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 284224,
+      "confirmed": 285448,
       "date": "2022-01-04",
       "deaths": 1395
     }
@@ -351,7 +351,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 829803,
+          "confirmed": 831226,
           "date": "2022-01-04",
           "deaths": 10294
         }
@@ -930,7 +930,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 419314,
+      "confirmed": 420796,
       "date": "2022-01-04",
       "deaths": 2468
     }
@@ -944,9 +944,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 735727,
+      "confirmed": 740814,
       "date": "2022-01-04",
-      "deaths": 9174
+      "deaths": 9193
     }
   },
   "Libya": {
