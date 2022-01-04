@@ -351,7 +351,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 819034,
+          "confirmed": 819094,
           "date": "2022-01-04",
           "deaths": 10286
         }
@@ -369,9 +369,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 754920,
+          "confirmed": 755331,
           "date": "2022-01-04",
-          "deaths": 19952
+          "deaths": 19953
         }
       }
     }
@@ -886,14 +886,14 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 203996,
+          "confirmed": 204120,
           "date": "2022-01-04",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 383344,
+          "confirmed": 383495,
           "date": "2022-01-04",
           "deaths": 3175
         }
@@ -967,37 +967,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 246102,
+          "confirmed": 246386,
           "date": "2022-01-04",
-          "deaths": 3866
+          "deaths": 3869
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 241122,
+          "confirmed": 241380,
           "date": "2022-01-04",
-          "deaths": 2787
+          "deaths": 2790
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252353,
+          "confirmed": 252377,
           "date": "2022-01-04",
           "deaths": 1617
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 788823,
+          "confirmed": 789337,
           "date": "2022-01-04",
-          "deaths": 9969
+          "deaths": 9978
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 211343,
+          "confirmed": 211549,
           "date": "2022-01-04",
-          "deaths": 2680
+          "deaths": 2681
         }
       }
     }
@@ -1050,9 +1050,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 967662,
+      "confirmed": 971961,
       "date": "2022-01-04",
-      "deaths": 14862
+      "deaths": 14867
     }
   },
   "Mozambique": {
@@ -1304,9 +1304,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 280754,
+      "confirmed": 281596,
       "date": "2022-01-04",
-      "deaths": 829
+      "deaths": 832
     }
   },
   "Slovakia": {
@@ -1547,7 +1547,7 @@
         "live": {
           "confirmed": 1893172,
           "date": "2022-01-04",
-          "deaths": 25930
+          "deaths": 25932
         }
       },
       "Utah": {
