@@ -351,9 +351,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 821607,
+          "confirmed": 829803,
           "date": "2022-01-04",
-          "deaths": 10287
+          "deaths": 10294
         }
       },
       "Quebec": {
@@ -1036,9 +1036,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 376844,
+      "confirmed": 377496,
       "date": "2022-01-04",
-      "deaths": 10306
+      "deaths": 10319
     }
   },
   "Mongolia": {
@@ -1552,9 +1552,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 233157,
+          "confirmed": 235267,
           "date": "2022-01-04",
-          "deaths": 1315
+          "deaths": 1318
         }
       },
       "Washington": {

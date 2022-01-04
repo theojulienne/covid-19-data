@@ -2261,18 +2261,18 @@
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 374526,
-        "deaths": 9613,
+        "confirmed": 374763,
+        "deaths": 9625,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 372200,
-        "deaths": 9493,
+        "confirmed": 372429,
+        "deaths": 9521,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 376602,
-        "deaths": 10290,
+        "confirmed": 376844,
+        "deaths": 10306,
         "recovered": 0
       }
     },
