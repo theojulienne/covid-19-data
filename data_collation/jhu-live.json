@@ -128,9 +128,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 614941,
+      "confirmed": 622312,
       "date": "2022-01-04",
-      "deaths": 19733
+      "deaths": 19763
     }
   },
   "Bosnia and Herzegovina": {
@@ -909,7 +909,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1073373,
+      "confirmed": 1073786,
       "date": "2022-01-04",
       "deaths": 18211
     }
@@ -1006,28 +1006,28 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1006124,
+          "confirmed": 1006766,
           "date": "2022-01-04",
-          "deaths": 40332
+          "deaths": 40338
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 204571,
+          "confirmed": 204636,
           "date": "2022-01-04",
-          "deaths": 13393
+          "deaths": 13399
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 384759,
+          "confirmed": 384959,
           "date": "2022-01-04",
-          "deaths": 44836
+          "deaths": 44837
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 210695,
+          "confirmed": 210836,
           "date": "2022-01-04",
           "deaths": 13747
         }
@@ -1043,9 +1043,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 390014,
+      "confirmed": 390502,
       "date": "2022-01-04",
-      "deaths": 2060
+      "deaths": 2062
     }
   },
   "Morocco": {
@@ -1461,7 +1461,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 877144,
+          "confirmed": 887308,
           "date": "2022-01-04",
           "deaths": 13737
         }
