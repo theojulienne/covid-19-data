@@ -351,7 +351,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 820478,
+          "confirmed": 821607,
           "date": "2022-01-04",
           "deaths": 10287
         }
@@ -487,9 +487,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 428796,
+      "confirmed": 432807,
       "date": "2022-01-04",
-      "deaths": 6969
+      "deaths": 6981
     }
   },
   "Finland": {
@@ -596,9 +596,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1210853,
+      "confirmed": 1344923,
       "date": "2022-01-04",
-      "deaths": 20790
+      "deaths": 21053
     }
   },
   "Guatemala": {
@@ -1325,9 +1325,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3475512,
+      "confirmed": 3483590,
       "date": "2022-01-04",
-      "deaths": 91312
+      "deaths": 91451
     }
   },
   "Spain": {
@@ -1510,16 +1510,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 377518,
+          "confirmed": 379454,
           "date": "2022-01-04",
-          "deaths": 6461
+          "deaths": 6499
         }
       },
       "New York": {
         "live": {
-          "confirmed": 2413688,
+          "confirmed": 2429820,
           "date": "2022-01-04",
-          "deaths": 43179
+          "deaths": 43199
         }
       },
       "North Carolina": {
