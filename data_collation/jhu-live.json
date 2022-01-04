@@ -909,7 +909,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1073786,
+      "confirmed": 1073789,
       "date": "2022-01-04",
       "deaths": 18211
     }
@@ -1438,9 +1438,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2232485,
+      "confirmed": 2235576,
       "date": "2022-01-04",
-      "deaths": 21738
+      "deaths": 21750
     }
   },
   "Tunisia": {
@@ -1660,7 +1660,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 199182,
+      "confirmed": 199271,
       "date": "2022-01-04",
       "deaths": 1485
     }
