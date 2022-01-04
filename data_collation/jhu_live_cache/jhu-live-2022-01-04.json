@@ -810,7 +810,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1408862,
+      "confirmed": 1409937,
       "date": "2022-01-04",
       "deaths": 8247
     }
@@ -937,9 +937,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 277692,
+      "confirmed": 279320,
       "date": "2022-01-04",
-      "deaths": 4594
+      "deaths": 4600
     }
   },
   "Lebanon": {
@@ -1223,9 +1223,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1813056,
+      "confirmed": 1816956,
       "date": "2022-01-04",
-      "deaths": 58814
+      "deaths": 58866
     }
   },
   "Russia": {
