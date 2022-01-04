@@ -33,7 +33,7 @@
         "live": {
           "confirmed": 272160,
           "date": "2022-01-04",
-          "deaths": 675
+          "deaths": 676
         }
       },
       "Victoria": {
@@ -480,9 +480,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 243236,
+      "confirmed": 244733,
       "date": "2022-01-04",
-      "deaths": 1939
+      "deaths": 1940
     }
   },
   "Ethiopia": {
@@ -494,9 +494,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 277339,
+      "confirmed": 282831,
       "date": "2022-01-04",
-      "deaths": 1592
+      "deaths": 1599
     }
   },
   "France": {
@@ -1064,9 +1064,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 829277,
+      "confirmed": 829632,
       "date": "2022-01-04",
-      "deaths": 11598
+      "deaths": 11601
     }
   },
   "Netherlands": {
@@ -1195,9 +1195,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2855819,
+      "confirmed": 2861119,
       "date": "2022-01-04",
-      "deaths": 51586
+      "deaths": 51604
     }
   },
   "Poland": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 1371062,
       "date": "2022-01-04",
-      "deaths": 12274
+      "deaths": 12275
     }
   },
   "Thailand": {
@@ -1688,9 +1688,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 261221,
+      "confirmed": 265479,
       "date": "2022-01-04",
-      "deaths": 3753
+      "deaths": 3762
     }
   },
   "Zimbabwe": {
