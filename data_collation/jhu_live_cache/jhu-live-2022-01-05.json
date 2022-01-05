@@ -358,9 +358,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 831226,
+          "confirmed": 836617,
           "date": "2022-01-05",
-          "deaths": 10294
+          "deaths": 10303
         }
       },
       "Quebec": {
@@ -573,9 +573,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 284586,
+          "confirmed": 287029,
           "date": "2022-01-05",
-          "deaths": 4671
+          "deaths": 4676
         }
       },
       "Sachsen": {
@@ -587,9 +587,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 228744,
+          "confirmed": 230405,
           "date": "2022-01-05",
-          "deaths": 4308
+          "deaths": 4374
         }
       },
       "Thuringen": {
@@ -1080,51 +1080,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 364041,
+          "confirmed": 366468,
           "date": "2022-01-05",
-          "deaths": 2579
+          "deaths": 2588
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 233541,
+          "confirmed": 234712,
           "date": "2022-01-05",
-          "deaths": 2062
+          "deaths": 2063
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 489526,
+          "confirmed": 492970,
           "date": "2022-01-05",
-          "deaths": 3541
+          "deaths": 3546
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 530715,
+          "confirmed": 535600,
           "date": "2022-01-05",
-          "deaths": 3117
+          "deaths": 3122
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 205548,
+          "confirmed": 207076,
           "date": "2022-01-05",
           "deaths": 1339
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 251600,
+          "confirmed": 254061,
           "date": "2022-01-05",
-          "deaths": 1473
+          "deaths": 1475
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 725286,
+          "confirmed": 730737,
           "date": "2022-01-05",
-          "deaths": 4862
+          "deaths": 4875
         }
       }
     }
@@ -1304,9 +1304,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1310845,
+      "confirmed": 1318333,
       "date": "2022-01-05",
-      "deaths": 12806
+      "deaths": 12831
     }
   },
   "Singapore": {

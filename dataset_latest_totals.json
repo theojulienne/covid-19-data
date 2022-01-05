@@ -571,18 +571,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 2014371,
-        "deaths": 30229,
+        "confirmed": 2037618,
+        "deaths": 30251,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1906306,
-        "deaths": 30116,
+        "confirmed": 1920427,
+        "deaths": 30140,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2260888,
-        "deaths": 30429,
+        "confirmed": 2355537,
+        "deaths": 30491,
         "recovered": 0
       },
       "states": {
@@ -619,7 +619,7 @@
           "deaths": 12
         },
         "Nova Scotia": {
-          "confirmed": 10199,
+          "confirmed": 20658,
           "deaths": 111
         },
         "Nunavut": {
@@ -627,8 +627,8 @@
           "deaths": 4
         },
         "Ontario": {
-          "confirmed": 783526,
-          "deaths": 10258
+          "confirmed": 831226,
+          "deaths": 10294
         },
         "Prince Edward Island": {
           "confirmed": 1366,
@@ -3089,18 +3089,18 @@
     },
     "SRB": {
       "back_1week": {
-        "confirmed": 1291718,
-        "deaths": 12621,
+        "confirmed": 1293394,
+        "deaths": 12645,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1282461,
-        "deaths": 12401,
+        "confirmed": 1284757,
+        "deaths": 12461,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1305621,
-        "deaths": 12787,
+        "confirmed": 1310845,
+        "deaths": 12806,
         "recovered": 0
       }
     },
