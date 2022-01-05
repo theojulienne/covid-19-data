@@ -22,9 +22,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 345126,
+      "confirmed": 345255,
       "date": "2022-01-05",
-      "deaths": 7986
+      "deaths": 7989
     }
   },
   "Australia": {
@@ -515,9 +515,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 942173,
+      "confirmed": 945609,
       "date": "2022-01-05",
-      "deaths": 14009
+      "deaths": 14041
     }
   },
   "Germany": {
@@ -624,9 +624,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1264709,
+      "confirmed": 1269979,
       "date": "2022-01-05",
-      "deaths": 39517
+      "deaths": 39599
     }
   },
   "India": {
@@ -817,7 +817,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1411798,
+      "confirmed": 1423282,
       "date": "2022-01-05",
       "deaths": 8247
     }
@@ -965,9 +965,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 526443,
+      "confirmed": 529540,
       "date": "2022-01-05",
-      "deaths": 7462
+      "deaths": 7475
     }
   },
   "Malaysia": {
@@ -1440,7 +1440,7 @@
     "live": {
       "confirmed": 1391814,
       "date": "2022-01-05",
-      "deaths": 12229
+      "deaths": 12230
     }
   },
   "Thailand": {
@@ -1529,13 +1529,6 @@
           "deaths": 43199
         }
       },
-      "North Carolina": {
-        "live": {
-          "confirmed": 190317,
-          "date": "2022-01-05",
-          "deaths": 1315
-        }
-      },
       "Ohio": {
         "live": {
           "confirmed": 457225,
@@ -1569,6 +1562,13 @@
           "confirmed": 214271,
           "date": "2022-01-05",
           "deaths": 2151
+        }
+      },
+      "Wisconsin": {
+        "live": {
+          "confirmed": 192343,
+          "date": "2022-01-05",
+          "deaths": 1818
         }
       }
     }
