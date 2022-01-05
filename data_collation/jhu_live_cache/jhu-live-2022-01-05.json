@@ -31,9 +31,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 307214,
+          "confirmed": 307173,
           "date": "2022-01-05",
-          "deaths": 684
+          "deaths": 683
         }
       },
       "Victoria": {
@@ -501,9 +501,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 282831,
+      "confirmed": 289622,
       "date": "2022-01-05",
-      "deaths": 1599
+      "deaths": 1624
     }
   },
   "France": {
@@ -789,9 +789,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4263732,
+      "confirmed": 4264136,
       "date": "2022-01-05",
-      "deaths": 144105
+      "deaths": 144109
     }
   },
   "Iran": {
@@ -1071,7 +1071,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 829632,
+      "confirmed": 830002,
       "date": "2022-01-05",
       "deaths": 11601
     }
@@ -1202,9 +1202,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2861119,
+      "confirmed": 2871745,
       "date": "2022-01-05",
-      "deaths": 51604
+      "deaths": 51662
     }
   },
   "Poland": {
@@ -1440,7 +1440,7 @@
     "live": {
       "confirmed": 1391814,
       "date": "2022-01-05",
-      "deaths": 12235
+      "deaths": 12296
     }
   },
   "Thailand": {
@@ -1524,9 +1524,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2429820,
+          "confirmed": 2460256,
           "date": "2022-01-05",
-          "deaths": 43199
+          "deaths": 43288
         }
       },
       "Ohio": {
@@ -1614,7 +1614,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 772189,
+      "confirmed": 774897,
       "date": "2022-01-05",
       "deaths": 2170
     }
@@ -1674,9 +1674,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1800704,
+      "confirmed": 1817721,
       "date": "2022-01-05",
-      "deaths": 33245
+      "deaths": 33475
     }
   },
   "West Bank and Gaza": {
@@ -1688,9 +1688,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 265479,
+      "confirmed": 269991,
       "date": "2022-01-05",
-      "deaths": 3762
+      "deaths": 3772
     }
   },
   "Zimbabwe": {
