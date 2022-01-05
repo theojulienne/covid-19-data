@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 285448,
+      "confirmed": 286529,
       "date": "2022-01-05",
       "deaths": 1395
     }
@@ -351,9 +351,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 839116,
+          "confirmed": 843435,
           "date": "2022-01-05",
-          "deaths": 10303
+          "deaths": 10308
         }
       },
       "Quebec": {
@@ -1177,9 +1177,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 470460,
+      "confirmed": 471434,
       "date": "2022-01-05",
-      "deaths": 16645
+      "deaths": 16653
     }
   },
   "Peru": {
@@ -1461,9 +1461,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 892504,
+          "confirmed": 897529,
           "date": "2022-01-05",
-          "deaths": 13813
+          "deaths": 13849
         }
       },
       "California": {
@@ -1496,9 +1496,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 504278,
+          "confirmed": 515434,
           "date": "2022-01-05",
-          "deaths": 9668
+          "deaths": 9744
         }
       },
       "Minnesota": {
@@ -1510,9 +1510,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 379454,
+          "confirmed": 381724,
           "date": "2022-01-05",
-          "deaths": 6499
+          "deaths": 6512
         }
       },
       "New York": {
@@ -1552,9 +1552,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 235267,
+          "confirmed": 238865,
           "date": "2022-01-05",
-          "deaths": 1318
+          "deaths": 1353
         }
       },
       "Washington": {
