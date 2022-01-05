@@ -17909,7 +17909,8 @@ var covid19_dataset_top10 = {
           9484520,
           9521251,
           9554771,
-          9599640
+          9599640,
+          9654364
         ],
         "deaths": [
           0,
@@ -18624,7 +18625,8 @@ var covid19_dataset_top10 = {
           82361,
           82506,
           82635,
-          82795
+          82795,
+          82932
         ],
         "recovered": [
           0,
@@ -22621,7 +22623,8 @@ var covid19_dataset_top10 = {
     "2022-01-02",
     "2022-01-03",
     "2022-01-04",
-    "2022-01-05"
+    "2022-01-05",
+    "2022-01-06"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10', covid19_dataset_top10, {});

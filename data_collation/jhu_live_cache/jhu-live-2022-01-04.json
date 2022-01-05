@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5739326,
+      "confirmed": 5820536,
       "date": "2022-01-04",
-      "deaths": 117245
+      "deaths": 117294
     }
   },
   "Armenia": {
@@ -38,9 +38,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 213490,
+          "confirmed": 231126,
           "date": "2022-01-04",
-          "deaths": 1542
+          "deaths": 1553
         }
       }
     }
@@ -380,42 +380,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 802188,
+          "confirmed": 804810,
           "date": "2022-01-04",
           "deaths": 16925
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 345340,
+          "confirmed": 345698,
           "date": "2022-01-04",
           "deaths": 9750
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1488988,
+          "confirmed": 1491944,
           "date": "2022-01-04",
           "deaths": 27732
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 269537,
+          "confirmed": 269711,
           "date": "2022-01-04",
           "deaths": 6862
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 236153,
+          "confirmed": 236482,
           "date": "2022-01-04",
           "deaths": 7534
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 437107,
+          "confirmed": 441611,
           "date": "2022-01-04",
           "deaths": 13364
         }
@@ -1177,9 +1177,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 469523,
+      "confirmed": 470460,
       "date": "2022-01-04",
-      "deaths": 16642
+      "deaths": 16645
     }
   },
   "Peru": {
@@ -1452,25 +1452,25 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9599640,
+      "confirmed": 9654364,
       "date": "2022-01-04",
-      "deaths": 82795
+      "deaths": 82932
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 887308,
+          "confirmed": 892504,
           "date": "2022-01-04",
-          "deaths": 13737
+          "deaths": 13813
         }
       },
       "California": {
         "live": {
-          "confirmed": 3454417,
+          "confirmed": 3477049,
           "date": "2022-01-04",
-          "deaths": 49580
+          "deaths": 49604
         }
       },
       "Florida": {
@@ -1489,9 +1489,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 219876,
+          "confirmed": 223261,
           "date": "2022-01-04",
-          "deaths": 4135
+          "deaths": 4144
         }
       },
       "Michigan": {
