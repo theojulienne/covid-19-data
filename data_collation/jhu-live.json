@@ -587,9 +587,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 228740,
+          "confirmed": 228744,
           "date": "2022-01-05",
-          "deaths": 4311
+          "deaths": 4308
         }
       },
       "Thuringen": {
@@ -1050,9 +1050,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 390502,
+      "confirmed": 391087,
       "date": "2022-01-05",
-      "deaths": 2062
+      "deaths": 2065
     }
   },
   "Morocco": {
@@ -1667,16 +1667,16 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 445082,
+      "confirmed": 445369,
       "date": "2022-01-05",
-      "deaths": 5335
+      "deaths": 5337
     }
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1778976,
+      "confirmed": 1800704,
       "date": "2022-01-05",
-      "deaths": 33021
+      "deaths": 33245
     }
   },
   "West Bank and Gaza": {
@@ -1695,9 +1695,9 @@
   },
   "Zimbabwe": {
     "live": {
-      "confirmed": 216087,
+      "confirmed": 217678,
       "date": "2022-01-05",
-      "deaths": 5047
+      "deaths": 5078
     }
   }
 }
