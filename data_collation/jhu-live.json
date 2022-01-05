@@ -452,9 +452,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2493145,
+      "confirmed": 2503374,
       "date": "2022-01-05",
-      "deaths": 36326
+      "deaths": 36397
     }
   },
   "Denmark": {
@@ -633,156 +633,156 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2077608,
+          "confirmed": 2077942,
           "date": "2022-01-05",
-          "deaths": 14498
+          "deaths": 14499
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 621422,
+          "confirmed": 621897,
           "date": "2022-01-05",
-          "deaths": 6167
+          "deaths": 6170
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 727873,
+          "confirmed": 728766,
           "date": "2022-01-05",
           "deaths": 12096
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 1009454,
+          "confirmed": 1010513,
           "date": "2022-01-05",
-          "deaths": 13601
+          "deaths": 13604
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 1458220,
+          "confirmed": 1463701,
           "date": "2022-01-05",
-          "deaths": 25110
+          "deaths": 25113
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 835028,
+          "confirmed": 837293,
           "date": "2022-01-05",
-          "deaths": 10123
+          "deaths": 10125
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 775710,
+          "confirmed": 776842,
           "date": "2022-01-05",
-          "deaths": 10064
+          "deaths": 10066
         }
       },
       "Himachal Pradesh": {
         "live": {
-          "confirmed": 229153,
+          "confirmed": 229413,
           "date": "2022-01-05",
           "deaths": 3879
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 341802,
+          "confirmed": 342001,
           "date": "2022-01-05",
           "deaths": 4530
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 355284,
+          "confirmed": 357965,
           "date": "2022-01-05",
-          "deaths": 5147
+          "deaths": 5149
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 3010847,
+          "confirmed": 3013326,
           "date": "2022-01-05",
-          "deaths": 38351
+          "deaths": 38355
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 5254974,
+          "confirmed": 5258614,
           "date": "2022-01-05",
-          "deaths": 48184
+          "deaths": 48637
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 794461,
+          "confirmed": 794769,
           "date": "2022-01-05",
-          "deaths": 10533
+          "deaths": 10534
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 6712028,
+          "confirmed": 6730494,
           "date": "2022-01-05",
-          "deaths": 141553
+          "deaths": 141573
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 1055980,
+          "confirmed": 1056660,
           "date": "2022-01-05",
-          "deaths": 8463
+          "deaths": 8464
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 605922,
+          "confirmed": 606927,
           "date": "2022-01-05",
-          "deaths": 16651
+          "deaths": 16653
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 957433,
+          "confirmed": 958570,
           "date": "2022-01-05",
-          "deaths": 8964
+          "deaths": 8965
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 2752856,
+          "confirmed": 2755587,
           "date": "2022-01-05",
-          "deaths": 36796
+          "deaths": 36805
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 682971,
+          "confirmed": 684023,
           "date": "2022-01-05",
-          "deaths": 4031
+          "deaths": 4033
         }
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 1713107,
+          "confirmed": 1714096,
           "date": "2022-01-05",
           "deaths": 22916
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 345653,
+          "confirmed": 345963,
           "date": "2022-01-05",
-          "deaths": 7419
+          "deaths": 7420
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 1655228,
+          "confirmed": 1664301,
           "date": "2022-01-05",
-          "deaths": 19794
+          "deaths": 19810
         }
       }
     }
