@@ -351,7 +351,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 838827,
+          "confirmed": 839116,
           "date": "2022-01-05",
           "deaths": 10303
         }
@@ -487,9 +487,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 432807,
+      "confirmed": 436586,
       "date": "2022-01-05",
-      "deaths": 6981
+      "deaths": 6988
     }
   },
   "Finland": {
@@ -501,9 +501,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 10371017,
+      "confirmed": 10693911,
       "date": "2022-01-05",
-      "deaths": 122014
+      "deaths": 122250
     }
   },
   "Georgia": {
@@ -911,7 +911,7 @@
     "live": {
       "confirmed": 1074283,
       "date": "2022-01-05",
-      "deaths": 18256
+      "deaths": 18267
     }
   },
   "Kenya": {
@@ -1325,9 +1325,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3483590,
+      "confirmed": 3494696,
       "date": "2022-01-05",
-      "deaths": 91451
+      "deaths": 91561
     }
   },
   "Spain": {
@@ -1482,9 +1482,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 871457,
+          "confirmed": 883180,
           "date": "2022-01-05",
-          "deaths": 12109
+          "deaths": 12131
         }
       },
       "Massachusetts": {
@@ -1681,9 +1681,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 471090,
+      "confirmed": 471414,
       "date": "2022-01-05",
-      "deaths": 4947
+      "deaths": 4954
     }
   },
   "Zambia": {
