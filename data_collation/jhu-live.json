@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 286529,
+      "confirmed": 287939,
       "date": "2022-01-06",
       "deaths": 1395
     }
@@ -351,7 +351,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 856071,
+          "confirmed": 857050,
           "date": "2022-01-06",
           "deaths": 10335
         }
@@ -1177,9 +1177,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 471434,
+      "confirmed": 472673,
       "date": "2022-01-06",
-      "deaths": 16653
+      "deaths": 16658
     }
   },
   "Peru": {
