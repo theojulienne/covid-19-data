@@ -84,42 +84,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 309477,
+          "confirmed": 313209,
           "date": "2022-01-06",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 257948,
+          "confirmed": 262001,
           "date": "2022-01-06",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 266782,
+          "confirmed": 270225,
+          "date": "2022-01-06",
+          "deaths": 0
+        }
+      },
+      "Flemish Brabant": {
+        "live": {
+          "confirmed": 193642,
           "date": "2022-01-06",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 257251,
+          "confirmed": 260210,
           "date": "2022-01-06",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 229910,
+          "confirmed": 232870,
           "date": "2022-01-06",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 220069,
+          "confirmed": 222637,
           "date": "2022-01-06",
           "deaths": 0
         }
@@ -517,79 +524,79 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1043551,
+          "confirmed": 1043590,
           "date": "2022-01-06",
           "deaths": 13173
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1347408,
+          "confirmed": 1355157,
           "date": "2022-01-06",
-          "deaths": 19829
+          "deaths": 19878
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 339207,
+          "confirmed": 344637,
           "date": "2022-01-06",
-          "deaths": 4025
+          "deaths": 4030
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 250010,
+          "confirmed": 252996,
           "date": "2022-01-06",
-          "deaths": 4738
+          "deaths": 4761
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 491115,
+          "confirmed": 495700,
           "date": "2022-01-06",
-          "deaths": 8589
+          "deaths": 8601
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 453318,
+          "confirmed": 458369,
           "date": "2022-01-06",
-          "deaths": 6865
+          "deaths": 6876
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1409926,
+          "confirmed": 1422820,
           "date": "2022-01-06",
-          "deaths": 20454
+          "deaths": 20502
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 287029,
+          "confirmed": 287065,
           "date": "2022-01-06",
           "deaths": 4676
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 663744,
+          "confirmed": 663831,
           "date": "2022-01-06",
-          "deaths": 13205
+          "deaths": 13221
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 230405,
+          "confirmed": 230409,
           "date": "2022-01-06",
           "deaths": 4374
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 294594,
+          "confirmed": 296163,
           "date": "2022-01-06",
-          "deaths": 5969
+          "deaths": 6003
         }
       }
     }
@@ -1154,16 +1161,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 445940,
+          "confirmed": 446300,
           "date": "2022-01-06",
           "deaths": 13076
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 483648,
+          "confirmed": 484226,
           "date": "2022-01-06",
-          "deaths": 7675
+          "deaths": 7676
         }
       }
     }
@@ -1522,13 +1529,6 @@
           "deaths": 43314
         }
       },
-      "North Carolina": {
-        "live": {
-          "confirmed": 193301,
-          "date": "2022-01-06",
-          "deaths": 1327
-        }
-      },
       "Ohio": {
         "live": {
           "confirmed": 461318,
@@ -1695,9 +1695,9 @@
   },
   "Zimbabwe": {
     "live": {
-      "confirmed": 217678,
+      "confirmed": 219057,
       "date": "2022-01-06",
-      "deaths": 5078
+      "deaths": 5092
     }
   }
 }
