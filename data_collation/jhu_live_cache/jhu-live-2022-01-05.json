@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5820536,
+      "confirmed": 5915695,
       "date": "2022-01-05",
-      "deaths": 117294
+      "deaths": 117346
     }
   },
   "Armenia": {
@@ -38,9 +38,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 231126,
+          "confirmed": 252916,
           "date": "2022-01-05",
-          "deaths": 1553
+          "deaths": 1559
         }
       }
     }
@@ -337,9 +337,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 379374,
+          "confirmed": 384126,
           "date": "2022-01-05",
-          "deaths": 3322
+          "deaths": 3333
         }
       },
       "British Columbia": {
@@ -380,42 +380,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 804810,
+          "confirmed": 808860,
           "date": "2022-01-05",
           "deaths": 16935
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 345698,
+          "confirmed": 346355,
           "date": "2022-01-05",
           "deaths": 9752
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1491944,
+          "confirmed": 1495057,
           "date": "2022-01-05",
           "deaths": 27732
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 269711,
+          "confirmed": 270033,
           "date": "2022-01-05",
           "deaths": 6865
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 236482,
+          "confirmed": 236888,
           "date": "2022-01-05",
           "deaths": 7538
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 441611,
+          "confirmed": 447023,
           "date": "2022-01-05",
           "deaths": 13370
         }
@@ -1399,9 +1399,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 588929,
+      "confirmed": 589479,
       "date": "2022-01-05",
-      "deaths": 15055
+      "deaths": 15065
     }
   },
   "Sweden": {
@@ -1489,9 +1489,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 223261,
+          "confirmed": 229701,
           "date": "2022-01-05",
-          "deaths": 4144
+          "deaths": 4153
         }
       },
       "Michigan": {
