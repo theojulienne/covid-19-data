@@ -38,7 +38,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 252916,
+          "confirmed": 252662,
           "date": "2022-01-06",
           "deaths": 1559
         }
@@ -68,9 +68,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1588807,
+      "confirmed": 1589947,
       "date": "2022-01-06",
-      "deaths": 28090
+      "deaths": 28097
     }
   },
   "Belarus": {
@@ -431,9 +431,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 736486,
+      "confirmed": 745544,
       "date": "2022-01-06",
-      "deaths": 12731
+      "deaths": 12764
     }
   },
   "Cuba": {
@@ -1431,9 +1431,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 1422932,
+      "confirmed": 1455174,
       "date": "2022-01-06",
-      "deaths": 12314
+      "deaths": 12319
     }
   },
   "Thailand": {
