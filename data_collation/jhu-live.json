@@ -22,9 +22,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 345255,
+      "confirmed": 345389,
       "date": "2022-01-06",
-      "deaths": 7989
+      "deaths": 7993
     }
   },
   "Australia": {
@@ -782,9 +782,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4264136,
+      "confirmed": 4264669,
       "date": "2022-01-06",
-      "deaths": 144109
+      "deaths": 144116
     }
   },
   "Iran": {
@@ -1232,58 +1232,58 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2040649,
+          "confirmed": 2043006,
           "date": "2022-01-06",
-          "deaths": 37116
+          "deaths": 37183
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 647008,
+          "confirmed": 647750,
           "date": "2022-01-06",
-          "deaths": 12320
+          "deaths": 12361
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 232727,
+          "confirmed": 232907,
           "date": "2022-01-06",
-          "deaths": 9928
+          "deaths": 9949
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 195496,
+          "confirmed": 195789,
           "date": "2022-01-06",
-          "deaths": 9714
+          "deaths": 9733
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 858821,
+          "confirmed": 860107,
           "date": "2022-01-06",
-          "deaths": 28328
+          "deaths": 28386
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 201273,
+          "confirmed": 201482,
           "date": "2022-01-06",
-          "deaths": 6360
+          "deaths": 6376
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 200856,
+          "confirmed": 201246,
           "date": "2022-01-06",
-          "deaths": 9530
+          "deaths": 9551
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 195273,
+          "confirmed": 195448,
           "date": "2022-01-06",
-          "deaths": 6996
+          "deaths": 7018
         }
       }
     }
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 1422932,
       "date": "2022-01-06",
-      "deaths": 12303
+      "deaths": 12307
     }
   },
   "Thailand": {
