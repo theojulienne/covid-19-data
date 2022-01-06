@@ -175,7 +175,7 @@ var covid19_dataset_latest_totals = {
           "current_hospitalized": 973,
           "current_icu": 160,
           "current_ventilators": 16,
-          "deaths": 677,
+          "deaths": 685,
           "recovered": 2799,
           "tested": 25559132
         },

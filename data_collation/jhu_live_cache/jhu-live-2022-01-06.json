@@ -31,9 +31,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 307173,
+          "confirmed": 342133,
           "date": "2022-01-06",
-          "deaths": 683
+          "deaths": 689
         }
       },
       "Victoria": {
@@ -344,7 +344,7 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 266710,
+          "confirmed": 270508,
           "date": "2022-01-06",
           "deaths": 2427
         }
@@ -424,9 +424,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 575871,
+      "confirmed": 578413,
       "date": "2022-01-06",
-      "deaths": 7366
+      "deaths": 7369
     }
   },
   "Croatia": {
@@ -473,9 +473,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 388651,
+      "confirmed": 389454,
       "date": "2022-01-06",
-      "deaths": 21836
+      "deaths": 21863
     }
   },
   "Estonia": {
@@ -603,9 +603,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 629811,
+      "confirmed": 631730,
       "date": "2022-01-06",
-      "deaths": 16111
+      "deaths": 16114
     }
   },
   "Honduras": {
@@ -923,9 +923,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 649669,
+      "confirmed": 653792,
       "date": "2022-01-06",
-      "deaths": 5838
+      "deaths": 5887
     }
   },
   "Kuwait": {
@@ -1559,7 +1559,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 214271,
+          "confirmed": 217485,
           "date": "2022-01-06",
           "deaths": 2151
         }
