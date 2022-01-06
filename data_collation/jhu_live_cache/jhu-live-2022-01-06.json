@@ -351,14 +351,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 852858,
+          "confirmed": 856071,
           "date": "2022-01-06",
-          "deaths": 10324
+          "deaths": 10335
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 665821,
+          "confirmed": 680307,
           "date": "2022-01-06",
           "deaths": 11846
         }
@@ -487,9 +487,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 436586,
+      "confirmed": 440024,
       "date": "2022-01-06",
-      "deaths": 6988
+      "deaths": 7005
     }
   },
   "Finland": {
@@ -810,7 +810,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1446073,
+      "confirmed": 1448448,
       "date": "2022-01-06",
       "deaths": 8259
     }
@@ -930,7 +930,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 423042,
+      "confirmed": 425455,
       "date": "2022-01-06",
       "deaths": 2469
     }
@@ -1036,9 +1036,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 378202,
+      "confirmed": 378904,
       "date": "2022-01-06",
-      "deaths": 10328
+      "deaths": 10339
     }
   },
   "Mongolia": {
@@ -1050,9 +1050,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 977579,
+      "confirmed": 983629,
       "date": "2022-01-06",
-      "deaths": 14872
+      "deaths": 14883
     }
   },
   "Mozambique": {
@@ -1131,9 +1131,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 228540,
+      "confirmed": 230265,
       "date": "2022-01-06",
-      "deaths": 8000
+      "deaths": 8002
     }
   },
   "Norway": {
@@ -1426,7 +1426,7 @@
     "live": {
       "confirmed": 1455174,
       "date": "2022-01-06",
-      "deaths": 12322
+      "deaths": 12325
     }
   },
   "Thailand": {
@@ -1461,9 +1461,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3540209,
+          "confirmed": 3541993,
           "date": "2022-01-06",
-          "deaths": 49681
+          "deaths": 49683
         }
       },
       "Florida": {
@@ -1503,16 +1503,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 381724,
+          "confirmed": 383353,
           "date": "2022-01-06",
-          "deaths": 6512
+          "deaths": 6527
         }
       },
       "New York": {
         "live": {
-          "confirmed": 2483525,
+          "confirmed": 2534176,
           "date": "2022-01-06",
-          "deaths": 43314
+          "deaths": 43338
         }
       },
       "North Carolina": {
@@ -1559,9 +1559,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 196088,
+          "confirmed": 198958,
           "date": "2022-01-06",
-          "deaths": 1824
+          "deaths": 1829
         }
       }
     }
