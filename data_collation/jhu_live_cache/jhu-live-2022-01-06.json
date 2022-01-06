@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 212021,
+      "confirmed": 213257,
       "date": "2022-01-06",
-      "deaths": 3224
+      "deaths": 3228
     }
   },
   "Algeria": {
@@ -75,9 +75,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 703507,
+      "confirmed": 704907,
       "date": "2022-01-06",
-      "deaths": 5653
+      "deaths": 5669
     }
   },
   "Belgium": {
@@ -494,9 +494,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 289622,
+      "confirmed": 295601,
       "date": "2022-01-06",
-      "deaths": 1624
+      "deaths": 1632
     }
   },
   "France": {
@@ -937,9 +937,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 281155,
+      "confirmed": 283149,
       "date": "2022-01-06",
-      "deaths": 4613
+      "deaths": 4625
     }
   },
   "Lebanon": {
@@ -1145,7 +1145,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 306492,
+      "confirmed": 306755,
       "date": "2022-01-06",
       "deaths": 4117
     }
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 1422932,
       "date": "2022-01-06",
-      "deaths": 12308
+      "deaths": 12311
     }
   },
   "Thailand": {
@@ -1607,7 +1607,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 774897,
+      "confirmed": 777584,
       "date": "2022-01-06",
       "deaths": 2170
     }
