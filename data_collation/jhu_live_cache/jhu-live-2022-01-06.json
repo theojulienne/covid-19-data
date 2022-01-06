@@ -626,7 +626,7 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2077942,
+          "confirmed": 2078376,
           "date": "2022-01-06",
           "deaths": 14499
         }
@@ -1170,7 +1170,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 503407,
+      "confirmed": 507779,
       "date": "2022-01-06",
       "deaths": 7445
     }
@@ -1438,9 +1438,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2235576,
+      "confirmed": 2245250,
       "date": "2022-01-06",
-      "deaths": 21750
+      "deaths": 21780
     }
   },
   "Tunisia": {
@@ -1653,7 +1653,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 199361,
+      "confirmed": 199507,
       "date": "2022-01-06",
       "deaths": 1485
     }
