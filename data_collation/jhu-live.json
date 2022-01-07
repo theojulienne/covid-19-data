@@ -84,42 +84,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 313209,
+          "confirmed": 316822,
           "date": "2022-01-07",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 262001,
+          "confirmed": 266550,
           "date": "2022-01-07",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 270225,
+          "confirmed": 273701,
+          "date": "2022-01-07",
+          "deaths": 0
+        }
+      },
+      "Flemish Brabant": {
+        "live": {
+          "confirmed": 196691,
           "date": "2022-01-07",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 260210,
+          "confirmed": 263327,
           "date": "2022-01-07",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 232870,
+          "confirmed": 235485,
           "date": "2022-01-07",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 222637,
+          "confirmed": 224884,
           "date": "2022-01-07",
           "deaths": 0
         }
@@ -382,7 +389,7 @@
         "live": {
           "confirmed": 814367,
           "date": "2022-01-07",
-          "deaths": 16941
+          "deaths": 16952
         }
       },
       "Atlantico": {
@@ -396,28 +403,28 @@
         "live": {
           "confirmed": 1499738,
           "date": "2022-01-07",
-          "deaths": 27736
+          "deaths": 27741
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 270619,
           "date": "2022-01-07",
-          "deaths": 6865
+          "deaths": 6866
         }
       },
       "Santander": {
         "live": {
           "confirmed": 237361,
           "date": "2022-01-07",
-          "deaths": 7543
+          "deaths": 7549
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 454137,
           "date": "2022-01-07",
-          "deaths": 13384
+          "deaths": 13395
         }
       }
     }
@@ -1006,30 +1013,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1016532,
+          "confirmed": 1023597,
           "date": "2022-01-07",
-          "deaths": 40353
+          "deaths": 40356
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 206432,
+          "confirmed": 207594,
           "date": "2022-01-07",
-          "deaths": 13408
+          "deaths": 13435
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 387381,
+          "confirmed": 389005,
           "date": "2022-01-07",
-          "deaths": 44861
+          "deaths": 44865
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 212509,
+          "confirmed": 213848,
           "date": "2022-01-07",
-          "deaths": 13764
+          "deaths": 13766
         }
       }
     }
@@ -1154,16 +1161,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 446300,
+          "confirmed": 446676,
           "date": "2022-01-07",
-          "deaths": 13076
+          "deaths": 13077
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 484226,
+          "confirmed": 484985,
           "date": "2022-01-07",
-          "deaths": 7676
+          "deaths": 7678
         }
       }
     }
@@ -1249,13 +1256,6 @@
           "confirmed": 232907,
           "date": "2022-01-07",
           "deaths": 9949
-        }
-      },
-      "Rostov Oblast": {
-        "live": {
-          "confirmed": 195789,
-          "date": "2022-01-07",
-          "deaths": 9733
         }
       },
       "Saint Petersburg": {
@@ -1461,9 +1461,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3541993,
+          "confirmed": 3579087,
           "date": "2022-01-07",
-          "deaths": 49683
+          "deaths": 49713
         }
       },
       "Florida": {
