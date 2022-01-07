@@ -358,9 +358,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 857050,
+          "confirmed": 862507,
           "date": "2022-01-07",
-          "deaths": 10335
+          "deaths": 10366
         }
       },
       "Quebec": {
@@ -459,9 +459,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 919388,
+      "confirmed": 937649,
       "date": "2022-01-07",
-      "deaths": 3333
+      "deaths": 3343
     }
   },
   "Dominican Republic": {
@@ -531,9 +531,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1361193,
+          "confirmed": 1361416,
           "date": "2022-01-07",
-          "deaths": 19893
+          "deaths": 19894
         }
       },
       "Berlin": {
@@ -796,16 +796,16 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6203046,
+      "confirmed": 6204224,
       "date": "2022-01-07",
-      "deaths": 131802
+      "deaths": 131821
     }
   },
   "Iraq": {
     "live": {
-      "confirmed": 2095848,
+      "confirmed": 2096490,
       "date": "2022-01-07",
-      "deaths": 24194
+      "deaths": 24198
     }
   },
   "Ireland": {
@@ -923,9 +923,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 306686,
+      "confirmed": 309130,
       "date": "2022-01-07",
-      "deaths": 5411
+      "deaths": 5425
     }
   },
   "Korea, South": {
@@ -1147,7 +1147,7 @@
     "live": {
       "confirmed": 428736,
       "date": "2022-01-07",
-      "deaths": 1349
+      "deaths": 1350
     }
   },
   "Oman": {
@@ -1408,23 +1408,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 201227,
+          "confirmed": 207072,
           "date": "2022-01-07",
-          "deaths": 1843
+          "deaths": 1844
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 338827,
+          "confirmed": 351542,
           "date": "2022-01-07",
-          "deaths": 4586
+          "deaths": 4587
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 232977,
+          "confirmed": 240572,
           "date": "2022-01-07",
-          "deaths": 2491
+          "deaths": 2493
         }
       }
     }
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 1483212,
       "date": "2022-01-07",
-      "deaths": 12336
+      "deaths": 12338
     }
   },
   "Thailand": {
