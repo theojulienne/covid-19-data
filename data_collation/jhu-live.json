@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 757307,
+          "confirmed": 758765,
           "date": "2022-01-07",
-          "deaths": 19962
+          "deaths": 19967
         }
       }
     }
@@ -603,9 +603,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1422020,
+      "confirmed": 1451354,
       "date": "2022-01-07",
-      "deaths": 21185
+      "deaths": 21263
     }
   },
   "Guatemala": {
@@ -826,65 +826,65 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 654537,
+          "confirmed": 664276,
           "date": "2022-01-07",
-          "deaths": 8543
+          "deaths": 8562
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 627222,
+          "confirmed": 644341,
           "date": "2022-01-07",
-          "deaths": 14320
+          "deaths": 14335
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 571122,
+          "confirmed": 583027,
           "date": "2022-01-07",
-          "deaths": 9342
+          "deaths": 9353
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 1432864,
+          "confirmed": 1451531,
           "date": "2022-01-07",
-          "deaths": 35286
+          "deaths": 35345
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 560914,
+          "confirmed": 568566,
           "date": "2022-01-07",
-          "deaths": 12119
+          "deaths": 12136
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 333918,
+          "confirmed": 339499,
           "date": "2022-01-07",
-          "deaths": 7001
+          "deaths": 7006
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 414728,
+          "confirmed": 423976,
           "date": "2022-01-07",
-          "deaths": 7634
+          "deaths": 7643
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 463023,
+          "confirmed": 470590,
           "date": "2022-01-07",
-          "deaths": 7617
+          "deaths": 7630
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 721879,
+          "confirmed": 728725,
           "date": "2022-01-07",
-          "deaths": 12487
+          "deaths": 12520
         }
       }
     }
@@ -893,14 +893,14 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 204869,
+          "confirmed": 205545,
           "date": "2022-01-07",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 384526,
+          "confirmed": 385448,
           "date": "2022-01-07",
           "deaths": 3175
         }
@@ -974,35 +974,35 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 247140,
+          "confirmed": 247439,
           "date": "2022-01-07",
-          "deaths": 3872
+          "deaths": 3876
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 241905,
+          "confirmed": 242147,
           "date": "2022-01-07",
-          "deaths": 2793
+          "deaths": 2796
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252443,
+          "confirmed": 252461,
           "date": "2022-01-07",
-          "deaths": 1617
+          "deaths": 1618
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 791164,
+          "confirmed": 792043,
           "date": "2022-01-07",
-          "deaths": 9985
+          "deaths": 9987
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 212023,
+          "confirmed": 212294,
           "date": "2022-01-07",
           "deaths": 2683
         }
