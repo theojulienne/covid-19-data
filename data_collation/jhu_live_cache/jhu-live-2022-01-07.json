@@ -61,9 +61,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 287939,
+      "confirmed": 289454,
       "date": "2022-01-07",
-      "deaths": 1395
+      "deaths": 1397
     }
   },
   "Bangladesh": {
@@ -351,7 +351,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 867752,
+          "confirmed": 868963,
           "date": "2022-01-07",
           "deaths": 10378
         }
@@ -1320,63 +1320,63 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 1015753,
+          "confirmed": 1041565,
           "date": "2022-01-07",
-          "deaths": 11526
+          "deaths": 11537
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 243947,
+          "confirmed": 254032,
           "date": "2022-01-07",
-          "deaths": 4128
+          "deaths": 4137
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 684310,
+          "confirmed": 713156,
           "date": "2022-01-07",
-          "deaths": 8161
+          "deaths": 8170
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 311186,
+          "confirmed": 326076,
           "date": "2022-01-07",
-          "deaths": 6605
+          "deaths": 6612
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 432920,
+          "confirmed": 448333,
           "date": "2022-01-07",
-          "deaths": 7578
+          "deaths": 7583
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 1286172,
+          "confirmed": 1333517,
           "date": "2022-01-07",
-          "deaths": 16143
+          "deaths": 16144
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 279998,
+          "confirmed": 293755,
           "date": "2022-01-07",
-          "deaths": 2780
+          "deaths": 2798
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 1184852,
+          "confirmed": 1206297,
           "date": "2022-01-07",
-          "deaths": 16378
+          "deaths": 16381
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 428323,
+          "confirmed": 450442,
           "date": "2022-01-07",
           "deaths": 5192
         }
