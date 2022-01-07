@@ -103,13 +103,6 @@
           "deaths": 0
         }
       },
-      "Flemish Brabant": {
-        "live": {
-          "confirmed": 196691,
-          "date": "2022-01-07",
-          "deaths": 0
-        }
-      },
       "Hainaut": {
         "live": {
           "confirmed": 263327,
@@ -445,7 +438,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 970567,
+      "confirmed": 972513,
       "date": "2022-01-07",
       "deaths": 8325
     }
@@ -466,7 +459,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 439017,
+      "confirmed": 444985,
       "date": "2022-01-07",
       "deaths": 4252
     }
@@ -810,7 +803,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 908672,
+      "confirmed": 930598,
       "date": "2022-01-07",
       "deaths": 5952
     }
@@ -1057,9 +1050,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 983629,
+      "confirmed": 990057,
       "date": "2022-01-07",
-      "deaths": 14883
+      "deaths": 14896
     }
   },
   "Mozambique": {
@@ -1193,9 +1186,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 1017449,
+          "confirmed": 1032720,
           "date": "2022-01-07",
-          "deaths": 89533
+          "deaths": 89553
         }
       }
     }
@@ -1392,9 +1385,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 590063,
+      "confirmed": 590651,
       "date": "2022-01-07",
-      "deaths": 15083
+      "deaths": 15099
     }
   },
   "Sweden": {
@@ -1461,9 +1454,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3579087,
+          "confirmed": 3605698,
           "date": "2022-01-07",
-          "deaths": 49713
+          "deaths": 49783
         }
       },
       "Florida": {
@@ -1496,9 +1489,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 215242,
+          "confirmed": 217270,
           "date": "2022-01-07",
-          "deaths": 2223
+          "deaths": 2231
         }
       },
       "Nevada": {
@@ -1513,6 +1506,13 @@
           "confirmed": 2539938,
           "date": "2022-01-07",
           "deaths": 43407
+        }
+      },
+      "North Carolina": {
+        "live": {
+          "confirmed": 198446,
+          "date": "2022-01-07",
+          "deaths": 1333
         }
       },
       "Ohio": {
@@ -1531,9 +1531,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1957900,
+          "confirmed": 1980410,
           "date": "2022-01-07",
-          "deaths": 26011
+          "deaths": 26035
         }
       },
       "Utah": {
