@@ -351,14 +351,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 862805,
+          "confirmed": 865362,
           "date": "2022-01-07",
-          "deaths": 10367
+          "deaths": 10372
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 680307,
+          "confirmed": 696181,
           "date": "2022-01-07",
           "deaths": 11873
         }
@@ -930,7 +930,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 425455,
+      "confirmed": 428100,
       "date": "2022-01-07",
       "deaths": 2469
     }
@@ -1438,9 +1438,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9789244,
+      "confirmed": 9852458,
       "date": "2022-01-07",
-      "deaths": 83231
+      "deaths": 83388
     }
   },
   "US": {
@@ -1482,9 +1482,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 515434,
+          "confirmed": 531806,
           "date": "2022-01-07",
-          "deaths": 9744
+          "deaths": 9858
         }
       },
       "Minnesota": {
@@ -1498,14 +1498,14 @@
         "live": {
           "confirmed": 386861,
           "date": "2022-01-07",
-          "deaths": 6527
+          "deaths": 6529
         }
       },
       "New York": {
         "live": {
-          "confirmed": 2539938,
+          "confirmed": 2576009,
           "date": "2022-01-07",
-          "deaths": 43407
+          "deaths": 43511
         }
       },
       "North Carolina": {
@@ -1517,9 +1517,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 465609,
+          "confirmed": 469962,
           "date": "2022-01-07",
-          "deaths": 4830
+          "deaths": 4890
         }
       },
       "Pennsylvania": {
@@ -1533,14 +1533,14 @@
         "live": {
           "confirmed": 1980410,
           "date": "2022-01-07",
-          "deaths": 26035
+          "deaths": 26041
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 243005,
+          "confirmed": 247610,
           "date": "2022-01-07",
-          "deaths": 1358
+          "deaths": 1366
         }
       },
       "Washington": {
@@ -1552,9 +1552,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 198958,
+          "confirmed": 201865,
           "date": "2022-01-07",
-          "deaths": 1829
+          "deaths": 1832
         }
       }
     }
