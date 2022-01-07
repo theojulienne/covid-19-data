@@ -177,7 +177,7 @@ var covid19_dataset_latest_totals = {
           "current_ventilators": 16,
           "deaths": 691,
           "recovered": 2799,
-          "tested": 25667976
+          "tested": 25779207
         },
         "NT": {
           "confirmed": 202,

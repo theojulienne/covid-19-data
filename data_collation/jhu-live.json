@@ -142,9 +142,9 @@
   },
   "Botswana": {
     "live": {
-      "confirmed": 222053,
+      "confirmed": 229855,
       "date": "2022-01-07",
-      "deaths": 2452
+      "deaths": 2475
     }
   },
   "Brazil": {
@@ -1170,9 +1170,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 507779,
+      "confirmed": 512402,
       "date": "2022-01-07",
-      "deaths": 7445
+      "deaths": 7449
     }
   },
   "Paraguay": {
