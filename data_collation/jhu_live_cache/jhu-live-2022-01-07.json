@@ -610,9 +610,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 631730,
+      "confirmed": 633774,
       "date": "2022-01-07",
-      "deaths": 16114
+      "deaths": 16117
     }
   },
   "Honduras": {
@@ -944,9 +944,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 283149,
+      "confirmed": 285026,
       "date": "2022-01-07",
-      "deaths": 4625
+      "deaths": 4642
     }
   },
   "Lebanon": {
@@ -958,9 +958,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 392276,
+      "confirmed": 392868,
       "date": "2022-01-07",
-      "deaths": 5767
+      "deaths": 5778
     }
   },
   "Lithuania": {
@@ -1230,9 +1230,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1827867,
+      "confirmed": 1833789,
       "date": "2022-01-07",
-      "deaths": 58940
+      "deaths": 58971
     }
   },
   "Russia": {
@@ -1667,9 +1667,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1843563,
+      "confirmed": 1859841,
       "date": "2022-01-07",
-      "deaths": 33644
+      "deaths": 33877
     }
   },
   "West Bank and Gaza": {
@@ -1681,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 274087,
+      "confirmed": 278276,
       "date": "2022-01-07",
-      "deaths": 3782
+      "deaths": 3790
     }
   },
   "Zimbabwe": {
