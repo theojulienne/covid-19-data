@@ -344,9 +344,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 270508,
+          "confirmed": 273731,
           "date": "2022-01-07",
-          "deaths": 2427
+          "deaths": 2430
         }
       },
       "Ontario": {
@@ -380,42 +380,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 808860,
+          "confirmed": 814367,
           "date": "2022-01-07",
           "deaths": 16941
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 346355,
+          "confirmed": 347325,
           "date": "2022-01-07",
           "deaths": 9752
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1495057,
+          "confirmed": 1499738,
           "date": "2022-01-07",
           "deaths": 27736
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 270033,
+          "confirmed": 270619,
           "date": "2022-01-07",
           "deaths": 6865
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 236888,
+          "confirmed": 237361,
           "date": "2022-01-07",
           "deaths": 7543
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 447023,
+          "confirmed": 454137,
           "date": "2022-01-07",
           "deaths": 13384
         }
@@ -923,9 +923,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 653792,
+      "confirmed": 657508,
       "date": "2022-01-07",
-      "deaths": 5887
+      "deaths": 5932
     }
   },
   "Kuwait": {
@@ -1510,9 +1510,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2534176,
+          "confirmed": 2539938,
           "date": "2022-01-07",
-          "deaths": 43338
+          "deaths": 43407
         }
       },
       "North Carolina": {
@@ -1552,9 +1552,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 217485,
+          "confirmed": 222392,
           "date": "2022-01-07",
-          "deaths": 2151
+          "deaths": 2158
         }
       },
       "Wisconsin": {
