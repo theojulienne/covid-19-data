@@ -487,9 +487,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 247863,
+      "confirmed": 249592,
       "date": "2022-01-07",
-      "deaths": 1945
+      "deaths": 1951
     }
   },
   "Ethiopia": {
@@ -524,7 +524,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1047480,
+          "confirmed": 1047498,
           "date": "2022-01-07",
           "deaths": 13183
         }
@@ -624,9 +624,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1276433,
+      "confirmed": 1282957,
       "date": "2022-01-07",
-      "deaths": 39679
+      "deaths": 39780
     }
   },
   "India": {
@@ -965,9 +965,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 532807,
+      "confirmed": 536405,
       "date": "2022-01-07",
-      "deaths": 7493
+      "deaths": 7504
     }
   },
   "Malaysia": {
@@ -1239,44 +1239,51 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2043006,
+          "confirmed": 2046700,
           "date": "2022-01-07",
-          "deaths": 37183
+          "deaths": 37255
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 647750,
+          "confirmed": 648649,
           "date": "2022-01-07",
-          "deaths": 12361
+          "deaths": 12399
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 232907,
+          "confirmed": 232999,
           "date": "2022-01-07",
-          "deaths": 9949
+          "deaths": 9971
+        }
+      },
+      "Rostov Oblast": {
+        "live": {
+          "confirmed": 196094,
+          "date": "2022-01-07",
+          "deaths": 9749
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 860107,
+          "confirmed": 861398,
           "date": "2022-01-07",
-          "deaths": 28386
+          "deaths": 28447
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 201482,
+          "confirmed": 201684,
           "date": "2022-01-07",
-          "deaths": 6376
+          "deaths": 6393
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 201246,
+          "confirmed": 201633,
           "date": "2022-01-07",
-          "deaths": 9551
+          "deaths": 9570
         }
       }
     }
@@ -1426,7 +1433,7 @@
     "live": {
       "confirmed": 1455174,
       "date": "2022-01-07",
-      "deaths": 12328
+      "deaths": 12329
     }
   },
   "Thailand": {
@@ -1513,13 +1520,6 @@
           "confirmed": 2539938,
           "date": "2022-01-07",
           "deaths": 43407
-        }
-      },
-      "North Carolina": {
-        "live": {
-          "confirmed": 195791,
-          "date": "2022-01-07",
-          "deaths": 1333
         }
       },
       "Ohio": {
