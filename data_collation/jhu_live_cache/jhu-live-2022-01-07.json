@@ -538,7 +538,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 350599,
+          "confirmed": 350602,
           "date": "2022-01-07",
           "deaths": 4032
         }
@@ -1431,9 +1431,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2245250,
+      "confirmed": 2252776,
       "date": "2022-01-07",
-      "deaths": 21780
+      "deaths": 21799
     }
   },
   "Tunisia": {
