@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 221316,
+      "confirmed": 221742,
       "date": "2022-01-08",
-      "deaths": 6325
+      "deaths": 6330
     }
   },
   "Argentina": {
@@ -358,14 +358,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 871363,
+          "confirmed": 871451,
           "date": "2022-01-08",
           "deaths": 10383
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 696181,
+          "confirmed": 712357,
           "date": "2022-01-08",
           "deaths": 11873
         }
@@ -450,6 +450,13 @@
       "deaths": 8326
     }
   },
+  "Cyprus": {
+    "live": {
+      "confirmed": 201360,
+      "date": "2022-01-08",
+      "deaths": 654
+    }
+  },
   "Czechia": {
     "live": {
       "confirmed": 2524171,
@@ -494,9 +501,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 442187,
+      "confirmed": 443339,
       "date": "2022-01-08",
-      "deaths": 7012
+      "deaths": 7020
     }
   },
   "Finland": {
@@ -937,9 +944,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 428100,
+      "confirmed": 430920,
       "date": "2022-01-08",
-      "deaths": 2469
+      "deaths": 2471
     }
   },
   "Latvia": {
@@ -1043,9 +1050,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 379572,
+      "confirmed": 379901,
       "date": "2022-01-08",
-      "deaths": 10350
+      "deaths": 10356
     }
   },
   "Mongolia": {
@@ -1064,9 +1071,9 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 206272,
+      "confirmed": 209389,
       "date": "2022-01-08",
-      "deaths": 2075
+      "deaths": 2077
     }
   },
   "Nepal": {
@@ -1138,9 +1145,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 231436,
+      "confirmed": 232068,
       "date": "2022-01-08",
-      "deaths": 8012
+      "deaths": 8023
     }
   },
   "Norway": {
@@ -1223,7 +1230,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 263475,
+      "confirmed": 266962,
       "date": "2022-01-08",
       "deaths": 618
     }
@@ -1445,9 +1452,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9852458,
+      "confirmed": 9918695,
       "date": "2022-01-08",
-      "deaths": 83388
+      "deaths": 83529
     }
   },
   "US": {
@@ -1515,16 +1522,9 @@
           "deaths": 43547
         }
       },
-      "North Carolina": {
-        "live": {
-          "confirmed": 198446,
-          "date": "2022-01-08",
-          "deaths": 1333
-        }
-      },
       "Ohio": {
         "live": {
-          "confirmed": 469962,
+          "confirmed": 473844,
           "date": "2022-01-08",
           "deaths": 4890
         }
