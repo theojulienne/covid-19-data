@@ -337,16 +337,16 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 388995,
+          "confirmed": 395252,
           "date": "2022-01-08",
-          "deaths": 3336
+          "deaths": 3338
         }
       },
       "British Columbia": {
         "live": {
-          "confirmed": 273731,
+          "confirmed": 276875,
           "date": "2022-01-08",
-          "deaths": 2430
+          "deaths": 2439
         }
       },
       "Ontario": {
@@ -1461,9 +1461,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3605698,
+          "confirmed": 3649302,
           "date": "2022-01-08",
-          "deaths": 49786
+          "deaths": 49814
         }
       },
       "Florida": {
@@ -1552,9 +1552,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 222392,
+          "confirmed": 228166,
           "date": "2022-01-08",
-          "deaths": 2158
+          "deaths": 2161
         }
       },
       "Wisconsin": {
