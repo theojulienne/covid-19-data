@@ -358,9 +358,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 869776,
+          "confirmed": 871363,
           "date": "2022-01-08",
-          "deaths": 10380
+          "deaths": 10383
         }
       },
       "Quebec": {
@@ -508,9 +508,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 11280912,
+      "confirmed": 11579510,
       "date": "2022-01-08",
-      "deaths": 122647
+      "deaths": 122782
     }
   },
   "Georgia": {
@@ -1318,9 +1318,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3513813,
+      "confirmed": 3521572,
       "date": "2022-01-08",
-      "deaths": 92252
+      "deaths": 92371
     }
   },
   "Spain": {
@@ -1454,9 +1454,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 914958,
+          "confirmed": 926432,
           "date": "2022-01-08",
-          "deaths": 13867
+          "deaths": 13914
         }
       },
       "California": {
