@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 6025303,
+      "confirmed": 6135836,
       "date": "2022-01-07",
-      "deaths": 117386
+      "deaths": 117428
     }
   },
   "Armenia": {
@@ -321,9 +321,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 770001,
+      "confirmed": 775525,
       "date": "2022-01-07",
-      "deaths": 31375
+      "deaths": 31471
     }
   },
   "Burma": {
@@ -380,42 +380,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 814367,
+          "confirmed": 821700,
           "date": "2022-01-07",
           "deaths": 16952
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 347325,
+          "confirmed": 348731,
           "date": "2022-01-07",
           "deaths": 9752
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1499738,
+          "confirmed": 1505699,
           "date": "2022-01-07",
           "deaths": 27741
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 270619,
+          "confirmed": 271309,
           "date": "2022-01-07",
           "deaths": 6866
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 237361,
+          "confirmed": 238052,
           "date": "2022-01-07",
           "deaths": 7549
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 454137,
+          "confirmed": 459230,
           "date": "2022-01-07",
           "deaths": 13395
         }
@@ -487,9 +487,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 440024,
+      "confirmed": 442187,
       "date": "2022-01-07",
-      "deaths": 7005
+      "deaths": 7012
     }
   },
   "Finland": {
@@ -1374,6 +1374,13 @@
           "deaths": 16381
         }
       },
+      "Murcia": {
+        "live": {
+          "confirmed": 198164,
+          "date": "2022-01-07",
+          "deaths": 1857
+        }
+      },
       "Pais Vasco": {
         "live": {
           "confirmed": 450442,
@@ -1431,9 +1438,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 735973,
+      "confirmed": 738442,
       "date": "2022-01-07",
-      "deaths": 25630
+      "deaths": 25643
     }
   },
   "Turkey": {
@@ -1461,9 +1468,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 2381035,
+          "confirmed": 2123831,
           "date": "2022-01-07",
-          "deaths": 41225
+          "deaths": 15576
         }
       },
       "Illinois": {
@@ -1475,9 +1482,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 235997,
+          "confirmed": 241111,
           "date": "2022-01-07",
-          "deaths": 4157
+          "deaths": 4166
         }
       },
       "Michigan": {
