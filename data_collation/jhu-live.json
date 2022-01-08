@@ -38,7 +38,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 325479,
+          "confirmed": 325207,
           "date": "2022-01-08",
           "deaths": 1574
         }
@@ -54,9 +54,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 620049,
+      "confirmed": 620679,
       "date": "2022-01-08",
-      "deaths": 8431
+      "deaths": 8437
     }
   },
   "Bahrain": {
@@ -68,16 +68,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1591093,
+      "confirmed": 1592209,
       "date": "2022-01-08",
-      "deaths": 28098
+      "deaths": 28099
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 706530,
+      "confirmed": 707714,
       "date": "2022-01-08",
-      "deaths": 5685
+      "deaths": 5699
     }
   },
   "Belgium": {
@@ -573,9 +573,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 292154,
+          "confirmed": 293325,
           "date": "2022-01-08",
-          "deaths": 4696
+          "deaths": 4699
         }
       },
       "Sachsen": {
@@ -1071,7 +1071,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 831052,
+      "confirmed": 831748,
       "date": "2022-01-08",
       "deaths": 11602
     }
@@ -1230,9 +1230,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1833789,
+      "confirmed": 1839825,
       "date": "2022-01-08",
-      "deaths": 58971
+      "deaths": 58997
     }
   },
   "Russia": {
@@ -1667,9 +1667,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1859841,
+      "confirmed": 1876394,
       "date": "2022-01-08",
-      "deaths": 33877
+      "deaths": 34117
     }
   },
   "West Bank and Gaza": {
@@ -1681,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 278276,
+      "confirmed": 281576,
       "date": "2022-01-08",
-      "deaths": 3790
+      "deaths": 3798
     }
   },
   "Zimbabwe": {
