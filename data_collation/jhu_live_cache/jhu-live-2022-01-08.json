@@ -47,9 +47,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1321725,
+      "confirmed": 1329130,
       "date": "2022-01-08",
-      "deaths": 13830
+      "deaths": 13844
     }
   },
   "Azerbaijan": {
@@ -789,9 +789,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4265187,
+      "confirmed": 4265666,
       "date": "2022-01-08",
-      "deaths": 144121
+      "deaths": 144127
     }
   },
   "Iran": {
@@ -893,7 +893,7 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 205545,
+          "confirmed": 205540,
           "date": "2022-01-08",
           "deaths": 3064
         }
@@ -944,9 +944,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 285026,
+      "confirmed": 286841,
       "date": "2022-01-08",
-      "deaths": 4642
+      "deaths": 4650
     }
   },
   "Lebanon": {
@@ -1607,9 +1607,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 780211,
+      "confirmed": 782866,
       "date": "2022-01-08",
-      "deaths": 2170
+      "deaths": 2173
     }
   },
   "United Kingdom": {
