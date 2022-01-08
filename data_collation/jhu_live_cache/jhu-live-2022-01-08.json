@@ -22,9 +22,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 345518,
+      "confirmed": 345713,
       "date": "2022-01-08",
-      "deaths": 7997
+      "deaths": 7999
     }
   },
   "Australia": {
@@ -515,9 +515,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 953410,
+      "confirmed": 956032,
       "date": "2022-01-08",
-      "deaths": 14128
+      "deaths": 14156
     }
   },
   "Germany": {
@@ -538,7 +538,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 356659,
+          "confirmed": 356661,
           "date": "2022-01-08",
           "deaths": 4036
         }
@@ -916,7 +916,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1074283,
+      "confirmed": 1077726,
       "date": "2022-01-08",
       "deaths": 18274
     }
@@ -965,9 +965,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 536405,
+      "confirmed": 539771,
       "date": "2022-01-08",
-      "deaths": 7504
+      "deaths": 7524
     }
   },
   "Malaysia": {
@@ -1239,44 +1239,44 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2046700,
+          "confirmed": 2049772,
           "date": "2022-01-08",
-          "deaths": 37255
+          "deaths": 37324
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 648649,
+          "confirmed": 649895,
           "date": "2022-01-08",
-          "deaths": 12399
+          "deaths": 12439
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 232999,
+          "confirmed": 233263,
           "date": "2022-01-08",
-          "deaths": 9971
+          "deaths": 9999
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 861398,
+          "confirmed": 862774,
           "date": "2022-01-08",
-          "deaths": 28447
+          "deaths": 28510
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 201684,
+          "confirmed": 201879,
           "date": "2022-01-08",
-          "deaths": 6393
+          "deaths": 6411
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 201633,
+          "confirmed": 202013,
           "date": "2022-01-08",
-          "deaths": 9570
+          "deaths": 9590
         }
       }
     }
@@ -1570,35 +1570,35 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 243188,
+          "confirmed": 243300,
           "date": "2022-01-08",
-          "deaths": 8922
+          "deaths": 8930
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 244877,
+          "confirmed": 245118,
           "date": "2022-01-08",
-          "deaths": 6412
+          "deaths": 6415
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 337506,
+          "confirmed": 337797,
           "date": "2022-01-08",
-          "deaths": 8277
+          "deaths": 8287
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 221867,
+          "confirmed": 222163,
           "date": "2022-01-08",
-          "deaths": 6047
+          "deaths": 6050
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 241468,
+          "confirmed": 241665,
           "date": "2022-01-08",
           "deaths": 5605
         }
