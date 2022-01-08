@@ -1170,9 +1170,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 512402,
+      "confirmed": 517445,
       "date": "2022-01-08",
-      "deaths": 7449
+      "deaths": 7453
     }
   },
   "Paraguay": {
@@ -1468,7 +1468,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 2123831,
+          "confirmed": 2341602,
           "date": "2022-01-08",
           "deaths": 15576
         }
