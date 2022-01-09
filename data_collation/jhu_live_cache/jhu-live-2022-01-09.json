@@ -358,16 +358,16 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 886024,
+          "confirmed": 886090,
           "date": "2022-01-09",
           "deaths": 10413
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 712357,
+          "confirmed": 728285,
           "date": "2022-01-09",
-          "deaths": 11873
+          "deaths": 11917
         }
       }
     }
@@ -452,9 +452,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 201360,
+      "confirmed": 204372,
       "date": "2022-01-09",
-      "deaths": 654
+      "deaths": 657
     }
   },
   "Czechia": {
@@ -501,9 +501,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 443339,
+      "confirmed": 444124,
       "date": "2022-01-09",
-      "deaths": 7020
+      "deaths": 7030
     }
   },
   "Finland": {
@@ -1145,9 +1145,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 232068,
+      "confirmed": 233464,
       "date": "2022-01-09",
-      "deaths": 8023
+      "deaths": 8032
     }
   },
   "Norway": {
@@ -1325,9 +1325,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3521572,
+      "confirmed": 3526054,
       "date": "2022-01-09",
-      "deaths": 92371
+      "deaths": 92453
     }
   },
   "Spain": {
