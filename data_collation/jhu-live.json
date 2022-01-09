@@ -335,9 +335,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 531925,
+      "confirmed": 532062,
       "date": "2022-01-09",
-      "deaths": 19290
+      "deaths": 19291
     }
   },
   "Canada": {
@@ -358,9 +358,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 877457,
+          "confirmed": 884585,
           "date": "2022-01-09",
-          "deaths": 10398
+          "deaths": 10410
         }
       },
       "Quebec": {
@@ -587,9 +587,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 668955,
+          "confirmed": 669731,
           "date": "2022-01-09",
-          "deaths": 13397
+          "deaths": 13415
         }
       },
       "Sachsen-Anhalt": {
@@ -1087,49 +1087,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 374975,
+          "confirmed": 377766,
           "date": "2022-01-09",
           "deaths": 2598
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 238442,
+          "confirmed": 239419,
           "date": "2022-01-09",
           "deaths": 2069
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 505536,
+          "confirmed": 509566,
           "date": "2022-01-09",
-          "deaths": 3550
+          "deaths": 3553
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 554920,
+          "confirmed": 562033,
           "date": "2022-01-09",
-          "deaths": 3131
+          "deaths": 3132
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 212279,
+          "confirmed": 214426,
           "date": "2022-01-09",
-          "deaths": 1344
+          "deaths": 1346
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 261364,
+          "confirmed": 263821,
           "date": "2022-01-09",
-          "deaths": 1475
+          "deaths": 1476
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 749905,
+          "confirmed": 758788,
           "date": "2022-01-09",
           "deaths": 4879
         }
@@ -1209,9 +1209,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2936875,
+      "confirmed": 2965447,
       "date": "2022-01-09",
-      "deaths": 52135
+      "deaths": 52150
     }
   },
   "Poland": {
@@ -1297,9 +1297,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1342646,
+      "confirmed": 1350595,
       "date": "2022-01-09",
-      "deaths": 12890
+      "deaths": 12912
     }
   },
   "Singapore": {
