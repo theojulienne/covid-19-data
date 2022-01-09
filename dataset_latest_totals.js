@@ -104,18 +104,18 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 344930,
-        "deaths": 7972,
+        "confirmed": 344980,
+        "deaths": 7975,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 344261,
-        "deaths": 7939,
+        "confirmed": 344379,
+        "deaths": 7942,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 345518,
-        "deaths": 7997,
+        "confirmed": 345713,
+        "deaths": 7999,
         "recovered": 0
       }
     },
