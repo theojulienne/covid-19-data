@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 6135836,
+      "confirmed": 6237525,
       "date": "2022-01-08",
-      "deaths": 117428
+      "deaths": 117465
     }
   },
   "Armenia": {
@@ -31,9 +31,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 425593,
+          "confirmed": 455655,
           "date": "2022-01-08",
-          "deaths": 709
+          "deaths": 725
         }
       },
       "Victoria": {
