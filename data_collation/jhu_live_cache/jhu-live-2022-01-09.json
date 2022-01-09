@@ -358,9 +358,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 884705,
+          "confirmed": 886024,
           "date": "2022-01-09",
-          "deaths": 10410
+          "deaths": 10413
         }
       },
       "Quebec": {
@@ -515,9 +515,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 11579510,
+      "confirmed": 11875607,
       "date": "2022-01-09",
-      "deaths": 122782
+      "deaths": 122872
     }
   },
   "Georgia": {
@@ -1524,16 +1524,16 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 473844,
+          "confirmed": 478146,
           "date": "2022-01-09",
           "deaths": 4890
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 458894,
+          "confirmed": 462100,
           "date": "2022-01-09",
-          "deaths": 7109
+          "deaths": 7112
         }
       },
       "Texas": {
