@@ -438,9 +438,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 758272,
+      "confirmed": 765605,
       "date": "2022-01-09",
-      "deaths": 12841
+      "deaths": 12878
     }
   },
   "Cuba": {
@@ -466,9 +466,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 950237,
+      "confirmed": 969485,
       "date": "2022-01-09",
-      "deaths": 3371
+      "deaths": 3385
     }
   },
   "Dominican Republic": {
@@ -538,7 +538,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1373910,
+          "confirmed": 1374330,
           "date": "2022-01-09",
           "deaths": 19931
         }
@@ -796,23 +796,23 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4265666,
+      "confirmed": 4266195,
       "date": "2022-01-09",
-      "deaths": 144127
+      "deaths": 144129
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 6204925,
+      "confirmed": 6206405,
       "date": "2022-01-09",
-      "deaths": 131847
+      "deaths": 131878
     }
   },
   "Iraq": {
     "live": {
-      "confirmed": 2096806,
+      "confirmed": 2097540,
       "date": "2022-01-09",
-      "deaths": 24200
+      "deaths": 24207
     }
   },
   "Ireland": {
@@ -824,7 +824,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1495570,
+      "confirmed": 1498367,
       "date": "2022-01-09",
       "deaths": 8265
     }
