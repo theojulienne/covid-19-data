@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 760465,
+          "confirmed": 761896,
           "date": "2022-01-09",
-          "deaths": 19969
+          "deaths": 19973
         }
       }
     }
@@ -445,9 +445,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 974687,
+      "confirmed": 977410,
       "date": "2022-01-09",
-      "deaths": 8326
+      "deaths": 8328
     }
   },
   "Cyprus": {
@@ -610,9 +610,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1489024,
+      "confirmed": 1507616,
       "date": "2022-01-09",
-      "deaths": 21328
+      "deaths": 21394
     }
   },
   "Guatemala": {
@@ -900,14 +900,14 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 206431,
+          "confirmed": 207311,
           "date": "2022-01-09",
-          "deaths": 3065
+          "deaths": 3066
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 386672,
+          "confirmed": 387895,
           "date": "2022-01-09",
           "deaths": 3175
         }
@@ -1064,9 +1064,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 997121,
+      "confirmed": 1002084,
       "date": "2022-01-09",
-      "deaths": 14904
+      "deaths": 14911
     }
   },
   "Mozambique": {
@@ -1230,7 +1230,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 266962,
+      "confirmed": 270651,
       "date": "2022-01-09",
       "deaths": 618
     }
