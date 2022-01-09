@@ -38,9 +38,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 325207,
+          "confirmed": 369362,
           "date": "2022-01-09",
-          "deaths": 1574
+          "deaths": 1578
         }
       }
     }
@@ -1168,16 +1168,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 447082,
+          "confirmed": 447530,
           "date": "2022-01-09",
-          "deaths": 13077
+          "deaths": 13079
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 485782,
+          "confirmed": 486740,
           "date": "2022-01-09",
-          "deaths": 7678
+          "deaths": 7681
         }
       }
     }
