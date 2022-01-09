@@ -389,21 +389,21 @@
         "live": {
           "confirmed": 829162,
           "date": "2022-01-09",
-          "deaths": 16966
+          "deaths": 16969
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 350559,
           "date": "2022-01-09",
-          "deaths": 9752
+          "deaths": 9753
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1512386,
           "date": "2022-01-09",
-          "deaths": 27745
+          "deaths": 27749
         }
       },
       "Cundinamarca": {
@@ -424,7 +424,7 @@
         "live": {
           "confirmed": 466626,
           "date": "2022-01-09",
-          "deaths": 13408
+          "deaths": 13426
         }
       }
     }
@@ -1653,9 +1653,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 199972,
+      "confirmed": 200341,
       "date": "2022-01-09",
-      "deaths": 1492
+      "deaths": 1494
     }
   },
   "Venezuela": {
