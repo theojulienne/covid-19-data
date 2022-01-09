@@ -47,9 +47,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1329130,
+      "confirmed": 1339421,
       "date": "2022-01-09",
-      "deaths": 13844
+      "deaths": 13848
     }
   },
   "Azerbaijan": {
@@ -496,7 +496,7 @@
     "live": {
       "confirmed": 252517,
       "date": "2022-01-09",
-      "deaths": 1954
+      "deaths": 1955
     }
   },
   "Ethiopia": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1494261,
+      "confirmed": 1495570,
       "date": "2022-01-09",
-      "deaths": 8259
+      "deaths": 8265
     }
   },
   "Italy": {
@@ -965,9 +965,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 392868,
+      "confirmed": 393447,
       "date": "2022-01-09",
-      "deaths": 5778
+      "deaths": 5788
     }
   },
   "Lithuania": {
@@ -1318,9 +1318,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 487437,
+      "confirmed": 490784,
       "date": "2022-01-09",
-      "deaths": 5650
+      "deaths": 5655
     }
   },
   "South Africa": {
@@ -1607,9 +1607,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 782866,
+      "confirmed": 785625,
       "date": "2022-01-09",
-      "deaths": 2173
+      "deaths": 2174
     }
   },
   "United Kingdom": {
@@ -1681,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 281576,
+      "confirmed": 282904,
       "date": "2022-01-09",
-      "deaths": 3798
+      "deaths": 3812
     }
   },
   "Zimbabwe": {
