@@ -358,7 +358,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 884585,
+          "confirmed": 884705,
           "date": "2022-01-09",
           "deaths": 10410
         }
@@ -473,7 +473,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 451185,
+      "confirmed": 457227,
       "date": "2022-01-09",
       "deaths": 4255
     }
@@ -944,7 +944,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 430920,
+      "confirmed": 433919,
       "date": "2022-01-09",
       "deaths": 2471
     }
@@ -1304,9 +1304,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 284802,
+      "confirmed": 285647,
       "date": "2022-01-09",
-      "deaths": 837
+      "deaths": 838
     }
   },
   "Slovakia": {
@@ -1616,30 +1616,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 12132895,
+          "confirmed": 12254123,
           "date": "2022-01-09",
-          "deaths": 130493
+          "deaths": 130577
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 456404,
+          "confirmed": 460164,
           "date": "2022-01-09",
-          "deaths": 3007
+          "deaths": 3009
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 1037622,
+          "confirmed": 1045109,
           "date": "2022-01-09",
-          "deaths": 9931
+          "deaths": 9934
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 706873,
+          "confirmed": 715796,
           "date": "2022-01-09",
-          "deaths": 6626
+          "deaths": 6634
         }
       }
     }
