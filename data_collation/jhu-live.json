@@ -930,9 +930,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 310797,
+      "confirmed": 311538,
       "date": "2022-01-09",
-      "deaths": 5425
+      "deaths": 5446
     }
   },
   "Korea, South": {
@@ -1050,9 +1050,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 379901,
+      "confirmed": 380290,
       "date": "2022-01-09",
-      "deaths": 10356
+      "deaths": 10363
     }
   },
   "Mongolia": {
@@ -1468,9 +1468,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3683666,
+          "confirmed": 3729219,
           "date": "2022-01-09",
-          "deaths": 49830
+          "deaths": 49843
         }
       },
       "Florida": {
@@ -1517,9 +1517,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2654393,
+          "confirmed": 2711554,
           "date": "2022-01-09",
-          "deaths": 43583
+          "deaths": 43620
         }
       },
       "Ohio": {
