@@ -351,9 +351,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 894822,
+          "confirmed": 901196,
           "date": "2022-01-10",
-          "deaths": 10426
+          "deaths": 10441
         }
       },
       "Quebec": {
@@ -1043,9 +1043,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 380290,
+      "confirmed": 380985,
       "date": "2022-01-10",
-      "deaths": 10363
+      "deaths": 10380
     }
   },
   "Mongolia": {
@@ -1463,7 +1463,7 @@
         "live": {
           "confirmed": 3999620,
           "date": "2022-01-10",
-          "deaths": 52484
+          "deaths": 52490
         }
       },
       "Florida": {

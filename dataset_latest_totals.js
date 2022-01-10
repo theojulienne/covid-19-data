@@ -2261,18 +2261,18 @@ var covid19_dataset_latest_totals = {
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 376434,
-        "deaths": 10284,
+        "confirmed": 376602,
+        "deaths": 10290,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 374349,
-        "deaths": 9605,
+        "confirmed": 374526,
+        "deaths": 9613,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 379901,
-        "deaths": 10356,
+        "confirmed": 380290,
+        "deaths": 10363,
         "recovered": 0
       }
     },
