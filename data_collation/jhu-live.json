@@ -508,9 +508,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 305522,
+      "confirmed": 328847,
       "date": "2022-01-10",
-      "deaths": 1638
+      "deaths": 1656
     }
   },
   "France": {
@@ -531,7 +531,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1062062,
+          "confirmed": 1062079,
           "date": "2022-01-10",
           "deaths": 13224
         }
@@ -796,9 +796,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4266195,
+      "confirmed": 4266649,
       "date": "2022-01-10",
-      "deaths": 144129
+      "deaths": 144136
     }
   },
   "Iran": {
@@ -824,7 +824,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1503082,
+      "confirmed": 1519261,
       "date": "2022-01-10",
       "deaths": 8269
     }
@@ -900,7 +900,7 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 207311,
+          "confirmed": 207307,
           "date": "2022-01-10",
           "deaths": 3066
         }
@@ -951,9 +951,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 287851,
+      "confirmed": 288715,
       "date": "2022-01-10",
-      "deaths": 4658
+      "deaths": 4661
     }
   },
   "Lebanon": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 1483212,
       "date": "2022-01-10",
-      "deaths": 12352
+      "deaths": 12359
     }
   },
   "Thailand": {
@@ -1607,7 +1607,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 785625,
+      "confirmed": 788187,
       "date": "2022-01-10",
       "deaths": 2174
     }
@@ -1681,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 282904,
+      "confirmed": 284389,
       "date": "2022-01-10",
-      "deaths": 3812
+      "deaths": 3817
     }
   },
   "Zimbabwe": {
