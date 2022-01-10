@@ -1442,7 +1442,8 @@ var covid19_dataset_country_moz = {
       203241,
       206272,
       209389,
-      210399
+      210399,
+      210991
     ],
     "deaths": [
       0,
@@ -2163,7 +2164,8 @@ var covid19_dataset_country_moz = {
       2065,
       2075,
       2077,
-      2085
+      2085,
+      2096
     ],
     "recovered": [
       0,
