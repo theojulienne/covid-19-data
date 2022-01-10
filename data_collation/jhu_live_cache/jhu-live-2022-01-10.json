@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 292572,
+      "confirmed": 294466,
       "date": "2022-01-10",
       "deaths": 1397
     }
@@ -351,7 +351,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 901196,
+          "confirmed": 902618,
           "date": "2022-01-10",
           "deaths": 10441
         }
@@ -817,9 +817,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1525690,
+      "confirmed": 1557597,
       "date": "2022-01-10",
-      "deaths": 8269
+      "deaths": 8271
     }
   },
   "Italy": {
@@ -1454,7 +1454,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 937211,
+          "confirmed": 949357,
           "date": "2022-01-10",
           "deaths": 13952
         }
@@ -1489,9 +1489,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 531806,
+          "confirmed": 547800,
           "date": "2022-01-10",
-          "deaths": 9858
+          "deaths": 9870
         }
       },
       "Minnesota": {
@@ -1510,9 +1510,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2754101,
+          "confirmed": 2764300,
           "date": "2022-01-10",
-          "deaths": 43730
+          "deaths": 43753
         }
       },
       "North Carolina": {
