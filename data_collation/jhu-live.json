@@ -1653,9 +1653,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 200341,
+      "confirmed": 200730,
       "date": "2022-01-10",
-      "deaths": 1494
+      "deaths": 1497
     }
   },
   "Venezuela": {
@@ -1688,9 +1688,9 @@
   },
   "Zimbabwe": {
     "live": {
-      "confirmed": 221918,
+      "confirmed": 222291,
       "date": "2022-01-10",
-      "deaths": 5148
+      "deaths": 5160
     }
   }
 }
