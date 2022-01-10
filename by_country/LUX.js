@@ -1441,6 +1441,7 @@ var covid19_dataset_country_lux = {
       108366,
       110298,
       112203,
+      112203,
       112203
     ],
     "deaths": [
@@ -2161,6 +2162,7 @@ var covid19_dataset_country_lux = {
       920,
       921,
       922,
+      922,
       922
     ],
     "recovered": [
@@ -2725,6 +2727,7 @@ var covid19_dataset_country_lux = {
       72211,
       72217,
       72306,
+      0,
       0,
       0,
       0,
