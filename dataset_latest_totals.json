@@ -143,7 +143,7 @@
         "current_icu": 8,
         "deaths": 706,
         "recovered": 19522,
-        "tested": 47605747
+        "tested": 47744018
       },
       "back_2week": {
         "confirmed": 290714,
@@ -151,7 +151,7 @@
         "current_icu": 8,
         "deaths": 686,
         "recovered": 19522,
-        "tested": 46216232
+        "tested": 46481752
       },
       "latest": {
         "confirmed": 750314,
@@ -159,7 +159,7 @@
         "current_icu": 8,
         "deaths": 762,
         "recovered": 19522,
-        "tested": 48674519
+        "tested": 48778337
       },
       "states": {
         "ACT": {
@@ -177,7 +177,7 @@
           "current_ventilators": 16,
           "deaths": 727,
           "recovered": 2799,
-          "tested": 26008847
+          "tested": 26107833
         },
         "NT": {
           "confirmed": 202,
