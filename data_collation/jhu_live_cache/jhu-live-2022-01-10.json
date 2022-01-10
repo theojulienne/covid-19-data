@@ -293,7 +293,7 @@
         "live": {
           "confirmed": 286462,
           "date": "2022-01-10",
-          "deaths": 6764
+          "deaths": 6763
         }
       },
       "Santa Catarina": {
@@ -923,7 +923,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1079671,
+      "confirmed": 1081758,
       "date": "2022-01-10",
       "deaths": 18274
     }
@@ -1168,14 +1168,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 447530,
+          "confirmed": 448091,
           "date": "2022-01-10",
-          "deaths": 13079
+          "deaths": 13080
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 486740,
+          "confirmed": 487668,
           "date": "2022-01-10",
           "deaths": 7681
         }
