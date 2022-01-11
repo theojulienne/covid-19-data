@@ -824,74 +824,74 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1576773,
+      "confirmed": 1589099,
       "date": "2022-01-11",
-      "deaths": 8271
+      "deaths": 8274
     }
   },
   "Italy": {
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 702562,
+          "confirmed": 732604,
           "date": "2022-01-11",
-          "deaths": 8601
+          "deaths": 8621
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 691118,
+          "confirmed": 711706,
           "date": "2022-01-11",
-          "deaths": 14394
+          "deaths": 14429
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 620145,
+          "confirmed": 632933,
           "date": "2022-01-11",
-          "deaths": 9380
+          "deaths": 9423
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 1554778,
+          "confirmed": 1600333,
           "date": "2022-01-11",
-          "deaths": 35464
+          "deaths": 35519
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 605597,
+          "confirmed": 624204,
           "date": "2022-01-11",
-          "deaths": 12178
+          "deaths": 12191
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 356196,
+          "confirmed": 363483,
           "date": "2022-01-11",
-          "deaths": 7024
+          "deaths": 7028
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 457153,
+          "confirmed": 470384,
           "date": "2022-01-11",
-          "deaths": 7705
+          "deaths": 7740
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 504726,
+          "confirmed": 521016,
           "date": "2022-01-11",
-          "deaths": 7669
+          "deaths": 7684
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 771246,
+          "confirmed": 792750,
           "date": "2022-01-11",
-          "deaths": 12583
+          "deaths": 12612
         }
       }
     }
@@ -1461,9 +1461,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 4043897,
+          "confirmed": 4064366,
           "date": "2022-01-11",
-          "deaths": 51908
+          "deaths": 51907
         }
       },
       "Florida": {
@@ -1496,9 +1496,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 220433,
+          "confirmed": 227504,
           "date": "2022-01-11",
-          "deaths": 2239
+          "deaths": 2241
         }
       },
       "Nevada": {
@@ -1517,7 +1517,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 206789,
+          "confirmed": 208477,
           "date": "2022-01-11",
           "deaths": 1337
         }
@@ -1538,9 +1538,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2040426,
+          "confirmed": 2065511,
           "date": "2022-01-11",
-          "deaths": 26098
+          "deaths": 26134
         }
       },
       "Utah": {
