@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 222639,
+      "confirmed": 223196,
       "date": "2022-01-11",
-      "deaths": 6349
+      "deaths": 6363
     }
   },
   "Argentina": {
@@ -358,7 +358,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 908064,
+          "confirmed": 908096,
           "date": "2022-01-11",
           "deaths": 10459
         }
@@ -452,9 +452,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 208559,
+      "confirmed": 212074,
       "date": "2022-01-11",
-      "deaths": 661
+      "deaths": 665
     }
   },
   "Czechia": {
@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 639048,
+      "confirmed": 641164,
       "date": "2022-01-11",
-      "deaths": 16126
+      "deaths": 16127
     }
   },
   "Honduras": {
@@ -1224,7 +1224,7 @@
   "Portugal": {
     "live": {
       "confirmed": 1499976,
-      "date": "2022-01-10",
+      "date": "2022-01-11",
       "deaths": 19029
     }
   },
