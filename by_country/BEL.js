@@ -1443,7 +1443,8 @@ var covid19_dataset_country_bel = {
       2206992,
       2231686,
       2231686,
-      2231686
+      2231686,
+      2286532
     ],
     "deaths": [
       0,
@@ -2164,7 +2165,8 @@ var covid19_dataset_country_bel = {
       28446,
       28459,
       28459,
-      28459
+      28459,
+      28518
     ],
     "recovered": [
       0,
@@ -2462,6 +2464,7 @@ var covid19_dataset_country_bel = {
       29796,
       30504,
       31130,
+      0,
       0,
       0,
       0,

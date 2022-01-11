@@ -135,9 +135,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 677166,
+      "confirmed": 686023,
       "date": "2022-01-11",
-      "deaths": 19983
+      "deaths": 19999
     }
   },
   "Bosnia and Herzegovina": {
@@ -515,9 +515,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 11969503,
+      "confirmed": 11963184,
       "date": "2022-01-11",
-      "deaths": 123152
+      "deaths": 123151
     }
   },
   "Georgia": {
@@ -640,51 +640,51 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2081859,
+          "confirmed": 2082843,
           "date": "2022-01-11",
           "deaths": 14505
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 626741,
+          "confirmed": 628939,
           "date": "2022-01-11",
-          "deaths": 6181
+          "deaths": 6183
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 745400,
+          "confirmed": 750137,
           "date": "2022-01-11",
-          "deaths": 12101
+          "deaths": 12106
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 1023313,
+          "confirmed": 1027433,
           "date": "2022-01-11",
-          "deaths": 13615
+          "deaths": 13619
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 1549730,
+          "confirmed": 1568896,
           "date": "2022-01-11",
-          "deaths": 25160
+          "deaths": 25177
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 862204,
+          "confirmed": 868301,
           "date": "2022-01-11",
-          "deaths": 10128
+          "deaths": 10130
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 794151,
+          "confirmed": 799887,
           "date": "2022-01-11",
-          "deaths": 10072
+          "deaths": 10077
         }
       },
       "Himachal Pradesh": {
@@ -1057,7 +1057,7 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 395147,
+      "confirmed": 396337,
       "date": "2022-01-11",
       "deaths": 2074
     }
@@ -1660,9 +1660,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1899575,
+      "confirmed": 1914393,
       "date": "2022-01-11",
-      "deaths": 34319
+      "deaths": 34531
     }
   },
   "West Bank and Gaza": {
