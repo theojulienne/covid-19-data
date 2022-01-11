@@ -344,9 +344,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 276875,
+          "confirmed": 283841,
           "date": "2022-01-11",
-          "deaths": 2439
+          "deaths": 2446
         }
       },
       "Ontario": {
@@ -480,9 +480,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 392857,
+      "confirmed": 393808,
       "date": "2022-01-11",
-      "deaths": 21964
+      "deaths": 21995
     }
   },
   "Estonia": {
@@ -930,9 +930,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 667390,
+      "confirmed": 670483,
       "date": "2022-01-11",
-      "deaths": 6071
+      "deaths": 6114
     }
   },
   "Kuwait": {
@@ -1131,9 +1131,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 248312,
+      "confirmed": 248732,
       "date": "2022-01-11",
-      "deaths": 3077
+      "deaths": 3085
     }
   },
   "North Macedonia": {
@@ -1177,9 +1177,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 526315,
+      "confirmed": 529454,
       "date": "2022-01-11",
-      "deaths": 7465
+      "deaths": 7469
     }
   },
   "Paraguay": {
