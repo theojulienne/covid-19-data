@@ -22807,7 +22807,8 @@ var covid19_dataset_top10 = {
     "2022-01-08",
     "2022-01-09",
     "2022-01-10",
-    "2022-01-11"
+    "2022-01-11",
+    "2022-01-12"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10', covid19_dataset_top10, {});
