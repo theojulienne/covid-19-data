@@ -142,9 +142,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 304856,
+      "confirmed": 307433,
       "date": "2022-01-12",
-      "deaths": 13673
+      "deaths": 13696
     }
   },
   "Botswana": {
@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 764860,
+          "confirmed": 766800,
           "date": "2022-01-12",
-          "deaths": 19978
+          "deaths": 19979
         }
       }
     }
@@ -445,7 +445,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 982614,
+      "confirmed": 985402,
       "date": "2022-01-12",
       "deaths": 8330
     }
@@ -900,14 +900,14 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 208419,
+          "confirmed": 210130,
           "date": "2022-01-12",
-          "deaths": 3066
+          "deaths": 3067
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 389728,
+          "confirmed": 391926,
           "date": "2022-01-12",
           "deaths": 3175
         }
@@ -1145,9 +1145,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 236241,
+      "confirmed": 238061,
       "date": "2022-01-12",
-      "deaths": 8055
+      "deaths": 8062
     }
   },
   "Norway": {
@@ -1223,9 +1223,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1693398,
+      "confirmed": 1734343,
       "date": "2022-01-12",
-      "deaths": 19161
+      "deaths": 19181
     }
   },
   "Qatar": {
