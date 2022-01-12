@@ -351,14 +351,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 916057,
+          "confirmed": 916563,
           "date": "2022-01-12",
-          "deaths": 10497
+          "deaths": 10499
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 749865,
+          "confirmed": 758575,
           "date": "2022-01-12",
           "deaths": 12080
         }
@@ -524,9 +524,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1078025,
+          "confirmed": 1084425,
           "date": "2022-01-12",
-          "deaths": 13309
+          "deaths": 13321
         }
       },
       "Bayern": {
@@ -951,9 +951,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 787498,
+      "confirmed": 794744,
       "date": "2022-01-12",
-      "deaths": 9311
+      "deaths": 9325
     }
   },
   "Libya": {
@@ -1223,7 +1223,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 278698,
+      "confirmed": 282904,
       "date": "2022-01-12",
       "deaths": 621
     }
@@ -1496,9 +1496,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 404221,
+          "confirmed": 409167,
           "date": "2022-01-12",
-          "deaths": 6571
+          "deaths": 6588
         }
       },
       "New York": {
