@@ -522,9 +522,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 968313,
+      "confirmed": 973909,
       "date": "2022-01-12",
-      "deaths": 14264
+      "deaths": 14311
     }
   },
   "Germany": {
@@ -1020,30 +1020,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1044287,
+          "confirmed": 1052544,
           "date": "2022-01-12",
-          "deaths": 40384
+          "deaths": 40394
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 211470,
+          "confirmed": 213309,
           "date": "2022-01-12",
-          "deaths": 13489
+          "deaths": 13510
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 394123,
+          "confirmed": 396600,
           "date": "2022-01-12",
-          "deaths": 44899
+          "deaths": 44911
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 218620,
+          "confirmed": 220240,
           "date": "2022-01-12",
-          "deaths": 13774
+          "deaths": 13785
         }
       }
     }
@@ -1431,9 +1431,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2284609,
+      "confirmed": 2292290,
       "date": "2022-01-12",
-      "deaths": 21850
+      "deaths": 21869
     }
   },
   "Tunisia": {
