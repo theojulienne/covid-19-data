@@ -951,9 +951,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 290956,
+      "confirmed": 293395,
       "date": "2022-01-12",
-      "deaths": 4668
+      "deaths": 4690
     }
   },
   "Lebanon": {
@@ -1424,9 +1424,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 1571481,
+      "confirmed": 1604371,
       "date": "2022-01-12",
-      "deaths": 12415
+      "deaths": 12423
     }
   },
   "Thailand": {
