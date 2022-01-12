@@ -367,7 +367,7 @@
         "live": {
           "confirmed": 749865,
           "date": "2022-01-12",
-          "deaths": 12028
+          "deaths": 12080
         }
       }
     }
@@ -1531,16 +1531,16 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 477925,
+          "confirmed": 485949,
           "date": "2022-01-12",
-          "deaths": 7143
+          "deaths": 7166
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 2065511,
+          "confirmed": 2099873,
           "date": "2022-01-12",
-          "deaths": 26140
+          "deaths": 26172
         }
       },
       "Utah": {
@@ -1559,7 +1559,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 213964,
+          "confirmed": 220055,
           "date": "2022-01-12",
           "deaths": 1857
         }
@@ -1616,30 +1616,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 12469614,
+          "confirmed": 12585787,
           "date": "2022-01-12",
-          "deaths": 130990
+          "deaths": 131351
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 466290,
+          "confirmed": 469212,
           "date": "2022-01-12",
-          "deaths": 3015
+          "deaths": 3017
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 1067028,
+          "confirmed": 1074591,
           "date": "2022-01-12",
-          "deaths": 9950
+          "deaths": 9971
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 729662,
+          "confirmed": 732548,
           "date": "2022-01-12",
-          "deaths": 6654
+          "deaths": 6668
         }
       }
     }
