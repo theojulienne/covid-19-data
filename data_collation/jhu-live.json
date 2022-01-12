@@ -545,7 +545,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 373566,
+          "confirmed": 373568,
           "date": "2022-01-12",
           "deaths": 4045
         }
@@ -1570,37 +1570,37 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 243572,
+          "confirmed": 243809,
           "date": "2022-01-12",
-          "deaths": 8957
+          "deaths": 8973
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 245747,
+          "confirmed": 246204,
           "date": "2022-01-12",
-          "deaths": 6427
+          "deaths": 6438
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 339824,
+          "confirmed": 340975,
           "date": "2022-01-12",
-          "deaths": 8314
+          "deaths": 8328
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 222745,
+          "confirmed": 223131,
           "date": "2022-01-12",
-          "deaths": 6069
+          "deaths": 6071
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 242175,
+          "confirmed": 242487,
           "date": "2022-01-12",
-          "deaths": 5613
+          "deaths": 5619
         }
       }
     }
