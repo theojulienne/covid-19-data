@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 222664,
+      "confirmed": 224569,
       "date": "2022-01-12",
-      "deaths": 3247
+      "deaths": 3253
     }
   },
   "Algeria": {
@@ -351,9 +351,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 914685,
+          "confirmed": 916057,
           "date": "2022-01-12",
-          "deaths": 10495
+          "deaths": 10497
         }
       },
       "Quebec": {
@@ -382,21 +382,21 @@
         "live": {
           "confirmed": 845829,
           "date": "2022-01-12",
-          "deaths": 16998
+          "deaths": 17012
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 354921,
           "date": "2022-01-12",
-          "deaths": 9755
+          "deaths": 9757
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1532597,
           "date": "2022-01-12",
-          "deaths": 27756
+          "deaths": 27765
         }
       },
       "Cundinamarca": {
@@ -410,14 +410,14 @@
         "live": {
           "confirmed": 242900,
           "date": "2022-01-12",
-          "deaths": 7559
+          "deaths": 7563
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 478376,
           "date": "2022-01-12",
-          "deaths": 13454
+          "deaths": 13470
         }
       }
     }
@@ -445,9 +445,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 212074,
+      "confirmed": 215271,
       "date": "2022-01-12",
-      "deaths": 665
+      "deaths": 669
     }
   },
   "Czechia": {
@@ -508,9 +508,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 12322734,
+      "confirmed": 12684453,
       "date": "2022-01-12",
-      "deaths": 123490
+      "deaths": 123736
     }
   },
   "Georgia": {
@@ -810,9 +810,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1021303,
+      "confirmed": 1042212,
       "date": "2022-01-12",
-      "deaths": 5952
+      "deaths": 6035
     }
   },
   "Israel": {
@@ -937,7 +937,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 441999,
+      "confirmed": 446547,
       "date": "2022-01-12",
       "deaths": 2473
     }
@@ -1043,9 +1043,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 382124,
+      "confirmed": 383544,
       "date": "2022-01-12",
-      "deaths": 10397
+      "deaths": 10406
     }
   },
   "Mongolia": {
@@ -1304,9 +1304,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3534131,
+      "confirmed": 3540891,
       "date": "2022-01-12",
-      "deaths": 92649
+      "deaths": 92830
     }
   },
   "Spain": {
@@ -1385,9 +1385,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 593072,
+      "confirmed": 593725,
       "date": "2022-01-12",
-      "deaths": 15149
+      "deaths": 15163
     }
   },
   "Sweden": {
@@ -1419,7 +1419,7 @@
     "live": {
       "confirmed": 1604371,
       "date": "2022-01-12",
-      "deaths": 12426
+      "deaths": 12427
     }
   },
   "Thailand": {
@@ -1468,9 +1468,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 955286,
+          "confirmed": 966133,
           "date": "2022-01-12",
-          "deaths": 12351
+          "deaths": 12406
         }
       },
       "Massachusetts": {
@@ -1517,7 +1517,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 486202,
+          "confirmed": 489785,
           "date": "2022-01-12",
           "deaths": 4944
         }
@@ -1533,7 +1533,7 @@
         "live": {
           "confirmed": 2099873,
           "date": "2022-01-12",
-          "deaths": 26172
+          "deaths": 26186
         }
       },
       "Utah": {
