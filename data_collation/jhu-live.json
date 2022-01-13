@@ -31,7 +31,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 628289,
+          "confirmed": 627740,
           "date": "2022-01-13",
           "deaths": 797
         }
@@ -438,9 +438,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 785033,
+      "confirmed": 794190,
       "date": "2022-01-13",
-      "deaths": 12983
+      "deaths": 13006
     }
   },
   "Cuba": {
@@ -1417,7 +1417,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 1604371,
+      "confirmed": 1634258,
       "date": "2022-01-13",
       "deaths": 12443
     }
