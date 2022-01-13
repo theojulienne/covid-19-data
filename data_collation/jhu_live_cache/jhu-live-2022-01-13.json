@@ -31,9 +31,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 536025,
+          "confirmed": 628289,
           "date": "2022-01-13",
-          "deaths": 775
+          "deaths": 797
         }
       },
       "Victoria": {
@@ -515,9 +515,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 12684453,
+      "confirmed": 12655210,
       "date": "2022-01-13",
-      "deaths": 123736
+      "deaths": 123714
     }
   },
   "Georgia": {
@@ -545,7 +545,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 381366,
+          "confirmed": 381368,
           "date": "2022-01-13",
           "deaths": 4058
         }
@@ -824,7 +824,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1636172,
+      "confirmed": 1669622,
       "date": "2022-01-13",
       "deaths": 8290
     }
@@ -898,13 +898,6 @@
   },
   "Japan": {
     "subseries": {
-      "Osaka": {
-        "live": {
-          "confirmed": 210130,
-          "date": "2022-01-13",
-          "deaths": 3067
-        }
-      },
       "Tokyo": {
         "live": {
           "confirmed": 391926,
@@ -972,9 +965,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 551807,
+      "confirmed": 555971,
       "date": "2022-01-13",
-      "deaths": 7579
+      "deaths": 7603
     }
   },
   "Malaysia": {
@@ -1426,7 +1419,7 @@
     "live": {
       "confirmed": 1604371,
       "date": "2022-01-13",
-      "deaths": 12429
+      "deaths": 12427
     }
   },
   "Thailand": {
@@ -1468,9 +1461,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 2341602,
+          "confirmed": 2616599,
           "date": "2022-01-13",
-          "deaths": 15576
+          "deaths": 24037
         }
       },
       "Illinois": {
