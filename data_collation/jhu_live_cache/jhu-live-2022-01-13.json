@@ -38,7 +38,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 524391,
+          "confirmed": 527036,
           "date": "2022-01-13",
           "deaths": 1639
         }
@@ -47,9 +47,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1378747,
+      "confirmed": 1394599,
       "date": "2022-01-13",
-      "deaths": 13882
+      "deaths": 13898
     }
   },
   "Azerbaijan": {
@@ -1209,9 +1209,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 4248559,
+      "confirmed": 4265433,
       "date": "2022-01-13",
-      "deaths": 100938
+      "deaths": 101419
     }
   },
   "Portugal": {
@@ -1239,39 +1239,39 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2064467,
+          "confirmed": 2069957,
           "date": "2022-01-13",
-          "deaths": 37599
+          "deaths": 37670
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 654309,
+          "confirmed": 655865,
           "date": "2022-01-13",
-          "deaths": 12601
+          "deaths": 12640
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 233884,
+          "confirmed": 234531,
           "date": "2022-01-13",
-          "deaths": 10099
+          "deaths": 10133
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 868687,
+          "confirmed": 870526,
           "date": "2022-01-13",
-          "deaths": 28753
+          "deaths": 28811
         }
       }
     }
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 593545,
+      "confirmed": 599044,
       "date": "2022-01-13",
-      "deaths": 8899
+      "deaths": 8901
     }
   },
   "Serbia": {
@@ -1290,16 +1290,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1405854,
+      "confirmed": 1409365,
       "date": "2022-01-13",
-      "deaths": 17081
+      "deaths": 17128
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 505929,
+      "confirmed": 512784,
       "date": "2022-01-13",
-      "deaths": 5678
+      "deaths": 5685
     }
   },
   "South Africa": {
@@ -1419,7 +1419,7 @@
     "live": {
       "confirmed": 1604371,
       "date": "2022-01-13",
-      "deaths": 12431
+      "deaths": 12438
     }
   },
   "Thailand": {
