@@ -75,9 +75,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 710632,
+      "confirmed": 711723,
       "date": "2022-01-13",
-      "deaths": 5757
+      "deaths": 5774
     }
   },
   "Belgium": {
@@ -494,9 +494,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 257958,
+      "confirmed": 260396,
       "date": "2022-01-13",
-      "deaths": 1963
+      "deaths": 1967
     }
   },
   "Ethiopia": {
@@ -508,9 +508,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 347276,
+      "confirmed": 361553,
       "date": "2022-01-13",
-      "deaths": 1688
+      "deaths": 1700
     }
   },
   "France": {
@@ -796,9 +796,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4268097,
+      "confirmed": 4268890,
       "date": "2022-01-13",
-      "deaths": 144150
+      "deaths": 144155
     }
   },
   "Iran": {
@@ -944,9 +944,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 293395,
+      "confirmed": 295961,
       "date": "2022-01-13",
-      "deaths": 4690
+      "deaths": 4700
     }
   },
   "Lebanon": {
@@ -958,9 +958,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 395069,
+      "confirmed": 395687,
       "date": "2022-01-13",
-      "deaths": 5813
+      "deaths": 5822
     }
   },
   "Lithuania": {
@@ -1071,9 +1071,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 838375,
+      "confirmed": 841297,
       "date": "2022-01-13",
-      "deaths": 11609
+      "deaths": 11610
     }
   },
   "Netherlands": {
@@ -1152,7 +1152,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 309588,
+      "confirmed": 310338,
       "date": "2022-01-13",
       "deaths": 4119
     }
@@ -1297,7 +1297,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 512784,
+      "confirmed": 512793,
       "date": "2022-01-13",
       "deaths": 5685
     }
@@ -1419,7 +1419,7 @@
     "live": {
       "confirmed": 1604371,
       "date": "2022-01-13",
-      "deaths": 12438
+      "deaths": 12441
     }
   },
   "Thailand": {
@@ -1600,9 +1600,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 793314,
+      "confirmed": 795997,
       "date": "2022-01-13",
-      "deaths": 2181
+      "deaths": 2182
     }
   },
   "United Kingdom": {
