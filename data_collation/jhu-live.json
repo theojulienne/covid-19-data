@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 224569,
+      "confirmed": 226598,
       "date": "2022-01-13",
-      "deaths": 3253
+      "deaths": 3255
     }
   },
   "Algeria": {
@@ -358,7 +358,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 758575,
+          "confirmed": 766926,
           "date": "2022-01-13",
           "deaths": 12125
         }
@@ -445,9 +445,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 215271,
+      "confirmed": 218374,
       "date": "2022-01-13",
-      "deaths": 669
+      "deaths": 672
     }
   },
   "Czechia": {
@@ -610,9 +610,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 643447,
+      "confirmed": 646319,
       "date": "2022-01-13",
-      "deaths": 16128
+      "deaths": 16145
     }
   },
   "Honduras": {
@@ -944,9 +944,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 794744,
+      "confirmed": 801801,
       "date": "2022-01-13",
-      "deaths": 9325
+      "deaths": 9338
     }
   },
   "Libya": {
@@ -1306,72 +1306,72 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 1085243,
+          "confirmed": 1096071,
           "date": "2022-01-13",
-          "deaths": 11609
+          "deaths": 11626
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 285363,
+          "confirmed": 291999,
           "date": "2022-01-13",
-          "deaths": 4187
+          "deaths": 4200
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 775478,
+          "confirmed": 794756,
           "date": "2022-01-13",
-          "deaths": 8235
+          "deaths": 8244
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 347470,
+          "confirmed": 354494,
           "date": "2022-01-13",
-          "deaths": 6636
+          "deaths": 6644
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 489159,
+          "confirmed": 498675,
           "date": "2022-01-13",
-          "deaths": 7640
+          "deaths": 7653
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 1441426,
+          "confirmed": 1476170,
           "date": "2022-01-13",
-          "deaths": 16175
+          "deaths": 16178
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 328215,
+          "confirmed": 337187,
           "date": "2022-01-13",
-          "deaths": 2822
+          "deaths": 2825
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 1283654,
+          "confirmed": 1303596,
           "date": "2022-01-13",
-          "deaths": 16403
+          "deaths": 16414
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 230110,
+          "confirmed": 237228,
           "date": "2022-01-13",
           "deaths": 1876
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 501395,
+          "confirmed": 510497,
           "date": "2022-01-13",
-          "deaths": 5281
+          "deaths": 5290
         }
       }
     }
@@ -1489,16 +1489,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 409167,
+          "confirmed": 414779,
           "date": "2022-01-13",
           "deaths": 6588
         }
       },
       "New York": {
         "live": {
-          "confirmed": 2861858,
+          "confirmed": 2880276,
           "date": "2022-01-13",
-          "deaths": 44261
+          "deaths": 44294
         }
       },
       "North Carolina": {
@@ -1510,7 +1510,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 489785,
+          "confirmed": 492906,
           "date": "2022-01-13",
           "deaths": 4944
         }
@@ -1524,9 +1524,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2105770,
+          "confirmed": 2129637,
           "date": "2022-01-13",
-          "deaths": 26198
+          "deaths": 26224
         }
       },
       "Utah": {
