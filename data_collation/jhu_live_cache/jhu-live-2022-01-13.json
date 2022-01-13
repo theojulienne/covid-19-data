@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 766800,
+          "confirmed": 769841,
           "date": "2022-01-13",
-          "deaths": 19979
+          "deaths": 19989
         }
       }
     }
@@ -610,9 +610,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1592460,
+      "confirmed": 1612869,
       "date": "2022-01-13",
-      "deaths": 21637
+      "deaths": 21732
     }
   },
   "Guatemala": {
@@ -909,9 +909,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1088329,
+      "confirmed": 1091691,
       "date": "2022-01-13",
-      "deaths": 12932
+      "deaths": 12945
     }
   },
   "Kazakhstan": {
@@ -1202,9 +1202,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3058634,
+      "confirmed": 3092409,
       "date": "2022-01-13",
-      "deaths": 52654
+      "deaths": 52736
     }
   },
   "Poland": {
@@ -1419,7 +1419,7 @@
     "live": {
       "confirmed": 1634258,
       "date": "2022-01-13",
-      "deaths": 12446
+      "deaths": 12447
     }
   },
   "Thailand": {
