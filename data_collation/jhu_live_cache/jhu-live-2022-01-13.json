@@ -68,9 +68,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1601305,
+      "confirmed": 1604664,
       "date": "2022-01-13",
-      "deaths": 28111
+      "deaths": 28123
     }
   },
   "Belarus": {
@@ -1230,9 +1230,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1866102,
+      "confirmed": 1875887,
       "date": "2022-01-13",
-      "deaths": 59114
+      "deaths": 59150
     }
   },
   "Russia": {
@@ -1419,7 +1419,7 @@
     "live": {
       "confirmed": 1604371,
       "date": "2022-01-13",
-      "deaths": 12441
+      "deaths": 12443
     }
   },
   "Thailand": {
@@ -1667,9 +1667,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 289415,
+      "confirmed": 291582,
       "date": "2022-01-13",
-      "deaths": 3830
+      "deaths": 3834
     }
   },
   "Zimbabwe": {
