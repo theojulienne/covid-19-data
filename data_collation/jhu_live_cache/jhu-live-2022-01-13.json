@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 223806,
+      "confirmed": 224383,
       "date": "2022-01-13",
-      "deaths": 6372
+      "deaths": 6383
     }
   },
   "Argentina": {
@@ -367,7 +367,7 @@
         "live": {
           "confirmed": 758575,
           "date": "2022-01-13",
-          "deaths": 12080
+          "deaths": 12125
         }
       }
     }
@@ -445,9 +445,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 985402,
+      "confirmed": 988789,
       "date": "2022-01-13",
-      "deaths": 8330
+      "deaths": 8331
     }
   },
   "Cyprus": {
@@ -473,7 +473,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 476504,
+      "confirmed": 482457,
       "date": "2022-01-13",
       "deaths": 4259
     }
@@ -594,9 +594,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 236146,
+          "confirmed": 237126,
           "date": "2022-01-13",
-          "deaths": 4450
+          "deaths": 4464
         }
       },
       "Thuringen": {
@@ -833,76 +833,83 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 759638,
+          "confirmed": 784089,
           "date": "2022-01-13",
-          "deaths": 8641
+          "deaths": 8670
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 730330,
+          "confirmed": 750971,
           "date": "2022-01-13",
-          "deaths": 14448
+          "deaths": 14486
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 644960,
+          "confirmed": 655232,
           "date": "2022-01-13",
-          "deaths": 9438
+          "deaths": 9472
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 1641383,
+          "confirmed": 1681066,
           "date": "2022-01-13",
-          "deaths": 35610
+          "deaths": 35662
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 641351,
+          "confirmed": 656092,
           "date": "2022-01-13",
-          "deaths": 12207
+          "deaths": 12225
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 367476,
+          "confirmed": 370694,
           "date": "2022-01-13",
-          "deaths": 7032
+          "deaths": 7039
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 483432,
+          "confirmed": 494786,
           "date": "2022-01-13",
-          "deaths": 7765
+          "deaths": 7791
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 534357,
+          "confirmed": 547508,
           "date": "2022-01-13",
-          "deaths": 7755
+          "deaths": 7775
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 812561,
+          "confirmed": 830517,
           "date": "2022-01-13",
-          "deaths": 12621
+          "deaths": 12659
         }
       }
     }
   },
   "Japan": {
     "subseries": {
+      "Osaka": {
+        "live": {
+          "confirmed": 212582,
+          "date": "2022-01-13",
+          "deaths": 3067
+        }
+      },
       "Tokyo": {
         "live": {
-          "confirmed": 391926,
+          "confirmed": 395050,
           "date": "2022-01-13",
-          "deaths": 3175
+          "deaths": 3176
         }
       }
     }
@@ -937,9 +944,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 446547,
+      "confirmed": 451430,
       "date": "2022-01-13",
-      "deaths": 2473
+      "deaths": 2474
     }
   },
   "Latvia": {
@@ -974,37 +981,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 249154,
+          "confirmed": 249610,
           "date": "2022-01-13",
-          "deaths": 3887
+          "deaths": 3889
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 243238,
+          "confirmed": 243495,
           "date": "2022-01-13",
-          "deaths": 2802
+          "deaths": 2805
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252550,
+          "confirmed": 252568,
           "date": "2022-01-13",
           "deaths": 1619
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 795947,
+          "confirmed": 797030,
           "date": "2022-01-13",
           "deaths": 10006
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 213738,
+          "confirmed": 214047,
           "date": "2022-01-13",
-          "deaths": 2690
+          "deaths": 2691
         }
       }
     }
@@ -1057,9 +1064,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1017560,
+      "confirmed": 1025898,
       "date": "2022-01-13",
-      "deaths": 14935
+      "deaths": 14945
     }
   },
   "Mozambique": {
@@ -1138,9 +1145,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 238061,
+      "confirmed": 239920,
       "date": "2022-01-13",
-      "deaths": 8062
+      "deaths": 8070
     }
   },
   "Norway": {
@@ -1385,9 +1392,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 593725,
+      "confirmed": 594319,
       "date": "2022-01-13",
-      "deaths": 15163
+      "deaths": 15174
     }
   },
   "Sweden": {
@@ -1503,16 +1510,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2837375,
+          "confirmed": 2861858,
           "date": "2022-01-13",
-          "deaths": 44121
-        }
-      },
-      "North Carolina": {
-        "live": {
-          "confirmed": 211412,
-          "date": "2022-01-13",
-          "deaths": 1341
+          "deaths": 44261
         }
       },
       "Ohio": {
@@ -1524,9 +1524,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 485949,
+          "confirmed": 492373,
           "date": "2022-01-13",
-          "deaths": 7166
+          "deaths": 7190
         }
       },
       "Texas": {
@@ -1609,30 +1609,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 12585787,
+          "confirmed": 12680151,
           "date": "2022-01-13",
-          "deaths": 131351
+          "deaths": 131635
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 469212,
+          "confirmed": 472192,
           "date": "2022-01-13",
-          "deaths": 3017
+          "deaths": 3031
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 1074591,
+          "confirmed": 1079729,
           "date": "2022-01-13",
-          "deaths": 9971
+          "deaths": 9997
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 732548,
+          "confirmed": 735745,
           "date": "2022-01-13",
-          "deaths": 6668
+          "deaths": 6679
         }
       }
     }
