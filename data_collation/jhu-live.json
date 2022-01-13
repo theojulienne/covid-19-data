@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 298542,
+      "confirmed": 300631,
       "date": "2022-01-13",
       "deaths": 1397
     }
@@ -351,9 +351,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 928787,
+          "confirmed": 931843,
           "date": "2022-01-13",
-          "deaths": 10539
+          "deaths": 10548
         }
       },
       "Quebec": {
@@ -1431,30 +1431,30 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 10197606,
+      "confirmed": 10273170,
       "date": "2022-01-13",
-      "deaths": 84125
+      "deaths": 84278
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 969741,
+          "confirmed": 982065,
           "date": "2022-01-13",
           "deaths": 14064
         }
       },
       "California": {
         "live": {
-          "confirmed": 4505000,
+          "confirmed": 4505091,
           "date": "2022-01-13",
           "deaths": 54635
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 2616599,
+          "confirmed": 2671593,
           "date": "2022-01-13",
           "deaths": 24037
         }
