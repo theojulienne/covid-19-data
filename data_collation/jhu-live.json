@@ -351,7 +351,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 928733,
+          "confirmed": 928787,
           "date": "2022-01-13",
           "deaths": 10539
         }
@@ -494,9 +494,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 450997,
+      "confirmed": 453128,
       "date": "2022-01-13",
-      "deaths": 7090
+      "deaths": 7109
     }
   },
   "Finland": {
@@ -817,7 +817,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1687897,
+      "confirmed": 1695505,
       "date": "2022-01-13",
       "deaths": 8293
     }
@@ -1036,9 +1036,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 383544,
+      "confirmed": 385047,
       "date": "2022-01-13",
-      "deaths": 10406
+      "deaths": 10416
     }
   },
   "Mongolia": {
@@ -1449,7 +1449,7 @@
         "live": {
           "confirmed": 4505000,
           "date": "2022-01-13",
-          "deaths": 54629
+          "deaths": 54635
         }
       },
       "Florida": {
@@ -1491,7 +1491,7 @@
         "live": {
           "confirmed": 414779,
           "date": "2022-01-13",
-          "deaths": 6588
+          "deaths": 6608
         }
       },
       "New York": {
@@ -1531,9 +1531,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 267879,
+          "confirmed": 273659,
           "date": "2022-01-13",
-          "deaths": 1375
+          "deaths": 1376
         }
       },
       "Washington": {
