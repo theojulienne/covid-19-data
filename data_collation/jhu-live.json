@@ -358,16 +358,16 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 937395,
+          "confirmed": 937458,
           "date": "2022-01-14",
-          "deaths": 10578
+          "deaths": 10579
         }
       },
       "Quebec": {
         "live": {
           "confirmed": 766926,
           "date": "2022-01-14",
-          "deaths": 12125
+          "deaths": 12193
         }
       }
     }
@@ -473,9 +473,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 482457,
+      "confirmed": 489631,
       "date": "2022-01-14",
-      "deaths": 4259
+      "deaths": 4266
     }
   },
   "Ecuador": {
@@ -1283,9 +1283,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 289085,
+      "confirmed": 290030,
       "date": "2022-01-14",
-      "deaths": 839
+      "deaths": 840
     }
   },
   "Slovakia": {
@@ -1454,9 +1454,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 4547082,
+          "confirmed": 4586277,
           "date": "2022-01-14",
-          "deaths": 54680
+          "deaths": 54718
         }
       },
       "Florida": {
@@ -1517,14 +1517,14 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 492373,
+          "confirmed": 497914,
           "date": "2022-01-14",
-          "deaths": 7190
+          "deaths": 7236
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 2129637,
+          "confirmed": 2135046,
           "date": "2022-01-14",
           "deaths": 26227
         }
@@ -1545,9 +1545,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 222069,
+          "confirmed": 227463,
           "date": "2022-01-14",
-          "deaths": 1860
+          "deaths": 1863
         }
       }
     }
@@ -1602,30 +1602,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 12680151,
+          "confirmed": 12766944,
           "date": "2022-01-14",
-          "deaths": 131635
+          "deaths": 131856
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 472192,
+          "confirmed": 475146,
           "date": "2022-01-14",
-          "deaths": 3031
+          "deaths": 3035
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 1079729,
+          "confirmed": 1085696,
           "date": "2022-01-14",
-          "deaths": 9997
+          "deaths": 10038
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 735745,
+          "confirmed": 738609,
           "date": "2022-01-14",
-          "deaths": 6679
+          "deaths": 6683
         }
       }
     }
@@ -1660,9 +1660,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 291582,
+      "confirmed": 293695,
       "date": "2022-01-14",
-      "deaths": 3834
+      "deaths": 3844
     }
   },
   "Zimbabwe": {
