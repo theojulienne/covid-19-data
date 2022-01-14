@@ -84,42 +84,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 337457,
+          "confirmed": 342263,
           "date": "2022-01-14",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 289381,
+          "confirmed": 293829,
           "date": "2022-01-14",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 291834,
+          "confirmed": 296318,
+          "date": "2022-01-14",
+          "deaths": 0
+        }
+      },
+      "Flemish Brabant": {
+        "live": {
+          "confirmed": 215436,
           "date": "2022-01-14",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 277852,
+          "confirmed": 281361,
           "date": "2022-01-14",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 246978,
+          "confirmed": 249533,
           "date": "2022-01-14",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 237716,
+          "confirmed": 240901,
           "date": "2022-01-14",
           "deaths": 0
         }
@@ -624,9 +631,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1318093,
+      "confirmed": 1327014,
       "date": "2022-01-14",
-      "deaths": 40164
+      "deaths": 40237
     }
   },
   "India": {
@@ -1232,30 +1239,30 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2069957,
+          "confirmed": 2075669,
           "date": "2022-01-14",
-          "deaths": 37670
+          "deaths": 37739
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 655865,
+          "confirmed": 657855,
           "date": "2022-01-14",
-          "deaths": 12640
+          "deaths": 12680
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 234531,
+          "confirmed": 235274,
           "date": "2022-01-14",
-          "deaths": 10133
+          "deaths": 10159
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 870526,
+          "confirmed": 873234,
           "date": "2022-01-14",
-          "deaths": 28811
+          "deaths": 28872
         }
       }
     }
@@ -1412,7 +1419,7 @@
     "live": {
       "confirmed": 1634258,
       "date": "2022-01-14",
-      "deaths": 12447
+      "deaths": 12451
     }
   },
   "Thailand": {
@@ -1499,13 +1506,6 @@
           "confirmed": 2880276,
           "date": "2022-01-14",
           "deaths": 44294
-        }
-      },
-      "North Carolina": {
-        "live": {
-          "confirmed": 213998,
-          "date": "2022-01-14",
-          "deaths": 1359
         }
       },
       "Ohio": {
