@@ -452,9 +452,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2562235,
+      "confirmed": 2573945,
       "date": "2022-01-14",
-      "deaths": 36765
+      "deaths": 36799
     }
   },
   "Denmark": {
@@ -1043,9 +1043,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 400452,
+      "confirmed": 402444,
       "date": "2022-01-14",
-      "deaths": 2079
+      "deaths": 2082
     }
   },
   "Morocco": {
@@ -1639,9 +1639,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 449730,
+      "confirmed": 450892,
       "date": "2022-01-14",
-      "deaths": 5370
+      "deaths": 5373
     }
   },
   "Vietnam": {
