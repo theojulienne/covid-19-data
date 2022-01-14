@@ -128,9 +128,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 711299,
+      "confirmed": 725459,
       "date": "2022-01-14",
-      "deaths": 20103
+      "deaths": 20149
     }
   },
   "Bosnia and Herzegovina": {
@@ -515,9 +515,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 979235,
+      "confirmed": 984802,
       "date": "2022-01-14",
-      "deaths": 14359
+      "deaths": 14395
     }
   },
   "Germany": {
@@ -538,9 +538,9 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 388606,
+          "confirmed": 388608,
           "date": "2022-01-14",
-          "deaths": 4064
+          "deaths": 4063
         }
       },
       "Brandenburg": {
@@ -712,7 +712,7 @@
         "live": {
           "confirmed": 5313147,
           "date": "2022-01-14",
-          "deaths": 50252
+          "deaths": 50348
         }
       },
       "Madhya Pradesh": {
@@ -1006,30 +1006,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1062623,
+          "confirmed": 1072218,
           "date": "2022-01-14",
-          "deaths": 40406
+          "deaths": 40417
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 215528,
+          "confirmed": 217655,
           "date": "2022-01-14",
-          "deaths": 13524
+          "deaths": 13535
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 400178,
+          "confirmed": 403799,
           "date": "2022-01-14",
-          "deaths": 44919
+          "deaths": 44929
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 222783,
+          "confirmed": 225321,
           "date": "2022-01-14",
-          "deaths": 13790
+          "deaths": 13795
         }
       }
     }
@@ -1417,9 +1417,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2300457,
+      "confirmed": 2308615,
       "date": "2022-01-14",
-      "deaths": 21883
+      "deaths": 21898
     }
   },
   "Tunisia": {

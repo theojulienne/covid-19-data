@@ -2175,7 +2175,7 @@ var covid19_dataset_country_ind = {
       484213,
       484213,
       485035,
-      485035
+      485131
     ],
     "recovered": [
       0,
