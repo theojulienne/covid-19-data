@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 6664717,
+      "confirmed": 6793119,
       "date": "2022-01-13",
-      "deaths": 117670
+      "deaths": 117808
     }
   },
   "Armenia": {
@@ -38,9 +38,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 527036,
+          "confirmed": 561872,
           "date": "2022-01-13",
-          "deaths": 1639
+          "deaths": 1657
         }
       }
     }
@@ -142,9 +142,9 @@
   },
   "Botswana": {
     "live": {
-      "confirmed": 232432,
+      "confirmed": 237678,
       "date": "2022-01-13",
-      "deaths": 2497
+      "deaths": 2514
     }
   },
   "Brazil": {
@@ -1468,9 +1468,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 263784,
+          "confirmed": 267670,
           "date": "2022-01-13",
-          "deaths": 4214
+          "deaths": 4222
         }
       },
       "Michigan": {
