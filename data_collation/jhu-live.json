@@ -31,7 +31,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 690758,
+          "confirmed": 690123,
           "date": "2022-01-14",
           "deaths": 826
         }
@@ -54,9 +54,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 623555,
+      "confirmed": 624208,
       "date": "2022-01-14",
-      "deaths": 8490
+      "deaths": 8497
     }
   },
   "Bahrain": {
@@ -68,16 +68,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1604664,
+      "confirmed": 1609042,
       "date": "2022-01-14",
-      "deaths": 28123
+      "deaths": 28129
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 711723,
+      "confirmed": 713002,
       "date": "2022-01-14",
-      "deaths": 5774
+      "deaths": 5792
     }
   },
   "Belgium": {
@@ -335,9 +335,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 532725,
+      "confirmed": 532851,
       "date": "2022-01-14",
-      "deaths": 19298
+      "deaths": 19299
     }
   },
   "Canada": {
@@ -358,7 +358,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 937206,
+          "confirmed": 937395,
           "date": "2022-01-14",
           "deaths": 10578
         }
@@ -389,42 +389,42 @@
         "live": {
           "confirmed": 856802,
           "date": "2022-01-14",
-          "deaths": 17029
+          "deaths": 17049
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 357868,
           "date": "2022-01-14",
-          "deaths": 9759
+          "deaths": 9761
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1546626,
           "date": "2022-01-14",
-          "deaths": 27773
+          "deaths": 27783
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 277638,
           "date": "2022-01-14",
-          "deaths": 6870
+          "deaths": 6871
         }
       },
       "Santander": {
         "live": {
           "confirmed": 245036,
           "date": "2022-01-14",
-          "deaths": 7567
+          "deaths": 7570
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 489522,
           "date": "2022-01-14",
-          "deaths": 13490
+          "deaths": 13529
         }
       }
     }
@@ -466,9 +466,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 1056389,
+      "confirmed": 1080003,
       "date": "2022-01-14",
-      "deaths": 3453
+      "deaths": 3468
     }
   },
   "Dominican Republic": {
@@ -538,7 +538,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1426155,
+          "confirmed": 1426589,
           "date": "2022-01-14",
           "deaths": 20134
         }
@@ -580,9 +580,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 304993,
+          "confirmed": 307913,
           "date": "2022-01-14",
-          "deaths": 4732
+          "deaths": 4734
         }
       },
       "Sachsen": {
@@ -594,9 +594,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 237130,
+          "confirmed": 238105,
           "date": "2022-01-14",
-          "deaths": 4464
+          "deaths": 4472
         }
       },
       "Thuringen": {
@@ -810,9 +810,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2104940,
+      "confirmed": 2108206,
       "date": "2022-01-14",
-      "deaths": 24229
+      "deaths": 24237
     }
   },
   "Ireland": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1713556,
+      "confirmed": 1718982,
       "date": "2022-01-14",
-      "deaths": 8293
+      "deaths": 8298
     }
   },
   "Italy": {
@@ -923,9 +923,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 315665,
+      "confirmed": 316700,
       "date": "2022-01-14",
-      "deaths": 5472
+      "deaths": 5482
     }
   },
   "Korea, South": {
@@ -937,7 +937,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 451430,
+      "confirmed": 456311,
       "date": "2022-01-14",
       "deaths": 2474
     }
@@ -1080,51 +1080,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 389954,
+          "confirmed": 393381,
           "date": "2022-01-14",
-          "deaths": 2605
+          "deaths": 2608
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 244407,
+          "confirmed": 245722,
           "date": "2022-01-14",
           "deaths": 2074
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 527106,
+          "confirmed": 532784,
           "date": "2022-01-14",
-          "deaths": 3559
+          "deaths": 3561
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 589203,
+          "confirmed": 596325,
           "date": "2022-01-14",
-          "deaths": 3137
+          "deaths": 3138
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 220955,
+          "confirmed": 222724,
           "date": "2022-01-14",
           "deaths": 1347
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 274100,
+          "confirmed": 277351,
           "date": "2022-01-14",
-          "deaths": 1478
+          "deaths": 1479
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 787152,
+          "confirmed": 795496,
           "date": "2022-01-14",
-          "deaths": 4886
+          "deaths": 4891
         }
       }
     }
@@ -1276,9 +1276,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1399867,
+      "confirmed": 1412588,
       "date": "2022-01-14",
-      "deaths": 13003
+      "deaths": 13026
     }
   },
   "Singapore": {
@@ -1419,7 +1419,7 @@
     "live": {
       "confirmed": 1666441,
       "date": "2022-01-14",
-      "deaths": 12458
+      "deaths": 12459
     }
   },
   "Thailand": {
@@ -1646,9 +1646,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1975444,
+      "confirmed": 1991484,
       "date": "2022-01-14",
-      "deaths": 35170
+      "deaths": 35341
     }
   },
   "West Bank and Gaza": {
