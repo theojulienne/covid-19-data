@@ -358,14 +358,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 939814,
+          "confirmed": 942800,
           "date": "2022-01-14",
-          "deaths": 10587
+          "deaths": 10600
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 766926,
+          "confirmed": 783101,
           "date": "2022-01-14",
           "deaths": 12193
         }
@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 646319,
+      "confirmed": 648947,
       "date": "2022-01-14",
-      "deaths": 16145
+      "deaths": 16160
     }
   },
   "Honduras": {
@@ -898,13 +898,6 @@
   },
   "Japan": {
     "subseries": {
-      "Osaka": {
-        "live": {
-          "confirmed": 215408,
-          "date": "2022-01-14",
-          "deaths": 3069
-        }
-      },
       "Tokyo": {
         "live": {
           "confirmed": 399101,
@@ -1304,9 +1297,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3546808,
+      "confirmed": 3552043,
       "date": "2022-01-14",
-      "deaths": 92989
+      "deaths": 93117
     }
   },
   "Spain": {
@@ -1482,9 +1475,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 557843,
+          "confirmed": 573907,
           "date": "2022-01-14",
-          "deaths": 9976
+          "deaths": 10086
         }
       },
       "Minnesota": {
@@ -1505,7 +1498,14 @@
         "live": {
           "confirmed": 2890490,
           "date": "2022-01-14",
-          "deaths": 44421
+          "deaths": 44461
+        }
+      },
+      "North Carolina": {
+        "live": {
+          "confirmed": 216517,
+          "date": "2022-01-14",
+          "deaths": 1369
         }
       },
       "Ohio": {
@@ -1531,9 +1531,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 273659,
+          "confirmed": 278477,
           "date": "2022-01-14",
-          "deaths": 1376
+          "deaths": 1380
         }
       },
       "Washington": {
