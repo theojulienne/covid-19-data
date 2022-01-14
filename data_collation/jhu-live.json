@@ -358,9 +358,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 931843,
+          "confirmed": 937206,
           "date": "2022-01-14",
-          "deaths": 10548
+          "deaths": 10578
         }
       },
       "Quebec": {
@@ -1394,23 +1394,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 223251,
+          "confirmed": 227458,
           "date": "2022-01-14",
-          "deaths": 1870
+          "deaths": 1871
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 381610,
+          "confirmed": 388644,
           "date": "2022-01-14",
-          "deaths": 4621
+          "deaths": 4634
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 262555,
+          "confirmed": 266067,
           "date": "2022-01-14",
-          "deaths": 2514
+          "deaths": 2522
         }
       }
     }
