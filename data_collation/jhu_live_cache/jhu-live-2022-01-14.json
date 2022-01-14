@@ -151,170 +151,170 @@
     "subseries": {
       "Alagoas": {
         "live": {
-          "confirmed": 244055,
+          "confirmed": 244561,
           "date": "2022-01-14",
           "deaths": 6389
         }
       },
       "Amazonas": {
         "live": {
-          "confirmed": 438856,
+          "confirmed": 441260,
           "date": "2022-01-14",
-          "deaths": 13851
+          "deaths": 13855
         }
       },
       "Bahia": {
         "live": {
-          "confirmed": 1281737,
+          "confirmed": 1283736,
           "date": "2022-01-14",
-          "deaths": 27628
+          "deaths": 27642
         }
       },
       "Ceara": {
         "live": {
-          "confirmed": 964060,
+          "confirmed": 964566,
           "date": "2022-01-14",
-          "deaths": 24852
+          "deaths": 24856
         }
       },
       "Distrito Federal": {
         "live": {
-          "confirmed": 535724,
+          "confirmed": 538354,
           "date": "2022-01-14",
-          "deaths": 11123
+          "deaths": 11125
         }
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 649593,
+          "confirmed": 653522,
           "date": "2022-01-14",
-          "deaths": 13360
+          "deaths": 13363
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 961262,
+          "confirmed": 967579,
           "date": "2022-01-14",
-          "deaths": 24741
+          "deaths": 24753
         }
       },
       "Maranhao": {
         "live": {
-          "confirmed": 373107,
+          "confirmed": 373578,
           "date": "2022-01-14",
-          "deaths": 10402
+          "deaths": 10406
         }
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 569551,
+          "confirmed": 572022,
           "date": "2022-01-14",
-          "deaths": 14114
+          "deaths": 14118
         }
       },
       "Mato Grosso do Sul": {
         "live": {
-          "confirmed": 387398,
+          "confirmed": 389880,
           "date": "2022-01-14",
-          "deaths": 9747
+          "deaths": 9750
         }
       },
       "Minas Gerais": {
         "live": {
-          "confirmed": 2295533,
+          "confirmed": 2311318,
           "date": "2022-01-14",
-          "deaths": 56755
+          "deaths": 56768
         }
       },
       "Para": {
         "live": {
-          "confirmed": 631395,
+          "confirmed": 632264,
           "date": "2022-01-14",
-          "deaths": 17203
+          "deaths": 17230
         }
       },
       "Paraiba": {
         "live": {
-          "confirmed": 466088,
+          "confirmed": 466939,
           "date": "2022-01-14",
-          "deaths": 9612
+          "deaths": 9613
         }
       },
       "Parana": {
         "live": {
-          "confirmed": 1656290,
+          "confirmed": 1668870,
           "date": "2022-01-14",
-          "deaths": 40927
+          "deaths": 40930
         }
       },
       "Pernambuco": {
         "live": {
-          "confirmed": 651223,
+          "confirmed": 652670,
           "date": "2022-01-14",
-          "deaths": 20527
+          "deaths": 20531
         }
       },
       "Piaui": {
         "live": {
-          "confirmed": 344668,
+          "confirmed": 344753,
           "date": "2022-01-14",
-          "deaths": 7305
+          "deaths": 7306
         }
       },
       "Rio Grande do Norte": {
         "live": {
-          "confirmed": 391638,
+          "confirmed": 392614,
           "date": "2022-01-14",
           "deaths": 7587
         }
       },
       "Rio Grande do Sul": {
         "live": {
-          "confirmed": 1555404,
+          "confirmed": 1567590,
           "date": "2022-01-14",
-          "deaths": 36502
+          "deaths": 36513
         }
       },
       "Rio de Janeiro": {
         "live": {
-          "confirmed": 1409367,
+          "confirmed": 1422204,
           "date": "2022-01-14",
-          "deaths": 69553
+          "deaths": 69565
         }
       },
       "Rondonia": {
         "live": {
-          "confirmed": 288173,
+          "confirmed": 288595,
           "date": "2022-01-14",
-          "deaths": 6778
+          "deaths": 6782
         }
       },
       "Santa Catarina": {
         "live": {
-          "confirmed": 1277849,
+          "confirmed": 1286298,
           "date": "2022-01-14",
-          "deaths": 20243
+          "deaths": 20249
         }
       },
       "Sao Paulo": {
         "live": {
-          "confirmed": 4483053,
+          "confirmed": 4488929,
           "date": "2022-01-14",
-          "deaths": 155464
+          "deaths": 155517
         }
       },
       "Sergipe": {
         "live": {
-          "confirmed": 279235,
+          "confirmed": 279337,
           "date": "2022-01-14",
-          "deaths": 6062
+          "deaths": 6063
         }
       },
       "Tocantins": {
         "live": {
-          "confirmed": 241216,
+          "confirmed": 241753,
           "date": "2022-01-14",
-          "deaths": 3956
+          "deaths": 3959
         }
       }
     }
@@ -344,9 +344,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 288692,
+          "confirmed": 291246,
           "date": "2022-01-14",
-          "deaths": 2455
+          "deaths": 2462
         }
       },
       "Ontario": {
@@ -923,9 +923,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 679030,
+      "confirmed": 683566,
       "date": "2022-01-14",
-      "deaths": 6210
+      "deaths": 6259
     }
   },
   "Kuwait": {
@@ -1124,7 +1124,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 249586,
+      "confirmed": 250009,
       "date": "2022-01-14",
       "deaths": 3092
     }
@@ -1447,9 +1447,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 4505091,
+          "confirmed": 4547082,
           "date": "2022-01-14",
-          "deaths": 54635
+          "deaths": 54680
         }
       },
       "Florida": {
@@ -1538,9 +1538,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 257298,
+          "confirmed": 262287,
           "date": "2022-01-14",
-          "deaths": 2172
+          "deaths": 2177
         }
       },
       "Wisconsin": {
@@ -1667,9 +1667,9 @@
   },
   "Zimbabwe": {
     "live": {
-      "confirmed": 224433,
+      "confirmed": 225084,
       "date": "2022-01-14",
-      "deaths": 5215
+      "deaths": 5222
     }
   }
 }
