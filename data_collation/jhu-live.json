@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 769841,
+          "confirmed": 773199,
           "date": "2022-01-14",
-          "deaths": 19989
+          "deaths": 19997
         }
       }
     }
@@ -445,9 +445,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 988789,
+      "confirmed": 992125,
       "date": "2022-01-14",
-      "deaths": 8331
+      "deaths": 8332
     }
   },
   "Cyprus": {
@@ -610,9 +610,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1612869,
+      "confirmed": 1632641,
       "date": "2022-01-14",
-      "deaths": 21732
+      "deaths": 21809
     }
   },
   "Guatemala": {
@@ -898,20 +898,27 @@
   },
   "Japan": {
     "subseries": {
+      "Osaka": {
+        "live": {
+          "confirmed": 215408,
+          "date": "2022-01-14",
+          "deaths": 3069
+        }
+      },
       "Tokyo": {
         "live": {
-          "confirmed": 395050,
+          "confirmed": 399101,
           "date": "2022-01-14",
-          "deaths": 3176
+          "deaths": 3177
         }
       }
     }
   },
   "Jordan": {
     "live": {
-      "confirmed": 1091691,
+      "confirmed": 1095087,
       "date": "2022-01-14",
-      "deaths": 12945
+      "deaths": 12959
     }
   },
   "Kazakhstan": {
@@ -999,13 +1006,6 @@
           "date": "2022-01-14",
           "deaths": 10006
         }
-      },
-      "W.P. Kuala Lumpur": {
-        "live": {
-          "confirmed": 214047,
-          "date": "2022-01-14",
-          "deaths": 2691
-        }
       }
     }
   },
@@ -1057,9 +1057,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1025898,
+      "confirmed": 1034399,
       "date": "2022-01-14",
-      "deaths": 14945
+      "deaths": 14954
     }
   },
   "Mozambique": {
@@ -1419,7 +1419,7 @@
     "live": {
       "confirmed": 1666441,
       "date": "2022-01-14",
-      "deaths": 12459
+      "deaths": 12464
     }
   },
   "Thailand": {
@@ -1526,7 +1526,7 @@
         "live": {
           "confirmed": 2129637,
           "date": "2022-01-14",
-          "deaths": 26224
+          "deaths": 26227
         }
       },
       "Utah": {
