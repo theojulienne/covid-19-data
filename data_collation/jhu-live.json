@@ -358,9 +358,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 939226,
+          "confirmed": 939814,
           "date": "2022-01-14",
-          "deaths": 10584
+          "deaths": 10587
         }
       },
       "Quebec": {
@@ -501,9 +501,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 453128,
+      "confirmed": 454556,
       "date": "2022-01-14",
-      "deaths": 7109
+      "deaths": 7117
     }
   },
   "Finland": {
@@ -1064,9 +1064,9 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 216559,
+      "confirmed": 217821,
       "date": "2022-01-14",
-      "deaths": 2109
+      "deaths": 2117
     }
   },
   "Nepal": {
@@ -1138,9 +1138,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 239920,
+      "confirmed": 241651,
       "date": "2022-01-14",
-      "deaths": 8070
+      "deaths": 8083
     }
   },
   "Norway": {
@@ -1299,7 +1299,7 @@
     "live": {
       "confirmed": 519714,
       "date": "2022-01-14",
-      "deaths": 5690
+      "deaths": 5691
     }
   },
   "South Africa": {
@@ -1496,9 +1496,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 414779,
+          "confirmed": 419141,
           "date": "2022-01-14",
-          "deaths": 6608
+          "deaths": 6625
         }
       },
       "New York": {
