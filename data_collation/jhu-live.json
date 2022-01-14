@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 224383,
+      "confirmed": 224979,
       "date": "2022-01-14",
-      "deaths": 6383
+      "deaths": 6393
     }
   },
   "Argentina": {
@@ -358,9 +358,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 937458,
+          "confirmed": 939226,
           "date": "2022-01-14",
-          "deaths": 10579
+          "deaths": 10584
         }
       },
       "Quebec": {
@@ -515,9 +515,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 12956857,
+      "confirmed": 13279505,
       "date": "2022-01-14",
-      "deaths": 123938
+      "deaths": 124129
     }
   },
   "Georgia": {
@@ -925,7 +925,7 @@
     "live": {
       "confirmed": 1108567,
       "date": "2022-01-14",
-      "deaths": 18291
+      "deaths": 18293
     }
   },
   "Kenya": {
@@ -1050,7 +1050,7 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 402444,
+      "confirmed": 402462,
       "date": "2022-01-14",
       "deaths": 2082
     }
@@ -1216,9 +1216,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1774477,
+      "confirmed": 1814567,
       "date": "2022-01-14",
-      "deaths": 19203
+      "deaths": 19237
     }
   },
   "Qatar": {
@@ -1385,9 +1385,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 594319,
+      "confirmed": 594996,
       "date": "2022-01-14",
-      "deaths": 15174
+      "deaths": 15190
     }
   },
   "Sweden": {
@@ -1456,7 +1456,7 @@
         "live": {
           "confirmed": 4586277,
           "date": "2022-01-14",
-          "deaths": 54722
+          "deaths": 54727
         }
       },
       "Florida": {
@@ -1468,9 +1468,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 977558,
+          "confirmed": 986858,
           "date": "2022-01-14",
-          "deaths": 12458
+          "deaths": 12503
         }
       },
       "Massachusetts": {
@@ -1503,9 +1503,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2880276,
+          "confirmed": 2890490,
           "date": "2022-01-14",
-          "deaths": 44294
+          "deaths": 44421
         }
       },
       "Ohio": {
