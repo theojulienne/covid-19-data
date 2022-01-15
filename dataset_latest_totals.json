@@ -635,8 +635,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 766926,
-          "deaths": 12125
+          "confirmed": 783101,
+          "deaths": 12193
         },
         "Repatriated Travellers": {
           "confirmed": 13,
@@ -1161,18 +1161,18 @@
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 220825,
-        "deaths": 6318,
+        "confirmed": 221316,
+        "deaths": 6325,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 218037,
-        "deaths": 6271,
+        "confirmed": 218432,
+        "deaths": 6276,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 224383,
-        "deaths": 6383,
+        "confirmed": 224979,
+        "deaths": 6393,
         "recovered": 0
       }
     },
@@ -2227,18 +2227,18 @@
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 983629,
-        "deaths": 14883,
+        "confirmed": 990057,
+        "deaths": 14896,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 961058,
-        "deaths": 14844,
+        "confirmed": 963092,
+        "deaths": 14849,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1025898,
-        "deaths": 14945,
+        "confirmed": 1034399,
+        "deaths": 14954,
         "recovered": 0
       }
     },

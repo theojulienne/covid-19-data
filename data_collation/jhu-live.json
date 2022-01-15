@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 224979,
+      "confirmed": 225484,
       "date": "2022-01-15",
-      "deaths": 6393
+      "deaths": 6404
     }
   },
   "Argentina": {
@@ -365,9 +365,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 783101,
+          "confirmed": 789806,
           "date": "2022-01-15",
-          "deaths": 12193
+          "deaths": 12289
         }
       }
     }
@@ -1064,9 +1064,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1034399,
+      "confirmed": 1043225,
       "date": "2022-01-15",
-      "deaths": 14954
+      "deaths": 14963
     }
   },
   "Mozambique": {
@@ -1200,9 +1200,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 1032720,
+          "confirmed": 1132690,
           "date": "2022-01-15",
-          "deaths": 89553
+          "deaths": 89734
         }
       }
     }
@@ -1517,7 +1517,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 500308,
+          "confirmed": 508704,
           "date": "2022-01-15",
           "deaths": 5034
         }
