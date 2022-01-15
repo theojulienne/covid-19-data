@@ -358,9 +358,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 948143,
+          "confirmed": 949727,
           "date": "2022-01-15",
-          "deaths": 10621
+          "deaths": 10622
         }
       },
       "Quebec": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1718982,
+      "confirmed": 1768128,
       "date": "2022-01-15",
-      "deaths": 8298
+      "deaths": 8303
     }
   },
   "Italy": {
@@ -1283,9 +1283,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 290030,
+      "confirmed": 290986,
       "date": "2022-01-15",
-      "deaths": 840
+      "deaths": 843
     }
   },
   "Slovakia": {
@@ -1385,9 +1385,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 594996,
+      "confirmed": 595657,
       "date": "2022-01-15",
-      "deaths": 15190
+      "deaths": 15197
     }
   },
   "Sweden": {
