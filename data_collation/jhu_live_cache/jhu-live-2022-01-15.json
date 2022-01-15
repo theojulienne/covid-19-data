@@ -580,7 +580,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 307946,
+          "confirmed": 309148,
           "date": "2022-01-15",
           "deaths": 4734
         }
@@ -1071,9 +1071,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 845501,
+      "confirmed": 849204,
       "date": "2022-01-15",
-      "deaths": 11613
+      "deaths": 11617
     }
   },
   "Netherlands": {
@@ -1131,7 +1131,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 250009,
+      "confirmed": 250361,
       "date": "2022-01-15",
       "deaths": 3092
     }
@@ -1230,9 +1230,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1885771,
+      "confirmed": 1895833,
       "date": "2022-01-15",
-      "deaths": 59180
+      "deaths": 59212
     }
   },
   "Russia": {
