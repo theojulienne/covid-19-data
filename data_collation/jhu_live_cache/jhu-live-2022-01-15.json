@@ -54,9 +54,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 624208,
+      "confirmed": 624918,
       "date": "2022-01-15",
-      "deaths": 8497
+      "deaths": 8510
     }
   },
   "Bahrain": {
@@ -1600,9 +1600,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 799065,
+      "confirmed": 802181,
       "date": "2022-01-15",
-      "deaths": 2185
+      "deaths": 2188
     }
   },
   "United Kingdom": {
