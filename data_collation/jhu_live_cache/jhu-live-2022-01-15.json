@@ -389,42 +389,42 @@
         "live": {
           "confirmed": 861616,
           "date": "2022-01-15",
-          "deaths": 17049
+          "deaths": 17070
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 360178,
           "date": "2022-01-15",
-          "deaths": 9761
+          "deaths": 9764
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1555037,
           "date": "2022-01-15",
-          "deaths": 27783
+          "deaths": 27789
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 279117,
           "date": "2022-01-15",
-          "deaths": 6871
+          "deaths": 6872
         }
       },
       "Santander": {
         "live": {
           "confirmed": 246089,
           "date": "2022-01-15",
-          "deaths": 7570
+          "deaths": 7576
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 494164,
           "date": "2022-01-15",
-          "deaths": 13529
+          "deaths": 13553
         }
       }
     }
@@ -1440,9 +1440,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 982065,
+          "confirmed": 995019,
           "date": "2022-01-15",
-          "deaths": 14064
+          "deaths": 14097
         }
       },
       "California": {
@@ -1639,9 +1639,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 450892,
+      "confirmed": 452430,
       "date": "2022-01-15",
-      "deaths": 5373
+      "deaths": 5376
     }
   },
   "Vietnam": {
