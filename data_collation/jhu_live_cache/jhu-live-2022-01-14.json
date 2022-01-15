@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 226598,
+      "confirmed": 228777,
       "date": "2022-01-14",
-      "deaths": 3255
+      "deaths": 3262
     }
   },
   "Algeria": {
@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 6793119,
+      "confirmed": 6932972,
       "date": "2022-01-14",
-      "deaths": 117808
+      "deaths": 117901
     }
   },
   "Armenia": {
@@ -31,16 +31,16 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 690123,
+          "confirmed": 738891,
           "date": "2022-01-14",
-          "deaths": 826
+          "deaths": 846
         }
       },
       "Victoria": {
         "live": {
-          "confirmed": 564020,
+          "confirmed": 589546,
           "date": "2022-01-14",
-          "deaths": 1657
+          "deaths": 1680
         }
       }
     }
@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 300631,
+      "confirmed": 302872,
       "date": "2022-01-14",
       "deaths": 1397
     }
@@ -344,9 +344,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 430332,
+          "confirmed": 436495,
           "date": "2022-01-14",
-          "deaths": 3375
+          "deaths": 3380
         }
       },
       "British Columbia": {
@@ -452,7 +452,7 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 218374,
+      "confirmed": 221416,
       "date": "2022-01-14",
       "deaths": 672
     }
@@ -480,9 +480,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 559950,
+      "confirmed": 602942,
       "date": "2022-01-14",
-      "deaths": 33699
+      "deaths": 34206
     }
   },
   "Egypt": {
@@ -951,9 +951,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 801801,
+      "confirmed": 808612,
       "date": "2022-01-14",
-      "deaths": 9338
+      "deaths": 9353
     }
   },
   "Libya": {
@@ -974,30 +974,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 249610,
+          "confirmed": 249990,
           "date": "2022-01-14",
-          "deaths": 3889
+          "deaths": 3890
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 243495,
+          "confirmed": 243739,
           "date": "2022-01-14",
           "deaths": 2805
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252568,
+          "confirmed": 252581,
           "date": "2022-01-14",
           "deaths": 1619
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 797030,
+          "confirmed": 798036,
           "date": "2022-01-14",
-          "deaths": 10006
+          "deaths": 10010
         }
       }
     }
@@ -1036,9 +1036,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 385047,
+      "confirmed": 386905,
       "date": "2022-01-14",
-      "deaths": 10416
+      "deaths": 10427
     }
   },
   "Mongolia": {
@@ -1216,7 +1216,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 287091,
+      "confirmed": 291214,
       "date": "2022-01-14",
       "deaths": 623
     }
@@ -1454,7 +1454,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 2671593,
+          "confirmed": 2730654,
           "date": "2022-01-14",
           "deaths": 24037
         }
@@ -1468,9 +1468,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 267670,
+          "confirmed": 270534,
           "date": "2022-01-14",
-          "deaths": 4222
+          "deaths": 4228
         }
       },
       "Michigan": {
@@ -1496,7 +1496,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2890490,
+          "confirmed": 2907254,
           "date": "2022-01-14",
           "deaths": 44461
         }
