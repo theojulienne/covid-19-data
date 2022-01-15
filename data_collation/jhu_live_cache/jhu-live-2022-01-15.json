@@ -1563,37 +1563,37 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 244598,
+          "confirmed": 244936,
           "date": "2022-01-15",
-          "deaths": 9008
+          "deaths": 9022
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 247455,
+          "confirmed": 248216,
           "date": "2022-01-15",
-          "deaths": 6458
+          "deaths": 6468
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 343165,
+          "confirmed": 344343,
           "date": "2022-01-15",
-          "deaths": 8345
+          "deaths": 8354
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 225081,
+          "confirmed": 226259,
           "date": "2022-01-15",
-          "deaths": 6093
+          "deaths": 6094
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 243511,
+          "confirmed": 243982,
           "date": "2022-01-15",
-          "deaths": 5631
+          "deaths": 5637
         }
       }
     }
