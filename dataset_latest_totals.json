@@ -367,17 +367,17 @@
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 287939,
-        "deaths": 1395,
+        "confirmed": 289454,
+        "deaths": 1397,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 281406,
+        "confirmed": 282062,
         "deaths": 1394,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 300631,
+        "confirmed": 302872,
         "deaths": 1397,
         "recovered": 0
       }
@@ -1263,18 +1263,18 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 440024,
-        "deaths": 7005,
+        "confirmed": 442187,
+        "deaths": 7012,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 415443,
-        "deaths": 6926,
+        "confirmed": 420342,
+        "deaths": 6937,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 453128,
-        "deaths": 7109,
+        "confirmed": 454556,
+        "deaths": 7117,
         "recovered": 0
       }
     },
@@ -2057,18 +2057,18 @@
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 753879,
-        "deaths": 9231,
+        "confirmed": 761853,
+        "deaths": 9250,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 723640,
-        "deaths": 9102,
+        "confirmed": 727930,
+        "deaths": 9119,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 801801,
-        "deaths": 9338,
+        "confirmed": 808612,
+        "deaths": 9353,
         "recovered": 0
       }
     },
