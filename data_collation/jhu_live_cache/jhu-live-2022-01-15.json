@@ -358,9 +358,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 942800,
+          "confirmed": 948077,
           "date": "2022-01-15",
-          "deaths": 10600
+          "deaths": 10618
         }
       },
       "Quebec": {
@@ -466,9 +466,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 1080003,
+      "confirmed": 1105037,
       "date": "2022-01-15",
-      "deaths": 3468
+      "deaths": 3484
     }
   },
   "Dominican Republic": {
@@ -538,7 +538,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1436506,
+          "confirmed": 1436548,
           "date": "2022-01-15",
           "deaths": 20166
         }
@@ -810,9 +810,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2108206,
+      "confirmed": 2110683,
       "date": "2022-01-15",
-      "deaths": 24237
+      "deaths": 24242
     }
   },
   "Ireland": {
@@ -1297,9 +1297,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 519714,
+      "confirmed": 527311,
       "date": "2022-01-15",
-      "deaths": 5691
+      "deaths": 5696
     }
   },
   "South Africa": {
