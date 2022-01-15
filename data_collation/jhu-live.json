@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 228777,
+      "confirmed": 230940,
       "date": "2022-01-15",
-      "deaths": 3262
+      "deaths": 3265
     }
   },
   "Algeria": {
@@ -445,9 +445,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 992125,
+      "confirmed": 995631,
       "date": "2022-01-15",
-      "deaths": 8332
+      "deaths": 8335
     }
   },
   "Cyprus": {
@@ -515,9 +515,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 13279505,
+      "confirmed": 13604085,
       "date": "2022-01-15",
-      "deaths": 124129
+      "deaths": 124277
     }
   },
   "Georgia": {
@@ -905,11 +905,18 @@
   },
   "Japan": {
     "subseries": {
+      "Osaka": {
+        "live": {
+          "confirmed": 219100,
+          "date": "2022-01-15",
+          "deaths": 3069
+        }
+      },
       "Tokyo": {
         "live": {
-          "confirmed": 399101,
+          "confirmed": 403662,
           "date": "2022-01-15",
-          "deaths": 3177
+          "deaths": 3178
         }
       }
     }
@@ -930,9 +937,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 316700,
+      "confirmed": 317324,
       "date": "2022-01-15",
-      "deaths": 5482
+      "deaths": 5488
     }
   },
   "Korea, South": {
@@ -1064,9 +1071,9 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 217821,
+      "confirmed": 218797,
       "date": "2022-01-15",
-      "deaths": 2117
+      "deaths": 2123
     }
   },
   "Nepal": {
@@ -1304,9 +1311,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3552043,
+      "confirmed": 3556633,
       "date": "2022-01-15",
-      "deaths": 93117
+      "deaths": 93278
     }
   },
   "Spain": {
@@ -1506,13 +1513,6 @@
           "confirmed": 2907254,
           "date": "2022-01-15",
           "deaths": 44461
-        }
-      },
-      "North Carolina": {
-        "live": {
-          "confirmed": 216517,
-          "date": "2022-01-15",
-          "deaths": 1369
         }
       },
       "Ohio": {
