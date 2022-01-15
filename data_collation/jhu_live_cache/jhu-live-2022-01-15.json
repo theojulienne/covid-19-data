@@ -459,9 +459,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2573945,
+      "confirmed": 2587147,
       "date": "2022-01-15",
-      "deaths": 36799
+      "deaths": 36828
     }
   },
   "Denmark": {
@@ -898,6 +898,13 @@
   },
   "Japan": {
     "subseries": {
+      "Osaka": {
+        "live": {
+          "confirmed": 215408,
+          "date": "2022-01-15",
+          "deaths": 3069
+        }
+      },
       "Tokyo": {
         "live": {
           "confirmed": 399101,
@@ -916,7 +923,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1120948,
+      "confirmed": 1120990,
       "date": "2022-01-15",
       "deaths": 18293
     }
@@ -1043,9 +1050,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 402462,
+      "confirmed": 404791,
       "date": "2022-01-15",
-      "deaths": 2082
+      "deaths": 2084
     }
   },
   "Morocco": {
@@ -1454,7 +1461,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 2730654,
+          "confirmed": 2534265,
           "date": "2022-01-15",
           "deaths": 24037
         }
