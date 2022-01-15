@@ -38,18 +38,18 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 589546,
+          "confirmed": 590837,
           "date": "2022-01-15",
-          "deaths": 1680
+          "deaths": 1681
         }
       }
     }
   },
   "Austria": {
     "live": {
-      "confirmed": 1411421,
+      "confirmed": 1428170,
       "date": "2022-01-15",
-      "deaths": 13905
+      "deaths": 13915
     }
   },
   "Azerbaijan": {
@@ -494,9 +494,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 262482,
+      "confirmed": 264702,
       "date": "2022-01-15",
-      "deaths": 1970
+      "deaths": 1976
     }
   },
   "Ethiopia": {
@@ -1209,9 +1209,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 4281482,
+      "confirmed": 4298375,
       "date": "2022-01-15",
-      "deaths": 101841
+      "deaths": 102270
     }
   },
   "Portugal": {
@@ -1239,39 +1239,39 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2075669,
+          "confirmed": 2082224,
           "date": "2022-01-15",
-          "deaths": 37739
+          "deaths": 37807
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 657855,
+          "confirmed": 660444,
           "date": "2022-01-15",
-          "deaths": 12680
+          "deaths": 12722
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 235274,
+          "confirmed": 236010,
           "date": "2022-01-15",
-          "deaths": 10159
+          "deaths": 10186
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 873234,
+          "confirmed": 876548,
           "date": "2022-01-15",
-          "deaths": 28872
+          "deaths": 28934
         }
       }
     }
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 604672,
+      "confirmed": 609953,
       "date": "2022-01-15",
-      "deaths": 8903
+      "deaths": 8905
     }
   },
   "Serbia": {
@@ -1290,9 +1290,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1411568,
+      "confirmed": 1414154,
       "date": "2022-01-15",
-      "deaths": 17188
+      "deaths": 17252
     }
   },
   "Slovenia": {
