@@ -431,9 +431,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 604658,
+      "confirmed": 609882,
       "date": "2022-01-15",
-      "deaths": 7401
+      "deaths": 7406
     }
   },
   "Croatia": {
@@ -1170,9 +1170,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 540072,
+      "confirmed": 558676,
       "date": "2022-01-15",
-      "deaths": 7486
+      "deaths": 7500
     }
   },
   "Paraguay": {
