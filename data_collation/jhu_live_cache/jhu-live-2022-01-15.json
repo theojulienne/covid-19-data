@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 773199,
+          "confirmed": 776663,
           "date": "2022-01-15",
-          "deaths": 19997
+          "deaths": 20001
         }
       }
     }
@@ -916,9 +916,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1095087,
+      "confirmed": 1097474,
       "date": "2022-01-15",
-      "deaths": 12959
+      "deaths": 12974
     }
   },
   "Kazakhstan": {
@@ -981,30 +981,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 249990,
+          "confirmed": 250409,
           "date": "2022-01-15",
-          "deaths": 3890
+          "deaths": 3892
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 243739,
+          "confirmed": 244004,
           "date": "2022-01-15",
-          "deaths": 2805
+          "deaths": 2808
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252581,
+          "confirmed": 252594,
           "date": "2022-01-15",
           "deaths": 1619
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 798036,
+          "confirmed": 798873,
           "date": "2022-01-15",
-          "deaths": 10010
+          "deaths": 10015
         }
       }
     }
@@ -1531,9 +1531,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2135046,
+          "confirmed": 2227730,
           "date": "2022-01-15",
-          "deaths": 26227
+          "deaths": 26244
         }
       },
       "Utah": {
