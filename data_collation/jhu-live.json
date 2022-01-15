@@ -358,7 +358,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 949727,
+          "confirmed": 949846,
           "date": "2022-01-15",
           "deaths": 10622
         }
@@ -452,9 +452,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 221416,
+      "confirmed": 223767,
       "date": "2022-01-15",
-      "deaths": 672
+      "deaths": 673
     }
   },
   "Czechia": {
@@ -473,9 +473,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 489631,
+      "confirmed": 494595,
       "date": "2022-01-15",
-      "deaths": 4266
+      "deaths": 4268
     }
   },
   "Ecuador": {
@@ -1020,39 +1020,39 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1072218,
+          "confirmed": 1081952,
           "date": "2022-01-15",
-          "deaths": 40417
+          "deaths": 40437
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 217655,
+          "confirmed": 219933,
           "date": "2022-01-15",
-          "deaths": 13535
+          "deaths": 13554
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 403799,
+          "confirmed": 407055,
           "date": "2022-01-15",
-          "deaths": 44929
+          "deaths": 44935
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 225321,
+          "confirmed": 227718,
           "date": "2022-01-15",
-          "deaths": 13795
+          "deaths": 13806
         }
       }
     }
   },
   "Moldova": {
     "live": {
-      "confirmed": 386905,
+      "confirmed": 387920,
       "date": "2022-01-15",
-      "deaths": 10427
+      "deaths": 10437
     }
   },
   "Mongolia": {
@@ -1145,9 +1145,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 241651,
+      "confirmed": 243284,
       "date": "2022-01-15",
-      "deaths": 8083
+      "deaths": 8092
     }
   },
   "Norway": {
@@ -1531,9 +1531,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2227730,
+          "confirmed": 2250024,
           "date": "2022-01-15",
-          "deaths": 26244
+          "deaths": 26267
         }
       },
       "Utah": {
