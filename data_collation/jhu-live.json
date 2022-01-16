@@ -68,9 +68,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1612489,
+      "confirmed": 1617711,
       "date": "2022-01-16",
-      "deaths": 28136
+      "deaths": 28144
     }
   },
   "Belarus": {
@@ -135,9 +135,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 739920,
+      "confirmed": 749070,
       "date": "2022-01-16",
-      "deaths": 20188
+      "deaths": 20238
     }
   },
   "Bosnia and Herzegovina": {
@@ -358,9 +358,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 949846,
+          "confirmed": 955634,
           "date": "2022-01-16",
-          "deaths": 10622
+          "deaths": 10648
         }
       },
       "Quebec": {
@@ -466,9 +466,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 1105037,
+      "confirmed": 1131206,
       "date": "2022-01-16",
-      "deaths": 3484
+      "deaths": 3494
     }
   },
   "Dominican Republic": {
@@ -538,7 +538,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1446707,
+          "confirmed": 1447311,
           "date": "2022-01-16",
           "deaths": 20170
         }
@@ -587,9 +587,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 679042,
+          "confirmed": 680083,
           "date": "2022-01-16",
-          "deaths": 13770
+          "deaths": 13771
         }
       },
       "Sachsen-Anhalt": {
@@ -803,21 +803,21 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6218741,
+      "confirmed": 6221033,
       "date": "2022-01-16",
-      "deaths": 132044
+      "deaths": 132075
     }
   },
   "Iraq": {
     "live": {
-      "confirmed": 2110683,
+      "confirmed": 2114313,
       "date": "2022-01-16",
-      "deaths": 24242
+      "deaths": 24247
     }
   },
   "Ireland": {
     "live": {
-      "confirmed": 1092736,
+      "confirmed": 1103489,
       "date": "2022-01-16",
       "deaths": 6035
     }
@@ -937,7 +937,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 317324,
+      "confirmed": 317634,
       "date": "2022-01-16",
       "deaths": 5488
     }
@@ -1653,9 +1653,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2007862,
+      "confirmed": 2023546,
       "date": "2022-01-16",
-      "deaths": 35480
+      "deaths": 35609
     }
   },
   "West Bank and Gaza": {
