@@ -135,9 +135,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 725459,
+      "confirmed": 739920,
       "date": "2022-01-16",
-      "deaths": 20149
+      "deaths": 20188
     }
   },
   "Bosnia and Herzegovina": {
@@ -522,9 +522,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 990183,
+      "confirmed": 995687,
       "date": "2022-01-16",
-      "deaths": 14425
+      "deaths": 14449
     }
   },
   "Germany": {
@@ -545,7 +545,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 396919,
+          "confirmed": 396921,
           "date": "2022-01-16",
           "deaths": 4067
         }
