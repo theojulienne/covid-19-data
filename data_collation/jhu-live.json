@@ -459,9 +459,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2587147,
+      "confirmed": 2596439,
       "date": "2022-01-16",
-      "deaths": 36828
+      "deaths": 36853
     }
   },
   "Denmark": {
@@ -559,9 +559,9 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 542070,
+          "confirmed": 546523,
           "date": "2022-01-16",
-          "deaths": 8672
+          "deaths": 8668
         }
       },
       "Niedersachsen": {
@@ -1646,9 +1646,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 452430,
+      "confirmed": 453974,
       "date": "2022-01-16",
-      "deaths": 5376
+      "deaths": 5378
     }
   },
   "Vietnam": {
@@ -1674,9 +1674,9 @@
   },
   "Zimbabwe": {
     "live": {
-      "confirmed": 225637,
+      "confirmed": 225934,
       "date": "2022-01-16",
-      "deaths": 5238
+      "deaths": 5243
     }
   }
 }
