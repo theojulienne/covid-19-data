@@ -494,9 +494,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 264702,
+      "confirmed": 267095,
       "date": "2022-01-16",
-      "deaths": 1976
+      "deaths": 1979
     }
   },
   "Ethiopia": {
@@ -1216,9 +1216,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 4298375,
+      "confirmed": 4313036,
       "date": "2022-01-16",
-      "deaths": 102270
+      "deaths": 102305
     }
   },
   "Portugal": {
@@ -1276,9 +1276,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 609953,
+      "confirmed": 615430,
       "date": "2022-01-16",
-      "deaths": 8905
+      "deaths": 8906
     }
   },
   "Serbia": {
@@ -1297,16 +1297,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1414154,
+      "confirmed": 1417687,
       "date": "2022-01-16",
-      "deaths": 17252
+      "deaths": 17300
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 527311,
+      "confirmed": 533323,
       "date": "2022-01-16",
-      "deaths": 5696
+      "deaths": 5697
     }
   },
   "South Africa": {
