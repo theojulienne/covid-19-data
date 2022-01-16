@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 225484,
+      "confirmed": 226057,
       "date": "2022-01-16",
-      "deaths": 6404
+      "deaths": 6412
     }
   },
   "Argentina": {
@@ -515,9 +515,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 13604085,
+      "confirmed": 13882214,
       "date": "2022-01-16",
-      "deaths": 124277
+      "deaths": 124375
     }
   },
   "Georgia": {
@@ -1311,9 +1311,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3556633,
+      "confirmed": 3559292,
       "date": "2022-01-16",
-      "deaths": 93278
+      "deaths": 93364
     }
   },
   "Spain": {
@@ -1517,7 +1517,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 508704,
+          "confirmed": 513145,
           "date": "2022-01-16",
           "deaths": 5034
         }
