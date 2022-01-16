@@ -75,9 +75,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 714295,
+      "confirmed": 715643,
       "date": "2022-01-16",
-      "deaths": 5808
+      "deaths": 5824
     }
   },
   "Belgium": {
@@ -580,7 +580,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 309170,
+          "confirmed": 310533,
           "date": "2022-01-16",
           "deaths": 4734
         }
@@ -1237,9 +1237,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1895833,
+      "confirmed": 1903428,
       "date": "2022-01-16",
-      "deaths": 59212
+      "deaths": 59240
     }
   },
   "Russia": {
