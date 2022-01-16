@@ -1454,9 +1454,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 995019,
+          "confirmed": 997207,
           "date": "2022-01-16",
-          "deaths": 14097
+          "deaths": 14154
         }
       },
       "California": {
