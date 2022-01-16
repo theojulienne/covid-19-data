@@ -54,9 +54,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 624918,
+      "confirmed": 625726,
       "date": "2022-01-16",
-      "deaths": 8510
+      "deaths": 8521
     }
   },
   "Bahrain": {
@@ -438,9 +438,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 811703,
+      "confirmed": 817435,
       "date": "2022-01-16",
-      "deaths": 13073
+      "deaths": 13118
     }
   },
   "Cuba": {
@@ -972,9 +972,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 396452,
+      "confirmed": 397319,
       "date": "2022-01-16",
-      "deaths": 5828
+      "deaths": 5841
     }
   },
   "Lithuania": {
@@ -1078,9 +1078,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 849204,
+      "confirmed": 853738,
       "date": "2022-01-16",
-      "deaths": 11617
+      "deaths": 11620
     }
   },
   "Netherlands": {
