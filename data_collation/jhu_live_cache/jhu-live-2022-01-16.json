@@ -387,42 +387,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 861616,
+          "confirmed": 865776,
           "date": "2022-01-16",
           "deaths": 17070
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 360178,
+          "confirmed": 362923,
           "date": "2022-01-16",
           "deaths": 9764
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1555037,
+          "confirmed": 1563993,
           "date": "2022-01-16",
           "deaths": 27789
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 279117,
+          "confirmed": 280894,
           "date": "2022-01-16",
           "deaths": 6872
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 246089,
+          "confirmed": 247108,
           "date": "2022-01-16",
           "deaths": 7576
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 494164,
+          "confirmed": 498427,
           "date": "2022-01-16",
           "deaths": 13553
         }
@@ -1168,16 +1168,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 451408,
+          "confirmed": 452261,
           "date": "2022-01-16",
-          "deaths": 13087
+          "deaths": 13088
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 497153,
+          "confirmed": 499830,
           "date": "2022-01-16",
-          "deaths": 7693
+          "deaths": 7694
         }
       }
     }
