@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 776663,
+          "confirmed": 780211,
           "date": "2022-01-16",
-          "deaths": 20001
+          "deaths": 20007
         }
       }
     }
@@ -610,9 +610,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1650088,
+      "confirmed": 1660871,
       "date": "2022-01-16",
-      "deaths": 21888
+      "deaths": 21984
     }
   },
   "Guatemala": {
@@ -907,14 +907,14 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 219100,
+          "confirmed": 222860,
           "date": "2022-01-16",
           "deaths": 3069
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 403662,
+          "confirmed": 407834,
           "date": "2022-01-16",
           "deaths": 3178
         }
@@ -988,30 +988,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 250409,
+          "confirmed": 250780,
           "date": "2022-01-16",
-          "deaths": 3892
+          "deaths": 3893
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 244004,
+          "confirmed": 244217,
           "date": "2022-01-16",
           "deaths": 2808
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252594,
+          "confirmed": 252600,
           "date": "2022-01-16",
-          "deaths": 1619
+          "deaths": 1620
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 798873,
+          "confirmed": 799787,
           "date": "2022-01-16",
-          "deaths": 10015
+          "deaths": 10016
         }
       }
     }
@@ -1209,9 +1209,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3168379,
+      "confirmed": 3205396,
       "date": "2022-01-16",
-      "deaths": 52858
+      "deaths": 52907
     }
   },
   "Poland": {
@@ -1223,9 +1223,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1852703,
+      "confirmed": 1884974,
       "date": "2022-01-16",
-      "deaths": 19270
+      "deaths": 19303
     }
   },
   "Qatar": {
