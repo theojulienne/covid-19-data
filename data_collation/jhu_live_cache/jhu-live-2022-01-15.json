@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 6932972,
+      "confirmed": 7029624,
       "date": "2022-01-15",
-      "deaths": 117901
+      "deaths": 117989
     }
   },
   "Armenia": {
@@ -31,16 +31,16 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 738891,
+          "confirmed": 773447,
           "date": "2022-01-15",
-          "deaths": 846
+          "deaths": 866
         }
       },
       "Victoria": {
         "live": {
-          "confirmed": 590837,
+          "confirmed": 618965,
           "date": "2022-01-15",
-          "deaths": 1681
+          "deaths": 1694
         }
       }
     }
@@ -951,9 +951,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 456311,
+      "confirmed": 460828,
       "date": "2022-01-15",
-      "deaths": 2474
+      "deaths": 2475
     }
   },
   "Latvia": {
@@ -1426,7 +1426,7 @@
     "live": {
       "confirmed": 1666441,
       "date": "2022-01-15",
-      "deaths": 12467
+      "deaths": 12469
     }
   },
   "Thailand": {
@@ -1438,9 +1438,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 771177,
+      "confirmed": 780746,
       "date": "2022-01-15",
-      "deaths": 25755
+      "deaths": 25777
     }
   },
   "Turkey": {
@@ -1461,9 +1461,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 4625891,
+          "confirmed": 4399627,
           "date": "2022-01-15",
-          "deaths": 54774
+          "deaths": 52188
         }
       },
       "Florida": {
@@ -1510,9 +1510,16 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2907254,
+          "confirmed": 2931342,
           "date": "2022-01-15",
           "deaths": 44497
+        }
+      },
+      "North Carolina": {
+        "live": {
+          "confirmed": 216517,
+          "date": "2022-01-15",
+          "deaths": 1369
         }
       },
       "Ohio": {
