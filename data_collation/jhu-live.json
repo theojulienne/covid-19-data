@@ -358,16 +358,16 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 956924,
+          "confirmed": 956972,
           "date": "2022-01-16",
           "deaths": 10650
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 789806,
+          "confirmed": 795752,
           "date": "2022-01-16",
-          "deaths": 12289
+          "deaths": 12310
         }
       }
     }
@@ -501,9 +501,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 456279,
+      "confirmed": 457322,
       "date": "2022-01-16",
-      "deaths": 7131
+      "deaths": 7147
     }
   },
   "Finland": {
@@ -1050,9 +1050,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 387920,
+      "confirmed": 388959,
       "date": "2022-01-16",
-      "deaths": 10437
+      "deaths": 10444
     }
   },
   "Mongolia": {
@@ -1306,7 +1306,7 @@
     "live": {
       "confirmed": 533334,
       "date": "2022-01-16",
-      "deaths": 5697
+      "deaths": 5698
     }
   },
   "South Africa": {
@@ -1445,9 +1445,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 10404994,
+      "confirmed": 10459094,
       "date": "2022-01-16",
-      "deaths": 84622
+      "deaths": 84758
     }
   },
   "US": {
@@ -1531,9 +1531,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2238082,
+          "confirmed": 2261524,
           "date": "2022-01-16",
-          "deaths": 26285
+          "deaths": 26300
         }
       },
       "Utah": {
