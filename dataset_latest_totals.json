@@ -143,7 +143,7 @@
         "current_icu": 8,
         "deaths": 746,
         "recovered": 19522,
-        "tested": 48560977
+        "tested": 48674519
       },
       "back_2week": {
         "confirmed": 396798,
@@ -151,7 +151,7 @@
         "current_icu": 8,
         "deaths": 705,
         "recovered": 19522,
-        "tested": 47423443
+        "tested": 47605747
       },
       "latest": {
         "confirmed": 296683,
@@ -159,7 +159,7 @@
         "current_icu": 8,
         "deaths": 35,
         "recovered": 19522,
-        "tested": 22676466
+        "tested": 22675260
       },
       "states": {
         "ACT": {
@@ -188,12 +188,12 @@
           "tested": 350231
         },
         "QLD": {
-          "confirmed": 23630,
+          "confirmed": 19709,
           "current_hospitalized": 15,
           "current_icu": 0,
           "deaths": 6,
           "recovered": 0,
-          "tested": 43913
+          "tested": 42707
         },
         "SA": {
           "confirmed": 871,
