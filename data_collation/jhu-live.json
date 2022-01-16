@@ -31,16 +31,16 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 773447,
+          "confirmed": 773186,
           "date": "2022-01-16",
           "deaths": 866
         }
       },
       "Victoria": {
         "live": {
-          "confirmed": 618965,
+          "confirmed": 620571,
           "date": "2022-01-16",
-          "deaths": 1694
+          "deaths": 1689
         }
       }
     }
@@ -358,9 +358,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 955703,
+          "confirmed": 956924,
           "date": "2022-01-16",
-          "deaths": 10648
+          "deaths": 10650
         }
       },
       "Quebec": {
@@ -1071,9 +1071,9 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 218797,
+      "confirmed": 219081,
       "date": "2022-01-16",
-      "deaths": 2123
+      "deaths": 2127
     }
   },
   "Nepal": {
@@ -1145,9 +1145,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 243284,
+      "confirmed": 244632,
       "date": "2022-01-16",
-      "deaths": 8092
+      "deaths": 8100
     }
   },
   "Norway": {
