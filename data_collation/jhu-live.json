@@ -335,9 +335,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 533021,
+      "confirmed": 533144,
       "date": "2022-01-16",
-      "deaths": 19301
+      "deaths": 19302
     }
   },
   "Canada": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1773629,
+      "confirmed": 1785544,
       "date": "2022-01-16",
-      "deaths": 8304
+      "deaths": 8319
     }
   },
   "Italy": {
@@ -1087,51 +1087,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 395815,
+          "confirmed": 399217,
           "date": "2022-01-16",
           "deaths": 2609
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 247043,
+          "confirmed": 248275,
           "date": "2022-01-16",
           "deaths": 2077
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 537125,
+          "confirmed": 541902,
           "date": "2022-01-16",
-          "deaths": 3561
+          "deaths": 3562
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 603055,
+          "confirmed": 610715,
           "date": "2022-01-16",
-          "deaths": 3138
+          "deaths": 3139
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 225846,
+          "confirmed": 227999,
           "date": "2022-01-16",
           "deaths": 1347
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 279357,
+          "confirmed": 283206,
           "date": "2022-01-16",
           "deaths": 1479
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 803151,
+          "confirmed": 812450,
           "date": "2022-01-16",
-          "deaths": 4892
+          "deaths": 4896
         }
       }
     }
@@ -1283,9 +1283,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1425147,
+      "confirmed": 1436395,
       "date": "2022-01-16",
-      "deaths": 13045
+      "deaths": 13071
     }
   },
   "Singapore": {
