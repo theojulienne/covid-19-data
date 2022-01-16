@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 305414,
+      "confirmed": 308008,
       "date": "2022-01-16",
       "deaths": 1398
     }
@@ -452,9 +452,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 223767,
+      "confirmed": 225738,
       "date": "2022-01-16",
-      "deaths": 673
+      "deaths": 681
     }
   },
   "Czechia": {
@@ -473,7 +473,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 494595,
+      "confirmed": 498583,
       "date": "2022-01-16",
       "deaths": 4268
     }
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1785544,
+      "confirmed": 1792130,
       "date": "2022-01-16",
-      "deaths": 8319
+      "deaths": 8318
     }
   },
   "Italy": {
@@ -1461,9 +1461,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 4667547,
+          "confirmed": 4711385,
           "date": "2022-01-16",
-          "deaths": 54840
+          "deaths": 54891
         }
       },
       "Florida": {
@@ -1510,9 +1510,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2931342,
+          "confirmed": 2961678,
           "date": "2022-01-16",
-          "deaths": 44497
+          "deaths": 44525
         }
       },
       "Ohio": {
