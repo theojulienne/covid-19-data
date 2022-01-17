@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 7029624,
+      "confirmed": 7094865,
       "date": "2022-01-16",
-      "deaths": 117989
+      "deaths": 118040
     }
   },
   "Armenia": {
@@ -31,16 +31,16 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 773186,
+          "confirmed": 802690,
           "date": "2022-01-16",
-          "deaths": 866
+          "deaths": 883
         }
       },
       "Victoria": {
         "live": {
-          "confirmed": 620571,
+          "confirmed": 643000,
           "date": "2022-01-16",
-          "deaths": 1689
+          "deaths": 1695
         }
       }
     }
@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 651774,
+      "confirmed": 653171,
       "date": "2022-01-16",
-      "deaths": 16175
+      "deaths": 16176
     }
   },
   "Honduras": {
@@ -1639,9 +1639,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 500267,
+      "confirmed": 512841,
       "date": "2022-01-16",
-      "deaths": 6225
+      "deaths": 6243
     }
   },
   "Venezuela": {
