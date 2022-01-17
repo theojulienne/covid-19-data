@@ -358,7 +358,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 795752,
+          "confirmed": 801152,
           "date": "2022-01-17",
           "deaths": 12364
         }
@@ -494,9 +494,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 457322,
+      "confirmed": 458203,
       "date": "2022-01-17",
-      "deaths": 7147
+      "deaths": 7162
     }
   },
   "Finland": {
@@ -1512,7 +1512,7 @@
         "live": {
           "confirmed": 2980063,
           "date": "2022-01-17",
-          "deaths": 44709
+          "deaths": 44743
         }
       },
       "Ohio": {

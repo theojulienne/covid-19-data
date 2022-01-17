@@ -635,7 +635,7 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 789806,
+          "confirmed": 795752,
           "deaths": 12310
         },
         "Repatriated Travellers": {
@@ -1263,18 +1263,18 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 443339,
-        "deaths": 7020,
+        "confirmed": 444124,
+        "deaths": 7030,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 424340,
-        "deaths": 6947,
+        "confirmed": 426656,
+        "deaths": 6958,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 456279,
-        "deaths": 7131,
+        "confirmed": 457322,
+        "deaths": 7147,
         "recovered": 0
       }
     },
