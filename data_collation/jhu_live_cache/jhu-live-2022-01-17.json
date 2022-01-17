@@ -531,7 +531,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1124834,
+          "confirmed": 1124847,
           "date": "2022-01-17",
           "deaths": 13426
         }
@@ -1078,9 +1078,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 853738,
+      "confirmed": 859485,
       "date": "2022-01-17",
-      "deaths": 11620
+      "deaths": 11623
     }
   },
   "Netherlands": {
@@ -1600,9 +1600,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 805248,
+      "confirmed": 808237,
       "date": "2022-01-17",
-      "deaths": 2191
+      "deaths": 2195
     }
   },
   "United Kingdom": {
