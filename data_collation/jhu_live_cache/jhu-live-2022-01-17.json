@@ -68,9 +68,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1617711,
+      "confirmed": 1624387,
       "date": "2022-01-17",
-      "deaths": 28144
+      "deaths": 28154
     }
   },
   "Belarus": {
@@ -1191,9 +1191,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 476892,
+      "confirmed": 479971,
       "date": "2022-01-17",
-      "deaths": 16673
+      "deaths": 16684
     }
   },
   "Peru": {
@@ -1209,9 +1209,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3205396,
+      "confirmed": 3242374,
       "date": "2022-01-17",
-      "deaths": 52907
+      "deaths": 52929
     }
   },
   "Poland": {
@@ -1230,9 +1230,9 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 299242,
+      "confirmed": 303240,
       "date": "2022-01-17",
-      "deaths": 626
+      "deaths": 627
     }
   },
   "Romania": {
