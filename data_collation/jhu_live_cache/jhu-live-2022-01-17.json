@@ -531,79 +531,79 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1120654,
+          "confirmed": 1124834,
           "date": "2022-01-17",
-          "deaths": 13424
+          "deaths": 13426
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1447311,
+          "confirmed": 1454911,
           "date": "2022-01-17",
-          "deaths": 20170
+          "deaths": 20178
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 396921,
+          "confirmed": 397139,
           "date": "2022-01-17",
           "deaths": 4067
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 272660,
+          "confirmed": 273362,
           "date": "2022-01-17",
-          "deaths": 4874
+          "deaths": 4875
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 546523,
+          "confirmed": 549865,
           "date": "2022-01-17",
-          "deaths": 8668
+          "deaths": 8672
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 506283,
+          "confirmed": 508864,
           "date": "2022-01-17",
           "deaths": 6994
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1550949,
+          "confirmed": 1558884,
           "date": "2022-01-17",
-          "deaths": 20745
+          "deaths": 20750
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 310533,
+          "confirmed": 310554,
           "date": "2022-01-17",
           "deaths": 4734
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 680083,
+          "confirmed": 680090,
           "date": "2022-01-17",
-          "deaths": 13771
+          "deaths": 13773
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 238769,
+          "confirmed": 239235,
           "date": "2022-01-17",
-          "deaths": 4472
+          "deaths": 4475
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 303294,
+          "confirmed": 303522,
           "date": "2022-01-17",
-          "deaths": 6252
+          "deaths": 6255
         }
       }
     }
@@ -930,7 +930,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1134598,
+      "confirmed": 1146165,
       "date": "2022-01-17",
       "deaths": 18293
     }
@@ -1168,16 +1168,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 452261,
+          "confirmed": 453392,
           "date": "2022-01-17",
-          "deaths": 13088
+          "deaths": 13090
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 499830,
+          "confirmed": 502500,
           "date": "2022-01-17",
-          "deaths": 7694
+          "deaths": 7697
         }
       }
     }
