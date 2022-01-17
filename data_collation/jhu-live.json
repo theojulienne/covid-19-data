@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 780211,
+          "confirmed": 783678,
           "date": "2022-01-17",
-          "deaths": 20007
+          "deaths": 20017
         }
       }
     }
@@ -610,9 +610,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1660871,
+      "confirmed": 1679705,
       "date": "2022-01-17",
-      "deaths": 21984
+      "deaths": 22087
     }
   },
   "Guatemala": {
@@ -907,16 +907,16 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 222860,
+          "confirmed": 225409,
           "date": "2022-01-17",
           "deaths": 3069
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 407834,
+          "confirmed": 411553,
           "date": "2022-01-17",
-          "deaths": 3178
+          "deaths": 3179
         }
       }
     }
@@ -988,30 +988,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 250780,
+          "confirmed": 251131,
           "date": "2022-01-17",
-          "deaths": 3893
+          "deaths": 3894
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 244217,
+          "confirmed": 244380,
           "date": "2022-01-17",
-          "deaths": 2808
+          "deaths": 2809
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252600,
+          "confirmed": 252609,
           "date": "2022-01-17",
           "deaths": 1620
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 799787,
+          "confirmed": 800311,
           "date": "2022-01-17",
-          "deaths": 10016
+          "deaths": 10020
         }
       }
     }
@@ -1290,7 +1290,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 291849,
+      "confirmed": 293014,
       "date": "2022-01-17",
       "deaths": 843
     }
@@ -1426,7 +1426,7 @@
     "live": {
       "confirmed": 1734346,
       "date": "2022-01-17",
-      "deaths": 12506
+      "deaths": 12512
     }
   },
   "Thailand": {
@@ -1454,9 +1454,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 997207,
+          "confirmed": 1025184,
           "date": "2022-01-17",
-          "deaths": 14154
+          "deaths": 14179
         }
       },
       "California": {
