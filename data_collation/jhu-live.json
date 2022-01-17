@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 308008,
+      "confirmed": 310906,
       "date": "2022-01-17",
       "deaths": 1398
     }
@@ -1461,9 +1461,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 4806240,
+          "confirmed": 4836415,
           "date": "2022-01-17",
-          "deaths": 54965
+          "deaths": 54992
         }
       },
       "Florida": {
