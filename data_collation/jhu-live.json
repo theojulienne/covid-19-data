@@ -389,7 +389,7 @@
         "live": {
           "confirmed": 868620,
           "date": "2022-01-17",
-          "deaths": 17094
+          "deaths": 17126
         }
       },
       "Atlantico": {
@@ -403,28 +403,28 @@
         "live": {
           "confirmed": 1572383,
           "date": "2022-01-17",
-          "deaths": 27801
+          "deaths": 27814
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 282712,
           "date": "2022-01-17",
-          "deaths": 6874
+          "deaths": 6876
         }
       },
       "Santander": {
         "live": {
           "confirmed": 248089,
           "date": "2022-01-17",
-          "deaths": 7580
+          "deaths": 7586
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 502154,
           "date": "2022-01-17",
-          "deaths": 13597
+          "deaths": 13635
         }
       }
     }
@@ -1057,9 +1057,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 407542,
+      "confirmed": 409215,
       "date": "2022-01-17",
-      "deaths": 2085
+      "deaths": 2086
     }
   },
   "Morocco": {
@@ -1646,9 +1646,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 453974,
+      "confirmed": 455023,
       "date": "2022-01-17",
-      "deaths": 5378
+      "deaths": 5380
     }
   },
   "Vietnam": {
