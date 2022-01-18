@@ -803,9 +803,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6224196,
+      "confirmed": 6227849,
       "date": "2022-01-18",
-      "deaths": 132095
+      "deaths": 132113
     }
   },
   "Iraq": {
@@ -1230,9 +1230,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1911546,
+      "confirmed": 1928306,
       "date": "2022-01-18",
-      "deaths": 59257
+      "deaths": 59327
     }
   },
   "Russia": {
@@ -1653,9 +1653,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2045290,
+      "confirmed": 2062128,
       "date": "2022-01-18",
-      "deaths": 35788
+      "deaths": 35972
     }
   },
   "West Bank and Gaza": {
