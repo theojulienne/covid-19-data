@@ -15963,7 +15963,8 @@
           null,
           null,
           null,
-          null
+          null,
+          832520
         ],
         "current_hospitalized": [
           0,
@@ -18879,7 +18880,8 @@
           null,
           null,
           null,
-          null
+          null,
+          919
         ],
         "recovered": [
           0,
@@ -48280,7 +48282,8 @@
       300604,
       296683,
       294419,
-      292096
+      292096,
+      1124616
     ],
     "current_hospitalized": [
       0,
@@ -50467,7 +50470,8 @@
       35,
       35,
       35,
-      35
+      35,
+      954
     ],
     "recovered": [
       0,
