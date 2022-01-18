@@ -8,16 +8,16 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 226057,
+      "confirmed": 226749,
       "date": "2022-01-17",
-      "deaths": 6412
+      "deaths": 6423
     }
   },
   "Argentina": {
     "live": {
-      "confirmed": 7094865,
+      "confirmed": 7197323,
       "date": "2022-01-17",
-      "deaths": 118040
+      "deaths": 118231
     }
   },
   "Armenia": {
@@ -31,16 +31,16 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 802690,
+          "confirmed": 832520,
           "date": "2022-01-17",
-          "deaths": 883
+          "deaths": 919
         }
       },
       "Victoria": {
         "live": {
-          "confirmed": 644058,
+          "confirmed": 664238,
           "date": "2022-01-17",
-          "deaths": 1695
+          "deaths": 1717
         }
       }
     }
@@ -142,9 +142,9 @@
   },
   "Botswana": {
     "live": {
-      "confirmed": 237678,
+      "confirmed": 239887,
       "date": "2022-01-17",
-      "deaths": 2514
+      "deaths": 2534
     }
   },
   "Brazil": {
@@ -321,9 +321,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 820608,
+      "confirmed": 830604,
       "date": "2022-01-17",
-      "deaths": 32086
+      "deaths": 32247
     }
   },
   "Burma": {
@@ -1445,9 +1445,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 10459094,
+      "confirmed": 10524029,
       "date": "2022-01-17",
-      "deaths": 84758
+      "deaths": 84920
     }
   },
   "US": {
@@ -1510,7 +1510,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2980063,
+          "confirmed": 2990853,
           "date": "2022-01-17",
           "deaths": 44743
         }
