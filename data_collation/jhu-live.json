@@ -365,7 +365,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 801152,
+          "confirmed": 806295,
           "date": "2022-01-18",
           "deaths": 12453
         }
@@ -988,30 +988,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 251131,
+          "confirmed": 251595,
           "date": "2022-01-18",
           "deaths": 3894
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 244380,
+          "confirmed": 244581,
           "date": "2022-01-18",
-          "deaths": 2809
+          "deaths": 2810
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252609,
+          "confirmed": 252625,
           "date": "2022-01-18",
           "deaths": 1620
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 800311,
+          "confirmed": 800990,
           "date": "2022-01-18",
-          "deaths": 10021
+          "deaths": 10023
         }
       }
     }
@@ -1456,7 +1456,7 @@
         "live": {
           "confirmed": 4860947,
           "date": "2022-01-18",
-          "deaths": 54994
+          "deaths": 55007
         }
       },
       "Florida": {
@@ -1496,16 +1496,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 419141,
+          "confirmed": 436712,
           "date": "2022-01-18",
-          "deaths": 6625
+          "deaths": 6646
         }
       },
       "New York": {
         "live": {
-          "confirmed": 2997489,
+          "confirmed": 3006023,
           "date": "2022-01-18",
-          "deaths": 44984
+          "deaths": 45014
         }
       },
       "North Carolina": {
@@ -1517,9 +1517,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 516960,
+          "confirmed": 519088,
           "date": "2022-01-18",
-          "deaths": 5034
+          "deaths": 5083
         }
       },
       "Pennsylvania": {
@@ -1531,9 +1531,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2290130,
+          "confirmed": 2313616,
           "date": "2022-01-18",
-          "deaths": 26308
+          "deaths": 26344
         }
       },
       "Utah": {
