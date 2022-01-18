@@ -135,9 +135,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 754335,
+      "confirmed": 763392,
       "date": "2022-01-18",
-      "deaths": 20254
+      "deaths": 20291
     }
   },
   "Bosnia and Herzegovina": {
@@ -1020,30 +1020,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1095354,
+          "confirmed": 1099047,
           "date": "2022-01-18",
-          "deaths": 40461
+          "deaths": 40473
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 222864,
+          "confirmed": 223301,
           "date": "2022-01-18",
-          "deaths": 13581
+          "deaths": 13586
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 411739,
+          "confirmed": 413167,
           "date": "2022-01-18",
-          "deaths": 44954
+          "deaths": 44962
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 231872,
+          "confirmed": 232762,
           "date": "2022-01-18",
-          "deaths": 13814
+          "deaths": 13815
         }
       }
     }

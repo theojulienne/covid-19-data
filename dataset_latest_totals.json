@@ -452,18 +452,18 @@
     },
     "BOL": {
       "back_1week": {
-        "confirmed": 677166,
-        "deaths": 19983,
+        "confirmed": 686023,
+        "deaths": 19999,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 611031,
-        "deaths": 19722,
+        "confirmed": 622312,
+        "deaths": 19763,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 749070,
-        "deaths": 20238,
+        "confirmed": 754335,
+        "deaths": 20254,
         "recovered": 0
       }
     },
