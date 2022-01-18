@@ -452,9 +452,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 228881,
+      "confirmed": 230856,
       "date": "2022-01-18",
-      "deaths": 684
+      "deaths": 689
     }
   },
   "Czechia": {
@@ -501,9 +501,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 458203,
+      "confirmed": 459486,
       "date": "2022-01-18",
-      "deaths": 7162
+      "deaths": 7184
     }
   },
   "Finland": {
@@ -965,9 +965,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 826279,
+      "confirmed": 833871,
       "date": "2022-01-18",
-      "deaths": 9397
+      "deaths": 9412
     }
   },
   "Libya": {
@@ -1043,9 +1043,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 390742,
+      "confirmed": 393423,
       "date": "2022-01-18",
-      "deaths": 10452
+      "deaths": 10462
     }
   },
   "Mongolia": {
@@ -1131,9 +1131,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 245398,
+      "confirmed": 247663,
       "date": "2022-01-18",
-      "deaths": 8115
+      "deaths": 8139
     }
   },
   "Norway": {
@@ -1438,9 +1438,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 10524029,
+      "confirmed": 10593687,
       "date": "2022-01-18",
-      "deaths": 84920
+      "deaths": 85077
     }
   },
   "US": {
@@ -1667,9 +1667,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 296817,
+      "confirmed": 298032,
       "date": "2022-01-18",
-      "deaths": 3866
+      "deaths": 3873
     }
   }
 }
