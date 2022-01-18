@@ -1,16 +1,16 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 233654,
+      "confirmed": 236486,
       "date": "2022-01-18",
-      "deaths": 3271
+      "deaths": 3277
     }
   },
   "Algeria": {
     "live": {
-      "confirmed": 226749,
+      "confirmed": 227559,
       "date": "2022-01-18",
-      "deaths": 6423
+      "deaths": 6435
     }
   },
   "Argentina": {
@@ -68,7 +68,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 310906,
+      "confirmed": 313925,
       "date": "2022-01-18",
       "deaths": 1398
     }
@@ -270,7 +270,7 @@
       },
       "Rio Grande do Norte": {
         "live": {
-          "confirmed": 394421,
+          "confirmed": 394427,
           "date": "2022-01-18",
           "deaths": 7604
         }
