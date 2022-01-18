@@ -61,9 +61,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 626085,
+      "confirmed": 627015,
       "date": "2022-01-18",
-      "deaths": 8529
+      "deaths": 8541
     }
   },
   "Bahrain": {
@@ -342,9 +342,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 533245,
+      "confirmed": 533408,
       "date": "2022-01-18",
-      "deaths": 19304
+      "deaths": 19305
     }
   },
   "Canada": {
@@ -587,9 +587,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 313649,
+          "confirmed": 318156,
           "date": "2022-01-18",
-          "deaths": 4743
+          "deaths": 4751
         }
       },
       "Sachsen": {
@@ -601,9 +601,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 239860,
+          "confirmed": 241364,
           "date": "2022-01-18",
-          "deaths": 4484
+          "deaths": 4495
         }
       },
       "Thuringen": {

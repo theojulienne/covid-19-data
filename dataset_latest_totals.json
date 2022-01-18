@@ -248,18 +248,18 @@
     },
     "AZE": {
       "back_1week": {
-        "confirmed": 621234,
-        "deaths": 8445,
+        "confirmed": 621563,
+        "deaths": 8457,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 617679,
-        "deaths": 8375,
+        "confirmed": 617952,
+        "deaths": 8383,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 625726,
-        "deaths": 8521,
+        "confirmed": 626085,
+        "deaths": 8529,
         "recovered": 0
       }
     },
