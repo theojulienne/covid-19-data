@@ -36,6 +36,13 @@
           "deaths": 919
         }
       },
+      "Queensland": {
+        "live": {
+          "confirmed": 245633,
+          "date": "2022-01-18",
+          "deaths": 52
+        }
+      },
       "Victoria": {
         "live": {
           "confirmed": 664238,
@@ -438,9 +445,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 818832,
+      "confirmed": 826380,
       "date": "2022-01-18",
-      "deaths": 13157
+      "deaths": 13212
     }
   },
   "Cuba": {
@@ -1025,13 +1032,6 @@
           "deaths": 40473
         }
       },
-      "Guanajuato": {
-        "live": {
-          "confirmed": 223301,
-          "date": "2022-01-18",
-          "deaths": 13586
-        }
-      },
       "Mexico": {
         "live": {
           "confirmed": 413167,
@@ -1202,9 +1202,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3242374,
+      "confirmed": 3270758,
       "date": "2022-01-18",
-      "deaths": 52929
+      "deaths": 52962
     }
   },
   "Poland": {
@@ -1223,9 +1223,9 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 303240,
+      "confirmed": 307056,
       "date": "2022-01-18",
-      "deaths": 627
+      "deaths": 630
     }
   },
   "Romania": {
@@ -1424,9 +1424,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 1734346,
+      "confirmed": 1763497,
       "date": "2022-01-18",
-      "deaths": 12523
+      "deaths": 12527
     }
   },
   "Thailand": {
@@ -1600,9 +1600,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 808237,
+      "confirmed": 811029,
       "date": "2022-01-18",
-      "deaths": 2195
+      "deaths": 2198
     }
   },
   "United Kingdom": {
