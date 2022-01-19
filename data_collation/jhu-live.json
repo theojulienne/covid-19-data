@@ -193,16 +193,16 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 679249,
+          "confirmed": 681689,
           "date": "2022-01-19",
-          "deaths": 13382
+          "deaths": 13385
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 975922,
+          "confirmed": 978504,
           "date": "2022-01-19",
-          "deaths": 24784
+          "deaths": 24792
         }
       },
       "Maranhao": {
@@ -214,16 +214,16 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 579494,
+          "confirmed": 582373,
           "date": "2022-01-19",
-          "deaths": 14130
+          "deaths": 14144
         }
       },
       "Mato Grosso do Sul": {
         "live": {
           "confirmed": 393607,
           "date": "2022-01-19",
-          "deaths": 9764
+          "deaths": 9765
         }
       },
       "Minas Gerais": {
@@ -235,9 +235,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 634200,
+          "confirmed": 634851,
           "date": "2022-01-19",
-          "deaths": 17249
+          "deaths": 17261
         }
       },
       "Paraiba": {
@@ -265,7 +265,7 @@
         "live": {
           "confirmed": 345171,
           "date": "2022-01-19",
-          "deaths": 7323
+          "deaths": 7329
         }
       },
       "Rio Grande do Norte": {
@@ -1545,9 +1545,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 267403,
+          "confirmed": 286617,
           "date": "2022-01-19",
-          "deaths": 2187
+          "deaths": 2202
         }
       },
       "Wisconsin": {
