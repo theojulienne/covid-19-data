@@ -31,9 +31,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 245633,
+          "confirmed": 265565,
           "date": "2022-01-19",
-          "deaths": 52
+          "deaths": 63
         }
       },
       "Victoria": {
@@ -387,42 +387,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 870350,
+          "confirmed": 873729,
           "date": "2022-01-19",
           "deaths": 17144
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 367207,
+          "confirmed": 369116,
           "date": "2022-01-19",
           "deaths": 9770
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1579133,
+          "confirmed": 1585699,
           "date": "2022-01-19",
           "deaths": 27829
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 284335,
+          "confirmed": 286216,
           "date": "2022-01-19",
           "deaths": 6881
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 249384,
+          "confirmed": 250347,
           "date": "2022-01-19",
           "deaths": 7596
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 503811,
+          "confirmed": 506952,
           "date": "2022-01-19",
           "deaths": 13673
         }
@@ -531,79 +531,79 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1146946,
+          "confirmed": 1146980,
           "date": "2022-01-19",
           "deaths": 13464
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1465779,
+          "confirmed": 1483277,
           "date": "2022-01-19",
-          "deaths": 20190
+          "deaths": 20214
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 404693,
+          "confirmed": 415433,
           "date": "2022-01-19",
-          "deaths": 4067
+          "deaths": 4072
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 276196,
+          "confirmed": 280429,
           "date": "2022-01-19",
-          "deaths": 4899
+          "deaths": 4929
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 556833,
+          "confirmed": 565294,
           "date": "2022-01-19",
-          "deaths": 8678
+          "deaths": 8699
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 514864,
+          "confirmed": 521527,
           "date": "2022-01-19",
-          "deaths": 7002
+          "deaths": 7014
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1577296,
+          "confirmed": 1600066,
           "date": "2022-01-19",
-          "deaths": 20781
+          "deaths": 20804
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 318156,
+          "confirmed": 318192,
           "date": "2022-01-19",
-          "deaths": 4751
+          "deaths": 4750
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 684207,
+          "confirmed": 684367,
           "date": "2022-01-19",
-          "deaths": 13835
+          "deaths": 13838
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 241364,
+          "confirmed": 241368,
           "date": "2022-01-19",
           "deaths": 4495
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 304175,
+          "confirmed": 305488,
           "date": "2022-01-19",
-          "deaths": 6278
+          "deaths": 6304
         }
       }
     }
@@ -640,86 +640,86 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2110388,
+          "confirmed": 2117384,
           "date": "2022-01-19",
-          "deaths": 14510
+          "deaths": 14514
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 653717,
+          "confirmed": 661789,
           "date": "2022-01-19",
-          "deaths": 6217
+          "deaths": 6233
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 790653,
+          "confirmed": 795204,
           "date": "2022-01-19",
-          "deaths": 12141
+          "deaths": 12145
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 1064290,
+          "confirmed": 1069904,
           "date": "2022-01-19",
-          "deaths": 13664
+          "deaths": 13673
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 1722497,
+          "confirmed": 1734181,
           "date": "2022-01-19",
-          "deaths": 25387
+          "deaths": 25425
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 938993,
+          "confirmed": 956112,
           "date": "2022-01-19",
-          "deaths": 10164
+          "deaths": 10174
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 856102,
+          "confirmed": 864490,
           "date": "2022-01-19",
-          "deaths": 10116
+          "deaths": 10124
         }
       },
       "Himachal Pradesh": {
         "live": {
-          "confirmed": 245811,
+          "confirmed": 248895,
           "date": "2022-01-19",
-          "deaths": 3897
+          "deaths": 3902
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 362200,
+          "confirmed": 366851,
           "date": "2022-01-19",
-          "deaths": 4572
+          "deaths": 4575
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 407808,
+          "confirmed": 410322,
           "date": "2022-01-19",
-          "deaths": 5209
+          "deaths": 5213
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 3247243,
+          "confirmed": 3288700,
           "date": "2022-01-19",
-          "deaths": 38445
+          "deaths": 38465
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 5401777,
+          "confirmed": 5430258,
           "date": "2022-01-19",
-          "deaths": 50904
+          "deaths": 51026
         }
       },
       "Madhya Pradesh": {
@@ -731,9 +731,9 @@
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 7242921,
+          "confirmed": 7282128,
           "date": "2022-01-19",
-          "deaths": 141832
+          "deaths": 141885
         }
       },
       "Odisha": {
@@ -1050,7 +1050,7 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 411368,
+      "confirmed": 414438,
       "date": "2022-01-19",
       "deaths": 2089
     }
@@ -1283,7 +1283,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1424653,
+      "confirmed": 1421125,
       "date": "2022-01-19",
       "deaths": 17398
     }
