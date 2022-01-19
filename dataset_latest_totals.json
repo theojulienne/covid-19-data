@@ -2142,18 +2142,18 @@
     },
     "LKA": {
       "back_1week": {
-        "confirmed": 592128,
-        "deaths": 15134,
+        "confirmed": 593072,
+        "deaths": 15149,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 588300,
-        "deaths": 15037,
+        "confirmed": 588929,
+        "deaths": 15055,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 597035,
-        "deaths": 15218,
+        "confirmed": 597707,
+        "deaths": 15231,
         "recovered": 0
       }
     },
@@ -3094,13 +3094,13 @@
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1305621,
-        "deaths": 12787,
+        "confirmed": 1310845,
+        "deaths": 12806,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1449192,
-        "deaths": 13098,
+        "confirmed": 1467198,
+        "deaths": 13124,
         "recovered": 0
       }
     },
