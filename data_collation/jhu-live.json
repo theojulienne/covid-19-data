@@ -15,9 +15,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 348145,
+      "confirmed": 348708,
       "date": "2022-01-19",
-      "deaths": 8022
+      "deaths": 8025
     }
   },
   "Australia": {
@@ -979,9 +979,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 575357,
+      "confirmed": 581823,
       "date": "2022-01-19",
-      "deaths": 7681
+      "deaths": 7696
     }
   },
   "Malaysia": {
@@ -1419,7 +1419,7 @@
     "live": {
       "confirmed": 1763497,
       "date": "2022-01-19",
-      "deaths": 12529
+      "deaths": 12530
     }
   },
   "Thailand": {
@@ -1563,37 +1563,37 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 245523,
+          "confirmed": 245937,
           "date": "2022-01-19",
-          "deaths": 9039
+          "deaths": 9058
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 250153,
+          "confirmed": 250819,
           "date": "2022-01-19",
-          "deaths": 6493
+          "deaths": 6500
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 346228,
+          "confirmed": 347496,
           "date": "2022-01-19",
-          "deaths": 8377
+          "deaths": 8389
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 228608,
+          "confirmed": 229564,
           "date": "2022-01-19",
-          "deaths": 6112
+          "deaths": 6119
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 244751,
+          "confirmed": 245285,
           "date": "2022-01-19",
-          "deaths": 5658
+          "deaths": 5663
         }
       }
     }
