@@ -438,9 +438,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 826380,
+      "confirmed": 836807,
       "date": "2022-01-19",
-      "deaths": 13212
+      "deaths": 13257
     }
   },
   "Cuba": {
@@ -466,9 +466,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 1193479,
+      "confirmed": 1232238,
       "date": "2022-01-19",
-      "deaths": 3519
+      "deaths": 3535
     }
   },
   "Dominican Republic": {
@@ -538,7 +538,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1483277,
+          "confirmed": 1483881,
           "date": "2022-01-19",
           "deaths": 20214
         }
@@ -587,9 +587,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 684367,
+          "confirmed": 687630,
           "date": "2022-01-19",
-          "deaths": 13838
+          "deaths": 13884
         }
       },
       "Sachsen-Anhalt": {
@@ -810,9 +810,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2125266,
+      "confirmed": 2131500,
       "date": "2022-01-19",
-      "deaths": 24262
+      "deaths": 24267
     }
   },
   "Ireland": {
@@ -1177,9 +1177,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 504380,
+      "confirmed": 509795,
       "date": "2022-01-19",
-      "deaths": 16844
+      "deaths": 16866
     }
   },
   "Peru": {
@@ -1216,9 +1216,9 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 307056,
+      "confirmed": 310779,
       "date": "2022-01-19",
-      "deaths": 630
+      "deaths": 631
     }
   },
   "Romania": {
@@ -1394,23 +1394,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 238935,
+          "confirmed": 243203,
           "date": "2022-01-19",
           "deaths": 1892
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 417548,
+          "confirmed": 428016,
           "date": "2022-01-19",
-          "deaths": 4637
+          "deaths": 4658
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 278860,
+          "confirmed": 287344,
           "date": "2022-01-19",
-          "deaths": 2524
+          "deaths": 2550
         }
       }
     }
@@ -1419,7 +1419,7 @@
     "live": {
       "confirmed": 1801522,
       "date": "2022-01-19",
-      "deaths": 12538
+      "deaths": 12541
     }
   },
   "Thailand": {
@@ -1503,9 +1503,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 3006023,
+          "confirmed": 3010609,
           "date": "2022-01-19",
-          "deaths": 45014
+          "deaths": 45181
         }
       },
       "North Carolina": {
