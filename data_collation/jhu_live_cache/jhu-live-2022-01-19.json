@@ -445,9 +445,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1005649,
+      "confirmed": 1008616,
       "date": "2022-01-19",
-      "deaths": 8345
+      "deaths": 8348
     }
   },
   "Cyprus": {
@@ -473,9 +473,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 510458,
+      "confirmed": 517611,
       "date": "2022-01-19",
-      "deaths": 4269
+      "deaths": 4274
     }
   },
   "Ecuador": {
@@ -531,9 +531,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1146980,
+          "confirmed": 1163836,
           "date": "2022-01-19",
-          "deaths": 13464
+          "deaths": 13481
         }
       },
       "Bayern": {
@@ -937,9 +937,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 318249,
+      "confirmed": 319011,
       "date": "2022-01-19",
-      "deaths": 5504
+      "deaths": 5520
     }
   },
   "Korea, South": {
@@ -951,9 +951,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 475303,
+      "confirmed": 479640,
       "date": "2022-01-19",
-      "deaths": 2479
+      "deaths": 2480
     }
   },
   "Latvia": {
@@ -1043,9 +1043,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 393423,
+      "confirmed": 396678,
       "date": "2022-01-19",
-      "deaths": 10462
+      "deaths": 10470
     }
   },
   "Mongolia": {
@@ -1131,9 +1131,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 247663,
+      "confirmed": 249704,
       "date": "2022-01-19",
-      "deaths": 8139
+      "deaths": 8153
     }
   },
   "Norway": {
@@ -1456,7 +1456,7 @@
         "live": {
           "confirmed": 4936784,
           "date": "2022-01-19",
-          "deaths": 55048
+          "deaths": 55051
         }
       },
       "Florida": {
@@ -1468,9 +1468,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1015651,
+          "confirmed": 1021674,
           "date": "2022-01-19",
-          "deaths": 12604
+          "deaths": 12717
         }
       },
       "Massachusetts": {
@@ -1510,9 +1510,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 458097,
+          "confirmed": 461851,
           "date": "2022-01-19",
-          "deaths": 2321
+          "deaths": 2326
         }
       },
       "Ohio": {
