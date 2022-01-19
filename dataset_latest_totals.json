@@ -571,17 +571,17 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 2598598,
+        "confirmed": 2627864,
         "deaths": 31017,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2271347,
+        "confirmed": 2355537,
         "deaths": 30491,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2815312,
+        "confirmed": 2829144,
         "deaths": 31863,
         "recovered": 0
       },
@@ -635,7 +635,7 @@
           "deaths": 2
         },
         "Quebec": {
-          "confirmed": 801152,
+          "confirmed": 806295,
           "deaths": 12453
         },
         "Repatriated Travellers": {
@@ -1030,17 +1030,17 @@
     },
     "CYP": {
       "back_1week": {
-        "confirmed": 208559,
+        "confirmed": 212074,
         "deaths": 661,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 177721,
+        "confirmed": 183178,
         "deaths": 641,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 228881,
+        "confirmed": 230856,
         "deaths": 684,
         "recovered": 0
       }
@@ -1632,18 +1632,18 @@
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 639048,
-        "deaths": 16126,
+        "confirmed": 641164,
+        "deaths": 16127,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 628804,
-        "deaths": 16110,
+        "confirmed": 629811,
+        "deaths": 16111,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 653555,
-        "deaths": 16179,
+        "confirmed": 656456,
+        "deaths": 16191,
         "recovered": 0
       }
     },
