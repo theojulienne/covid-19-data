@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 313925,
+      "confirmed": 313926,
       "date": "2022-01-19",
       "deaths": 1398
     }
@@ -817,9 +817,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1115585,
+      "confirmed": 1122428,
       "date": "2022-01-19",
-      "deaths": 6035
+      "deaths": 6087
     }
   },
   "Israel": {
@@ -932,7 +932,7 @@
     "live": {
       "confirmed": 1169932,
       "date": "2022-01-19",
-      "deaths": 18326
+      "deaths": 18338
     }
   },
   "Kenya": {
@@ -1057,9 +1057,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1059586,
+      "confirmed": 1068941,
       "date": "2022-01-19",
-      "deaths": 15012
+      "deaths": 15025
     }
   },
   "Nepal": {
@@ -1073,51 +1073,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 402591,
+          "confirmed": 408892,
           "date": "2022-01-19",
-          "deaths": 2610
+          "deaths": 2614
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 249970,
+          "confirmed": 252965,
           "date": "2022-01-19",
-          "deaths": 2077
+          "deaths": 2079
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 549796,
+          "confirmed": 560595,
           "date": "2022-01-19",
-          "deaths": 3562
+          "deaths": 3566
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 619547,
+          "confirmed": 635407,
           "date": "2022-01-19",
-          "deaths": 3141
+          "deaths": 3145
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 229991,
+          "confirmed": 233725,
           "date": "2022-01-19",
-          "deaths": 1347
+          "deaths": 1348
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 287934,
+          "confirmed": 293173,
           "date": "2022-01-19",
-          "deaths": 1479
+          "deaths": 1480
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 821263,
+          "confirmed": 837862,
           "date": "2022-01-19",
-          "deaths": 4896
+          "deaths": 4899
         }
       }
     }
@@ -1140,7 +1140,7 @@
     "live": {
       "confirmed": 538791,
       "date": "2022-01-19",
-      "deaths": 1383
+      "deaths": 1412
     }
   },
   "Oman": {
@@ -1209,9 +1209,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1950620,
+      "confirmed": 2003169,
       "date": "2022-01-19",
-      "deaths": 19380
+      "deaths": 19413
     }
   },
   "Qatar": {
@@ -1276,9 +1276,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 294462,
+      "confirmed": 296077,
       "date": "2022-01-19",
-      "deaths": 843
+      "deaths": 844
     }
   },
   "Slovakia": {
@@ -1454,9 +1454,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 4882308,
+          "confirmed": 4936784,
           "date": "2022-01-19",
-          "deaths": 55043
+          "deaths": 55048
         }
       },
       "Florida": {
@@ -1489,9 +1489,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 239529,
+          "confirmed": 247696,
           "date": "2022-01-19",
-          "deaths": 2268
+          "deaths": 2278
         }
       },
       "Nevada": {
@@ -1533,7 +1533,7 @@
         "live": {
           "confirmed": 2313616,
           "date": "2022-01-19",
-          "deaths": 26344
+          "deaths": 26348
         }
       },
       "Utah": {
@@ -1660,9 +1660,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 477151,
+      "confirmed": 478084,
       "date": "2022-01-19",
-      "deaths": 5027
+      "deaths": 5031
     }
   },
   "Zambia": {
