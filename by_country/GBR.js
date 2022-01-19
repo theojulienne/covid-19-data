@@ -728,8 +728,8 @@ var covid19_dataset_country_gbr = {
           1942,
           2040,
           2040,
-          2040,
-          2040
+          2109,
+          2109
         ],
         "deaths": [
           0,
@@ -1457,7 +1457,7 @@ var covid19_dataset_country_gbr = {
           6,
           6,
           6,
-          6,
+          7,
           7
         ],
         "recovered": [
@@ -5111,7 +5111,7 @@ var covid19_dataset_country_gbr = {
           5255,
           5255,
           5255,
-          5255
+          5449
         ],
         "deaths": [
           0,
@@ -24831,7 +24831,8 @@ var covid19_dataset_country_gbr = {
     "2022-01-16",
     "2022-01-17",
     "2022-01-18",
-    "2022-01-19"
+    "2022-01-19",
+    "2022-01-20"
   ],
   "total": {
     "confirmed": [

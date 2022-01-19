@@ -87,18 +87,18 @@
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 6310844,
-        "deaths": 117492,
+        "confirmed": 6399196,
+        "deaths": 117543,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 5694930,
-        "deaths": 117204,
+        "confirmed": 5739326,
+        "deaths": 117245,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 7094865,
-        "deaths": 118040,
+        "confirmed": 7197323,
+        "deaths": 118231,
         "recovered": 0
       }
     },
@@ -350,18 +350,18 @@
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 780417,
-        "deaths": 31556,
+        "confirmed": 787178,
+        "deaths": 31672,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 749540,
-        "deaths": 31027,
+        "confirmed": 751458,
+        "deaths": 31080,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 820608,
-        "deaths": 32086,
+        "confirmed": 830604,
+        "deaths": 32247,
         "recovered": 0
       }
     },
@@ -587,8 +587,8 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 436495,
-          "deaths": 3380
+          "confirmed": 452381,
+          "deaths": 3403
         },
         "British Columbia": {
           "confirmed": 293521,
@@ -1314,18 +1314,18 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 11963184,
-        "deaths": 122872,
+        "confirmed": 11875607,
+        "deaths": 123151,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 10106833,
-        "deaths": 121402,
+        "confirmed": 10039372,
+        "deaths": 121672,
         "recovered": 0
       },
       "latest": {
         "confirmed": 13869172,
-        "deaths": 124358,
+        "deaths": 124654,
         "recovered": 0
       },
       "states": {
@@ -1438,8 +1438,8 @@
       },
       "states": {
         "Anguilla": {
-          "confirmed": 2040,
-          "deaths": 6,
+          "confirmed": 2109,
+          "deaths": 7,
           "recovered": 0
         },
         "Bermuda": {
@@ -1676,8 +1676,8 @@
         "recovered": 0
       },
       "latest": {
-        "confirmed": 382440,
-        "deaths": 10449,
+        "confirmed": 385362,
+        "deaths": 10455,
         "recovered": 0
       }
     },
