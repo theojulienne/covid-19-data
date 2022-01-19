@@ -587,7 +587,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 684367,
+          "confirmed": 684361,
           "date": "2022-01-19",
           "deaths": 13838
         }
@@ -907,7 +907,7 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 230805,
+          "confirmed": 230804,
           "date": "2022-01-19",
           "deaths": 3070
         }
@@ -1020,23 +1020,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1099047,
+          "confirmed": 1109842,
           "date": "2022-01-19",
-          "deaths": 40473
+          "deaths": 40500
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 413167,
+          "confirmed": 417101,
           "date": "2022-01-19",
-          "deaths": 44962
+          "deaths": 44988
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 232762,
+          "confirmed": 235650,
           "date": "2022-01-19",
-          "deaths": 13815
+          "deaths": 13834
         }
       }
     }
@@ -1202,9 +1202,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 4343130,
+      "confirmed": 4373718,
       "date": "2022-01-19",
-      "deaths": 102686
+      "deaths": 103062
     }
   },
   "Portugal": {
@@ -1262,9 +1262,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 626808,
+      "confirmed": 632736,
       "date": "2022-01-19",
-      "deaths": 8910
+      "deaths": 8912
     }
   },
   "Serbia": {
@@ -1283,16 +1283,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1421125,
+      "confirmed": 1431770,
       "date": "2022-01-19",
-      "deaths": 17398
+      "deaths": 17459
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 547013,
+      "confirmed": 559312,
       "date": "2022-01-19",
-      "deaths": 5715
+      "deaths": 5722
     }
   },
   "South Africa": {
@@ -1419,7 +1419,7 @@
     "live": {
       "confirmed": 1763497,
       "date": "2022-01-19",
-      "deaths": 12531
+      "deaths": 12533
     }
   },
   "Thailand": {
