@@ -31,7 +31,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 265565,
+          "confirmed": 265539,
           "date": "2022-01-19",
           "deaths": 63
         }
@@ -796,9 +796,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4273783,
+      "confirmed": 4275528,
       "date": "2022-01-19",
-      "deaths": 144183
+      "deaths": 144192
     }
   },
   "Iran": {
@@ -1145,9 +1145,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 314853,
+      "confirmed": 316472,
       "date": "2022-01-19",
-      "deaths": 4122
+      "deaths": 4124
     }
   },
   "Pakistan": {
@@ -1195,9 +1195,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3270758,
+      "confirmed": 3293625,
       "date": "2022-01-19",
-      "deaths": 52962
+      "deaths": 53044
     }
   },
   "Poland": {
