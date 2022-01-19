@@ -24,7 +24,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 864817,
+          "confirmed": 864179,
           "date": "2022-01-19",
           "deaths": 951
         }
@@ -38,9 +38,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 685007,
+          "confirmed": 678138,
           "date": "2022-01-19",
-          "deaths": 1735
+          "deaths": 1736
         }
       }
     }
@@ -501,9 +501,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 459486,
+      "confirmed": 459959,
       "date": "2022-01-19",
-      "deaths": 7184
+      "deaths": 7190
     }
   },
   "Finland": {
@@ -965,9 +965,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 833871,
+      "confirmed": 840514,
       "date": "2022-01-19",
-      "deaths": 9412
+      "deaths": 9429
     }
   },
   "Libya": {
@@ -1482,9 +1482,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 573907,
+          "confirmed": 601469,
           "date": "2022-01-19",
-          "deaths": 10086
+          "deaths": 10260
         }
       },
       "Minnesota": {
@@ -1496,16 +1496,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 439668,
+          "confirmed": 457621,
           "date": "2022-01-19",
-          "deaths": 6646
+          "deaths": 6675
         }
       },
       "New York": {
         "live": {
-          "confirmed": 3010609,
+          "confirmed": 3020292,
           "date": "2022-01-19",
-          "deaths": 45181
+          "deaths": 45212
         }
       },
       "North Carolina": {
