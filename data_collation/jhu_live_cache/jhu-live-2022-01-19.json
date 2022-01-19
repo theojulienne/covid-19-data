@@ -6,13 +6,6 @@
       "deaths": 3277
     }
   },
-  "Algeria": {
-    "live": {
-      "confirmed": 227559,
-      "date": "2022-01-19",
-      "deaths": 6435
-    }
-  },
   "Argentina": {
     "live": {
       "confirmed": 7318305,
@@ -91,42 +84,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 358901,
+          "confirmed": 365236,
           "date": "2022-01-19",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 309827,
+          "confirmed": 313270,
           "date": "2022-01-19",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 310075,
+          "confirmed": 315335,
+          "date": "2022-01-19",
+          "deaths": 0
+        }
+      },
+      "Flemish Brabant": {
+        "live": {
+          "confirmed": 229469,
           "date": "2022-01-19",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 291793,
+          "confirmed": 295303,
           "date": "2022-01-19",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 257040,
+          "confirmed": 259897,
           "date": "2022-01-19",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 252780,
+          "confirmed": 258275,
           "date": "2022-01-19",
           "deaths": 0
         }
@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 653555,
+      "confirmed": 656456,
       "date": "2022-01-19",
-      "deaths": 16179
+      "deaths": 16191
     }
   },
   "Honduras": {
@@ -930,7 +930,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1155871,
+      "confirmed": 1169932,
       "date": "2022-01-19",
       "deaths": 18326
     }
@@ -1154,16 +1154,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 454372,
+          "confirmed": 455499,
           "date": "2022-01-19",
           "deaths": 13091
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 505930,
+          "confirmed": 509308,
           "date": "2022-01-19",
-          "deaths": 7703
+          "deaths": 7709
         }
       }
     }
@@ -1639,9 +1639,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 520822,
+      "confirmed": 531452,
       "date": "2022-01-19",
-      "deaths": 6248
+      "deaths": 6253
     }
   },
   "Venezuela": {
