@@ -47,9 +47,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1475991,
+      "confirmed": 1503668,
       "date": "2022-01-19",
-      "deaths": 13942
+      "deaths": 13956
     }
   },
   "Azerbaijan": {
@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 786393,
+          "confirmed": 790161,
           "date": "2022-01-19",
-          "deaths": 20018
+          "deaths": 20022
         }
       }
     }
@@ -610,9 +610,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1703396,
+      "confirmed": 1723496,
       "date": "2022-01-19",
-      "deaths": 22197
+      "deaths": 22285
     }
   },
   "Guatemala": {
@@ -907,25 +907,25 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 230804,
+          "confirmed": 236905,
           "date": "2022-01-19",
-          "deaths": 3070
+          "deaths": 3072
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 416738,
+          "confirmed": 424115,
           "date": "2022-01-19",
-          "deaths": 3179
+          "deaths": 3181
         }
       }
     }
   },
   "Jordan": {
     "live": {
-      "confirmed": 1111181,
+      "confirmed": 1117397,
       "date": "2022-01-19",
-      "deaths": 13014
+      "deaths": 13028
     }
   },
   "Kazakhstan": {
