@@ -515,9 +515,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 13829580,
+      "confirmed": 13826325,
       "date": "2022-01-20",
-      "deaths": 125221
+      "deaths": 125462
     }
   },
   "Georgia": {
@@ -826,7 +826,7 @@
     "live": {
       "confirmed": 2101258,
       "date": "2022-01-20",
-      "deaths": 8369
+      "deaths": 8370
     }
   },
   "Italy": {
@@ -923,9 +923,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1117397,
+      "confirmed": 1123686,
       "date": "2022-01-20",
-      "deaths": 13028
+      "deaths": 13043
     }
   },
   "Kazakhstan": {
@@ -1438,9 +1438,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 10666302,
+      "confirmed": 10736215,
       "date": "2022-01-20",
-      "deaths": 85253
+      "deaths": 85419
     }
   },
   "US": {
@@ -1538,9 +1538,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 299436,
+          "confirmed": 303451,
           "date": "2022-01-20",
-          "deaths": 1395
+          "deaths": 1402
         }
       },
       "Washington": {
