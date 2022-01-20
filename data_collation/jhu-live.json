@@ -1195,9 +1195,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3293625,
+      "confirmed": 3324478,
       "date": "2022-01-20",
-      "deaths": 53044
+      "deaths": 53153
     }
   },
   "Poland": {
@@ -1232,30 +1232,30 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2113370,
+          "confirmed": 2124927,
           "date": "2022-01-20",
-          "deaths": 38084
+          "deaths": 38154
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 672359,
+          "confirmed": 675154,
           "date": "2022-01-20",
-          "deaths": 12879
+          "deaths": 12918
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 238257,
+          "confirmed": 238918,
           "date": "2022-01-20",
-          "deaths": 10273
+          "deaths": 10289
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 893098,
+          "confirmed": 897851,
           "date": "2022-01-20",
-          "deaths": 29188
+          "deaths": 29248
         }
       }
     }
@@ -1600,9 +1600,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 813931,
+      "confirmed": 816945,
       "date": "2022-01-20",
-      "deaths": 2200
+      "deaths": 2204
     }
   },
   "United Kingdom": {
