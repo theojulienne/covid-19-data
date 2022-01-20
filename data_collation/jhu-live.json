@@ -466,9 +466,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 1232238,
+      "confirmed": 1272864,
       "date": "2022-01-20",
-      "deaths": 3535
+      "deaths": 3550
     }
   },
   "Dominican Republic": {
@@ -538,7 +538,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1505055,
+          "confirmed": 1505635,
           "date": "2022-01-20",
           "deaths": 20238
         }
@@ -810,9 +810,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2131500,
+      "confirmed": 2137267,
       "date": "2022-01-20",
-      "deaths": 24267
+      "deaths": 24272
     }
   },
   "Ireland": {
@@ -937,7 +937,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 319011,
+      "confirmed": 319379,
       "date": "2022-01-20",
       "deaths": 5520
     }
@@ -958,9 +958,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 314142,
+      "confirmed": 319027,
       "date": "2022-01-20",
-      "deaths": 4759
+      "deaths": 4773
     }
   },
   "Lebanon": {
@@ -1177,9 +1177,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 509795,
+      "confirmed": 516555,
       "date": "2022-01-20",
-      "deaths": 16866
+      "deaths": 16887
     }
   },
   "Peru": {
@@ -1394,9 +1394,9 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 243203,
+          "confirmed": 247514,
           "date": "2022-01-20",
-          "deaths": 1892
+          "deaths": 1893
         }
       },
       "Stockholm": {
@@ -1408,7 +1408,7 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 287344,
+          "confirmed": 292770,
           "date": "2022-01-20",
           "deaths": 2550
         }
@@ -1417,9 +1417,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 1841189,
+      "confirmed": 1841317,
       "date": "2022-01-20",
-      "deaths": 12559
+      "deaths": 12561
     }
   },
   "Thailand": {
