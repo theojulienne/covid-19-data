@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 790161,
+          "confirmed": 796193,
           "date": "2022-01-20",
-          "deaths": 20022
+          "deaths": 20023
         }
       }
     }
@@ -445,9 +445,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1008616,
+      "confirmed": 1011811,
       "date": "2022-01-20",
-      "deaths": 8348
+      "deaths": 8352
     }
   },
   "Cyprus": {
@@ -610,9 +610,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1723496,
+      "confirmed": 1742363,
       "date": "2022-01-20",
-      "deaths": 22285
+      "deaths": 22366
     }
   },
   "Guatemala": {
@@ -907,14 +907,14 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 236904,
+          "confirmed": 242837,
           "date": "2022-01-20",
-          "deaths": 3072
+          "deaths": 3073
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 424115,
+          "confirmed": 432753,
           "date": "2022-01-20",
           "deaths": 3181
         }
@@ -988,30 +988,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 252061,
+          "confirmed": 252475,
           "date": "2022-01-20",
-          "deaths": 3895
+          "deaths": 3897
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 244823,
+          "confirmed": 245079,
           "date": "2022-01-20",
-          "deaths": 2812
+          "deaths": 2814
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252646,
+          "confirmed": 252660,
           "date": "2022-01-20",
-          "deaths": 1620
+          "deaths": 1621
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 801766,
+          "confirmed": 802660,
           "date": "2022-01-20",
-          "deaths": 10024
+          "deaths": 10031
         }
       }
     }
@@ -1209,9 +1209,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 2003169,
+      "confirmed": 2059595,
       "date": "2022-01-20",
-      "deaths": 19413
+      "deaths": 19447
     }
   },
   "Qatar": {
@@ -1276,9 +1276,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 296077,
+      "confirmed": 297549,
       "date": "2022-01-20",
-      "deaths": 844
+      "deaths": 845
     }
   },
   "Slovakia": {
