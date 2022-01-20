@@ -24,7 +24,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 895004,
+          "confirmed": 894708,
           "date": "2022-01-20",
           "deaths": 976
         }
@@ -38,9 +38,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 700104,
+          "confirmed": 699525,
           "date": "2022-01-20",
-          "deaths": 1751
+          "deaths": 1746
         }
       }
     }
@@ -68,9 +68,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1642294,
+      "confirmed": 1653182,
       "date": "2022-01-20",
-      "deaths": 28176
+      "deaths": 28180
     }
   },
   "Belarus": {
@@ -438,9 +438,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 836807,
+      "confirmed": 848150,
       "date": "2022-01-20",
-      "deaths": 13257
+      "deaths": 13300
     }
   },
   "Cuba": {
@@ -803,9 +803,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6231909,
+      "confirmed": 6236567,
       "date": "2022-01-20",
-      "deaths": 132132
+      "deaths": 132152
     }
   },
   "Iraq": {
@@ -1064,9 +1064,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 877717,
+      "confirmed": 887769,
       "date": "2022-01-20",
-      "deaths": 11628
+      "deaths": 11632
     }
   },
   "Netherlands": {
@@ -1216,9 +1216,9 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 310779,
+      "confirmed": 314073,
       "date": "2022-01-20",
-      "deaths": 631
+      "deaths": 632
     }
   },
   "Romania": {
@@ -1417,9 +1417,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 1801522,
+      "confirmed": 1841189,
       "date": "2022-01-20",
-      "deaths": 12551
+      "deaths": 12559
     }
   },
   "Thailand": {
