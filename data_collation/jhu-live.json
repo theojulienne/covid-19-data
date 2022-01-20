@@ -1,16 +1,16 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 236486,
+      "confirmed": 239129,
       "date": "2022-01-19",
-      "deaths": 3277
+      "deaths": 3283
     }
   },
   "Argentina": {
     "live": {
-      "confirmed": 7318305,
+      "confirmed": 7446626,
       "date": "2022-01-19",
-      "deaths": 118420
+      "deaths": 118628
     }
   },
   "Armenia": {
@@ -24,9 +24,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 864179,
+          "confirmed": 895004,
           "date": "2022-01-19",
-          "deaths": 951
+          "deaths": 976
         }
       },
       "Queensland": {
@@ -38,9 +38,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 678138,
+          "confirmed": 700104,
           "date": "2022-01-19",
-          "deaths": 1736
+          "deaths": 1751
         }
       }
     }
@@ -328,9 +328,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 841785,
+      "confirmed": 851945,
       "date": "2022-01-19",
-      "deaths": 32338
+      "deaths": 32431
     }
   },
   "Burma": {
@@ -344,9 +344,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 455660,
+          "confirmed": 459497,
           "date": "2022-01-19",
-          "deaths": 3412
+          "deaths": 3413
         }
       },
       "British Columbia": {
@@ -487,9 +487,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 402611,
+      "confirmed": 403990,
       "date": "2022-01-19",
-      "deaths": 22205
+      "deaths": 22238
     }
   },
   "Estonia": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1792130,
+      "confirmed": 2035425,
       "date": "2022-01-19",
-      "deaths": 8318
+      "deaths": 8362
     }
   },
   "Italy": {
@@ -1475,9 +1475,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 282467,
+          "confirmed": 286132,
           "date": "2022-01-19",
-          "deaths": 4242
+          "deaths": 4285
         }
       },
       "Michigan": {
@@ -1639,9 +1639,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 531452,
+      "confirmed": 543166,
       "date": "2022-01-19",
-      "deaths": 6253
+      "deaths": 6258
     }
   },
   "Venezuela": {
