@@ -84,49 +84,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 365236,
+          "confirmed": 373774,
           "date": "2022-01-20",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 313270,
+          "confirmed": 318920,
           "date": "2022-01-20",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 315335,
+          "confirmed": 322563,
           "date": "2022-01-20",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 229469,
+          "confirmed": 234710,
           "date": "2022-01-20",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 295303,
+          "confirmed": 300688,
           "date": "2022-01-20",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 259897,
+          "confirmed": 264919,
           "date": "2022-01-20",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 258275,
+          "confirmed": 265251,
           "date": "2022-01-20",
           "deaths": 0
         }
@@ -263,9 +263,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 345171,
+          "confirmed": 337286,
           "date": "2022-01-20",
-          "deaths": 7329
+          "deaths": 7333
         }
       },
       "Rio Grande do Norte": {
@@ -387,42 +387,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 873729,
+          "confirmed": 876359,
           "date": "2022-01-20",
           "deaths": 17165
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 369116,
+          "confirmed": 371500,
           "date": "2022-01-20",
           "deaths": 9774
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1585699,
+          "confirmed": 1592773,
           "date": "2022-01-20",
           "deaths": 27845
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 286216,
+          "confirmed": 288012,
           "date": "2022-01-20",
           "deaths": 6884
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 250347,
+          "confirmed": 251684,
           "date": "2022-01-20",
           "deaths": 7605
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 506952,
+          "confirmed": 509727,
           "date": "2022-01-20",
           "deaths": 13714
         }
@@ -531,79 +531,79 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1163836,
+          "confirmed": 1163873,
           "date": "2022-01-20",
           "deaths": 13481
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1483881,
+          "confirmed": 1505055,
           "date": "2022-01-20",
-          "deaths": 20214
+          "deaths": 20238
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 415435,
+          "confirmed": 426884,
           "date": "2022-01-20",
-          "deaths": 4072
+          "deaths": 4073
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 280429,
+          "confirmed": 285968,
           "date": "2022-01-20",
-          "deaths": 4929
+          "deaths": 4947
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 565294,
+          "confirmed": 575471,
           "date": "2022-01-20",
-          "deaths": 8699
+          "deaths": 8712
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 521527,
+          "confirmed": 532232,
           "date": "2022-01-20",
-          "deaths": 7014
+          "deaths": 7029
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1600066,
+          "confirmed": 1628001,
           "date": "2022-01-20",
-          "deaths": 20804
+          "deaths": 20840
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 323260,
+          "confirmed": 323299,
           "date": "2022-01-20",
           "deaths": 4757
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 687630,
+          "confirmed": 687737,
           "date": "2022-01-20",
-          "deaths": 13884
+          "deaths": 13886
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 243456,
+          "confirmed": 243460,
           "date": "2022-01-20",
           "deaths": 4519
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 305488,
+          "confirmed": 306827,
           "date": "2022-01-20",
-          "deaths": 6304
+          "deaths": 6316
         }
       }
     }
@@ -1154,16 +1154,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 455499,
+          "confirmed": 456992,
           "date": "2022-01-20",
-          "deaths": 13091
+          "deaths": 13093
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 509308,
+          "confirmed": 513046,
           "date": "2022-01-20",
-          "deaths": 7709
+          "deaths": 7710
         }
       }
     }
@@ -1438,9 +1438,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 10593687,
+      "confirmed": 10666302,
       "date": "2022-01-20",
-      "deaths": 85077
+      "deaths": 85253
     }
   },
   "US": {
@@ -1454,9 +1454,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 4936784,
+          "confirmed": 4968778,
           "date": "2022-01-20",
-          "deaths": 55051
+          "deaths": 55110
         }
       },
       "Florida": {
