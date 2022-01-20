@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 317385,
+      "confirmed": 320688,
       "date": "2022-01-20",
       "deaths": 1398
     }
@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 659655,
+      "confirmed": 662828,
       "date": "2022-01-20",
-      "deaths": 16203
+      "deaths": 16223
     }
   },
   "Honduras": {
@@ -824,7 +824,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2101258,
+      "confirmed": 2103938,
       "date": "2022-01-20",
       "deaths": 8370
     }
@@ -965,9 +965,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 840514,
+      "confirmed": 847624,
       "date": "2022-01-20",
-      "deaths": 9429
+      "deaths": 9445
     }
   },
   "Libya": {
@@ -1503,9 +1503,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 3032784,
+          "confirmed": 3037402,
           "date": "2022-01-20",
-          "deaths": 45258
+          "deaths": 45356
         }
       },
       "North Carolina": {
