@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 239129,
+      "confirmed": 241512,
       "date": "2022-01-20",
-      "deaths": 3283
+      "deaths": 3286
     }
   },
   "Argentina": {
@@ -47,7 +47,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1503668,
+      "confirmed": 1505501,
       "date": "2022-01-20",
       "deaths": 13956
     }
@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 317380,
+      "confirmed": 317385,
       "date": "2022-01-20",
       "deaths": 1398
     }
@@ -531,9 +531,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1163873,
+          "confirmed": 1180981,
           "date": "2022-01-20",
-          "deaths": 13481
+          "deaths": 13498
         }
       },
       "Bayern": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2035425,
+      "confirmed": 2101258,
       "date": "2022-01-20",
-      "deaths": 8362
+      "deaths": 8369
     }
   },
   "Italy": {
@@ -932,7 +932,7 @@
     "live": {
       "confirmed": 1185928,
       "date": "2022-01-20",
-      "deaths": 18338
+      "deaths": 18350
     }
   },
   "Kenya": {
@@ -1140,7 +1140,7 @@
     "live": {
       "confirmed": 554778,
       "date": "2022-01-20",
-      "deaths": 1412
+      "deaths": 1413
     }
   },
   "Oman": {
@@ -1297,9 +1297,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3564578,
+      "confirmed": 3572860,
       "date": "2022-01-20",
-      "deaths": 93571
+      "deaths": 93846
     }
   },
   "Spain": {
@@ -1454,9 +1454,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5002807,
+          "confirmed": 5028633,
           "date": "2022-01-20",
-          "deaths": 55135
+          "deaths": 55138
         }
       },
       "Florida": {
@@ -1468,9 +1468,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1021674,
+          "confirmed": 1027891,
           "date": "2022-01-20",
-          "deaths": 12717
+          "deaths": 12789
         }
       },
       "Massachusetts": {
@@ -1510,14 +1510,14 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 461851,
+          "confirmed": 468403,
           "date": "2022-01-20",
-          "deaths": 2326
+          "deaths": 2331
         }
       },
       "Ohio": {
         "live": {
-          "confirmed": 521995,
+          "confirmed": 525052,
           "date": "2022-01-20",
           "deaths": 5083
         }
@@ -1660,9 +1660,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 478084,
+      "confirmed": 479343,
       "date": "2022-01-20",
-      "deaths": 5031
+      "deaths": 5036
     }
   },
   "Zambia": {
