@@ -1324,7 +1324,7 @@
         "recovered": 0
       },
       "latest": {
-        "confirmed": 13865920,
+        "confirmed": 14432833,
         "deaths": 125029,
         "recovered": 0
       },
@@ -1768,17 +1768,17 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 1021303,
+        "confirmed": 1042212,
         "deaths": 5952,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 867199,
+        "confirmed": 884855,
         "deaths": 5912,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1115585,
+        "confirmed": 1122428,
         "deaths": 6035,
         "recovered": 0
       }

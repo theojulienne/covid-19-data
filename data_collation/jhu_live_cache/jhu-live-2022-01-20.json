@@ -624,9 +624,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 385964,
+      "confirmed": 386756,
       "date": "2022-01-20",
-      "deaths": 10457
+      "deaths": 10464
     }
   },
   "Hungary": {
@@ -817,7 +817,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1122428,
+      "confirmed": 1127951,
       "date": "2022-01-20",
       "deaths": 6087
     }
@@ -1454,9 +1454,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 4968778,
+          "confirmed": 5002807,
           "date": "2022-01-20",
-          "deaths": 55110
+          "deaths": 55135
         }
       },
       "Florida": {
@@ -1489,9 +1489,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 247696,
+          "confirmed": 250441,
           "date": "2022-01-20",
-          "deaths": 2278
+          "deaths": 2293
         }
       },
       "Nevada": {
@@ -1533,7 +1533,7 @@
         "live": {
           "confirmed": 2337226,
           "date": "2022-01-20",
-          "deaths": 26387
+          "deaths": 26405
         }
       },
       "Utah": {
@@ -1552,9 +1552,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 250909,
+          "confirmed": 252921,
           "date": "2022-01-20",
-          "deaths": 1879
+          "deaths": 1882
         }
       }
     }
