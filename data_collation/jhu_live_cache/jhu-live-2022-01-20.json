@@ -193,14 +193,14 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 688094,
+          "confirmed": 690636,
           "date": "2022-01-20",
-          "deaths": 13392
+          "deaths": 13395
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 981967,
+          "confirmed": 982807,
           "date": "2022-01-20",
           "deaths": 24792
         }
@@ -214,9 +214,9 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 582373,
+          "confirmed": 585967,
           "date": "2022-01-20",
-          "deaths": 14144
+          "deaths": 14158
         }
       },
       "Mato Grosso do Sul": {
@@ -235,9 +235,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 634851,
+          "confirmed": 635898,
           "date": "2022-01-20",
-          "deaths": 17261
+          "deaths": 17267
         }
       },
       "Paraiba": {
@@ -270,7 +270,7 @@
       },
       "Rio Grande do Norte": {
         "live": {
-          "confirmed": 397352,
+          "confirmed": 397355,
           "date": "2022-01-20",
           "deaths": 7618
         }
@@ -351,9 +351,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 301178,
+          "confirmed": 303565,
           "date": "2022-01-20",
-          "deaths": 2492
+          "deaths": 2505
         }
       },
       "Ontario": {
@@ -944,9 +944,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 705902,
+      "confirmed": 712503,
       "date": "2022-01-20",
-      "deaths": 6452
+      "deaths": 6480
     }
   },
   "Kuwait": {
@@ -1545,7 +1545,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 286617,
+          "confirmed": 290923,
           "date": "2022-01-20",
           "deaths": 2202
         }
