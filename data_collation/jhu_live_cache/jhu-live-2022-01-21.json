@@ -38,9 +38,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 717692,
+          "confirmed": 718594,
           "date": "2022-01-21",
-          "deaths": 1766
+          "deaths": 1771
         }
       }
     }
@@ -494,9 +494,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 278498,
+      "confirmed": 282977,
       "date": "2022-01-21",
-      "deaths": 1994
+      "deaths": 1999
     }
   },
   "Ethiopia": {
@@ -1064,9 +1064,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 887769,
+      "confirmed": 896584,
       "date": "2022-01-21",
-      "deaths": 11632
+      "deaths": 11635
     }
   },
   "Netherlands": {
