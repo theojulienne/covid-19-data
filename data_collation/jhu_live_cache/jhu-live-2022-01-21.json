@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 320688,
+      "confirmed": 324304,
       "date": "2022-01-21",
       "deaths": 1398
     }
@@ -1482,9 +1482,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 601469,
+          "confirmed": 611552,
           "date": "2022-01-21",
-          "deaths": 10260
+          "deaths": 10340
         }
       },
       "Minnesota": {
