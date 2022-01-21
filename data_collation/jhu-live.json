@@ -445,9 +445,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1011811,
+      "confirmed": 1015203,
       "date": "2022-01-21",
-      "deaths": 8352
+      "deaths": 8353
     }
   },
   "Cyprus": {
@@ -473,9 +473,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 524635,
+      "confirmed": 530998,
       "date": "2022-01-21",
-      "deaths": 4274
+      "deaths": 4279
     }
   },
   "Ecuador": {
@@ -531,9 +531,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1181019,
+          "confirmed": 1198282,
           "date": "2022-01-21",
-          "deaths": 13498
+          "deaths": 13517
         }
       },
       "Bayern": {
@@ -923,9 +923,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1123686,
+      "confirmed": 1129995,
       "date": "2022-01-21",
-      "deaths": 13043
+      "deaths": 13049
     }
   },
   "Kazakhstan": {
@@ -1057,9 +1057,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1078002,
+      "confirmed": 1086340,
       "date": "2022-01-21",
-      "deaths": 15047
+      "deaths": 15082
     }
   },
   "Nepal": {
@@ -1385,9 +1385,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 599363,
+      "confirmed": 600203,
       "date": "2022-01-21",
-      "deaths": 15255
+      "deaths": 15272
     }
   },
   "Sweden": {
@@ -1454,9 +1454,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5066053,
+          "confirmed": 5117926,
           "date": "2022-01-21",
-          "deaths": 55248
+          "deaths": 55293
         }
       },
       "Florida": {
@@ -1489,9 +1489,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 250441,
+          "confirmed": 255452,
           "date": "2022-01-21",
-          "deaths": 2293
+          "deaths": 2303
         }
       },
       "Nevada": {
@@ -1510,9 +1510,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 468403,
+          "confirmed": 478215,
           "date": "2022-01-21",
-          "deaths": 2331
+          "deaths": 2340
         }
       },
       "Ohio": {
@@ -1552,9 +1552,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 252921,
+          "confirmed": 254060,
           "date": "2022-01-21",
-          "deaths": 1882
+          "deaths": 1886
         }
       }
     }
