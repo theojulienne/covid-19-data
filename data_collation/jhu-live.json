@@ -951,9 +951,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 484150,
+      "confirmed": 488959,
       "date": "2022-01-21",
-      "deaths": 2482
+      "deaths": 2483
     }
   },
   "Latvia": {
@@ -965,9 +965,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 847624,
+      "confirmed": 853252,
       "date": "2022-01-21",
-      "deaths": 9445
+      "deaths": 9460
     }
   },
   "Libya": {
@@ -1461,7 +1461,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 2565017,
+          "confirmed": 2813178,
           "date": "2022-01-21",
           "deaths": 24336
         }
@@ -1538,9 +1538,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 303451,
+          "confirmed": 307295,
           "date": "2022-01-21",
-          "deaths": 1402
+          "deaths": 1407
         }
       },
       "Washington": {
@@ -1580,13 +1580,6 @@
           "confirmed": 350457,
           "date": "2022-01-21",
           "deaths": 8413
-        }
-      },
-      "Lviv Oblast": {
-        "live": {
-          "confirmed": 232993,
-          "date": "2022-01-21",
-          "deaths": 6130
         }
       },
       "Odessa Oblast": {
