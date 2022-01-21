@@ -142,9 +142,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 324026,
+      "confirmed": 326995,
       "date": "2022-01-21",
-      "deaths": 13912
+      "deaths": 13951
     }
   },
   "Botswana": {
@@ -193,14 +193,14 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 697789,
+          "confirmed": 700707,
           "date": "2022-01-21",
-          "deaths": 13398
+          "deaths": 13404
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 987280,
+          "confirmed": 988950,
           "date": "2022-01-21",
           "deaths": 24815
         }
@@ -214,9 +214,9 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 585967,
+          "confirmed": 589544,
           "date": "2022-01-21",
-          "deaths": 14158
+          "deaths": 14163
         }
       },
       "Mato Grosso do Sul": {
@@ -235,9 +235,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 635898,
+          "confirmed": 636990,
           "date": "2022-01-21",
-          "deaths": 17267
+          "deaths": 17272
         }
       },
       "Paraiba": {
@@ -263,9 +263,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 337286,
+          "confirmed": 337653,
           "date": "2022-01-21",
-          "deaths": 7333
+          "deaths": 7336
         }
       },
       "Rio Grande do Norte": {
@@ -351,9 +351,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 303565,
+          "confirmed": 305715,
           "date": "2022-01-21",
-          "deaths": 2505
+          "deaths": 2520
         }
       },
       "Ontario": {
@@ -431,9 +431,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 631311,
+      "confirmed": 637327,
       "date": "2022-01-21",
-      "deaths": 7434
+      "deaths": 7441
     }
   },
   "Croatia": {
@@ -487,9 +487,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 403990,
+      "confirmed": 405393,
       "date": "2022-01-21",
-      "deaths": 22238
+      "deaths": 22260
     }
   },
   "Estonia": {
@@ -944,9 +944,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 712503,
+      "confirmed": 719269,
       "date": "2022-01-21",
-      "deaths": 6480
+      "deaths": 6501
     }
   },
   "Kuwait": {
@@ -1639,9 +1639,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 543166,
+      "confirmed": 556163,
       "date": "2022-01-21",
-      "deaths": 6258
+      "deaths": 6272
     }
   },
   "Venezuela": {
