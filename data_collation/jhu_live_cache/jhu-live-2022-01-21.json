@@ -54,9 +54,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 629352,
+      "confirmed": 630420,
       "date": "2022-01-21",
-      "deaths": 8564
+      "deaths": 8581
     }
   },
   "Bahrain": {
@@ -1424,7 +1424,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 1841317,
+      "confirmed": 1879319,
       "date": "2022-01-21",
       "deaths": 12572
     }
