@@ -972,9 +972,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 401444,
+      "confirmed": 403144,
       "date": "2022-01-21",
-      "deaths": 5889
+      "deaths": 5907
     }
   },
   "Lithuania": {
@@ -1209,9 +1209,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 4406553,
+      "confirmed": 4443217,
       "date": "2022-01-21",
-      "deaths": 103378
+      "deaths": 103626
     }
   },
   "Portugal": {
@@ -1239,39 +1239,39 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2124927,
+          "confirmed": 2140914,
           "date": "2022-01-21",
-          "deaths": 38154
+          "deaths": 38226
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 675154,
+          "confirmed": 679578,
           "date": "2022-01-21",
-          "deaths": 12918
+          "deaths": 12959
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 238918,
+          "confirmed": 240034,
           "date": "2022-01-21",
-          "deaths": 10289
+          "deaths": 10310
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 897851,
+          "confirmed": 903773,
           "date": "2022-01-21",
-          "deaths": 29248
+          "deaths": 29293
         }
       }
     }
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 638327,
+      "confirmed": 643211,
       "date": "2022-01-21",
-      "deaths": 8914
+      "deaths": 8916
     }
   },
   "Serbia": {
@@ -1290,16 +1290,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1438877,
+      "confirmed": 1447067,
       "date": "2022-01-21",
-      "deaths": 17520
+      "deaths": 17577
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 569620,
+      "confirmed": 579480,
       "date": "2022-01-21",
-      "deaths": 5732
+      "deaths": 5743
     }
   },
   "South Africa": {
@@ -1426,7 +1426,7 @@
     "live": {
       "confirmed": 1841317,
       "date": "2022-01-21",
-      "deaths": 12569
+      "deaths": 12572
     }
   },
   "Thailand": {
