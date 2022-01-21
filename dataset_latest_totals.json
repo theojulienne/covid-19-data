@@ -1717,18 +1717,18 @@
     },
     "HUN": {
       "back_1week": {
-        "confirmed": 1308877,
-        "deaths": 40083,
+        "confirmed": 1318093,
+        "deaths": 40164,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1269979,
-        "deaths": 39599,
+        "confirmed": 1276433,
+        "deaths": 39679,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1369974,
-        "deaths": 40686,
+        "confirmed": 1385500,
+        "deaths": 40757,
         "recovered": 0
       }
     },
