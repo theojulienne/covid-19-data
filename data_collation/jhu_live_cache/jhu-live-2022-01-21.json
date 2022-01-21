@@ -15,7 +15,7 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 349329,
+      "confirmed": 349957,
       "date": "2022-01-21",
       "deaths": 8026
     }
@@ -522,9 +522,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 1021943,
+      "confirmed": 1030710,
       "date": "2022-01-21",
-      "deaths": 14582
+      "deaths": 14631
     }
   },
   "Germany": {
@@ -545,7 +545,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 437562,
+          "confirmed": 437564,
           "date": "2022-01-21",
           "deaths": 4077
         }
@@ -1124,9 +1124,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 251571,
+      "confirmed": 251694,
       "date": "2022-01-21",
-      "deaths": 3117
+      "deaths": 3123
     }
   },
   "North Macedonia": {
