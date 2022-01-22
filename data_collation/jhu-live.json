@@ -445,9 +445,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1015203,
+      "confirmed": 1018604,
       "date": "2022-01-22",
-      "deaths": 8353
+      "deaths": 8358
     }
   },
   "Czechia": {
@@ -916,9 +916,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1129995,
+      "confirmed": 1134097,
       "date": "2022-01-22",
-      "deaths": 13049
+      "deaths": 13062
     }
   },
   "Kazakhstan": {
@@ -1050,9 +1050,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1086340,
+      "confirmed": 1093978,
       "date": "2022-01-22",
-      "deaths": 15082
+      "deaths": 15113
     }
   },
   "Nepal": {
@@ -1209,9 +1209,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 2118125,
+      "confirmed": 2176256,
       "date": "2022-01-22",
-      "deaths": 19496
+      "deaths": 19539
     }
   },
   "Qatar": {
