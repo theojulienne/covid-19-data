@@ -24,21 +24,21 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 939615,
+          "confirmed": 939775,
           "date": "2022-01-22",
-          "deaths": 1052
+          "deaths": 1062
         }
       },
       "Queensland": {
         "live": {
-          "confirmed": 313244,
+          "confirmed": 313204,
           "date": "2022-01-22",
           "deaths": 95
         }
       },
       "Victoria": {
         "live": {
-          "confirmed": 734610,
+          "confirmed": 735327,
           "date": "2022-01-22",
           "deaths": 1791
         }
@@ -789,9 +789,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4280248,
+      "confirmed": 4283453,
       "date": "2022-01-22",
-      "deaths": 144201
+      "deaths": 144206
     }
   },
   "Iran": {
