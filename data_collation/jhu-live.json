@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 241512,
+      "confirmed": 244182,
       "date": "2022-01-22",
-      "deaths": 3286
+      "deaths": 3292
     }
   },
   "Argentina": {
@@ -351,9 +351,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 305715,
+          "confirmed": 308079,
           "date": "2022-01-22",
-          "deaths": 2520
+          "deaths": 2529
         }
       },
       "Ontario": {
@@ -1124,9 +1124,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 251694,
+      "confirmed": 251930,
       "date": "2022-01-22",
-      "deaths": 3123
+      "deaths": 3124
     }
   },
   "North Macedonia": {
