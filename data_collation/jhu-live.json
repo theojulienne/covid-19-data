@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2168009,
+      "confirmed": 2212589,
       "date": "2022-01-22",
-      "deaths": 8371
+      "deaths": 8393
     }
   },
   "Italy": {
@@ -965,9 +965,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 853252,
+      "confirmed": 858848,
       "date": "2022-01-22",
-      "deaths": 9460
+      "deaths": 9474
     }
   },
   "Libya": {
@@ -1131,9 +1131,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 252947,
+      "confirmed": 254857,
       "date": "2022-01-22",
-      "deaths": 8177
+      "deaths": 8198
     }
   },
   "Norway": {
@@ -1510,7 +1510,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 3053853,
+          "confirmed": 3065503,
           "date": "2022-01-22",
           "deaths": 45546
         }
