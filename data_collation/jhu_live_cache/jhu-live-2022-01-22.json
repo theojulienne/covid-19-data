@@ -15,7 +15,7 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 349957,
+      "confirmed": 350897,
       "date": "2022-01-22",
       "deaths": 8026
     }
@@ -545,7 +545,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 451648,
+          "confirmed": 451650,
           "date": "2022-01-22",
           "deaths": 4082
         }
@@ -1020,23 +1020,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1133365,
+          "confirmed": 1145001,
           "date": "2022-01-22",
-          "deaths": 40567
+          "deaths": 40594
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 435176,
+          "confirmed": 438665,
           "date": "2022-01-22",
-          "deaths": 45034
+          "deaths": 45043
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 240786,
+          "confirmed": 243375,
           "date": "2022-01-22",
-          "deaths": 13882
+          "deaths": 13920
         }
       }
     }
