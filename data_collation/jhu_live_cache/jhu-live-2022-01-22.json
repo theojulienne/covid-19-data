@@ -387,42 +387,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 880272,
+          "confirmed": 884209,
           "date": "2022-01-22",
           "deaths": 17216
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 373728,
+          "confirmed": 376551,
           "date": "2022-01-22",
           "deaths": 9785
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1601667,
+          "confirmed": 1609986,
           "date": "2022-01-22",
           "deaths": 27885
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 289907,
+          "confirmed": 291467,
           "date": "2022-01-22",
           "deaths": 6897
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 253203,
+          "confirmed": 255374,
           "date": "2022-01-22",
           "deaths": 7617
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 513522,
+          "confirmed": 516100,
           "date": "2022-01-22",
           "deaths": 13799
         }
@@ -431,9 +431,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 637327,
+      "confirmed": 643496,
       "date": "2022-01-22",
-      "deaths": 7441
+      "deaths": 7451
     }
   },
   "Croatia": {
@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 662828,
+      "confirmed": 666017,
       "date": "2022-01-22",
-      "deaths": 16223
+      "deaths": 16245
     }
   },
   "Honduras": {
@@ -1431,9 +1431,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2361702,
+      "confirmed": 2369814,
       "date": "2022-01-22",
-      "deaths": 22000
+      "deaths": 22019
     }
   },
   "Tunisia": {
@@ -1461,9 +1461,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5117926,
+          "confirmed": 5160949,
           "date": "2022-01-22",
-          "deaths": 55300
+          "deaths": 55364
         }
       },
       "Florida": {
