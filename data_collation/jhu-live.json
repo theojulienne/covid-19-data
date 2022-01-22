@@ -365,9 +365,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 824941,
+          "confirmed": 830488,
           "date": "2022-01-22",
-          "deaths": 12698
+          "deaths": 12766
         }
       }
     }
@@ -450,6 +450,13 @@
       "deaths": 8358
     }
   },
+  "Cyprus": {
+    "live": {
+      "confirmed": 237260,
+      "date": "2022-01-22",
+      "deaths": 709
+    }
+  },
   "Czechia": {
     "live": {
       "confirmed": 2732453,
@@ -466,9 +473,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 530998,
+      "confirmed": 536767,
       "date": "2022-01-22",
-      "deaths": 4279
+      "deaths": 4285
     }
   },
   "Ecuador": {
@@ -494,9 +501,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 461252,
+      "confirmed": 461733,
       "date": "2022-01-22",
-      "deaths": 7226
+      "deaths": 7236
     }
   },
   "Finland": {
@@ -930,9 +937,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 319838,
+      "confirmed": 320138,
       "date": "2022-01-22",
-      "deaths": 5528
+      "deaths": 5531
     }
   },
   "Korea, South": {
@@ -1036,9 +1043,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 404556,
+      "confirmed": 407003,
       "date": "2022-01-22",
-      "deaths": 10501
+      "deaths": 10513
     }
   },
   "Mongolia": {
@@ -1531,9 +1538,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2376975,
+          "confirmed": 2397287,
           "date": "2022-01-22",
-          "deaths": 26519
+          "deaths": 26550
         }
       },
       "Utah": {
@@ -1580,13 +1587,6 @@
           "confirmed": 352201,
           "date": "2022-01-22",
           "deaths": 8426
-        }
-      },
-      "Lviv Oblast": {
-        "live": {
-          "confirmed": 236286,
-          "date": "2022-01-22",
-          "deaths": 6142
         }
       },
       "Odessa Oblast": {
