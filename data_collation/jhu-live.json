@@ -31,9 +31,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 298194,
+          "confirmed": 313244,
           "date": "2022-01-22",
-          "deaths": 85
+          "deaths": 95
         }
       },
       "Victoria": {
@@ -459,9 +459,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2705754,
+      "confirmed": 2732453,
       "date": "2022-01-22",
-      "deaths": 36997
+      "deaths": 37021
     }
   },
   "Denmark": {
@@ -930,7 +930,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1217538,
+      "confirmed": 1217684,
       "date": "2022-01-22",
       "deaths": 18357
     }
