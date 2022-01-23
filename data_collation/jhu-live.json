@@ -24,9 +24,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 960099,
+          "confirmed": 960473,
           "date": "2022-01-23",
-          "deaths": 1096
+          "deaths": 1086
         }
       },
       "Queensland": {
@@ -38,9 +38,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 748418,
+          "confirmed": 748988,
           "date": "2022-01-23",
-          "deaths": 1805
+          "deaths": 1797
         }
       }
     }
@@ -473,9 +473,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 536767,
+      "confirmed": 539580,
       "date": "2022-01-23",
-      "deaths": 4285
+      "deaths": 4287
     }
   },
   "Ecuador": {
@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 669012,
+      "confirmed": 669830,
       "date": "2022-01-23",
-      "deaths": 16263
+      "deaths": 16268
     }
   },
   "Honduras": {
@@ -1138,9 +1138,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 254857,
+      "confirmed": 256281,
       "date": "2022-01-23",
-      "deaths": 8198
+      "deaths": 8218
     }
   },
   "Norway": {
@@ -1461,9 +1461,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1099621,
+          "confirmed": 1113529,
           "date": "2022-01-23",
-          "deaths": 14363
+          "deaths": 14394
         }
       },
       "California": {
@@ -1517,9 +1517,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2837683,
+          "confirmed": 2844612,
           "date": "2022-01-23",
-          "deaths": 43135
+          "deaths": 43158
         }
       },
       "North Carolina": {
