@@ -389,42 +389,42 @@
         "live": {
           "confirmed": 886982,
           "date": "2022-01-23",
-          "deaths": 17255
+          "deaths": 17295
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 379045,
           "date": "2022-01-23",
-          "deaths": 9789
+          "deaths": 9795
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1619150,
           "date": "2022-01-23",
-          "deaths": 27916
+          "deaths": 27932
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 292889,
           "date": "2022-01-23",
-          "deaths": 6900
+          "deaths": 6906
         }
       },
       "Santander": {
         "live": {
           "confirmed": 257932,
           "date": "2022-01-23",
-          "deaths": 7621
+          "deaths": 7630
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 518309,
           "date": "2022-01-23",
-          "deaths": 13850
+          "deaths": 13898
         }
       }
     }
@@ -531,77 +531,77 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1198325,
+          "confirmed": 1211995,
           "date": "2022-01-23",
-          "deaths": 13517
+          "deaths": 13527
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1550767,
+          "confirmed": 1566512,
           "date": "2022-01-23",
-          "deaths": 20300
+          "deaths": 20308
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 451650,
+          "confirmed": 454013,
           "date": "2022-01-23",
-          "deaths": 4082
+          "deaths": 4084
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 297636,
+          "confirmed": 300595,
           "date": "2022-01-23",
           "deaths": 4962
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 599539,
+          "confirmed": 607110,
           "date": "2022-01-23",
-          "deaths": 8719
+          "deaths": 8722
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 554026,
+          "confirmed": 562750,
           "date": "2022-01-23",
-          "deaths": 7047
+          "deaths": 7049
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1683313,
+          "confirmed": 1699970,
           "date": "2022-01-23",
-          "deaths": 20891
+          "deaths": 20897
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 337457,
+          "confirmed": 337481,
           "date": "2022-01-23",
           "deaths": 4767
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 695944,
+          "confirmed": 695951,
           "date": "2022-01-23",
           "deaths": 13960
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 247260,
+          "confirmed": 248244,
           "date": "2022-01-23",
-          "deaths": 4537
+          "deaths": 4540
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 309170,
+          "confirmed": 309937,
           "date": "2022-01-23",
           "deaths": 6341
         }
@@ -930,7 +930,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1217684,
+      "confirmed": 1231856,
       "date": "2022-01-23",
       "deaths": 18357
     }
@@ -1050,9 +1050,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 423495,
+      "confirmed": 426261,
       "date": "2022-01-23",
-      "deaths": 2093
+      "deaths": 2094
     }
   },
   "Morocco": {
@@ -1193,9 +1193,9 @@
       },
       "Unknown": {
         "live": {
-          "confirmed": 326730,
+          "confirmed": 381426,
           "date": "2022-01-23",
-          "deaths": 692
+          "deaths": 839
         }
       }
     }
@@ -1454,9 +1454,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1082411,
+          "confirmed": 1099621,
           "date": "2022-01-23",
-          "deaths": 14332
+          "deaths": 14363
         }
       },
       "California": {
@@ -1646,9 +1646,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 465463,
+      "confirmed": 467864,
       "date": "2022-01-23",
-      "deaths": 5399
+      "deaths": 5402
     }
   },
   "Vietnam": {
