@@ -545,7 +545,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 454013,
+          "confirmed": 454015,
           "date": "2022-01-23",
           "deaths": 4084
         }
@@ -1170,9 +1170,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 626890,
+      "confirmed": 637519,
       "date": "2022-01-23",
-      "deaths": 7574
+      "deaths": 7583
     }
   },
   "Paraguay": {

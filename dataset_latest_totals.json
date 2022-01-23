@@ -2715,13 +2715,13 @@
     },
     "PAN": {
       "back_1week": {
-        "confirmed": 558676,
-        "deaths": 7500,
+        "confirmed": 567578,
+        "deaths": 7511,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 517445,
-        "deaths": 7453,
+        "confirmed": 522249,
+        "deaths": 7458,
         "recovered": 0
       },
       "latest": {
