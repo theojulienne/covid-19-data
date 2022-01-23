@@ -31,9 +31,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 313204,
+          "confirmed": 325151,
           "date": "2022-01-23",
-          "deaths": 95
+          "deaths": 105
         }
       },
       "Victoria": {
@@ -1154,16 +1154,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 460335,
+          "confirmed": 462323,
           "date": "2022-01-23",
-          "deaths": 13100
+          "deaths": 13105
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 520415,
+          "confirmed": 523774,
           "date": "2022-01-23",
-          "deaths": 7730
+          "deaths": 7738
         }
       }
     }
@@ -1431,9 +1431,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2369814,
+      "confirmed": 2377500,
       "date": "2022-01-23",
-      "deaths": 22019
+      "deaths": 22032
     }
   },
   "Tunisia": {
