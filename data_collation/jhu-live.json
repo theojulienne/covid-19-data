@@ -573,7 +573,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 337481,
+          "confirmed": 339577,
           "date": "2022-01-23",
           "deaths": 4767
         }
@@ -789,9 +789,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4283453,
+      "confirmed": 4286378,
       "date": "2022-01-23",
-      "deaths": 144206
+      "deaths": 144220
     }
   },
   "Iran": {
@@ -1057,9 +1057,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 904796,
+      "confirmed": 910394,
       "date": "2022-01-23",
-      "deaths": 11651
+      "deaths": 11655
     }
   },
   "Netherlands": {
@@ -1653,9 +1653,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2126444,
+      "confirmed": 2141422,
       "date": "2022-01-23",
-      "deaths": 36596
+      "deaths": 36719
     }
   },
   "West Bank and Gaza": {
