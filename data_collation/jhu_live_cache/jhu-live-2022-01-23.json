@@ -15,9 +15,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 350897,
+      "confirmed": 351711,
       "date": "2022-01-23",
-      "deaths": 8026
+      "deaths": 8028
     }
   },
   "Australia": {
@@ -522,9 +522,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 1041749,
+      "confirmed": 1051445,
       "date": "2022-01-23",
-      "deaths": 14673
+      "deaths": 14701
     }
   },
   "Germany": {
@@ -979,9 +979,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 601620,
+      "confirmed": 608558,
       "date": "2022-01-23",
-      "deaths": 7748
+      "deaths": 7758
     }
   },
   "Malaysia": {
@@ -1426,7 +1426,7 @@
     "live": {
       "confirmed": 1879319,
       "date": "2022-01-23",
-      "deaths": 12582
+      "deaths": 12583
     }
   },
   "Thailand": {
