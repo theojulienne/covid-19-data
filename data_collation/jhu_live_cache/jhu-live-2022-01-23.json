@@ -450,6 +450,13 @@
       "deaths": 8363
     }
   },
+  "Cyprus": {
+    "live": {
+      "confirmed": 239073,
+      "date": "2022-01-23",
+      "deaths": 712
+    }
+  },
   "Czechia": {
     "live": {
       "confirmed": 2750865,
@@ -494,9 +501,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 461733,
+      "confirmed": 462107,
       "date": "2022-01-23",
-      "deaths": 7236
+      "deaths": 7244
     }
   },
   "Finland": {
@@ -1461,9 +1468,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5200002,
+          "confirmed": 5226302,
           "date": "2022-01-23",
-          "deaths": 55435
+          "deaths": 55498
         }
       },
       "Florida": {
@@ -1517,9 +1524,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 478215,
+          "confirmed": 240220,
           "date": "2022-01-23",
-          "deaths": 2340
+          "deaths": 946
         }
       },
       "Ohio": {
@@ -1538,9 +1545,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2397287,
+          "confirmed": 2417311,
           "date": "2022-01-23",
-          "deaths": 26550
+          "deaths": 26572
         }
       },
       "Utah": {
@@ -1674,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 301203,
+      "confirmed": 301630,
       "date": "2022-01-23",
-      "deaths": 3890
+      "deaths": 3895
     }
   }
 }
