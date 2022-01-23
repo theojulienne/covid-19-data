@@ -47,9 +47,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1577588,
+      "confirmed": 1600041,
       "date": "2022-01-23",
-      "deaths": 13985
+      "deaths": 13991
     }
   },
   "Azerbaijan": {
@@ -68,16 +68,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1674230,
+      "confirmed": 1685136,
       "date": "2022-01-23",
-      "deaths": 28209
+      "deaths": 28223
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 724903,
+      "confirmed": 726860,
       "date": "2022-01-23",
-      "deaths": 5916
+      "deaths": 5933
     }
   },
   "Belgium": {
@@ -796,9 +796,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6245346,
+      "confirmed": 6250490,
       "date": "2022-01-23",
-      "deaths": 132202
+      "deaths": 132230
     }
   },
   "Iraq": {
@@ -1216,16 +1216,16 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 320364,
+      "confirmed": 323345,
       "date": "2022-01-23",
-      "deaths": 633
+      "deaths": 634
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 2003041,
+      "confirmed": 2017129,
       "date": "2022-01-23",
-      "deaths": 59525
+      "deaths": 59547
     }
   },
   "Russia": {
@@ -1600,9 +1600,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 822886,
+      "confirmed": 825699,
       "date": "2022-01-23",
-      "deaths": 2211
+      "deaths": 2214
     }
   },
   "United Kingdom": {
