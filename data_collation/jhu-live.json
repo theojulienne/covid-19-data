@@ -31,7 +31,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 325151,
+          "confirmed": 325150,
           "date": "2022-01-23",
           "deaths": 105
         }
@@ -1195,9 +1195,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3387524,
+      "confirmed": 3417216,
       "date": "2022-01-23",
-      "deaths": 53406
+      "deaths": 53472
     }
   },
   "Poland": {
@@ -1283,9 +1283,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1454621,
+      "confirmed": 1462998,
       "date": "2022-01-23",
-      "deaths": 17612
+      "deaths": 17643
     }
   },
   "Slovenia": {
