@@ -580,9 +580,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 339610,
+          "confirmed": 343501,
           "date": "2022-01-24",
-          "deaths": 4767
+          "deaths": 4770
         }
       },
       "Sachsen": {
@@ -1080,51 +1080,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 430877,
+          "confirmed": 436512,
           "date": "2022-01-24",
           "deaths": 2616
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 262728,
+          "confirmed": 268127,
           "date": "2022-01-24",
           "deaths": 2082
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 581677,
+          "confirmed": 587473,
           "date": "2022-01-24",
           "deaths": 3573
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 680150,
+          "confirmed": 692829,
           "date": "2022-01-24",
-          "deaths": 3154
+          "deaths": 3157
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 249144,
+          "confirmed": 253617,
           "date": "2022-01-24",
-          "deaths": 1349
+          "deaths": 1350
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 311333,
+          "confirmed": 319869,
           "date": "2022-01-24",
-          "deaths": 1482
+          "deaths": 1483
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 887936,
+          "confirmed": 901504,
           "date": "2022-01-24",
-          "deaths": 4908
+          "deaths": 4909
         }
       }
     }
@@ -1283,9 +1283,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1544900,
+      "confirmed": 1559946,
       "date": "2022-01-24",
-      "deaths": 13271
+      "deaths": 13306
     }
   },
   "Singapore": {
@@ -1431,9 +1431,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 1880441,
+      "confirmed": 1904609,
       "date": "2022-01-24",
-      "deaths": 12599
+      "deaths": 12611
     }
   },
   "Thailand": {
