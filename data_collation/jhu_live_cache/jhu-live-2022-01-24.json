@@ -631,9 +631,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1401457,
+      "confirmed": 1441385,
       "date": "2022-01-24",
-      "deaths": 40822
+      "deaths": 40944
     }
   },
   "India": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 1879319,
       "date": "2022-01-24",
-      "deaths": 12586
+      "deaths": 12588
     }
   },
   "Thailand": {
