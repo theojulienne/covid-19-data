@@ -1237,9 +1237,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2017129,
+      "confirmed": 2029211,
       "date": "2022-01-24",
-      "deaths": 59547
+      "deaths": 59588
     }
   },
   "Russia": {
@@ -1306,7 +1306,7 @@
     "live": {
       "confirmed": 612017,
       "date": "2022-01-24",
-      "deaths": 5786
+      "deaths": 5787
     }
   },
   "South Africa": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 1879319,
       "date": "2022-01-24",
-      "deaths": 12589
+      "deaths": 12597
     }
   },
   "Thailand": {
@@ -1667,9 +1667,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2141422,
+      "confirmed": 2155784,
       "date": "2022-01-24",
-      "deaths": 36719
+      "deaths": 36884
     }
   },
   "West Bank and Gaza": {
