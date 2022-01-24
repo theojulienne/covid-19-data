@@ -494,9 +494,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 291426,
+      "confirmed": 296466,
       "date": "2022-01-24",
-      "deaths": 2005
+      "deaths": 2008
     }
   },
   "Ethiopia": {
@@ -979,9 +979,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 405425,
+      "confirmed": 407758,
       "date": "2022-01-24",
-      "deaths": 5921
+      "deaths": 5936
     }
   },
   "Lithuania": {
@@ -1152,9 +1152,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 322438,
+      "confirmed": 324085,
       "date": "2022-01-24",
-      "deaths": 4128
+      "deaths": 4129
     }
   },
   "Pakistan": {
@@ -1216,9 +1216,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 4518218,
+      "confirmed": 4547315,
       "date": "2022-01-24",
-      "deaths": 103844
+      "deaths": 103846
     }
   },
   "Portugal": {
@@ -1246,39 +1246,39 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2174536,
+          "confirmed": 2194045,
           "date": "2022-01-24",
-          "deaths": 38368
+          "deaths": 38439
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 693034,
+          "confirmed": 699014,
           "date": "2022-01-24",
-          "deaths": 13039
+          "deaths": 13078
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 242650,
+          "confirmed": 243364,
           "date": "2022-01-24",
-          "deaths": 10362
+          "deaths": 10378
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 921759,
+          "confirmed": 930172,
           "date": "2022-01-24",
-          "deaths": 29416
+          "deaths": 29479
         }
       }
     }
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 652354,
+      "confirmed": 657192,
       "date": "2022-01-24",
-      "deaths": 8920
+      "deaths": 8922
     }
   },
   "Serbia": {
@@ -1304,9 +1304,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 603341,
+      "confirmed": 611737,
       "date": "2022-01-24",
-      "deaths": 5772
+      "deaths": 5786
     }
   },
   "South Africa": {
