@@ -68,9 +68,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1685136,
+      "confirmed": 1699964,
       "date": "2022-01-24",
-      "deaths": 28223
+      "deaths": 28238
     }
   },
   "Belarus": {
@@ -438,9 +438,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 877060,
+      "confirmed": 878891,
       "date": "2022-01-24",
-      "deaths": 13407
+      "deaths": 13451
     }
   },
   "Cuba": {
@@ -531,9 +531,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1222376,
+          "confirmed": 1222393,
           "date": "2022-01-24",
-          "deaths": 13528
+          "deaths": 13527
         }
       },
       "Bayern": {
@@ -796,9 +796,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4286378,
+      "confirmed": 4289305,
       "date": "2022-01-24",
-      "deaths": 144220
+      "deaths": 144227
     }
   },
   "Iran": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2369976,
+      "confirmed": 2387124,
       "date": "2022-01-24",
-      "deaths": 8447
+      "deaths": 8458
     }
   },
   "Italy": {
@@ -1614,9 +1614,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 825699,
+      "confirmed": 828328,
       "date": "2022-01-24",
-      "deaths": 2214
+      "deaths": 2219
     }
   },
   "United Kingdom": {
@@ -1681,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 301630,
+      "confirmed": 301924,
       "date": "2022-01-24",
-      "deaths": 3895
+      "deaths": 3900
     }
   }
 }
