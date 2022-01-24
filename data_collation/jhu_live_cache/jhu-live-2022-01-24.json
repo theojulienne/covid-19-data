@@ -389,42 +389,42 @@
         "live": {
           "confirmed": 889761,
           "date": "2022-01-24",
-          "deaths": 17295
+          "deaths": 17325
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 381879,
           "date": "2022-01-24",
-          "deaths": 9795
+          "deaths": 9803
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1625021,
           "date": "2022-01-24",
-          "deaths": 27932
+          "deaths": 27953
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 294677,
           "date": "2022-01-24",
-          "deaths": 6906
+          "deaths": 6910
         }
       },
       "Santander": {
         "live": {
           "confirmed": 260723,
           "date": "2022-01-24",
-          "deaths": 7630
+          "deaths": 7644
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 519987,
           "date": "2022-01-24",
-          "deaths": 13898
+          "deaths": 13952
         }
       }
     }
@@ -531,79 +531,79 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1211995,
+          "confirmed": 1222376,
           "date": "2022-01-24",
-          "deaths": 13527
+          "deaths": 13528
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1567034,
+          "confirmed": 1581360,
           "date": "2022-01-24",
-          "deaths": 20308
+          "deaths": 20313
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 454015,
+          "confirmed": 454698,
           "date": "2022-01-24",
-          "deaths": 4084
+          "deaths": 4085
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 300595,
+          "confirmed": 301927,
           "date": "2022-01-24",
-          "deaths": 4962
+          "deaths": 4963
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 607110,
+          "confirmed": 611568,
           "date": "2022-01-24",
-          "deaths": 8722
+          "deaths": 8727
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 562750,
+          "confirmed": 567229,
           "date": "2022-01-24",
-          "deaths": 7049
+          "deaths": 7053
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1699970,
+          "confirmed": 1716020,
           "date": "2022-01-24",
-          "deaths": 20897
+          "deaths": 20902
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 339577,
+          "confirmed": 339610,
           "date": "2022-01-24",
           "deaths": 4767
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 697341,
+          "confirmed": 697350,
           "date": "2022-01-24",
-          "deaths": 13961
+          "deaths": 13962
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 248244,
+          "confirmed": 248813,
           "date": "2022-01-24",
-          "deaths": 4540
+          "deaths": 4542
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 309937,
+          "confirmed": 310105,
           "date": "2022-01-24",
-          "deaths": 6341
+          "deaths": 6343
         }
       }
     }
@@ -937,7 +937,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1231856,
+      "confirmed": 1243220,
       "date": "2022-01-24",
       "deaths": 18357
     }
@@ -1161,16 +1161,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 462323,
+          "confirmed": 464431,
           "date": "2022-01-24",
-          "deaths": 13105
+          "deaths": 13108
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 523774,
+          "confirmed": 526899,
           "date": "2022-01-24",
-          "deaths": 7738
+          "deaths": 7741
         }
       }
     }
