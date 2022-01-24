@@ -24,7 +24,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 975564,
+          "confirmed": 975765,
           "date": "2022-01-24",
           "deaths": 1110
         }
@@ -47,9 +47,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1600041,
+      "confirmed": 1625651,
       "date": "2022-01-24",
-      "deaths": 13991
+      "deaths": 14000
     }
   },
   "Azerbaijan": {
@@ -75,9 +75,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 726860,
+      "confirmed": 728804,
       "date": "2022-01-24",
-      "deaths": 5933
+      "deaths": 5949
     }
   },
   "Belgium": {
@@ -1071,9 +1071,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 910394,
+      "confirmed": 918448,
       "date": "2022-01-24",
-      "deaths": 11655
+      "deaths": 11659
     }
   },
   "Netherlands": {
@@ -1209,9 +1209,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3417216,
+      "confirmed": 3442056,
       "date": "2022-01-24",
-      "deaths": 53472
+      "deaths": 53519
     }
   },
   "Poland": {
@@ -1297,14 +1297,14 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1462998,
+      "confirmed": 1467805,
       "date": "2022-01-24",
-      "deaths": 17643
+      "deaths": 17675
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 611737,
+      "confirmed": 612017,
       "date": "2022-01-24",
       "deaths": 5786
     }
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 1879319,
       "date": "2022-01-24",
-      "deaths": 12588
+      "deaths": 12589
     }
   },
   "Thailand": {
@@ -1445,9 +1445,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 846761,
+      "confirmed": 853905,
       "date": "2022-01-24",
-      "deaths": 25954
+      "deaths": 25988
     }
   },
   "Turkey": {
