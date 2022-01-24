@@ -452,9 +452,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 239073,
+      "confirmed": 241888,
       "date": "2022-01-24",
-      "deaths": 712
+      "deaths": 713
     }
   },
   "Czechia": {
@@ -501,9 +501,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 462107,
+      "confirmed": 462514,
       "date": "2022-01-24",
-      "deaths": 7244
+      "deaths": 7265
     }
   },
   "Finland": {
@@ -1223,9 +1223,9 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 323345,
+      "confirmed": 326093,
       "date": "2022-01-24",
-      "deaths": 634
+      "deaths": 636
     }
   },
   "Romania": {
@@ -1463,7 +1463,7 @@
         "live": {
           "confirmed": 5314575,
           "date": "2022-01-24",
-          "deaths": 55586
+          "deaths": 55587
         }
       },
       "Florida": {
@@ -1489,9 +1489,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 611552,
+          "confirmed": 622277,
           "date": "2022-01-24",
-          "deaths": 10340
+          "deaths": 10347
         }
       },
       "Minnesota": {
@@ -1503,9 +1503,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 465458,
+          "confirmed": 476972,
           "date": "2022-01-24",
-          "deaths": 6715
+          "deaths": 6733
         }
       },
       "New York": {
