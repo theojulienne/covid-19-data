@@ -640,23 +640,23 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2166194,
+          "confirmed": 2180634,
           "date": "2022-01-24",
-          "deaths": 14538
+          "deaths": 14542
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 690534,
+          "confirmed": 692811,
           "date": "2022-01-24",
-          "deaths": 6288
+          "deaths": 6301
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 808754,
+          "confirmed": 811522,
           "date": "2022-01-24",
-          "deaths": 12183
+          "deaths": 12185
         }
       },
       "Chhattisgarh": {
@@ -1057,7 +1057,7 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 426261,
+      "confirmed": 428350,
       "date": "2022-01-24",
       "deaths": 2094
     }
