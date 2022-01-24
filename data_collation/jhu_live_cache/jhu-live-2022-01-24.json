@@ -142,9 +142,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 329569,
+      "confirmed": 334141,
       "date": "2022-01-24",
-      "deaths": 13984
+      "deaths": 14085
     }
   },
   "Botswana": {
@@ -335,7 +335,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 534071,
+      "confirmed": 534163,
       "date": "2022-01-24",
       "deaths": 19310
     }
@@ -466,9 +466,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 1397833,
+      "confirmed": 1438181,
       "date": "2022-01-24",
-      "deaths": 3608
+      "deaths": 3621
     }
   },
   "Dominican Republic": {
@@ -538,9 +538,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1581360,
+          "confirmed": 1582426,
           "date": "2022-01-24",
-          "deaths": 20313
+          "deaths": 20314
         }
       },
       "Berlin": {
@@ -587,9 +587,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 697350,
+          "confirmed": 698250,
           "date": "2022-01-24",
-          "deaths": 13962
+          "deaths": 13976
         }
       },
       "Sachsen-Anhalt": {
@@ -803,16 +803,16 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6250490,
+      "confirmed": 6258181,
       "date": "2022-01-24",
-      "deaths": 132230
+      "deaths": 132251
     }
   },
   "Iraq": {
     "live": {
-      "confirmed": 2154237,
+      "confirmed": 2159993,
       "date": "2022-01-24",
-      "deaths": 24287
+      "deaths": 24300
     }
   },
   "Ireland": {
@@ -944,9 +944,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 320229,
+      "confirmed": 320399,
       "date": "2022-01-24",
-      "deaths": 5554
+      "deaths": 5558
     }
   },
   "Korea, South": {
@@ -965,9 +965,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 335541,
+      "confirmed": 339494,
       "date": "2022-01-24",
-      "deaths": 4795
+      "deaths": 4799
     }
   },
   "Lebanon": {
@@ -1184,9 +1184,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 516555,
+      "confirmed": 532648,
       "date": "2022-01-24",
-      "deaths": 16887
+      "deaths": 16953
     }
   },
   "Peru": {
@@ -1431,9 +1431,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 1879319,
+      "confirmed": 1880441,
       "date": "2022-01-24",
-      "deaths": 12597
+      "deaths": 12599
     }
   },
   "Thailand": {
