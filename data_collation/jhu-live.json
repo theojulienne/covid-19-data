@@ -1,16 +1,16 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 246412,
+      "confirmed": 248070,
       "date": "2022-01-23",
-      "deaths": 3297
+      "deaths": 3305
     }
   },
   "Argentina": {
     "live": {
-      "confirmed": 7792652,
+      "confirmed": 7862536,
       "date": "2022-01-23",
-      "deaths": 119103
+      "deaths": 119168
     }
   },
   "Armenia": {
@@ -24,9 +24,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 960473,
+          "confirmed": 975564,
           "date": "2022-01-23",
-          "deaths": 1086
+          "deaths": 1110
         }
       },
       "Queensland": {
@@ -38,9 +38,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 748988,
+          "confirmed": 760683,
           "date": "2022-01-23",
-          "deaths": 1797
+          "deaths": 1814
         }
       }
     }
@@ -965,16 +965,16 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 330788,
+      "confirmed": 335541,
       "date": "2022-01-23",
-      "deaths": 4793
+      "deaths": 4795
     }
   },
   "Lebanon": {
     "live": {
-      "confirmed": 858848,
+      "confirmed": 865229,
       "date": "2022-01-23",
-      "deaths": 9474
+      "deaths": 9487
     }
   },
   "Libya": {

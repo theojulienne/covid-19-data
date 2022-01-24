@@ -23209,7 +23209,8 @@ var covid19_dataset_top10 = {
     "2022-01-21",
     "2022-01-22",
     "2022-01-23",
-    "2022-01-24"
+    "2022-01-24",
+    "2022-01-25"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10', covid19_dataset_top10, {});
