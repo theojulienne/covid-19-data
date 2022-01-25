@@ -1471,7 +1471,8 @@ var covid19_dataset_country_ner = {
       8503,
       8503,
       8542,
-      8542
+      8542,
+      8592
     ],
     "deaths": [
       0,
@@ -2206,7 +2207,8 @@ var covid19_dataset_country_ner = {
       295,
       295,
       295,
-      295
+      295,
+      296
     ],
     "recovered": [
       0,
@@ -2770,6 +2772,7 @@ var covid19_dataset_country_ner = {
       5345,
       5349,
       5351,
+      0,
       0,
       0,
       0,
