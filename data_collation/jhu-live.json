@@ -24,7 +24,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 994277,
+          "confirmed": 994465,
           "date": "2022-01-25",
           "deaths": 1139
         }
@@ -1152,9 +1152,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 324085,
+      "confirmed": 326164,
       "date": "2022-01-25",
-      "deaths": 4129
+      "deaths": 4130
     }
   },
   "Pakistan": {
@@ -1209,9 +1209,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 4547315,
+      "confirmed": 4584360,
       "date": "2022-01-25",
-      "deaths": 103846
+      "deaths": 104097
     }
   },
   "Portugal": {
@@ -1269,9 +1269,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 657192,
+      "confirmed": 661733,
       "date": "2022-01-25",
-      "deaths": 8922
+      "deaths": 8924
     }
   },
   "Serbia": {
@@ -1426,7 +1426,7 @@
     "live": {
       "confirmed": 1966600,
       "date": "2022-01-25",
-      "deaths": 12623
+      "deaths": 12625
     }
   },
   "Thailand": {
