@@ -15,9 +15,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 352399,
+      "confirmed": 353731,
       "date": "2022-01-25",
-      "deaths": 8028
+      "deaths": 8032
     }
   },
   "Australia": {
@@ -545,7 +545,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 467911,
+          "confirmed": 467912,
           "date": "2022-01-25",
           "deaths": 4088
         }
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2424823,
+      "confirmed": 2481413,
       "date": "2022-01-25",
-      "deaths": 8481
+      "deaths": 8487
     }
   },
   "Italy": {
@@ -986,9 +986,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 612500,
+      "confirmed": 617793,
       "date": "2022-01-25",
-      "deaths": 7762
+      "deaths": 7782
     }
   },
   "Malaysia": {
@@ -1426,7 +1426,7 @@
     "live": {
       "confirmed": 1966600,
       "date": "2022-01-25",
-      "deaths": 12621
+      "deaths": 12623
     }
   },
   "Thailand": {
@@ -1570,37 +1570,37 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 248763,
+          "confirmed": 249337,
           "date": "2022-01-25",
-          "deaths": 9092
+          "deaths": 9103
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 256092,
+          "confirmed": 257130,
           "date": "2022-01-25",
-          "deaths": 6543
+          "deaths": 6549
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 353224,
+          "confirmed": 354813,
           "date": "2022-01-25",
-          "deaths": 8444
+          "deaths": 8447
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 240492,
+          "confirmed": 242791,
           "date": "2022-01-25",
-          "deaths": 6155
+          "deaths": 6163
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 249822,
+          "confirmed": 250732,
           "date": "2022-01-25",
-          "deaths": 5684
+          "deaths": 5690
         }
       }
     }
