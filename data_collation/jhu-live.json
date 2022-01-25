@@ -31,7 +31,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 344888,
+          "confirmed": 344844,
           "date": "2022-01-25",
           "deaths": 129
         }
@@ -84,49 +84,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 392487,
+          "confirmed": 414108,
           "date": "2022-01-25",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 332943,
+          "confirmed": 347685,
           "date": "2022-01-25",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 338704,
+          "confirmed": 356950,
           "date": "2022-01-25",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 246316,
+          "confirmed": 259207,
           "date": "2022-01-25",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 314561,
+          "confirmed": 329898,
           "date": "2022-01-25",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 274789,
+          "confirmed": 285490,
           "date": "2022-01-25",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 280767,
+          "confirmed": 296216,
           "date": "2022-01-25",
           "deaths": 0
         }
@@ -135,9 +135,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 813609,
+      "confirmed": 820583,
       "date": "2022-01-25",
-      "deaths": 20630
+      "deaths": 20671
     }
   },
   "Bosnia and Herzegovina": {
@@ -937,7 +937,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1243220,
+      "confirmed": 1252236,
       "date": "2022-01-25",
       "deaths": 18391
     }
@@ -1290,7 +1290,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1467805,
+      "confirmed": 1464277,
       "date": "2022-01-25",
       "deaths": 17675
     }
