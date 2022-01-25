@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 670489,
+      "confirmed": 673559,
       "date": "2022-01-25",
-      "deaths": 16272
+      "deaths": 16285
     }
   },
   "Honduras": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2496801,
+      "confirmed": 2505466,
       "date": "2022-01-25",
-      "deaths": 8497
+      "deaths": 8502
     }
   },
   "Italy": {
@@ -995,30 +995,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 254461,
+          "confirmed": 255028,
           "date": "2022-01-25",
-          "deaths": 3904
+          "deaths": 3906
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 245763,
+          "confirmed": 246077,
           "date": "2022-01-25",
-          "deaths": 2821
+          "deaths": 2824
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252709,
+          "confirmed": 252719,
           "date": "2022-01-25",
           "deaths": 1621
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 806648,
+          "confirmed": 807623,
           "date": "2022-01-25",
-          "deaths": 10041
+          "deaths": 10048
         }
       }
     }
@@ -1510,9 +1510,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2850961,
+          "confirmed": 2854946,
           "date": "2022-01-25",
-          "deaths": 43205
+          "deaths": 43404
         }
       },
       "North Carolina": {
@@ -1545,9 +1545,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 314350,
+          "confirmed": 316237,
           "date": "2022-01-25",
-          "deaths": 1417
+          "deaths": 1423
         }
       },
       "Washington": {
