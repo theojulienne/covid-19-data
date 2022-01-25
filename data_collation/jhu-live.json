@@ -75,9 +75,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 728804,
+      "confirmed": 730207,
       "date": "2022-01-25",
-      "deaths": 5949
+      "deaths": 5959
     }
   },
   "Belgium": {
@@ -979,9 +979,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 407758,
+      "confirmed": 410821,
       "date": "2022-01-25",
-      "deaths": 5936
+      "deaths": 5950
     }
   },
   "Lithuania": {
@@ -1290,9 +1290,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1464277,
+      "confirmed": 1478543,
       "date": "2022-01-25",
-      "deaths": 17675
+      "deaths": 17698
     }
   },
   "Slovenia": {
@@ -1426,7 +1426,7 @@
     "live": {
       "confirmed": 1966600,
       "date": "2022-01-25",
-      "deaths": 12625
+      "deaths": 12626
     }
   },
   "Thailand": {
