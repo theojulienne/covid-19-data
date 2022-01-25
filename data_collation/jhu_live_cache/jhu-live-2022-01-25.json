@@ -54,9 +54,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 634488,
+      "confirmed": 636956,
       "date": "2022-01-25",
-      "deaths": 8619
+      "deaths": 8632
     }
   },
   "Bahrain": {
@@ -142,9 +142,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 334141,
+      "confirmed": 336680,
       "date": "2022-01-25",
-      "deaths": 14085
+      "deaths": 14136
     }
   },
   "Botswana": {
@@ -466,9 +466,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 1438181,
+      "confirmed": 1484771,
       "date": "2022-01-25",
-      "deaths": 3621
+      "deaths": 3635
     }
   },
   "Dominican Republic": {
@@ -594,9 +594,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 250415,
+          "confirmed": 252676,
           "date": "2022-01-25",
-          "deaths": 4548
+          "deaths": 4565
         }
       },
       "Thuringen": {
@@ -810,9 +810,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2159993,
+      "confirmed": 2167686,
       "date": "2022-01-25",
-      "deaths": 24300
+      "deaths": 24309
     }
   },
   "Ireland": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2481413,
+      "confirmed": 2488917,
       "date": "2022-01-25",
-      "deaths": 8487
+      "deaths": 8488
     }
   },
   "Italy": {
@@ -965,9 +965,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 339494,
+      "confirmed": 345591,
       "date": "2022-01-25",
-      "deaths": 4799
+      "deaths": 4814
     }
   },
   "Lebanon": {
@@ -1401,23 +1401,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 253444,
+          "confirmed": 268083,
           "date": "2022-01-25",
-          "deaths": 1893
+          "deaths": 1899
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 447555,
+          "confirmed": 479667,
           "date": "2022-01-25",
           "deaths": 4674
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 300232,
+          "confirmed": 322770,
           "date": "2022-01-25",
-          "deaths": 2560
+          "deaths": 2562
         }
       }
     }
@@ -1426,7 +1426,7 @@
     "live": {
       "confirmed": 1966600,
       "date": "2022-01-25",
-      "deaths": 12629
+      "deaths": 12633
     }
   },
   "Thailand": {
