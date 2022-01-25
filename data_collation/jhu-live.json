@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 334164,
+      "confirmed": 338524,
       "date": "2022-01-25",
       "deaths": 1399
     }
@@ -1510,9 +1510,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2854946,
+          "confirmed": 2858343,
           "date": "2022-01-25",
-          "deaths": 43404
+          "deaths": 43436
         }
       },
       "North Carolina": {
