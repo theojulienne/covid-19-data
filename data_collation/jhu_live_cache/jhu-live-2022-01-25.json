@@ -501,9 +501,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 462514,
+      "confirmed": 463047,
       "date": "2022-01-25",
-      "deaths": 7265
+      "deaths": 7280
     }
   },
   "Finland": {
@@ -515,9 +515,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 16446852,
+      "confirmed": 16948487,
       "date": "2022-01-25",
-      "deaths": 126358
+      "deaths": 126825
     }
   },
   "Georgia": {
@@ -972,9 +972,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 866894,
+      "confirmed": 874144,
       "date": "2022-01-25",
-      "deaths": 9499
+      "deaths": 9513
     }
   },
   "Libya": {
@@ -1223,9 +1223,9 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 326093,
+      "confirmed": 328644,
       "date": "2022-01-25",
-      "deaths": 636
+      "deaths": 637
     }
   },
   "Romania": {
@@ -1463,7 +1463,7 @@
         "live": {
           "confirmed": 5378206,
           "date": "2022-01-25",
-          "deaths": 55638
+          "deaths": 55662
         }
       },
       "Florida": {
@@ -1475,9 +1475,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1063411,
+          "confirmed": 1065712,
           "date": "2022-01-25",
-          "deaths": 13013
+          "deaths": 13068
         }
       },
       "Massachusetts": {
