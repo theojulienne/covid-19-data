@@ -452,9 +452,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 241888,
+      "confirmed": 243818,
       "date": "2022-01-26",
-      "deaths": 716
+      "deaths": 724
     }
   },
   "Czechia": {
@@ -501,9 +501,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 463047,
+      "confirmed": 463465,
       "date": "2022-01-26",
-      "deaths": 7280
+      "deaths": 7292
     }
   },
   "Finland": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2582241,
+      "confirmed": 2599449,
       "date": "2022-01-26",
-      "deaths": 8507
+      "deaths": 8513
     }
   },
   "Italy": {
@@ -972,9 +972,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 874144,
+      "confirmed": 882783,
       "date": "2022-01-26",
-      "deaths": 9513
+      "deaths": 9528
     }
   },
   "Libya": {
@@ -1050,9 +1050,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 417369,
+      "confirmed": 423568,
       "date": "2022-01-26",
-      "deaths": 10566
+      "deaths": 10587
     }
   },
   "Mongolia": {
@@ -1510,9 +1510,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2858343,
+          "confirmed": 2863821,
           "date": "2022-01-26",
-          "deaths": 43436
+          "deaths": 43456
         }
       },
       "North Carolina": {
@@ -1545,9 +1545,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 316237,
+          "confirmed": 318596,
           "date": "2022-01-26",
-          "deaths": 1423
+          "deaths": 1430
         }
       },
       "Washington": {
