@@ -624,9 +624,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 390549,
+      "confirmed": 391145,
       "date": "2022-01-26",
-      "deaths": 10494
+      "deaths": 10498
     }
   },
   "Hungary": {
@@ -951,9 +951,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 749979,
+      "confirmed": 762983,
       "date": "2022-01-26",
-      "deaths": 6588
+      "deaths": 6620
     }
   },
   "Kuwait": {
@@ -1426,7 +1426,7 @@
     "live": {
       "confirmed": 2003262,
       "date": "2022-01-26",
-      "deaths": 12634
+      "deaths": 12635
     }
   },
   "Thailand": {
