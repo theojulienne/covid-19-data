@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 830286,
+          "confirmed": 837738,
           "date": "2022-01-26",
-          "deaths": 20047
+          "deaths": 20051
         }
       }
     }
@@ -610,9 +610,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1830263,
+      "confirmed": 1848223,
       "date": "2022-01-26",
-      "deaths": 22852
+      "deaths": 22970
     }
   },
   "Guatemala": {
@@ -1283,7 +1283,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 322770,
+      "confirmed": 327602,
       "date": "2022-01-26",
       "deaths": 850
     }
@@ -1538,9 +1538,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2448985,
+          "confirmed": 2450852,
           "date": "2022-01-26",
-          "deaths": 26640
+          "deaths": 26663
         }
       },
       "Utah": {
