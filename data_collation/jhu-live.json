@@ -930,9 +930,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1164339,
+      "confirmed": 1177165,
       "date": "2022-01-26",
-      "deaths": 13102
+      "deaths": 13124
     }
   },
   "Kazakhstan": {
@@ -1463,7 +1463,7 @@
         "live": {
           "confirmed": 5421616,
           "date": "2022-01-26",
-          "deaths": 55769
+          "deaths": 55776
         }
       },
       "Florida": {
@@ -1489,9 +1489,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 622277,
+          "confirmed": 631833,
           "date": "2022-01-26",
-          "deaths": 10347
+          "deaths": 10514
         }
       },
       "Minnesota": {
@@ -1503,7 +1503,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 480210,
+          "confirmed": 482750,
           "date": "2022-01-26",
           "deaths": 6767
         }
