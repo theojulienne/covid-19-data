@@ -344,16 +344,16 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 466616,
+          "confirmed": 477841,
           "date": "2022-01-26",
-          "deaths": 3429
+          "deaths": 3483
         }
       },
       "British Columbia": {
         "live": {
-          "confirmed": 308079,
+          "confirmed": 314787,
           "date": "2022-01-26",
-          "deaths": 2529
+          "deaths": 2554
         }
       },
       "Ontario": {
@@ -365,9 +365,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 838436,
+          "confirmed": 841413,
           "date": "2022-01-26",
-          "deaths": 12851
+          "deaths": 12936
         }
       }
     }
@@ -459,9 +459,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2794245,
+      "confirmed": 2833961,
       "date": "2022-01-26",
-      "deaths": 37080
+      "deaths": 37092
     }
   },
   "Denmark": {
@@ -515,9 +515,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 16948487,
+      "confirmed": 16900701,
       "date": "2022-01-26",
-      "deaths": 126825
+      "deaths": 126785
     }
   },
   "Georgia": {
@@ -1653,9 +1653,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 471389,
+      "confirmed": 473125,
       "date": "2022-01-26",
-      "deaths": 5410
+      "deaths": 5414
     }
   },
   "Vietnam": {
