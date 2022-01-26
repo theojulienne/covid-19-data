@@ -31,7 +31,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 358355,
+          "confirmed": 358336,
           "date": "2022-01-26",
           "deaths": 138
         }
@@ -84,49 +84,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 414108,
+          "confirmed": 421659,
           "date": "2022-01-26",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 347685,
+          "confirmed": 352385,
           "date": "2022-01-26",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 356950,
+          "confirmed": 363532,
           "date": "2022-01-26",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 259207,
+          "confirmed": 264075,
           "date": "2022-01-26",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 329898,
+          "confirmed": 334495,
           "date": "2022-01-26",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 285490,
+          "confirmed": 289183,
           "date": "2022-01-26",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 296216,
+          "confirmed": 301960,
           "date": "2022-01-26",
           "deaths": 0
         }
@@ -135,9 +135,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 820583,
+      "confirmed": 828232,
       "date": "2022-01-26",
-      "deaths": 20671
+      "deaths": 20720
     }
   },
   "Bosnia and Herzegovina": {
@@ -1161,16 +1161,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 466164,
+          "confirmed": 467698,
           "date": "2022-01-26",
-          "deaths": 13117
+          "deaths": 13119
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 529218,
+          "confirmed": 531008,
           "date": "2022-01-26",
-          "deaths": 7746
+          "deaths": 7753
         }
       }
     }
