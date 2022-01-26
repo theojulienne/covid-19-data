@@ -531,79 +531,79 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1250283,
+          "confirmed": 1250345,
           "date": "2022-01-26",
           "deaths": 13588
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1602157,
+          "confirmed": 1633840,
           "date": "2022-01-26",
-          "deaths": 20341
+          "deaths": 20363
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 467912,
+          "confirmed": 485323,
           "date": "2022-01-26",
-          "deaths": 4088
+          "deaths": 4094
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 307540,
+          "confirmed": 313820,
           "date": "2022-01-26",
-          "deaths": 4971
+          "deaths": 4978
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 624006,
+          "confirmed": 637391,
           "date": "2022-01-26",
-          "deaths": 8739
+          "deaths": 8766
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 577236,
+          "confirmed": 588173,
           "date": "2022-01-26",
-          "deaths": 7059
+          "deaths": 7062
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1749057,
+          "confirmed": 1786527,
           "date": "2022-01-26",
-          "deaths": 20941
+          "deaths": 20962
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 350068,
+          "confirmed": 350114,
           "date": "2022-01-26",
           "deaths": 4776
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 703438,
+          "confirmed": 704060,
           "date": "2022-01-26",
-          "deaths": 13984
+          "deaths": 13987
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 252676,
+          "confirmed": 252680,
           "date": "2022-01-26",
           "deaths": 4565
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 310918,
+          "confirmed": 312809,
           "date": "2022-01-26",
-          "deaths": 6355
+          "deaths": 6372
         }
       }
     }
@@ -937,7 +937,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1252265,
+      "confirmed": 1264299,
       "date": "2022-01-26",
       "deaths": 18403
     }
@@ -1057,9 +1057,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 430346,
+      "confirmed": 433408,
       "date": "2022-01-26",
-      "deaths": 2098
+      "deaths": 2100
     }
   },
   "Morocco": {
