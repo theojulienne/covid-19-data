@@ -24,9 +24,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1015495,
+          "confirmed": 1016048,
           "date": "2022-01-26",
-          "deaths": 1168
+          "deaths": 1167
         }
       },
       "Queensland": {
@@ -38,9 +38,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 789827,
+          "confirmed": 790366,
           "date": "2022-01-26",
-          "deaths": 1866
+          "deaths": 1885
         }
       }
     }
@@ -914,7 +914,7 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 276098,
+          "confirmed": 276095,
           "date": "2022-01-26",
           "deaths": 3089
         }
@@ -979,9 +979,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 410821,
+      "confirmed": 413066,
       "date": "2022-01-26",
-      "deaths": 5950
+      "deaths": 5967
     }
   },
   "Lithuania": {
@@ -1152,9 +1152,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 326164,
+      "confirmed": 328326,
       "date": "2022-01-26",
-      "deaths": 4130
+      "deaths": 4133
     }
   },
   "Pakistan": {
@@ -1209,9 +1209,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 4584360,
+      "confirmed": 4637776,
       "date": "2022-01-26",
-      "deaths": 104097
+      "deaths": 104373
     }
   },
   "Portugal": {
@@ -1241,37 +1241,37 @@
         "live": {
           "confirmed": 2232836,
           "date": "2022-01-26",
-          "deaths": 38514
+          "deaths": 38588
         }
       },
       "Moscow Oblast": {
         "live": {
           "confirmed": 711492,
           "date": "2022-01-26",
-          "deaths": 13123
+          "deaths": 13149
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
           "confirmed": 245516,
           "date": "2022-01-26",
-          "deaths": 10400
+          "deaths": 10421
         }
       },
       "Saint Petersburg": {
         "live": {
           "confirmed": 950475,
           "date": "2022-01-26",
-          "deaths": 29537
+          "deaths": 29592
         }
       }
     }
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 661733,
+      "confirmed": 666259,
       "date": "2022-01-26",
-      "deaths": 8924
+      "deaths": 8927
     }
   },
   "Serbia": {
@@ -1290,16 +1290,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1478543,
+      "confirmed": 1494942,
       "date": "2022-01-26",
-      "deaths": 17698
+      "deaths": 17725
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 624851,
+      "confirmed": 642342,
       "date": "2022-01-26",
-      "deaths": 5798
+      "deaths": 5810
     }
   },
   "South Africa": {
@@ -1426,7 +1426,7 @@
     "live": {
       "confirmed": 2003262,
       "date": "2022-01-26",
-      "deaths": 12636
+      "deaths": 12637
     }
   },
   "Thailand": {
