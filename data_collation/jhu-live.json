@@ -6,6 +6,13 @@
       "deaths": 3317
     }
   },
+  "Algeria": {
+    "live": {
+      "confirmed": 243568,
+      "date": "2022-01-26",
+      "deaths": 6526
+    }
+  },
   "Argentina": {
     "live": {
       "confirmed": 8041520,
@@ -61,9 +68,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 338524,
+      "confirmed": 343400,
       "date": "2022-01-26",
-      "deaths": 1399
+      "deaths": 1400
     }
   },
   "Bangladesh": {
@@ -617,9 +624,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 673559,
+      "confirmed": 677214,
       "date": "2022-01-26",
-      "deaths": 16285
+      "deaths": 16294
     }
   },
   "Honduras": {
@@ -1531,9 +1538,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 536310,
+          "confirmed": 292767,
           "date": "2022-01-26",
-          "deaths": 7518
+          "deaths": 4585
         }
       },
       "Texas": {
