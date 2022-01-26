@@ -466,9 +466,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 1484771,
+      "confirmed": 1531518,
       "date": "2022-01-26",
-      "deaths": 3635
+      "deaths": 3656
     }
   },
   "Dominican Republic": {
@@ -538,9 +538,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1633840,
+          "confirmed": 1634468,
           "date": "2022-01-26",
-          "deaths": 20363
+          "deaths": 20362
         }
       },
       "Berlin": {
@@ -810,9 +810,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2167686,
+      "confirmed": 2175793,
       "date": "2022-01-26",
-      "deaths": 24309
+      "deaths": 24319
     }
   },
   "Ireland": {
@@ -965,9 +965,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 345591,
+      "confirmed": 354734,
       "date": "2022-01-26",
-      "deaths": 4814
+      "deaths": 4828
     }
   },
   "Lebanon": {
@@ -1401,23 +1401,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 268083,
+          "confirmed": 272100,
           "date": "2022-01-26",
           "deaths": 1899
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 479667,
+          "confirmed": 489729,
           "date": "2022-01-26",
-          "deaths": 4674
+          "deaths": 4702
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 322770,
+          "confirmed": 334938,
           "date": "2022-01-26",
-          "deaths": 2562
+          "deaths": 2586
         }
       }
     }
@@ -1426,7 +1426,7 @@
     "live": {
       "confirmed": 2046465,
       "date": "2022-01-26",
-      "deaths": 12645
+      "deaths": 12648
     }
   },
   "Thailand": {
