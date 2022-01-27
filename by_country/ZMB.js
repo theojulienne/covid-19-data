@@ -1476,7 +1476,8 @@ var covid19_dataset_country_zmb = {
       301630,
       301924,
       302569,
-      303266
+      303266,
+      304002
     ],
     "deaths": [
       0,
@@ -2214,7 +2215,8 @@ var covid19_dataset_country_zmb = {
       3895,
       3900,
       3905,
-      3906
+      3906,
+      3907
     ],
     "recovered": [
       0,

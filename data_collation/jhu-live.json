@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 251015,
+      "confirmed": 252577,
       "date": "2022-01-27",
-      "deaths": 3317
+      "deaths": 3323
     }
   },
   "Algeria": {
@@ -31,7 +31,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1033364,
+          "confirmed": 1083270,
           "date": "2022-01-27",
           "deaths": 1196
         }
@@ -45,7 +45,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 804121,
+          "confirmed": 804605,
           "date": "2022-01-27",
           "deaths": 1900
         }
@@ -538,7 +538,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1278219,
+          "confirmed": 1278236,
           "date": "2022-01-27",
           "deaths": 13605
         }
@@ -803,9 +803,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4301193,
+      "confirmed": 4309270,
       "date": "2022-01-27",
-      "deaths": 144254
+      "deaths": 144261
     }
   },
   "Iran": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2046465,
       "date": "2022-01-27",
-      "deaths": 12650
+      "deaths": 12654
     }
   },
   "Thailand": {
@@ -1681,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 303266,
+      "confirmed": 304002,
       "date": "2022-01-27",
-      "deaths": 3906
+      "deaths": 3907
     }
   }
 }
