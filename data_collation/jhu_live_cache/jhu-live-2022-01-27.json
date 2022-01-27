@@ -647,156 +647,156 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2208955,
+          "confirmed": 2222573,
           "date": "2022-01-27",
-          "deaths": 14561
+          "deaths": 14570
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 702902,
+          "confirmed": 704853,
           "date": "2022-01-27",
-          "deaths": 6338
+          "deaths": 6359
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 815705,
+          "confirmed": 817825,
           "date": "2022-01-27",
-          "deaths": 12197
+          "deaths": 12204
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 1105132,
+          "confirmed": 1108450,
           "date": "2022-01-27",
-          "deaths": 13769
+          "deaths": 13779
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 1803499,
+          "confirmed": 1810997,
           "date": "2022-01-27",
-          "deaths": 25681
+          "deaths": 25710
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 1092968,
+          "confirmed": 1107749,
           "date": "2022-01-27",
-          "deaths": 10302
+          "deaths": 10323
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 920855,
+          "confirmed": 927206,
           "date": "2022-01-27",
-          "deaths": 10212
+          "deaths": 10219
         }
       },
       "Himachal Pradesh": {
         "live": {
-          "confirmed": 263113,
+          "confirmed": 263914,
           "date": "2022-01-27",
-          "deaths": 3953
+          "deaths": 3961
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 409166,
+          "confirmed": 414772,
           "date": "2022-01-27",
-          "deaths": 4627
+          "deaths": 4635
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 423328,
+          "confirmed": 424337,
           "date": "2022-01-27",
-          "deaths": 5281
+          "deaths": 5286
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 3605508,
+          "confirmed": 3654413,
           "date": "2022-01-27",
-          "deaths": 38666
+          "deaths": 38705
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 5725086,
+          "confirmed": 5774857,
           "date": "2022-01-27",
-          "deaths": 52141
+          "deaths": 52281
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 914195,
+          "confirmed": 924161,
           "date": "2022-01-27",
-          "deaths": 10583
+          "deaths": 10591
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 7569425,
+          "confirmed": 7605181,
           "date": "2022-01-27",
-          "deaths": 142237
+          "deaths": 142316
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 1217842,
+          "confirmed": 1225268,
           "date": "2022-01-27",
-          "deaths": 8532
+          "deaths": 8542
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 723052,
+          "confirmed": 728042,
           "date": "2022-01-27",
-          "deaths": 17059
+          "deaths": 17081
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 1149153,
+          "confirmed": 1162202,
           "date": "2022-01-27",
-          "deaths": 9140
+          "deaths": 9161
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 3194260,
+          "confirmed": 3224236,
           "date": "2022-01-27",
-          "deaths": 37312
+          "deaths": 37359
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 743354,
+          "confirmed": 747155,
           "date": "2022-01-27",
-          "deaths": 4077
+          "deaths": 4078
         }
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 1969368,
+          "confirmed": 1980239,
           "date": "2022-01-27",
-          "deaths": 23088
+          "deaths": 23106
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 407358,
+          "confirmed": 410262,
           "date": "2022-01-27",
-          "deaths": 7497
+          "deaths": 7501
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 1974285,
+          "confirmed": 1979254,
           "date": "2022-01-27",
-          "deaths": 20411
+          "deaths": 20445
         }
       }
     }
