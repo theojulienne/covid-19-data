@@ -6,6 +6,13 @@
       "deaths": 3323
     }
   },
+  "Algeria": {
+    "live": {
+      "confirmed": 245698,
+      "date": "2022-01-27",
+      "deaths": 6539
+    }
+  },
   "Argentina": {
     "live": {
       "confirmed": 8130023,
@@ -450,6 +457,13 @@
       "deaths": 8383
     }
   },
+  "Cyprus": {
+    "live": {
+      "confirmed": 246354,
+      "date": "2022-01-27",
+      "deaths": 724
+    }
+  },
   "Czechia": {
     "live": {
       "confirmed": 2888827,
@@ -494,9 +508,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 463465,
+      "confirmed": 463921,
       "date": "2022-01-27",
-      "deaths": 7292
+      "deaths": 7303
     }
   },
   "Finland": {
@@ -866,13 +880,6 @@
           "deaths": 36881
         }
       },
-      "Marche": {
-        "live": {
-          "confirmed": 244547,
-          "date": "2022-01-27",
-          "deaths": 3390
-        }
-      },
       "Piemonte": {
         "live": {
           "confirmed": 840832,
@@ -1050,9 +1057,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 423568,
+      "confirmed": 428934,
       "date": "2022-01-27",
-      "deaths": 10587
+      "deaths": 10600
     }
   },
   "Mongolia": {
@@ -1463,7 +1470,7 @@
         "live": {
           "confirmed": 5477293,
           "date": "2022-01-27",
-          "deaths": 55942
+          "deaths": 55953
         }
       },
       "Florida": {
@@ -1503,16 +1510,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 482832,
+          "confirmed": 485655,
           "date": "2022-01-27",
           "deaths": 6833
         }
       },
       "New York": {
         "live": {
-          "confirmed": 2869478,
+          "confirmed": 2874587,
           "date": "2022-01-27",
-          "deaths": 43710
+          "deaths": 43726
         }
       },
       "North Carolina": {
@@ -1531,9 +1538,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 538700,
+          "confirmed": 293487,
           "date": "2022-01-27",
-          "deaths": 7577
+          "deaths": 4623
         }
       },
       "Texas": {
