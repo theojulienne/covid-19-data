@@ -344,16 +344,16 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 477841,
+          "confirmed": 481182,
           "date": "2022-01-27",
-          "deaths": 3483
+          "deaths": 3505
         }
       },
       "British Columbia": {
         "live": {
-          "confirmed": 314787,
+          "confirmed": 316873,
           "date": "2022-01-27",
-          "deaths": 2554
+          "deaths": 2575
         }
       },
       "Ontario": {
@@ -365,9 +365,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 841413,
+          "confirmed": 849519,
           "date": "2022-01-27",
-          "deaths": 12936
+          "deaths": 13065
         }
       }
     }
@@ -524,9 +524,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1278236,
+          "confirmed": 1301950,
           "date": "2022-01-27",
-          "deaths": 13605
+          "deaths": 13619
         }
       },
       "Bayern": {
@@ -1463,7 +1463,7 @@
         "live": {
           "confirmed": 5477293,
           "date": "2022-01-27",
-          "deaths": 55912
+          "deaths": 55942
         }
       },
       "Florida": {
@@ -1503,9 +1503,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 482680,
+          "confirmed": 482832,
           "date": "2022-01-27",
-          "deaths": 6802
+          "deaths": 6833
         }
       },
       "New York": {
@@ -1524,7 +1524,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 535812,
+          "confirmed": 537480,
           "date": "2022-01-27",
           "deaths": 5316
         }
@@ -1545,9 +1545,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 318596,
+          "confirmed": 320838,
           "date": "2022-01-27",
-          "deaths": 1430
+          "deaths": 1433
         }
       },
       "Washington": {

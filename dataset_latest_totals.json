@@ -571,18 +571,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 2829144,
-        "deaths": 31863,
+        "confirmed": 2845993,
+        "deaths": 31982,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2627864,
-        "deaths": 31017,
+        "confirmed": 2663633,
+        "deaths": 31147,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2926742,
-        "deaths": 32596,
+        "confirmed": 2927234,
+        "deaths": 32601,
         "recovered": 0
       },
       "states": {
