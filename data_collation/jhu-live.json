@@ -186,9 +186,9 @@
       },
       "Ceara": {
         "live": {
-          "confirmed": 1040161,
+          "confirmed": 1050801,
           "date": "2022-01-27",
-          "deaths": 25053
+          "deaths": 25083
         }
       },
       "Distrito Federal": {
@@ -200,14 +200,14 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 773536,
+          "confirmed": 778865,
           "date": "2022-01-27",
-          "deaths": 13449
+          "deaths": 13451
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 1018700,
+          "confirmed": 1021056,
           "date": "2022-01-27",
           "deaths": 24944
         }
@@ -221,16 +221,16 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 606349,
+          "confirmed": 610487,
           "date": "2022-01-27",
-          "deaths": 14210
+          "deaths": 14220
         }
       },
       "Mato Grosso do Sul": {
         "live": {
           "confirmed": 409185,
           "date": "2022-01-27",
-          "deaths": 9815
+          "deaths": 9820
         }
       },
       "Minas Gerais": {
@@ -242,9 +242,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 641080,
+          "confirmed": 642826,
           "date": "2022-01-27",
-          "deaths": 17302
+          "deaths": 17311
         }
       },
       "Paraiba": {
@@ -958,9 +958,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 762983,
+      "confirmed": 777497,
       "date": "2022-01-27",
-      "deaths": 6620
+      "deaths": 6654
     }
   },
   "Kuwait": {
@@ -1468,9 +1468,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5421616,
+          "confirmed": 5442309,
           "date": "2022-01-27",
-          "deaths": 55776
+          "deaths": 55866
         }
       },
       "Florida": {
@@ -1517,9 +1517,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2863821,
+          "confirmed": 2866498,
           "date": "2022-01-27",
-          "deaths": 43456
+          "deaths": 43604
         }
       },
       "North Carolina": {
