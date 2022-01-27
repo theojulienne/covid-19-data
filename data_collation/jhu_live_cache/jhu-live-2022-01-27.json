@@ -38,9 +38,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 358336,
+          "confirmed": 369897,
           "date": "2022-01-27",
-          "deaths": 138
+          "deaths": 153
         }
       },
       "Victoria": {
@@ -1184,9 +1184,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 650138,
+      "confirmed": 669860,
       "date": "2022-01-27",
-      "deaths": 7609
+      "deaths": 7645
     }
   },
   "Paraguay": {
@@ -1438,9 +1438,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2398944,
+      "confirmed": 2407022,
       "date": "2022-01-27",
-      "deaths": 22076
+      "deaths": 22098
     }
   },
   "Tunisia": {
