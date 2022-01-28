@@ -54,9 +54,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 643509,
+      "confirmed": 647073,
       "date": "2022-01-28",
-      "deaths": 8664
+      "deaths": 8683
     }
   },
   "Bahrain": {
@@ -335,7 +335,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 534671,
+      "confirmed": 534908,
       "date": "2022-01-28",
       "deaths": 19310
     }
@@ -580,9 +580,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 365683,
+          "confirmed": 374729,
           "date": "2022-01-28",
-          "deaths": 4796
+          "deaths": 4801
         }
       },
       "Sachsen": {
@@ -594,9 +594,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 259781,
+          "confirmed": 263345,
           "date": "2022-01-28",
-          "deaths": 4584
+          "deaths": 4594
         }
       },
       "Thuringen": {
@@ -803,9 +803,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6293695,
+      "confirmed": 6310452,
       "date": "2022-01-28",
-      "deaths": 132333
+      "deaths": 132356
     }
   },
   "Iraq": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2683436,
+      "confirmed": 2705096,
       "date": "2022-01-28",
-      "deaths": 8556
+      "deaths": 8599
     }
   },
   "Italy": {
@@ -1080,51 +1080,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 454985,
+          "confirmed": 461366,
           "date": "2022-01-28",
-          "deaths": 2617
+          "deaths": 2618
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 276395,
+          "confirmed": 281457,
           "date": "2022-01-28",
           "deaths": 2083
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 613749,
+          "confirmed": 623440,
           "date": "2022-01-28",
           "deaths": 3575
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 725510,
+          "confirmed": 739135,
           "date": "2022-01-28",
-          "deaths": 3167
+          "deaths": 3168
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 263624,
+          "confirmed": 268738,
           "date": "2022-01-28",
-          "deaths": 1351
+          "deaths": 1352
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 330445,
+          "confirmed": 336668,
           "date": "2022-01-28",
-          "deaths": 1485
+          "deaths": 1487
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 948167,
+          "confirmed": 966468,
           "date": "2022-01-28",
-          "deaths": 4922
+          "deaths": 4925
         }
       }
     }
@@ -1283,16 +1283,16 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1616584,
+      "confirmed": 1633868,
       "date": "2022-01-28",
-      "deaths": 13417
+      "deaths": 13459
     }
   },
   "Singapore": {
     "live": {
-      "confirmed": 333071,
+      "confirmed": 338625,
       "date": "2022-01-28",
-      "deaths": 850
+      "deaths": 853
     }
   },
   "Slovakia": {
