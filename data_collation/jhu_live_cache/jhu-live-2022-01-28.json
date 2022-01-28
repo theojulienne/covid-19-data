@@ -24,9 +24,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1083102,
+          "confirmed": 1089865,
           "date": "2022-01-28",
-          "deaths": 1231
+          "deaths": 1266
         }
       },
       "Queensland": {
@@ -38,7 +38,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 817360,
+          "confirmed": 818354,
           "date": "2022-01-28",
           "deaths": 1939
         }
@@ -47,9 +47,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1727661,
+      "confirmed": 1766292,
       "date": "2022-01-28",
-      "deaths": 14042
+      "deaths": 14061
     }
   },
   "Azerbaijan": {
@@ -1209,9 +1209,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3493447,
+      "confirmed": 3511491,
       "date": "2022-01-28",
-      "deaths": 53736
+      "deaths": 53801
     }
   },
   "Poland": {
@@ -1297,9 +1297,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1512072,
+      "confirmed": 1529099,
       "date": "2022-01-28",
-      "deaths": 17755
+      "deaths": 17779
     }
   },
   "Slovenia": {
@@ -1667,9 +1667,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2203208,
+      "confirmed": 2218137,
       "date": "2022-01-28",
-      "deaths": 37291
+      "deaths": 37432
     }
   },
   "West Bank and Gaza": {
@@ -1681,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 304002,
+      "confirmed": 304353,
       "date": "2022-01-28",
-      "deaths": 3907
+      "deaths": 3910
     }
   }
 }
