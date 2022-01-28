@@ -31,9 +31,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 379793,
+          "confirmed": 379715,
           "date": "2022-01-28",
-          "deaths": 171
+          "deaths": 172
         }
       },
       "Victoria": {
@@ -438,9 +438,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 909674,
+      "confirmed": 919598,
       "date": "2022-01-28",
-      "deaths": 13625
+      "deaths": 13690
     }
   },
   "Cuba": {
@@ -965,9 +965,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 363821,
+      "confirmed": 372503,
       "date": "2022-01-28",
-      "deaths": 4846
+      "deaths": 4855
     }
   },
   "Lebanon": {
@@ -1237,9 +1237,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2114834,
+      "confirmed": 2146558,
       "date": "2022-01-28",
-      "deaths": 59797
+      "deaths": 59857
     }
   },
   "Russia": {
@@ -1431,7 +1431,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 2091306,
+      "confirmed": 2131077,
       "date": "2022-01-28",
       "deaths": 12675
     }
