@@ -104,7 +104,7 @@
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 348708,
+        "confirmed": 349329,
         "deaths": 8025,
         "recovered": 0
       },
@@ -114,7 +114,7 @@
         "recovered": 0
       },
       "latest": {
-        "confirmed": 355662,
+        "confirmed": 358218,
         "deaths": 8033,
         "recovered": 0
       }
@@ -1836,17 +1836,17 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 2035425,
+        "confirmed": 2103938,
         "deaths": 8362,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1669622,
+        "confirmed": 1695505,
         "deaths": 8290,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2599449,
+        "confirmed": 2659720,
         "deaths": 8513,
         "recovered": 0
       }
@@ -2176,18 +2176,18 @@
     },
     "LTU": {
       "back_1week": {
-        "confirmed": 581823,
-        "deaths": 7696,
+        "confirmed": 589074,
+        "deaths": 7708,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 551943,
-        "deaths": 7590,
+        "confirmed": 555971,
+        "deaths": 7603,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 628094,
-        "deaths": 7798,
+        "confirmed": 639527,
+        "deaths": 7815,
         "recovered": 0
       }
     },
