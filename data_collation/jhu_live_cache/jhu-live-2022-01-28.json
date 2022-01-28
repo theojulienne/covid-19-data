@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 848091,
+          "confirmed": 860713,
           "date": "2022-01-28",
-          "deaths": 20055
+          "deaths": 20058
         }
       }
     }
@@ -445,9 +445,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1033984,
+      "confirmed": 1036783,
       "date": "2022-01-28",
-      "deaths": 8383
+      "deaths": 8388
     }
   },
   "Cyprus": {
@@ -610,9 +610,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1867935,
+      "confirmed": 1890296,
       "date": "2022-01-28",
-      "deaths": 23083
+      "deaths": 23195
     }
   },
   "Guatemala": {
@@ -914,16 +914,16 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 295618,
+          "confirmed": 305631,
           "date": "2022-01-28",
-          "deaths": 3100
+          "deaths": 3105
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 515087,
+          "confirmed": 532722,
           "date": "2022-01-28",
-          "deaths": 3193
+          "deaths": 3196
         }
       }
     }
@@ -1027,23 +1027,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1185643,
+          "confirmed": 1197551,
           "date": "2022-01-28",
-          "deaths": 40784
+          "deaths": 40846
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 453083,
+          "confirmed": 456505,
           "date": "2022-01-28",
-          "deaths": 45145
+          "deaths": 45201
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 252052,
+          "confirmed": 254464,
           "date": "2022-01-28",
-          "deaths": 14030
+          "deaths": 14058
         }
       }
     }
@@ -1230,9 +1230,9 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 332800,
+      "confirmed": 334543,
       "date": "2022-01-28",
-      "deaths": 640
+      "deaths": 641
     }
   },
   "Romania": {
@@ -1545,9 +1545,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2477096,
+          "confirmed": 2481026,
           "date": "2022-01-28",
-          "deaths": 26817
+          "deaths": 26841
         }
       },
       "Utah": {
