@@ -24,16 +24,16 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1083622,
+          "confirmed": 1083102,
           "date": "2022-01-28",
           "deaths": 1231
         }
       },
       "Queensland": {
         "live": {
-          "confirmed": 369807,
+          "confirmed": 379793,
           "date": "2022-01-28",
-          "deaths": 153
+          "deaths": 171
         }
       },
       "Victoria": {
@@ -459,9 +459,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2888827,
+      "confirmed": 2923680,
       "date": "2022-01-28",
-      "deaths": 37114
+      "deaths": 37145
     }
   },
   "Denmark": {
@@ -1057,9 +1057,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 435699,
+      "confirmed": 438295,
       "date": "2022-01-28",
-      "deaths": 2102
+      "deaths": 2104
     }
   },
   "Morocco": {
