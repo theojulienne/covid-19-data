@@ -68,16 +68,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1747331,
+      "confirmed": 1762771,
       "date": "2022-01-28",
-      "deaths": 28288
+      "deaths": 28308
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 734078,
+      "confirmed": 736299,
       "date": "2022-01-28",
-      "deaths": 5992
+      "deaths": 6009
     }
   },
   "Belgium": {
@@ -142,9 +142,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 341913,
+      "confirmed": 343986,
       "date": "2022-01-28",
-      "deaths": 14243
+      "deaths": 14310
     }
   },
   "Botswana": {
@@ -358,9 +358,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1016099,
+          "confirmed": 1021436,
           "date": "2022-01-28",
-          "deaths": 11230
+          "deaths": 11298
         }
       },
       "Quebec": {
@@ -466,9 +466,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 1582551,
+      "confirmed": 1636206,
       "date": "2022-01-28",
-      "deaths": 3674
+      "deaths": 3700
     }
   },
   "Dominican Republic": {
@@ -538,9 +538,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1699836,
+          "confirmed": 1700620,
           "date": "2022-01-28",
-          "deaths": 20410
+          "deaths": 20412
         }
       },
       "Berlin": {
@@ -587,9 +587,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 714937,
+          "confirmed": 719661,
           "date": "2022-01-28",
-          "deaths": 14031
+          "deaths": 14064
         }
       },
       "Sachsen-Anhalt": {
@@ -810,9 +810,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2183402,
+      "confirmed": 2191956,
       "date": "2022-01-28",
-      "deaths": 24330
+      "deaths": 24347
     }
   },
   "Ireland": {
@@ -944,9 +944,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 320918,
+      "confirmed": 321111,
       "date": "2022-01-28",
-      "deaths": 5567
+      "deaths": 5578
     }
   },
   "Korea, South": {
@@ -1408,23 +1408,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 278446,
+          "confirmed": 284043,
           "date": "2022-01-28",
-          "deaths": 1899
+          "deaths": 1900
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 498765,
+          "confirmed": 507113,
           "date": "2022-01-28",
-          "deaths": 4702
+          "deaths": 4730
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 337945,
+          "confirmed": 352294,
           "date": "2022-01-28",
-          "deaths": 2586
+          "deaths": 2615
         }
       }
     }
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2131077,
       "date": "2022-01-28",
-      "deaths": 12675
+      "deaths": 12679
     }
   },
   "Thailand": {

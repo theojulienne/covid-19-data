@@ -333,18 +333,18 @@
     },
     "BGD": {
       "back_1week": {
-        "confirmed": 1642294,
-        "deaths": 28176,
+        "confirmed": 1653182,
+        "deaths": 28180,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1601305,
-        "deaths": 28111,
+        "confirmed": 1604664,
+        "deaths": 28123,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1731524,
-        "deaths": 28273,
+        "confirmed": 1747331,
+        "deaths": 28288,
         "recovered": 0
       }
     },
@@ -401,35 +401,35 @@
     },
     "BIH": {
       "back_1week": {
-        "confirmed": 324026,
-        "deaths": 13912,
+        "confirmed": 326995,
+        "deaths": 13951,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 307433,
-        "deaths": 13696,
+        "confirmed": 310023,
+        "deaths": 13722,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 339281,
-        "deaths": 14185,
+        "confirmed": 341913,
+        "deaths": 14243,
         "recovered": 0
       }
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 719485,
-        "deaths": 5866,
+        "confirmed": 721103,
+        "deaths": 5882,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 710632,
-        "deaths": 5757,
+        "confirmed": 711723,
+        "deaths": 5774,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 732104,
-        "deaths": 5976,
+        "confirmed": 734078,
+        "deaths": 5992,
         "recovered": 0
       }
     },
@@ -571,18 +571,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 2844397,
-        "deaths": 32006,
+        "confirmed": 2867929,
+        "deaths": 32217,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2648208,
-        "deaths": 31081,
+        "confirmed": 2679219,
+        "deaths": 31191,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2966448,
-        "deaths": 33059,
+        "confirmed": 2997728,
+        "deaths": 33368,
         "recovered": 0
       },
       "states": {
@@ -627,8 +627,8 @@
           "deaths": 5
         },
         "Ontario": {
-          "confirmed": 1010247,
-          "deaths": 11160
+          "confirmed": 1016099,
+          "deaths": 11230
         },
         "Prince Edward Island": {
           "confirmed": 6282,
@@ -1115,18 +1115,18 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 1232238,
-        "deaths": 3535,
+        "confirmed": 1272864,
+        "deaths": 3550,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1030638,
-        "deaths": 3433,
+        "confirmed": 1056389,
+        "deaths": 3453,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1531518,
-        "deaths": 3656,
+        "confirmed": 1582551,
+        "deaths": 3674,
         "recovered": 0
       },
       "states": {
@@ -1802,18 +1802,18 @@
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 2131500,
-        "deaths": 24267,
+        "confirmed": 2137267,
+        "deaths": 24272,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2102555,
-        "deaths": 24225,
+        "confirmed": 2104940,
+        "deaths": 24229,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2175793,
-        "deaths": 24319,
+        "confirmed": 2183402,
+        "deaths": 24330,
         "recovered": 0
       }
     },
@@ -1938,18 +1938,18 @@
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 319011,
+        "confirmed": 319379,
         "deaths": 5520,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 314490,
-        "deaths": 5469,
+        "confirmed": 315665,
+        "deaths": 5472,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 320766,
-        "deaths": 5565,
+        "confirmed": 320918,
+        "deaths": 5567,
         "recovered": 0
       }
     },
