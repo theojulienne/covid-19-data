@@ -914,7 +914,7 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 295619,
+          "confirmed": 295618,
           "date": "2022-01-28",
           "deaths": 3100
         }
@@ -979,9 +979,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 416223,
+      "confirmed": 419543,
       "date": "2022-01-28",
-      "deaths": 5979
+      "deaths": 5993
     }
   },
   "Lithuania": {
@@ -1216,9 +1216,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 4695435,
+      "confirmed": 4752700,
       "date": "2022-01-28",
-      "deaths": 104636
+      "deaths": 104907
     }
   },
   "Portugal": {
@@ -1276,9 +1276,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 670997,
+      "confirmed": 675471,
       "date": "2022-01-28",
-      "deaths": 8929
+      "deaths": 8931
     }
   },
   "Serbia": {
@@ -1304,9 +1304,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 656569,
+      "confirmed": 673154,
       "date": "2022-01-28",
-      "deaths": 5827
+      "deaths": 5835
     }
   },
   "South Africa": {
