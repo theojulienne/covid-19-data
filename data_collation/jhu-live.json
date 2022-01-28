@@ -979,9 +979,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 891982,
+      "confirmed": 900098,
       "date": "2022-01-28",
-      "deaths": 9544
+      "deaths": 9561
     }
   },
   "Libya": {
@@ -1461,9 +1461,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1150653,
+          "confirmed": 1159574,
           "date": "2022-01-28",
-          "deaths": 14585
+          "deaths": 14614
         }
       },
       "California": {
@@ -1517,9 +1517,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2877237,
+          "confirmed": 2881203,
           "date": "2022-01-28",
-          "deaths": 43850
+          "deaths": 43869
         }
       },
       "North Carolina": {
@@ -1552,9 +1552,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 320838,
+          "confirmed": 322826,
           "date": "2022-01-28",
-          "deaths": 1433
+          "deaths": 1438
         }
       },
       "Washington": {

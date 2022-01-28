@@ -2057,18 +2057,18 @@
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 840514,
-        "deaths": 9429,
+        "confirmed": 847624,
+        "deaths": 9445,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 794744,
-        "deaths": 9325,
+        "confirmed": 801801,
+        "deaths": 9338,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 882783,
-        "deaths": 9528,
+        "confirmed": 891982,
+        "deaths": 9544,
         "recovered": 0
       }
     },
