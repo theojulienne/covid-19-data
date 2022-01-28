@@ -396,42 +396,42 @@
         "live": {
           "confirmed": 897454,
           "date": "2022-01-28",
-          "deaths": 17459
+          "deaths": 17508
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 388130,
           "date": "2022-01-28",
-          "deaths": 9831
+          "deaths": 9833
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1655720,
           "date": "2022-01-28",
-          "deaths": 28039
+          "deaths": 28074
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 298151,
           "date": "2022-01-28",
-          "deaths": 6937
+          "deaths": 6940
         }
       },
       "Santander": {
         "live": {
           "confirmed": 266522,
           "date": "2022-01-28",
-          "deaths": 7696
+          "deaths": 7720
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 524586,
           "date": "2022-01-28",
-          "deaths": 14126
+          "deaths": 14210
         }
       }
     }
@@ -631,9 +631,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 391145,
+      "confirmed": 391874,
       "date": "2022-01-28",
-      "deaths": 10498
+      "deaths": 10512
     }
   },
   "Hungary": {
@@ -1184,9 +1184,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 669860,
+      "confirmed": 678128,
       "date": "2022-01-28",
-      "deaths": 7645
+      "deaths": 7656
     }
   },
   "Paraguay": {
@@ -1438,9 +1438,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2407022,
+      "confirmed": 2415472,
       "date": "2022-01-28",
-      "deaths": 22098
+      "deaths": 22126
     }
   },
   "Tunisia": {
@@ -1468,9 +1468,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5477293,
+          "confirmed": 5503264,
           "date": "2022-01-28",
-          "deaths": 55953
+          "deaths": 56038
         }
       },
       "Florida": {
