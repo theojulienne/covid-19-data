@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 252577,
+      "confirmed": 254126,
       "date": "2022-01-28",
-      "deaths": 3323
+      "deaths": 3329
     }
   },
   "Argentina": {
@@ -494,9 +494,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 313685,
+      "confirmed": 319505,
       "date": "2022-01-28",
-      "deaths": 2023
+      "deaths": 2025
     }
   },
   "Ethiopia": {
@@ -508,9 +508,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 470665,
+      "confirmed": 475431,
       "date": "2022-01-28",
-      "deaths": 1919
+      "deaths": 1942
     }
   },
   "France": {
@@ -796,9 +796,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4309270,
+      "confirmed": 4319175,
       "date": "2022-01-28",
-      "deaths": 144261
+      "deaths": 144268
     }
   },
   "Iran": {
@@ -1071,9 +1071,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 939267,
+      "confirmed": 944074,
       "date": "2022-01-28",
-      "deaths": 11687
+      "deaths": 11697
     }
   },
   "Netherlands": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2091306,
       "date": "2022-01-28",
-      "deaths": 12673
+      "deaths": 12675
     }
   },
   "Thailand": {
@@ -1614,9 +1614,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 835839,
+      "confirmed": 838384,
       "date": "2022-01-28",
-      "deaths": 2232
+      "deaths": 2234
     }
   },
   "United Kingdom": {
