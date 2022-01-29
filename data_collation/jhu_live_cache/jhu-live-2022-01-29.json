@@ -31,9 +31,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 379715,
+          "confirmed": 390106,
           "date": "2022-01-29",
-          "deaths": 172
+          "deaths": 184
         }
       },
       "Victoria": {
@@ -193,16 +193,16 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 811295,
+          "confirmed": 817400,
           "date": "2022-01-29",
           "deaths": 13478
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 1031446,
+          "confirmed": 1033296,
           "date": "2022-01-29",
-          "deaths": 24992
+          "deaths": 24996
         }
       },
       "Maranhao": {
@@ -214,9 +214,9 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 616695,
+          "confirmed": 621673,
           "date": "2022-01-29",
-          "deaths": 14240
+          "deaths": 14261
         }
       },
       "Mato Grosso do Sul": {
@@ -235,9 +235,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 644948,
+          "confirmed": 647079,
           "date": "2022-01-29",
-          "deaths": 17319
+          "deaths": 17335
         }
       },
       "Paraiba": {
@@ -263,9 +263,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 341237,
+          "confirmed": 341968,
           "date": "2022-01-29",
-          "deaths": 7361
+          "deaths": 7364
         }
       },
       "Rio Grande do Norte": {
@@ -351,9 +351,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 318906,
+          "confirmed": 320540,
           "date": "2022-01-29",
-          "deaths": 2588
+          "deaths": 2597
         }
       },
       "Ontario": {
@@ -431,9 +431,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 675178,
+      "confirmed": 682480,
       "date": "2022-01-29",
-      "deaths": 7521
+      "deaths": 7533
     }
   },
   "Croatia": {
@@ -958,9 +958,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 793582,
+      "confirmed": 811122,
       "date": "2022-01-29",
-      "deaths": 6678
+      "deaths": 6712
     }
   },
   "Kuwait": {
@@ -1131,7 +1131,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 252840,
+      "confirmed": 252912,
       "date": "2022-01-29",
       "deaths": 3134
     }
