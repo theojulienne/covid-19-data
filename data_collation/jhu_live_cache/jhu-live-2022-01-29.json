@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 860713,
+          "confirmed": 874379,
           "date": "2022-01-29",
-          "deaths": 20058
+          "deaths": 20070
         }
       }
     }
@@ -610,9 +610,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1890296,
+      "confirmed": 1909880,
       "date": "2022-01-29",
-      "deaths": 23195
+      "deaths": 23275
     }
   },
   "Guatemala": {
@@ -921,16 +921,16 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 305631,
+          "confirmed": 316014,
           "date": "2022-01-29",
-          "deaths": 3105
+          "deaths": 3111
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 532722,
+          "confirmed": 550155,
           "date": "2022-01-29",
-          "deaths": 3196
+          "deaths": 3199
         }
       }
     }
@@ -1002,23 +1002,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 257237,
+          "confirmed": 258020,
           "date": "2022-01-29",
           "deaths": 3912
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252762,
+          "confirmed": 252791,
           "date": "2022-01-29",
           "deaths": 1622
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 811952,
+          "confirmed": 813280,
           "date": "2022-01-29",
-          "deaths": 10055
+          "deaths": 10056
         }
       }
     }
@@ -1223,9 +1223,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 2507357,
+      "confirmed": 2566551,
       "date": "2022-01-29",
-      "deaths": 19788
+      "deaths": 19827
     }
   },
   "Qatar": {
