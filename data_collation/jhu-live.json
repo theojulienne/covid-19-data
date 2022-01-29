@@ -47,9 +47,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1766292,
+      "confirmed": 1801040,
       "date": "2022-01-29",
-      "deaths": 14061
+      "deaths": 14077
     }
   },
   "Azerbaijan": {
@@ -796,9 +796,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4319175,
+      "confirmed": 4330763,
       "date": "2022-01-29",
-      "deaths": 144268
+      "deaths": 144285
     }
   },
   "Iran": {
@@ -1297,9 +1297,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1529099,
+      "confirmed": 1546907,
       "date": "2022-01-29",
-      "deaths": 17779
+      "deaths": 17796
     }
   },
   "Slovenia": {
