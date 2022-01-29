@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 685542,
+      "confirmed": 688326,
       "date": "2022-01-29",
-      "deaths": 16343
+      "deaths": 16373
     }
   },
   "Honduras": {
@@ -1050,9 +1050,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 434549,
+      "confirmed": 438249,
       "date": "2022-01-29",
-      "deaths": 10621
+      "deaths": 10635
     }
   },
   "Mongolia": {
@@ -1138,9 +1138,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 265101,
+      "confirmed": 266937,
       "date": "2022-01-29",
-      "deaths": 8338
+      "deaths": 8362
     }
   },
   "Norway": {
@@ -1517,9 +1517,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2883504,
+          "confirmed": 2886821,
           "date": "2022-01-29",
-          "deaths": 43998
+          "deaths": 44021
         }
       },
       "North Carolina": {
