@@ -2749,18 +2749,18 @@ var covid19_dataset_latest_totals = {
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 3324478,
-        "deaths": 53153,
+        "confirmed": 3357083,
+        "deaths": 53309,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3092409,
-        "deaths": 52736,
+        "confirmed": 3129512,
+        "deaths": 52815,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3493447,
-        "deaths": 53736,
+        "confirmed": 3511491,
+        "deaths": 53801,
         "recovered": 0
       }
     },

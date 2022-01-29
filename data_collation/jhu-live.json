@@ -580,7 +580,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 374774,
+          "confirmed": 376575,
           "date": "2022-01-29",
           "deaths": 4801
         }
@@ -1209,9 +1209,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3511491,
+      "confirmed": 3528796,
       "date": "2022-01-29",
-      "deaths": 53801
+      "deaths": 53871
     }
   },
   "Poland": {
@@ -1306,7 +1306,7 @@
     "live": {
       "confirmed": 688336,
       "date": "2022-01-29",
-      "deaths": 5844
+      "deaths": 5846
     }
   },
   "South Africa": {
