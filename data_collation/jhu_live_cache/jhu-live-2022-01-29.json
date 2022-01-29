@@ -459,9 +459,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2923680,
+      "confirmed": 2971107,
       "date": "2022-01-29",
-      "deaths": 37145
+      "deaths": 37168
     }
   },
   "Denmark": {
@@ -1027,23 +1027,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1197551,
+          "confirmed": 1207918,
           "date": "2022-01-29",
-          "deaths": 40846
+          "deaths": 40871
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 456505,
+          "confirmed": 460413,
           "date": "2022-01-29",
-          "deaths": 45201
+          "deaths": 45255
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 254464,
+          "confirmed": 256684,
           "date": "2022-01-29",
-          "deaths": 14058
+          "deaths": 14092
         }
       }
     }
@@ -1200,9 +1200,9 @@
       },
       "Unknown": {
         "live": {
-          "confirmed": 288749,
+          "confirmed": 329080,
           "date": "2022-01-29",
-          "deaths": 617
+          "deaths": 789
         }
       }
     }
