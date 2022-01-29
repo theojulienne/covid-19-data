@@ -24,21 +24,21 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1103219,
+          "confirmed": 1107957,
           "date": "2022-01-29",
-          "deaths": 1315
+          "deaths": 1314
         }
       },
       "Queensland": {
         "live": {
-          "confirmed": 390106,
+          "confirmed": 394076,
           "date": "2022-01-29",
           "deaths": 183
         }
       },
       "Victoria": {
         "live": {
-          "confirmed": 830604,
+          "confirmed": 830687,
           "date": "2022-01-29",
           "deaths": 1970
         }
@@ -494,7 +494,7 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 319505,
+      "confirmed": 326629,
       "date": "2022-01-29",
       "deaths": 2025
     }
@@ -1216,9 +1216,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 4752700,
+      "confirmed": 4804390,
       "date": "2022-01-29",
-      "deaths": 104907
+      "deaths": 105138
     }
   },
   "Portugal": {
@@ -1276,9 +1276,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 675471,
+      "confirmed": 679384,
       "date": "2022-01-29",
-      "deaths": 8931
+      "deaths": 8933
     }
   },
   "Serbia": {
@@ -1304,9 +1304,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 673154,
+      "confirmed": 688336,
       "date": "2022-01-29",
-      "deaths": 5835
+      "deaths": 5844
     }
   },
   "South Africa": {
