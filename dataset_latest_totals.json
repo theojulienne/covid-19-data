@@ -104,17 +104,17 @@
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 349329,
+        "confirmed": 349957,
         "deaths": 8026,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 346811,
-        "deaths": 8014,
+        "confirmed": 347084,
+        "deaths": 8015,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 358218,
+        "confirmed": 361754,
         "deaths": 8035,
         "recovered": 0
       }
@@ -1496,18 +1496,18 @@
     },
     "GEO": {
       "back_1week": {
-        "confirmed": 1021943,
-        "deaths": 14582,
+        "confirmed": 1030710,
+        "deaths": 14631,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 979235,
-        "deaths": 14359,
+        "confirmed": 984802,
+        "deaths": 14395,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1110168,
-        "deaths": 14840,
+        "confirmed": 1127234,
+        "deaths": 14870,
         "recovered": 0
       }
     },
@@ -1921,17 +1921,17 @@
     },
     "KAZ": {
       "back_1week": {
-        "confirmed": 1202369,
+        "confirmed": 1217538,
         "deaths": 18350,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1108567,
+        "confirmed": 1120948,
         "deaths": 18291,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1290763,
+        "confirmed": 1302516,
         "deaths": 18430,
         "recovered": 0
       }
@@ -2176,18 +2176,18 @@
     },
     "LTU": {
       "back_1week": {
-        "confirmed": 589074,
-        "deaths": 7708,
+        "confirmed": 595685,
+        "deaths": 7727,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 555971,
-        "deaths": 7603,
+        "confirmed": 559980,
+        "deaths": 7618,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 639527,
-        "deaths": 7815,
+        "confirmed": 651293,
+        "deaths": 7829,
         "recovered": 0
       }
     },
