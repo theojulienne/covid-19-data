@@ -75,9 +75,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 736299,
+      "confirmed": 738601,
       "date": "2022-01-29",
-      "deaths": 6009
+      "deaths": 6024
     }
   },
   "Belgium": {
@@ -438,9 +438,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 919598,
+      "confirmed": 929502,
       "date": "2022-01-29",
-      "deaths": 13690
+      "deaths": 13731
     }
   },
   "Cuba": {
@@ -466,9 +466,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 1636206,
+      "confirmed": 1677289,
       "date": "2022-01-29",
-      "deaths": 3700
+      "deaths": 3717
     }
   },
   "Dominican Republic": {
@@ -538,9 +538,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1732361,
+          "confirmed": 1732718,
           "date": "2022-01-29",
-          "deaths": 20429
+          "deaths": 20430
         }
       },
       "Berlin": {
@@ -587,9 +587,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 719974,
+          "confirmed": 722919,
           "date": "2022-01-29",
-          "deaths": 14069
+          "deaths": 14071
         }
       },
       "Sachsen-Anhalt": {
@@ -810,9 +810,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2191956,
+      "confirmed": 2197783,
       "date": "2022-01-29",
-      "deaths": 24347
+      "deaths": 24361
     }
   },
   "Ireland": {
@@ -972,9 +972,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 372503,
+      "confirmed": 382129,
       "date": "2022-01-29",
-      "deaths": 4855
+      "deaths": 4862
     }
   },
   "Lebanon": {
