@@ -248,18 +248,18 @@ var covid19_dataset_latest_totals = {
     },
     "AZE": {
       "back_1week": {
-        "confirmed": 629352,
-        "deaths": 8564,
+        "confirmed": 630420,
+        "deaths": 8581,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 623555,
-        "deaths": 8490,
+        "confirmed": 624208,
+        "deaths": 8497,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 643509,
-        "deaths": 8664,
+        "confirmed": 647073,
+        "deaths": 8683,
         "recovered": 0
       }
     },
@@ -571,18 +571,18 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 2867929,
-        "deaths": 32217,
+        "confirmed": 2890916,
+        "deaths": 32380,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2679219,
-        "deaths": 31191,
+        "confirmed": 2719532,
+        "deaths": 31324,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2997728,
-        "deaths": 33368,
+        "confirmed": 3015416,
+        "deaths": 33523,
         "recovered": 0
       },
       "states": {
@@ -627,8 +627,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 5
         },
         "Ontario": {
-          "confirmed": 1016099,
-          "deaths": 11230
+          "confirmed": 1021436,
+          "deaths": 11298
         },
         "Prince Edward Island": {
           "confirmed": 6812,
@@ -1938,17 +1938,17 @@ var covid19_dataset_latest_totals = {
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 319379,
+        "confirmed": 319838,
         "deaths": 5520,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 315665,
+        "confirmed": 316700,
         "deaths": 5472,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 320918,
+        "confirmed": 321111,
         "deaths": 5567,
         "recovered": 0
       }
@@ -3089,18 +3089,18 @@ var covid19_dataset_latest_totals = {
     },
     "SRB": {
       "back_1week": {
-        "confirmed": 1501621,
-        "deaths": 13181,
+        "confirmed": 1518024,
+        "deaths": 13211,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1399867,
-        "deaths": 13003,
+        "confirmed": 1412588,
+        "deaths": 13026,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1616584,
-        "deaths": 13417,
+        "confirmed": 1633868,
+        "deaths": 13459,
         "recovered": 0
       }
     },
