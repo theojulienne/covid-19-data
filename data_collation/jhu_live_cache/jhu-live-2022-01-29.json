@@ -466,9 +466,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 551528,
+      "confirmed": 552831,
       "date": "2022-01-29",
-      "deaths": 4298
+      "deaths": 4301
     }
   },
   "Ecuador": {
@@ -508,9 +508,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 18048584,
+      "confirmed": 18380982,
       "date": "2022-01-29",
-      "deaths": 127557
+      "deaths": 127735
     }
   },
   "Georgia": {
@@ -1304,9 +1304,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3598288,
+      "confirmed": 3601630,
       "date": "2022-01-29",
-      "deaths": 94784
+      "deaths": 94905
     }
   },
   "Spain": {
