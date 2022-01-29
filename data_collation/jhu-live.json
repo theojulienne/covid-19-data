@@ -8,9 +8,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 8207752,
+      "confirmed": 8271636,
       "date": "2022-01-28",
-      "deaths": 120352
+      "deaths": 120657
     }
   },
   "Armenia": {
@@ -24,9 +24,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1089865,
+          "confirmed": 1103219,
           "date": "2022-01-28",
-          "deaths": 1266
+          "deaths": 1315
         }
       },
       "Queensland": {
@@ -38,9 +38,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 818354,
+          "confirmed": 830604,
           "date": "2022-01-28",
-          "deaths": 1939
+          "deaths": 1970
         }
       }
     }
@@ -328,9 +328,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 923466,
+      "confirmed": 933337,
       "date": "2022-01-28",
-      "deaths": 33017
+      "deaths": 33088
     }
   },
   "Burma": {
@@ -344,9 +344,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 484400,
+          "confirmed": 487436,
           "date": "2022-01-28",
-          "deaths": 3518
+          "deaths": 3531
         }
       },
       "British Columbia": {
@@ -487,9 +487,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 417453,
+      "confirmed": 419460,
       "date": "2022-01-28",
-      "deaths": 22496
+      "deaths": 22522
     }
   },
   "Estonia": {
@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 681308,
+      "confirmed": 685542,
       "date": "2022-01-28",
-      "deaths": 16317
+      "deaths": 16343
     }
   },
   "Honduras": {
@@ -1445,9 +1445,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 876245,
+      "confirmed": 884588,
       "date": "2022-01-28",
-      "deaths": 26096
+      "deaths": 26132
     }
   },
   "Turkey": {
@@ -1489,9 +1489,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 301631,
+          "confirmed": 303054,
           "date": "2022-01-28",
-          "deaths": 4398
+          "deaths": 4421
         }
       },
       "Michigan": {
@@ -1545,9 +1545,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2481026,
+          "confirmed": 2494017,
           "date": "2022-01-28",
-          "deaths": 26841
+          "deaths": 26885
         }
       },
       "Utah": {
