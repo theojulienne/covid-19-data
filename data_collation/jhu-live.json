@@ -450,13 +450,6 @@
       "deaths": 8388
     }
   },
-  "Cyprus": {
-    "live": {
-      "confirmed": 248941,
-      "date": "2022-01-29",
-      "deaths": 726
-    }
-  },
   "Czechia": {
     "live": {
       "confirmed": 2971107,
@@ -937,9 +930,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1189080,
+      "confirmed": 1197250,
       "date": "2022-01-29",
-      "deaths": 13157
+      "deaths": 13174
     }
   },
   "Kazakhstan": {
@@ -965,9 +958,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 528254,
+      "confirmed": 534062,
       "date": "2022-01-29",
-      "deaths": 2492
+      "deaths": 2494
     }
   },
   "Latvia": {
@@ -1064,9 +1057,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1124986,
+      "confirmed": 1129140,
       "date": "2022-01-29",
-      "deaths": 15300
+      "deaths": 15328
     }
   },
   "Nepal": {
@@ -1230,9 +1223,9 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 334543,
+      "confirmed": 336081,
       "date": "2022-01-29",
-      "deaths": 641
+      "deaths": 645
     }
   },
   "Romania": {
@@ -1452,9 +1445,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 11343693,
+      "confirmed": 11438476,
       "date": "2022-01-29",
-      "deaths": 86871
+      "deaths": 87045
     }
   },
   "US": {
@@ -1538,9 +1531,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 294277,
+          "confirmed": 545365,
           "date": "2022-01-29",
-          "deaths": 4640
+          "deaths": 7634
         }
       },
       "Texas": {
@@ -1623,23 +1616,23 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 13895065,
+          "confirmed": 13963618,
           "date": "2022-01-29",
-          "deaths": 135122
+          "deaths": 135397
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 527460,
+          "confirmed": 531050,
           "date": "2022-01-29",
-          "deaths": 3100
+          "deaths": 3103
         }
       },
       "Scotland": {
         "live": {
           "confirmed": 1139939,
           "date": "2022-01-29",
-          "deaths": 10291
+          "deaths": 10309
         }
       },
       "Wales": {
