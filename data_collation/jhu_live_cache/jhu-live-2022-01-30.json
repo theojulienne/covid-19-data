@@ -365,9 +365,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 856628,
+          "confirmed": 859466,
           "date": "2022-01-30",
-          "deaths": 13179
+          "deaths": 13190
         }
       }
     }
@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 688326,
+      "confirmed": 689609,
       "date": "2022-01-30",
-      "deaths": 16373
+      "deaths": 16379
     }
   },
   "Honduras": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2794149,
+      "confirmed": 2825212,
       "date": "2022-01-30",
-      "deaths": 8669
+      "deaths": 8707
     }
   },
   "Italy": {
@@ -1531,7 +1531,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 540048,
+          "confirmed": 540873,
           "date": "2022-01-30",
           "deaths": 5437
         }
@@ -1545,9 +1545,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2508069,
+          "confirmed": 2515077,
           "date": "2022-01-30",
-          "deaths": 26959
+          "deaths": 26993
         }
       },
       "Utah": {
