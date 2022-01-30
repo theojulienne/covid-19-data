@@ -3157,18 +3157,18 @@
     },
     "SVN": {
       "back_1week": {
-        "confirmed": 579480,
-        "deaths": 5743,
+        "confirmed": 589458,
+        "deaths": 5751,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 519714,
-        "deaths": 5691,
+        "confirmed": 527311,
+        "deaths": 5696,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 673154,
-        "deaths": 5835,
+        "confirmed": 688336,
+        "deaths": 5846,
         "recovered": 0
       }
     },
