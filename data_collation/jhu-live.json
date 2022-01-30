@@ -24,14 +24,14 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1121481,
+          "confirmed": 1126761,
           "date": "2022-01-30",
           "deaths": 1366
         }
       },
       "Queensland": {
         "live": {
-          "confirmed": 402656,
+          "confirmed": 402639,
           "date": "2022-01-30",
           "deaths": 196
         }
@@ -47,9 +47,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1801040,
+      "confirmed": 1828167,
       "date": "2022-01-30",
-      "deaths": 14077
+      "deaths": 14091
     }
   },
   "Azerbaijan": {
@@ -1681,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 304656,
+      "confirmed": 304922,
       "date": "2022-01-30",
-      "deaths": 3914
+      "deaths": 3915
     }
   }
 }
