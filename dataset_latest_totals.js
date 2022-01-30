@@ -571,18 +571,18 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 2890916,
-        "deaths": 32380,
+        "confirmed": 2905428,
+        "deaths": 32504,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2719532,
-        "deaths": 31324,
+        "confirmed": 2738532,
+        "deaths": 31464,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3015416,
-        "deaths": 33523,
+        "confirmed": 3025283,
+        "deaths": 33647,
         "recovered": 0
       },
       "states": {
@@ -627,8 +627,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 5
         },
         "Ontario": {
-          "confirmed": 1021436,
-          "deaths": 11298
+          "confirmed": 1026291,
+          "deaths": 11354
         },
         "Prince Edward Island": {
           "confirmed": 7274,
@@ -1938,17 +1938,17 @@ var covid19_dataset_latest_totals = {
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 319838,
-        "deaths": 5528,
+        "confirmed": 320138,
+        "deaths": 5531,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 316700,
-        "deaths": 5482,
+        "confirmed": 317324,
+        "deaths": 5488,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 321111,
+        "confirmed": 321234,
         "deaths": 5578,
         "recovered": 0
       }
@@ -3089,18 +3089,18 @@ var covid19_dataset_latest_totals = {
     },
     "SRB": {
       "back_1week": {
-        "confirmed": 1518024,
-        "deaths": 13211,
+        "confirmed": 1532741,
+        "deaths": 13239,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1412588,
-        "deaths": 13026,
+        "confirmed": 1425147,
+        "deaths": 13045,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1633868,
-        "deaths": 13459,
+        "confirmed": 1649293,
+        "deaths": 13513,
         "recovered": 0
       }
     },

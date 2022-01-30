@@ -335,7 +335,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 535080,
+      "confirmed": 535254,
       "date": "2022-01-30",
       "deaths": 19310
     }
@@ -358,9 +358,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1026291,
+          "confirmed": 1030251,
           "date": "2022-01-30",
-          "deaths": 11354
+          "deaths": 11412
         }
       },
       "Quebec": {
@@ -951,9 +951,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 321234,
+      "confirmed": 321335,
       "date": "2022-01-30",
-      "deaths": 5578
+      "deaths": 5580
     }
   },
   "Korea, South": {
@@ -1080,51 +1080,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 466413,
+          "confirmed": 473888,
           "date": "2022-01-30",
-          "deaths": 2621
+          "deaths": 2622
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 284126,
+          "confirmed": 288888,
           "date": "2022-01-30",
           "deaths": 2084
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 629229,
+          "confirmed": 635239,
           "date": "2022-01-30",
           "deaths": 3575
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 746306,
+          "confirmed": 759064,
           "date": "2022-01-30",
           "deaths": 3170
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 270546,
+          "confirmed": 272186,
           "date": "2022-01-30",
           "deaths": 1352
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 340500,
+          "confirmed": 356074,
           "date": "2022-01-30",
           "deaths": 1487
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 973310,
+          "confirmed": 992263,
           "date": "2022-01-30",
-          "deaths": 4925
+          "deaths": 4926
         }
       }
     }
@@ -1200,9 +1200,9 @@
       },
       "Unknown": {
         "live": {
-          "confirmed": 329080,
+          "confirmed": 364836,
           "date": "2022-01-30",
-          "deaths": 789
+          "deaths": 1024
         }
       }
     }
@@ -1283,9 +1283,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1649293,
+      "confirmed": 1662446,
       "date": "2022-01-30",
-      "deaths": 13513
+      "deaths": 13570
     }
   },
   "Singapore": {
