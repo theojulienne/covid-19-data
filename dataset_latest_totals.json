@@ -2987,17 +2987,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 307813,
+        "confirmed": 310276,
         "deaths": 846,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 290030,
+        "confirmed": 290986,
         "deaths": 840,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 338625,
+        "confirmed": 343832,
         "deaths": 853,
         "recovered": 0
       }
