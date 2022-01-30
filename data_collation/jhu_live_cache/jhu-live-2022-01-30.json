@@ -38,9 +38,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 841276,
+          "confirmed": 841636,
           "date": "2022-01-30",
-          "deaths": 1990
+          "deaths": 1988
         }
       }
     }
@@ -438,9 +438,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 929502,
+      "confirmed": 935722,
       "date": "2022-01-30",
-      "deaths": 13731
+      "deaths": 13777
     }
   },
   "Cuba": {
@@ -580,7 +580,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 376614,
+          "confirmed": 378832,
           "date": "2022-01-30",
           "deaths": 4801
         }
@@ -796,9 +796,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4330763,
+      "confirmed": 4343185,
       "date": "2022-01-30",
-      "deaths": 144285
+      "deaths": 144303
     }
   },
   "Iran": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2759024,
+      "confirmed": 2794149,
       "date": "2022-01-30",
-      "deaths": 8658
+      "deaths": 8669
     }
   },
   "Italy": {
@@ -1152,7 +1152,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 330767,
+      "confirmed": 336460,
       "date": "2022-01-30",
       "deaths": 4134
     }
@@ -1237,9 +1237,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2176726,
+      "confirmed": 2196394,
       "date": "2022-01-30",
-      "deaths": 59932
+      "deaths": 59984
     }
   },
   "Russia": {
