@@ -54,9 +54,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 651341,
+      "confirmed": 656284,
       "date": "2022-01-30",
-      "deaths": 8700
+      "deaths": 8720
     }
   },
   "Bahrain": {
@@ -466,9 +466,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 1677289,
+      "confirmed": 1713485,
       "date": "2022-01-30",
-      "deaths": 3717
+      "deaths": 3738
     }
   },
   "Dominican Republic": {
@@ -538,7 +538,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1756847,
+          "confirmed": 1757753,
           "date": "2022-01-30",
           "deaths": 20434
         }
@@ -587,9 +587,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 722929,
+          "confirmed": 726001,
           "date": "2022-01-30",
-          "deaths": 14071
+          "deaths": 14075
         }
       },
       "Sachsen-Anhalt": {
@@ -810,9 +810,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2197783,
+      "confirmed": 2203365,
       "date": "2022-01-30",
-      "deaths": 24361
+      "deaths": 24376
     }
   },
   "Ireland": {
