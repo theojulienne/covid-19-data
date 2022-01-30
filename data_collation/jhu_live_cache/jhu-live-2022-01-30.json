@@ -445,9 +445,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1039842,
+      "confirmed": 1042671,
       "date": "2022-01-30",
-      "deaths": 8390
+      "deaths": 8397
     }
   },
   "Cyprus": {
@@ -937,9 +937,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1197250,
+      "confirmed": 1209083,
       "date": "2022-01-30",
-      "deaths": 13174
+      "deaths": 13193
     }
   },
   "Kazakhstan": {
@@ -1064,9 +1064,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1129140,
+      "confirmed": 1131395,
       "date": "2022-01-30",
-      "deaths": 15328
+      "deaths": 15362
     }
   },
   "Nepal": {
@@ -1452,9 +1452,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 11438476,
+      "confirmed": 11526621,
       "date": "2022-01-30",
-      "deaths": 87045
+      "deaths": 87234
     }
   },
   "US": {
@@ -1538,9 +1538,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 295307,
+          "confirmed": 295837,
           "date": "2022-01-30",
-          "deaths": 4659
+          "deaths": 4663
         }
       },
       "Texas": {
@@ -1623,9 +1623,9 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 13963618,
+          "confirmed": 14023177,
           "date": "2022-01-30",
-          "deaths": 135397
+          "deaths": 135472
         }
       },
       "Northern Ireland": {
@@ -1639,14 +1639,14 @@
         "live": {
           "confirmed": 1139939,
           "date": "2022-01-30",
-          "deaths": 10309
+          "deaths": 10311
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 771516,
+          "confirmed": 774356,
           "date": "2022-01-30",
-          "deaths": 6804
+          "deaths": 6812
         }
       }
     }
