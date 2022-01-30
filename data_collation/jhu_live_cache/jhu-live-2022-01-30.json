@@ -15,9 +15,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 364348,
+      "confirmed": 366433,
       "date": "2022-01-30",
-      "deaths": 8041
+      "deaths": 8046
     }
   },
   "Australia": {
@@ -545,7 +545,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 527991,
+          "confirmed": 527992,
           "date": "2022-01-30",
           "deaths": 4107
         }
