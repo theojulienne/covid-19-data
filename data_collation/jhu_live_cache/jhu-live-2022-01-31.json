@@ -193,7 +193,7 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 832984,
+          "confirmed": 834339,
           "date": "2022-01-31",
           "deaths": 13490
         }
@@ -214,16 +214,16 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 624006,
+          "confirmed": 625341,
           "date": "2022-01-31",
-          "deaths": 14269
+          "deaths": 14281
         }
       },
       "Mato Grosso do Sul": {
         "live": {
           "confirmed": 422264,
           "date": "2022-01-31",
-          "deaths": 9868
+          "deaths": 9870
         }
       },
       "Minas Gerais": {
@@ -235,9 +235,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 647628,
+          "confirmed": 648139,
           "date": "2022-01-31",
-          "deaths": 17340
+          "deaths": 17343
         }
       },
       "Paraiba": {
@@ -263,9 +263,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 342655,
+          "confirmed": 343014,
           "date": "2022-01-31",
-          "deaths": 7368
+          "deaths": 7377
         }
       },
       "Rio Grande do Norte": {
@@ -387,42 +387,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 901351,
+          "confirmed": 902901,
           "date": "2022-01-31",
           "deaths": 17596
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 391310,
+          "confirmed": 392469,
           "date": "2022-01-31",
           "deaths": 9855
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1672337,
+          "confirmed": 1679698,
           "date": "2022-01-31",
           "deaths": 28152
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 299837,
+          "confirmed": 300566,
           "date": "2022-01-31",
           "deaths": 6958
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 269012,
+          "confirmed": 270362,
           "date": "2022-01-31",
           "deaths": 7753
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 528069,
+          "confirmed": 528794,
           "date": "2022-01-31",
           "deaths": 14318
         }
@@ -958,9 +958,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 828637,
+      "confirmed": 845709,
       "date": "2022-01-31",
-      "deaths": 6732
+      "deaths": 6755
     }
   },
   "Kuwait": {
@@ -1468,9 +1468,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5573996,
+          "confirmed": 5590753,
           "date": "2022-01-31",
-          "deaths": 56299
+          "deaths": 56336
         }
       },
       "Florida": {
