@@ -54,9 +54,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1828167,
+      "confirmed": 1855578,
       "date": "2022-01-31",
-      "deaths": 14091
+      "deaths": 14103
     }
   },
   "Azerbaijan": {
@@ -531,7 +531,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1355623,
+          "confirmed": 1355627,
           "date": "2022-01-31",
           "deaths": 13653
         }
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2131077,
       "date": "2022-01-31",
-      "deaths": 12684
+      "deaths": 12693
     }
   },
   "Thailand": {
