@@ -142,9 +142,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 343986,
+      "confirmed": 346651,
       "date": "2022-01-31",
-      "deaths": 14310
+      "deaths": 14369
     }
   },
   "Brazil": {
@@ -358,7 +358,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 859466,
+          "confirmed": 861889,
           "date": "2022-01-31",
           "deaths": 13223
         }
@@ -494,9 +494,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 464930,
+      "confirmed": 465158,
       "date": "2022-01-31",
-      "deaths": 7331
+      "deaths": 7337
     }
   },
   "Finland": {
@@ -946,7 +946,7 @@
     "live": {
       "confirmed": 1319814,
       "date": "2022-01-31",
-      "deaths": 18454
+      "deaths": 18508
     }
   },
   "Kenya": {
@@ -1050,14 +1050,14 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 438249,
+      "confirmed": 440698,
       "date": "2022-01-31",
-      "deaths": 10635
+      "deaths": 10642
     }
   },
   "Mongolia": {
     "live": {
-      "confirmed": 443392,
+      "confirmed": 443410,
       "date": "2022-01-31",
       "deaths": 2109
     }
@@ -1311,9 +1311,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3603856,
+      "confirmed": 3605222,
       "date": "2022-01-31",
-      "deaths": 95022
+      "deaths": 95093
     }
   },
   "Spain": {
@@ -1470,7 +1470,7 @@
         "live": {
           "confirmed": 5638270,
           "date": "2022-01-31",
-          "deaths": 56454
+          "deaths": 56469
         }
       },
       "Florida": {
@@ -1510,16 +1510,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 488299,
+          "confirmed": 494743,
           "date": "2022-01-31",
-          "deaths": 6866
+          "deaths": 6893
         }
       },
       "New York": {
         "live": {
-          "confirmed": 2892044,
+          "confirmed": 2893135,
           "date": "2022-01-31",
-          "deaths": 44068
+          "deaths": 44082
         }
       },
       "North Carolina": {
@@ -1531,7 +1531,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 540873,
+          "confirmed": 541551,
           "date": "2022-01-31",
           "deaths": 5437
         }
@@ -1674,9 +1674,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 504992,
+      "confirmed": 524716,
       "date": "2022-01-31",
-      "deaths": 5076
+      "deaths": 5098
     }
   },
   "Zambia": {
