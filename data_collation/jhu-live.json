@@ -631,9 +631,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1508358,
+      "confirmed": 1553405,
       "date": "2022-01-31",
-      "deaths": 41229
+      "deaths": 41405
     }
   },
   "India": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2830154,
+      "confirmed": 2858988,
       "date": "2022-01-31",
-      "deaths": 8725
+      "deaths": 8724
     }
   },
   "Italy": {
