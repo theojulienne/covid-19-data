@@ -24,9 +24,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1139787,
+          "confirmed": 1073665,
           "date": "2022-01-31",
-          "deaths": 1393
+          "deaths": 1392
         }
       },
       "Queensland": {
@@ -468,7 +468,7 @@
     "live": {
       "confirmed": 555245,
       "date": "2022-01-31",
-      "deaths": 4305
+      "deaths": 4307
     }
   },
   "Ecuador": {
@@ -487,9 +487,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 332580,
+      "confirmed": 337543,
       "date": "2022-01-31",
-      "deaths": 2036
+      "deaths": 2033
     }
   },
   "Ethiopia": {
@@ -524,9 +524,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1355627,
+          "confirmed": 1374016,
           "date": "2022-01-31",
-          "deaths": 13653
+          "deaths": 13669
         }
       },
       "Bayern": {
@@ -587,9 +587,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 726011,
+          "confirmed": 727944,
           "date": "2022-01-31",
-          "deaths": 14075
+          "deaths": 14083
         }
       },
       "Sachsen-Anhalt": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2858988,
+      "confirmed": 2894892,
       "date": "2022-01-31",
-      "deaths": 8724
+      "deaths": 8802
     }
   },
   "Italy": {
@@ -1452,9 +1452,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 11526621,
+      "confirmed": 11619882,
       "date": "2022-01-31",
-      "deaths": 87234
+      "deaths": 87416
     }
   },
   "US": {
@@ -1468,9 +1468,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5590753,
+          "confirmed": 5638270,
           "date": "2022-01-31",
-          "deaths": 56336
+          "deaths": 56452
         }
       },
       "Florida": {
@@ -1517,16 +1517,16 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2889247,
+          "confirmed": 2892044,
           "date": "2022-01-31",
-          "deaths": 44043
+          "deaths": 44068
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 517238,
+          "confirmed": 527422,
           "date": "2022-01-31",
-          "deaths": 2400
+          "deaths": 2406
         }
       },
       "Ohio": {
@@ -1545,9 +1545,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2515077,
+          "confirmed": 2520736,
           "date": "2022-01-31",
-          "deaths": 26993
+          "deaths": 27023
         }
       },
       "Utah": {
