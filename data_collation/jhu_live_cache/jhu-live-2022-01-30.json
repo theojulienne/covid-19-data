@@ -1,16 +1,23 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 254126,
+      "confirmed": 255741,
       "date": "2022-01-30",
-      "deaths": 3329
+      "deaths": 3334
+    }
+  },
+  "Algeria": {
+    "live": {
+      "confirmed": 250774,
+      "date": "2022-01-30",
+      "deaths": 6566
     }
   },
   "Argentina": {
     "live": {
-      "confirmed": 8313614,
+      "confirmed": 8335184,
       "date": "2022-01-30",
-      "deaths": 120836
+      "deaths": 120988
     }
   },
   "Armenia": {
@@ -24,9 +31,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1126761,
+          "confirmed": 1139787,
           "date": "2022-01-30",
-          "deaths": 1366
+          "deaths": 1393
         }
       },
       "Queensland": {
@@ -38,9 +45,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 841636,
+          "confirmed": 851689,
           "date": "2022-01-30",
-          "deaths": 1988
+          "deaths": 1996
         }
       }
     }
@@ -135,9 +142,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 847180,
+      "confirmed": 850197,
       "date": "2022-01-30",
-      "deaths": 20865
+      "deaths": 20891
     }
   },
   "Bosnia and Herzegovina": {
@@ -145,13 +152,6 @@
       "confirmed": 343986,
       "date": "2022-01-30",
       "deaths": 14310
-    }
-  },
-  "Botswana": {
-    "live": {
-      "confirmed": 250746,
-      "date": "2022-01-30",
-      "deaths": 2580
     }
   },
   "Brazil": {
@@ -328,9 +328,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 939212,
+      "confirmed": 941814,
       "date": "2022-01-30",
-      "deaths": 33121
+      "deaths": 33160
     }
   },
   "Burma": {
@@ -1223,9 +1223,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 2566551,
+      "confirmed": 2611886,
       "date": "2022-01-30",
-      "deaths": 19827
+      "deaths": 19856
     }
   },
   "Qatar": {
@@ -1399,9 +1399,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 609047,
+      "confirmed": 610103,
       "date": "2022-01-30",
-      "deaths": 15400
+      "deaths": 15420
     }
   },
   "Sweden": {
@@ -1653,9 +1653,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 653853,
+      "confirmed": 661441,
       "date": "2022-01-30",
-      "deaths": 6436
+      "deaths": 6459
     }
   },
   "Venezuela": {
