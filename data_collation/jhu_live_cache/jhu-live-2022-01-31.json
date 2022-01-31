@@ -351,9 +351,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1030251,
+          "confirmed": 1033294,
           "date": "2022-01-31",
-          "deaths": 11412
+          "deaths": 11444
         }
       },
       "Quebec": {
@@ -431,9 +431,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 935722,
+      "confirmed": 937167,
       "date": "2022-01-31",
-      "deaths": 13777
+      "deaths": 13827
     }
   },
   "Cuba": {
@@ -459,9 +459,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 1713485,
+      "confirmed": 1742569,
       "date": "2022-01-31",
-      "deaths": 3738
+      "deaths": 3755
     }
   },
   "Dominican Republic": {
@@ -531,7 +531,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1775440,
+          "confirmed": 1775984,
           "date": "2022-01-31",
           "deaths": 20441
         }
@@ -594,9 +594,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 266884,
+          "confirmed": 269149,
           "date": "2022-01-31",
-          "deaths": 4597
+          "deaths": 4601
         }
       },
       "Thuringen": {
@@ -810,9 +810,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2203365,
+      "confirmed": 2210582,
       "date": "2022-01-31",
-      "deaths": 24376
+      "deaths": 24389
     }
   },
   "Ireland": {
@@ -951,9 +951,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 321335,
+      "confirmed": 321381,
       "date": "2022-01-31",
-      "deaths": 5580
+      "deaths": 5583
     }
   },
   "Korea, South": {
@@ -1230,7 +1230,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 337638,
+      "confirmed": 339147,
       "date": "2022-01-31",
       "deaths": 645
     }
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2220539,
       "date": "2022-01-31",
-      "deaths": 12700
+      "deaths": 12703
     }
   },
   "Thailand": {
@@ -1681,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 304922,
+      "confirmed": 305047,
       "date": "2022-01-31",
-      "deaths": 3915
+      "deaths": 3917
     }
   }
 }
