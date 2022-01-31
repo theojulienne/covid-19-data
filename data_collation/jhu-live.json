@@ -1161,16 +1161,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 476420,
+          "confirmed": 478527,
           "date": "2022-01-31",
-          "deaths": 13151
+          "deaths": 13160
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 540023,
+          "confirmed": 541693,
           "date": "2022-01-31",
-          "deaths": 7812
+          "deaths": 7821
         }
       }
     }
@@ -1438,9 +1438,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2424090,
+      "confirmed": 2440542,
       "date": "2022-01-31",
-      "deaths": 22145
+      "deaths": 22173
     }
   },
   "Tunisia": {
