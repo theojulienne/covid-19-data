@@ -38,9 +38,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 402639,
+          "confirmed": 406129,
           "date": "2022-01-31",
-          "deaths": 196
+          "deaths": 199
         }
       },
       "Victoria": {
@@ -389,42 +389,42 @@
         "live": {
           "confirmed": 902901,
           "date": "2022-01-31",
-          "deaths": 17596
+          "deaths": 17629
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 392469,
           "date": "2022-01-31",
-          "deaths": 9855
+          "deaths": 9867
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1679698,
           "date": "2022-01-31",
-          "deaths": 28152
+          "deaths": 28199
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 300566,
           "date": "2022-01-31",
-          "deaths": 6958
+          "deaths": 6962
         }
       },
       "Santander": {
         "live": {
           "confirmed": 270362,
           "date": "2022-01-31",
-          "deaths": 7753
+          "deaths": 7766
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 528794,
           "date": "2022-01-31",
-          "deaths": 14318
+          "deaths": 14370
         }
       }
     }
@@ -1177,9 +1177,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 692634,
+      "confirmed": 697124,
       "date": "2022-01-31",
-      "deaths": 7698
+      "deaths": 7716
     }
   },
   "Paraguay": {
