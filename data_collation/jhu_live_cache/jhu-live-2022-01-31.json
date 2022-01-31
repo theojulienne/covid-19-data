@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 689609,
+      "confirmed": 690290,
       "date": "2022-01-31",
-      "deaths": 16379
+      "deaths": 16385
     }
   },
   "Honduras": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2894892,
+      "confirmed": 2900569,
       "date": "2022-01-31",
-      "deaths": 8802
+      "deaths": 8805
     }
   },
   "Italy": {
@@ -1545,16 +1545,16 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2520736,
+          "confirmed": 2529332,
           "date": "2022-01-31",
-          "deaths": 27023
+          "deaths": 27028
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 322826,
+          "confirmed": 326024,
           "date": "2022-01-31",
-          "deaths": 1438
+          "deaths": 1443
         }
       },
       "Washington": {
