@@ -369,9 +369,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 886543,
+          "confirmed": 898620,
           "date": "2022-01-31",
-          "deaths": 20081
+          "deaths": 20089
         }
       }
     }
@@ -438,9 +438,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1042671,
+      "confirmed": 1044790,
       "date": "2022-01-31",
-      "deaths": 8397
+      "deaths": 8399
     }
   },
   "Cyprus": {
@@ -610,9 +610,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1920992,
+      "confirmed": 1940723,
       "date": "2022-01-31",
-      "deaths": 23372
+      "deaths": 23500
     }
   },
   "Guatemala": {
@@ -817,7 +817,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1169645,
+      "confirmed": 1183008,
       "date": "2022-01-31",
       "deaths": 6136
     }
@@ -1290,9 +1290,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 348330,
+      "confirmed": 352811,
       "date": "2022-01-31",
-      "deaths": 854
+      "deaths": 855
     }
   },
   "Slovakia": {
@@ -1399,9 +1399,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 610103,
+      "confirmed": 611185,
       "date": "2022-01-31",
-      "deaths": 15420
+      "deaths": 15441
     }
   },
   "Sweden": {
@@ -1566,9 +1566,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 259253,
+          "confirmed": 260580,
           "date": "2022-01-31",
-          "deaths": 1960
+          "deaths": 1973
         }
       }
     }
