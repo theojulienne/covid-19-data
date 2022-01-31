@@ -61,9 +61,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 368767,
+      "confirmed": 374575,
       "date": "2022-01-31",
-      "deaths": 1407
+      "deaths": 1408
     }
   },
   "Bangladesh": {
@@ -473,9 +473,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 691898,
+      "confirmed": 732038,
       "date": "2022-01-31",
-      "deaths": 34362
+      "deaths": 34533
     }
   },
   "Egypt": {
@@ -979,9 +979,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 914929,
+      "confirmed": 921208,
       "date": "2022-01-31",
-      "deaths": 9590
+      "deaths": 9606
     }
   },
   "Libya": {
