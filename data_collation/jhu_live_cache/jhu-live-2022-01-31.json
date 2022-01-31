@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 255741,
+      "confirmed": 258543,
       "date": "2022-01-31",
-      "deaths": 3334
+      "deaths": 3346
     }
   },
   "Argentina": {
@@ -445,9 +445,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 253350,
+      "confirmed": 256746,
       "date": "2022-01-31",
-      "deaths": 731
+      "deaths": 733
     }
   },
   "Czechia": {
@@ -508,9 +508,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 18630430,
+      "confirmed": 18713087,
       "date": "2022-01-31",
-      "deaths": 127862
+      "deaths": 128210
     }
   },
   "Georgia": {
@@ -1138,9 +1138,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 268191,
+      "confirmed": 268901,
       "date": "2022-01-31",
-      "deaths": 8383
+      "deaths": 8409
     }
   },
   "Norway": {
@@ -1320,9 +1320,9 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 1232983,
+          "confirmed": 1246283,
           "date": "2022-01-31",
-          "deaths": 11982
+          "deaths": 12021
         }
       },
       "Aragon": {
@@ -1334,63 +1334,63 @@
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 1096439,
+          "confirmed": 1119605,
           "date": "2022-01-31",
-          "deaths": 8490
+          "deaths": 8502
         }
       },
       "Canarias": {
         "live": {
-          "confirmed": 253882,
+          "confirmed": 256737,
           "date": "2022-01-31",
-          "deaths": 1390
+          "deaths": 1425
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 425113,
+          "confirmed": 432806,
           "date": "2022-01-31",
-          "deaths": 6813
+          "deaths": 6831
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 591253,
+          "confirmed": 599870,
           "date": "2022-01-31",
-          "deaths": 7888
+          "deaths": 7903
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 1983440,
+          "confirmed": 2044709,
           "date": "2022-01-31",
-          "deaths": 16286
+          "deaths": 16294
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 433345,
+          "confirmed": 448301,
           "date": "2022-01-31",
-          "deaths": 2903
+          "deaths": 2927
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 1463343,
+          "confirmed": 1474510,
           "date": "2022-01-31",
-          "deaths": 16535
+          "deaths": 16568
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 315577,
+          "confirmed": 323777,
           "date": "2022-01-31",
-          "deaths": 1948
+          "deaths": 1960
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 595846,
+          "confirmed": 606737,
           "date": "2022-01-31",
           "deaths": 5554
         }
@@ -1470,7 +1470,7 @@
         "live": {
           "confirmed": 5638270,
           "date": "2022-01-31",
-          "deaths": 56452
+          "deaths": 56454
         }
       },
       "Florida": {
@@ -1482,9 +1482,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1075346,
+          "confirmed": 1080784,
           "date": "2022-01-31",
-          "deaths": 13240
+          "deaths": 13342
         }
       },
       "Massachusetts": {
