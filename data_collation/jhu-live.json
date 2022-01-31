@@ -6,13 +6,6 @@
       "deaths": 3334
     }
   },
-  "Algeria": {
-    "live": {
-      "confirmed": 250774,
-      "date": "2022-01-31",
-      "deaths": 6566
-    }
-  },
   "Argentina": {
     "live": {
       "confirmed": 8335184,
@@ -557,6 +550,13 @@
           "deaths": 5003
         }
       },
+      "Hamburg": {
+        "live": {
+          "confirmed": 252936,
+          "date": "2022-01-31",
+          "deaths": 2133
+        }
+      },
       "Hessen": {
         "live": {
           "confirmed": 705061,
@@ -972,9 +972,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 388989,
+      "confirmed": 392764,
       "date": "2022-01-31",
-      "deaths": 4868
+      "deaths": 4873
     }
   },
   "Lebanon": {
@@ -1071,9 +1071,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 950441,
+      "confirmed": 953913,
       "date": "2022-01-31",
-      "deaths": 11735
+      "deaths": 11743
     }
   },
   "Netherlands": {
@@ -1237,9 +1237,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2196394,
+      "confirmed": 2216525,
       "date": "2022-01-31",
-      "deaths": 59984
+      "deaths": 60025
     }
   },
   "Russia": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2131077,
       "date": "2022-01-31",
-      "deaths": 12693
+      "deaths": 12698
     }
   },
   "Thailand": {
@@ -1445,9 +1445,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 901107,
+      "confirmed": 907239,
       "date": "2022-01-31",
-      "deaths": 26229
+      "deaths": 26271
     }
   },
   "Turkey": {
@@ -1667,9 +1667,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2263053,
+      "confirmed": 2275727,
       "date": "2022-01-31",
-      "deaths": 37668
+      "deaths": 37777
     }
   },
   "West Bank and Gaza": {
