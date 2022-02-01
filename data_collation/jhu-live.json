@@ -54,9 +54,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 658470,
+      "confirmed": 663693,
       "date": "2022-02-01",
-      "deaths": 8734
+      "deaths": 8755
     }
   },
   "Bahrain": {
@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 898620,
+          "confirmed": 908699,
           "date": "2022-02-01",
-          "deaths": 20089
+          "deaths": 20101
         }
       }
     }
@@ -445,9 +445,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1044790,
+      "confirmed": 1046400,
       "date": "2022-02-01",
-      "deaths": 8399
+      "deaths": 8407
     }
   },
   "Cyprus": {
@@ -617,9 +617,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1940723,
+      "confirmed": 1965719,
       "date": "2022-02-01",
-      "deaths": 23500
+      "deaths": 23608
     }
   },
   "Guatemala": {
@@ -824,7 +824,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1183008,
+      "confirmed": 1187216,
       "date": "2022-02-01",
       "deaths": 6136
     }
@@ -1283,9 +1283,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1677798,
+      "confirmed": 1697012,
       "date": "2022-02-01",
-      "deaths": 13629
+      "deaths": 13687
     }
   },
   "Singapore": {
@@ -1545,7 +1545,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2529332,
+          "confirmed": 2535117,
           "date": "2022-02-01",
           "deaths": 27047
         }
@@ -1566,9 +1566,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 260580,
+          "confirmed": 260922,
           "date": "2022-02-01",
-          "deaths": 1973
+          "deaths": 1982
         }
       }
     }
