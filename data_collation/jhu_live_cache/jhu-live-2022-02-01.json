@@ -6,6 +6,13 @@
       "deaths": 3346
     }
   },
+  "Algeria": {
+    "live": {
+      "confirmed": 253520,
+      "date": "2022-02-01",
+      "deaths": 6593
+    }
+  },
   "Argentina": {
     "live": {
       "confirmed": 8378656,
@@ -445,9 +452,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 256746,
+      "confirmed": 259784,
       "date": "2022-02-01",
-      "deaths": 733
+      "deaths": 734
     }
   },
   "Czechia": {
@@ -466,9 +473,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 555245,
+      "confirmed": 556520,
       "date": "2022-02-01",
-      "deaths": 4307
+      "deaths": 4310
     }
   },
   "Ecuador": {
@@ -494,9 +501,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 465158,
+      "confirmed": 465477,
       "date": "2022-02-01",
-      "deaths": 7337
+      "deaths": 7343
     }
   },
   "Finland": {
@@ -824,9 +831,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2955400,
+      "confirmed": 2966444,
       "date": "2022-02-01",
-      "deaths": 8894
+      "deaths": 8926
     }
   },
   "Italy": {
@@ -944,9 +951,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1225309,
+      "confirmed": 1243090,
       "date": "2022-02-01",
-      "deaths": 13217
+      "deaths": 13235
     }
   },
   "Kazakhstan": {
@@ -972,9 +979,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 545717,
+      "confirmed": 552153,
       "date": "2022-02-01",
-      "deaths": 2497
+      "deaths": 2499
     }
   },
   "Latvia": {
@@ -986,9 +993,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 921208,
+      "confirmed": 928522,
       "date": "2022-02-01",
-      "deaths": 9606
+      "deaths": 9621
     }
   },
   "Libya": {
@@ -1129,18 +1136,11 @@
       }
     }
   },
-  "Nigeria": {
-    "live": {
-      "confirmed": 253181,
-      "date": "2022-02-01",
-      "deaths": 3136
-    }
-  },
   "North Macedonia": {
     "live": {
-      "confirmed": 268901,
+      "confirmed": 270897,
       "date": "2022-02-01",
-      "deaths": 8409
+      "deaths": 8444
     }
   },
   "Norway": {
@@ -1399,9 +1399,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 611185,
+      "confirmed": 612322,
       "date": "2022-02-01",
-      "deaths": 15441
+      "deaths": 15474
     }
   },
   "Sweden": {
