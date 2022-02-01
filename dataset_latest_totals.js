@@ -2720,8 +2720,8 @@ var covid19_dataset_latest_totals = {
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 574856,
-        "deaths": 7520,
+        "confirmed": 580324,
+        "deaths": 7528,
         "recovered": 0
       },
       "latest": {
