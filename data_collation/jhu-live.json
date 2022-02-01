@@ -531,9 +531,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1374094,
+          "confirmed": 1400176,
           "date": "2022-02-01",
-          "deaths": 13669
+          "deaths": 13696
         }
       },
       "Bayern": {
@@ -831,7 +831,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2928373,
+      "confirmed": 2955400,
       "date": "2022-02-01",
       "deaths": 8894
     }
@@ -958,9 +958,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 321381,
+      "confirmed": 321552,
       "date": "2022-02-01",
-      "deaths": 5583
+      "deaths": 5587
     }
   },
   "Korea, South": {
@@ -1452,9 +1452,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 11619882,
+      "confirmed": 11722483,
       "date": "2022-02-01",
-      "deaths": 87416
+      "deaths": 87614
     }
   },
   "US": {
@@ -1468,9 +1468,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5648933,
+          "confirmed": 5666282,
           "date": "2022-02-01",
-          "deaths": 56509
+          "deaths": 56583
         }
       },
       "Florida": {
@@ -1503,9 +1503,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 276191,
+          "confirmed": 279527,
           "date": "2022-02-01",
-          "deaths": 2362
+          "deaths": 2372
         }
       },
       "Nevada": {
@@ -1517,23 +1517,23 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2893135,
+          "confirmed": 2894031,
           "date": "2022-02-01",
-          "deaths": 44082
+          "deaths": 44214
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 527422,
+          "confirmed": 529122,
           "date": "2022-02-01",
           "deaths": 2406
         }
       },
       "Ohio": {
         "live": {
-          "confirmed": 541551,
+          "confirmed": 542436,
           "date": "2022-02-01",
-          "deaths": 5437
+          "deaths": 5515
         }
       },
       "Pennsylvania": {
@@ -1623,28 +1623,28 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 14845382,
+          "confirmed": 14948735,
           "date": "2022-02-01",
-          "deaths": 135509
+          "deaths": 136596
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 542855,
+          "confirmed": 547477,
           "date": "2022-02-01",
-          "deaths": 3111
+          "deaths": 3115
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 1148772,
+          "confirmed": 1151614,
           "date": "2022-02-01",
-          "deaths": 10311
+          "deaths": 10341
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 778884,
+          "confirmed": 780519,
           "date": "2022-02-01",
           "deaths": 6823
         }
