@@ -1496,18 +1496,18 @@ var covid19_dataset_latest_totals = {
     },
     "GEO": {
       "back_1week": {
-        "confirmed": 1051445,
-        "deaths": 14701,
+        "confirmed": 1059392,
+        "deaths": 14732,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 995687,
-        "deaths": 14449,
+        "confirmed": 999343,
+        "deaths": 14481,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1162773,
-        "deaths": 14945,
+        "confirmed": 1175923,
+        "deaths": 14980,
         "recovered": 0
       }
     },
