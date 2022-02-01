@@ -31,7 +31,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 413670,
+          "confirmed": 417689,
           "date": "2022-02-01",
           "deaths": 209
         }
@@ -84,49 +84,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 449489,
+          "confirmed": 465936,
           "date": "2022-02-01",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 368658,
+          "confirmed": 378746,
           "date": "2022-02-01",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 388057,
+          "confirmed": 401431,
           "date": "2022-02-01",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 279523,
+          "confirmed": 288657,
           "date": "2022-02-01",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 357326,
+          "confirmed": 370335,
           "date": "2022-02-01",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 305233,
+          "confirmed": 313271,
           "date": "2022-02-01",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 320941,
+          "confirmed": 329845,
           "date": "2022-02-01",
           "deaths": 0
         }
@@ -135,9 +135,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 852280,
+      "confirmed": 855705,
       "date": "2022-02-01",
-      "deaths": 20919
+      "deaths": 20951
     }
   },
   "Bosnia and Herzegovina": {
@@ -951,7 +951,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1319814,
+      "confirmed": 1325293,
       "date": "2022-02-01",
       "deaths": 18508
     }
@@ -1660,9 +1660,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 484021,
+      "confirmed": 485974,
       "date": "2022-02-01",
-      "deaths": 5440
+      "deaths": 5447
     }
   },
   "Vietnam": {
