@@ -31,9 +31,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 410101,
+          "confirmed": 413670,
           "date": "2022-02-01",
-          "deaths": 199
+          "deaths": 209
         }
       },
       "Victoria": {
@@ -142,9 +142,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 346651,
+      "confirmed": 347467,
       "date": "2022-02-01",
-      "deaths": 14369
+      "deaths": 14447
     }
   },
   "Botswana": {
@@ -328,9 +328,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 941814,
+      "confirmed": 951965,
       "date": "2022-02-01",
-      "deaths": 33160
+      "deaths": 33318
     }
   },
   "Burma": {
@@ -351,9 +351,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 320540,
+          "confirmed": 324615,
           "date": "2022-02-01",
-          "deaths": 2597
+          "deaths": 2616
         }
       },
       "Ontario": {
@@ -431,9 +431,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 682480,
+      "confirmed": 694865,
       "date": "2022-02-01",
-      "deaths": 7533
+      "deaths": 7575
     }
   },
   "Croatia": {
@@ -487,9 +487,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 423688,
+      "confirmed": 425911,
       "date": "2022-02-01",
-      "deaths": 22604
+      "deaths": 22635
     }
   },
   "Estonia": {
@@ -965,9 +965,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 845709,
+      "confirmed": 864042,
       "date": "2022-02-01",
-      "deaths": 6755
+      "deaths": 6772
     }
   },
   "Kuwait": {
@@ -1145,9 +1145,9 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 765061,
+      "confirmed": 781049,
       "date": "2022-02-01",
-      "deaths": 1439
+      "deaths": 1440
     }
   },
   "Oman": {
@@ -1653,9 +1653,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 661441,
+      "confirmed": 668425,
       "date": "2022-02-01",
-      "deaths": 6459
+      "deaths": 6479
     }
   },
   "Venezuela": {
