@@ -389,42 +389,42 @@
         "live": {
           "confirmed": 902901,
           "date": "2022-02-01",
-          "deaths": 17629
+          "deaths": 17675
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 392469,
           "date": "2022-02-01",
-          "deaths": 9867
+          "deaths": 9877
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1679698,
           "date": "2022-02-01",
-          "deaths": 28199
+          "deaths": 28248
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 300566,
           "date": "2022-02-01",
-          "deaths": 6962
+          "deaths": 6968
         }
       },
       "Santander": {
         "live": {
           "confirmed": 270362,
           "date": "2022-02-01",
-          "deaths": 7766
+          "deaths": 7778
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 528794,
           "date": "2022-02-01",
-          "deaths": 14370
+          "deaths": 14401
         }
       }
     }
@@ -459,9 +459,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3013454,
+      "confirmed": 3043084,
       "date": "2022-02-01",
-      "deaths": 37209
+      "deaths": 37243
     }
   },
   "Denmark": {
@@ -515,9 +515,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 18713087,
+      "confirmed": 18709368,
       "date": "2022-02-01",
-      "deaths": 128210
+      "deaths": 128197
     }
   },
   "Georgia": {
@@ -1027,23 +1027,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1221558,
+          "confirmed": 1224954,
           "date": "2022-02-01",
-          "deaths": 40940
+          "deaths": 40976
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 465641,
+          "confirmed": 466878,
           "date": "2022-02-01",
-          "deaths": 45304
+          "deaths": 45326
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 259702,
+          "confirmed": 260445,
           "date": "2022-02-01",
-          "deaths": 14119
+          "deaths": 14125
         }
       }
     }
@@ -1200,9 +1200,9 @@
       },
       "Unknown": {
         "live": {
-          "confirmed": 392754,
+          "confirmed": 407886,
           "date": "2022-02-01",
-          "deaths": 1182
+          "deaths": 1511
         }
       }
     }
