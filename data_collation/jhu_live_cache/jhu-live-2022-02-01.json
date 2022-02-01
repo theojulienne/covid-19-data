@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2220539,
       "date": "2022-02-01",
-      "deaths": 12714
+      "deaths": 12715
     }
   },
   "Thailand": {
@@ -1614,9 +1614,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 845058,
+      "confirmed": 847142,
       "date": "2022-02-01",
-      "deaths": 2243
+      "deaths": 2248
     }
   },
   "United Kingdom": {
