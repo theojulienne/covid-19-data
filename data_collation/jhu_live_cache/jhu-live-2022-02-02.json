@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 260076,
+      "confirmed": 261240,
       "date": "2022-02-02",
-      "deaths": 3353
+      "deaths": 3362
     }
   },
   "Algeria": {
@@ -365,7 +365,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 864619,
+          "confirmed": 868435,
           "date": "2022-02-02",
           "deaths": 13336
         }
@@ -452,9 +452,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 259784,
+      "confirmed": 262867,
       "date": "2022-02-02",
-      "deaths": 734
+      "deaths": 736
     }
   },
   "Czechia": {
@@ -473,9 +473,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 556520,
+      "confirmed": 557919,
       "date": "2022-02-02",
-      "deaths": 4310
+      "deaths": 4313
     }
   },
   "Ecuador": {
@@ -1496,9 +1496,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 649519,
+          "confirmed": 655345,
           "date": "2022-02-02",
-          "deaths": 10594
+          "deaths": 10730
         }
       },
       "Minnesota": {
@@ -1510,16 +1510,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 495884,
+          "confirmed": 497012,
           "date": "2022-02-02",
-          "deaths": 6945
+          "deaths": 6973
         }
       },
       "New York": {
         "live": {
-          "confirmed": 2897429,
+          "confirmed": 2900187,
           "date": "2022-02-02",
-          "deaths": 44318
+          "deaths": 44336
         }
       },
       "North Carolina": {
@@ -1545,9 +1545,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2552269,
+          "confirmed": 2559787,
           "date": "2022-02-02",
-          "deaths": 27105
+          "deaths": 27180
         }
       },
       "Utah": {
