@@ -2234,7 +2234,7 @@ var covid19_dataset_country_svn = {
       5857,
       5866,
       5880,
-      5891
+      5893
     ],
     "recovered": [
       0,
