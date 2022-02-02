@@ -531,9 +531,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1400293,
+          "confirmed": 1432307,
           "date": "2022-02-02",
-          "deaths": 13698
+          "deaths": 13719
         }
       },
       "Bayern": {
@@ -840,86 +840,86 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 1045160,
+          "confirmed": 1055447,
           "date": "2022-02-02",
-          "deaths": 9202
+          "deaths": 9233
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 1057580,
+          "confirmed": 1068696,
           "date": "2022-02-02",
-          "deaths": 15128
+          "deaths": 15168
         }
       },
       "Friuli Venezia Giulia": {
         "live": {
-          "confirmed": 271684,
+          "confirmed": 275170,
           "date": "2022-02-02",
-          "deaths": 4504
+          "deaths": 4518
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 894489,
+          "confirmed": 905049,
           "date": "2022-02-02",
-          "deaths": 9848
+          "deaths": 9874
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 301070,
+          "confirmed": 304908,
           "date": "2022-02-02",
-          "deaths": 4897
+          "deaths": 4910
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 2148470,
+          "confirmed": 2164568,
           "date": "2022-02-02",
-          "deaths": 37241
+          "deaths": 37291
         }
       },
       "Marche": {
         "live": {
-          "confirmed": 266988,
+          "confirmed": 271899,
           "date": "2022-02-02",
-          "deaths": 3426
+          "deaths": 3433
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 883852,
+          "confirmed": 892339,
           "date": "2022-02-02",
-          "deaths": 12629
+          "deaths": 12657
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 610904,
+          "confirmed": 618045,
           "date": "2022-02-02",
-          "deaths": 7233
+          "deaths": 7270
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 631070,
+          "confirmed": 640055,
           "date": "2022-02-02",
-          "deaths": 8573
+          "deaths": 8622
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 749183,
+          "confirmed": 756941,
           "date": "2022-02-02",
-          "deaths": 8287
+          "deaths": 8320
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 1167152,
+          "confirmed": 1181342,
           "date": "2022-02-02",
-          "deaths": 13210
+          "deaths": 13240
         }
       }
     }
@@ -1290,9 +1290,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 359075,
+      "confirmed": 362176,
       "date": "2022-02-02",
-      "deaths": 858
+      "deaths": 859
     }
   },
   "Slovakia": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2294471,
       "date": "2022-02-02",
-      "deaths": 12748
+      "deaths": 12749
     }
   },
   "Thailand": {
@@ -1468,9 +1468,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5674962,
+          "confirmed": 5684399,
           "date": "2022-02-02",
-          "deaths": 56618
+          "deaths": 56750
         }
       },
       "Florida": {
@@ -1503,9 +1503,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 279527,
+          "confirmed": 281523,
           "date": "2022-02-02",
-          "deaths": 2372
+          "deaths": 2390
         }
       },
       "Nevada": {
@@ -1517,16 +1517,16 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2896435,
+          "confirmed": 2897429,
           "date": "2022-02-02",
-          "deaths": 44229
+          "deaths": 44318
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 529122,
+          "confirmed": 531705,
           "date": "2022-02-02",
-          "deaths": 2406
+          "deaths": 2410
         }
       },
       "Ohio": {
