@@ -68,9 +68,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 382748,
+      "confirmed": 390602,
       "date": "2022-02-02",
-      "deaths": 1408
+      "deaths": 1409
     }
   },
   "Bangladesh": {
@@ -624,9 +624,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 694513,
+      "confirmed": 698385,
       "date": "2022-02-02",
-      "deaths": 16401
+      "deaths": 16421
     }
   },
   "Honduras": {
@@ -993,9 +993,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 928522,
+      "confirmed": 939282,
       "date": "2022-02-02",
-      "deaths": 9621
+      "deaths": 9638
     }
   },
   "Libya": {
@@ -1184,9 +1184,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 589318,
+      "confirmed": 594430,
       "date": "2022-02-02",
-      "deaths": 17386
+      "deaths": 17426
     }
   },
   "Peru": {
