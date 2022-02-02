@@ -38,7 +38,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 423260,
+          "confirmed": 427319,
           "date": "2022-02-02",
           "deaths": 225
         }
@@ -431,9 +431,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 694865,
+      "confirmed": 701471,
       "date": "2022-02-02",
-      "deaths": 7575
+      "deaths": 7593
     }
   },
   "Croatia": {
@@ -515,9 +515,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 19126264,
+      "confirmed": 19112755,
       "date": "2022-02-02",
-      "deaths": 128578
+      "deaths": 128567
     }
   },
   "Georgia": {
@@ -1438,9 +1438,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2447964,
+      "confirmed": 2456551,
       "date": "2022-02-02",
-      "deaths": 22185
+      "deaths": 22207
     }
   },
   "Tunisia": {
