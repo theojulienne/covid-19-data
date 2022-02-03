@@ -335,7 +335,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 536536,
+      "confirmed": 536904,
       "date": "2022-02-03",
       "deaths": 19310
     }
@@ -587,16 +587,16 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 403222,
+          "confirmed": 412504,
           "date": "2022-02-03",
-          "deaths": 4819
+          "deaths": 4824
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 744806,
+          "confirmed": 752380,
           "date": "2022-02-03",
-          "deaths": 14105
+          "deaths": 14113
         }
       },
       "Sachsen-Anhalt": {
@@ -1087,51 +1087,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 497341,
+          "confirmed": 505122,
           "date": "2022-02-03",
           "deaths": 2626
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 303176,
+          "confirmed": 309436,
           "date": "2022-02-03",
-          "deaths": 2087
+          "deaths": 2088
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 680145,
+          "confirmed": 694400,
           "date": "2022-02-03",
-          "deaths": 3578
+          "deaths": 3580
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 803703,
+          "confirmed": 816328,
           "date": "2022-02-03",
-          "deaths": 3179
+          "deaths": 3181
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 298631,
+          "confirmed": 303997,
           "date": "2022-02-03",
           "deaths": 1355
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 379589,
+          "confirmed": 385905,
           "date": "2022-02-03",
-          "deaths": 1487
+          "deaths": 1488
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1057411,
+          "confirmed": 1076485,
           "date": "2022-02-03",
-          "deaths": 4930
+          "deaths": 4929
         }
       }
     }
@@ -1283,9 +1283,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1714863,
+      "confirmed": 1730486,
       "date": "2022-02-03",
-      "deaths": 13748
+      "deaths": 13807
     }
   },
   "Singapore": {
@@ -1399,9 +1399,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 613478,
+      "confirmed": 614659,
       "date": "2022-02-03",
-      "deaths": 15492
+      "deaths": 15515
     }
   },
   "Sweden": {
