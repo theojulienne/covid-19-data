@@ -91,49 +91,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 470183,
+          "confirmed": 477442,
           "date": "2022-02-03",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 381265,
+          "confirmed": 385110,
           "date": "2022-02-03",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 405204,
+          "confirmed": 411468,
           "date": "2022-02-03",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 291215,
+          "confirmed": 295132,
           "date": "2022-02-03",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 373243,
+          "confirmed": 379426,
           "date": "2022-02-03",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 316054,
+          "confirmed": 320360,
           "date": "2022-02-03",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 333102,
+          "confirmed": 337155,
           "date": "2022-02-03",
           "deaths": 0
         }
@@ -142,9 +142,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 859530,
+      "confirmed": 863675,
       "date": "2022-02-03",
-      "deaths": 21011
+      "deaths": 21045
     }
   },
   "Bosnia and Herzegovina": {
@@ -958,7 +958,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1332643,
+      "confirmed": 1340410,
       "date": "2022-02-03",
       "deaths": 18547
     }
@@ -1161,16 +1161,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 482316,
+          "confirmed": 483779,
           "date": "2022-02-03",
-          "deaths": 13185
+          "deaths": 13201
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 544722,
+          "confirmed": 546141,
           "date": "2022-02-03",
-          "deaths": 7840
+          "deaths": 7849
         }
       }
     }
@@ -1200,9 +1200,9 @@
       },
       "Unknown": {
         "live": {
-          "confirmed": 430513,
+          "confirmed": 454499,
           "date": "2022-02-03",
-          "deaths": 1662
+          "deaths": 1897
         }
       }
     }
