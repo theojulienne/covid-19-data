@@ -459,9 +459,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3100462,
+      "confirmed": 3143912,
       "date": "2022-02-03",
-      "deaths": 37281
+      "deaths": 37325
     }
   },
   "Denmark": {
@@ -682,121 +682,121 @@
       },
       "Gujarat": {
         "live": {
-          "confirmed": 1168997,
+          "confirmed": 1177931,
           "date": "2022-02-03",
-          "deaths": 10511
+          "deaths": 10545
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 952426,
+          "confirmed": 955693,
           "date": "2022-02-03",
-          "deaths": 10320
+          "deaths": 10337
         }
       },
       "Himachal Pradesh": {
         "live": {
-          "confirmed": 272952,
+          "confirmed": 273243,
           "date": "2022-02-03",
           "deaths": 4007
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 438176,
+          "confirmed": 440480,
           "date": "2022-02-03",
-          "deaths": 4683
+          "deaths": 4692
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 429172,
+          "confirmed": 429773,
           "date": "2022-02-03",
-          "deaths": 5303
+          "deaths": 5306
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 3823833,
+          "confirmed": 3844338,
           "date": "2022-02-03",
-          "deaths": 39056
+          "deaths": 39137
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 6077556,
+          "confirmed": 6129755,
           "date": "2022-02-03",
-          "deaths": 55600
+          "deaths": 56100
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 973744,
+          "confirmed": 981103,
           "date": "2022-02-03",
-          "deaths": 10624
+          "deaths": 10630
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 7735481,
+          "confirmed": 7753548,
           "date": "2022-02-03",
-          "deaths": 142705
+          "deaths": 142784
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 1252326,
+          "confirmed": 1255776,
           "date": "2022-02-03",
-          "deaths": 8629
+          "deaths": 8648
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 745129,
+          "confirmed": 746837,
           "date": "2022-02-03",
-          "deaths": 17292
+          "deaths": 17320
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 1212633,
+          "confirmed": 1221061,
           "date": "2022-02-03",
-          "deaths": 9288
+          "deaths": 9310
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 3361316,
+          "confirmed": 3375329,
           "date": "2022-02-03",
-          "deaths": 37599
+          "deaths": 37636
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 766761,
+          "confirmed": 769407,
           "date": "2022-02-03",
-          "deaths": 4091
+          "deaths": 4094
         }
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 2024200,
+          "confirmed": 2029216,
           "date": "2022-02-03",
-          "deaths": 23233
+          "deaths": 23254
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 423228,
+          "confirmed": 425309,
           "date": "2022-02-03",
-          "deaths": 7564
+          "deaths": 7574
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 1997530,
+          "confirmed": 2000253,
           "date": "2022-02-03",
-          "deaths": 20652
+          "deaths": 20687
         }
       }
     }
@@ -1177,9 +1177,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 705880,
+      "confirmed": 711691,
       "date": "2022-02-03",
-      "deaths": 7752
+      "deaths": 7773
     }
   },
   "Paraguay": {
@@ -1660,9 +1660,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 487775,
+      "confirmed": 489305,
       "date": "2022-02-03",
-      "deaths": 5454
+      "deaths": 5462
     }
   },
   "Vietnam": {
