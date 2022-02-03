@@ -54,9 +54,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1920882,
+      "confirmed": 1959017,
       "date": "2022-02-03",
-      "deaths": 14143
+      "deaths": 14167
     }
   },
   "Azerbaijan": {
@@ -508,9 +508,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 501152,
+      "confirmed": 507940,
       "date": "2022-02-03",
-      "deaths": 2012
+      "deaths": 2041
     }
   },
   "France": {
@@ -831,9 +831,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3037135,
+      "confirmed": 3095812,
       "date": "2022-02-03",
-      "deaths": 9152
+      "deaths": 9238
     }
   },
   "Italy": {
@@ -928,14 +928,14 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 261573,
+          "confirmed": 261569,
           "date": "2022-02-03",
           "deaths": 1353
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 354408,
+          "confirmed": 362033,
           "date": "2022-02-03",
           "deaths": 3157
         }
@@ -1152,9 +1152,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 344043,
+      "confirmed": 346041,
       "date": "2022-02-03",
-      "deaths": 4153
+      "deaths": 4158
     }
   },
   "Pakistan": {
@@ -1216,9 +1216,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 4981321,
+      "confirmed": 5035796,
       "date": "2022-02-03",
-      "deaths": 105753
+      "deaths": 106060
     }
   },
   "Portugal": {
@@ -1276,9 +1276,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 695217,
+      "confirmed": 699069,
       "date": "2022-02-03",
-      "deaths": 8943
+      "deaths": 8947
     }
   },
   "Serbia": {
@@ -1297,16 +1297,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1617288,
+      "confirmed": 1639953,
       "date": "2022-02-03",
-      "deaths": 17877
+      "deaths": 17896
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 745980,
+      "confirmed": 762840,
       "date": "2022-02-03",
-      "deaths": 5893
+      "deaths": 5911
     }
   },
   "South Africa": {
