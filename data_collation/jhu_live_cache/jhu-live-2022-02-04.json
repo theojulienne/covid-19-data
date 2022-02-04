@@ -8,9 +8,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 8515285,
+      "confirmed": 8555379,
       "date": "2022-02-04",
-      "deaths": 122152
+      "deaths": 122439
     }
   },
   "Armenia": {
@@ -24,7 +24,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1121265,
+          "confirmed": 1121029,
           "date": "2022-02-04",
           "deaths": 1518
         }
@@ -452,9 +452,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 265945,
+      "confirmed": 268852,
       "date": "2022-02-04",
-      "deaths": 736
+      "deaths": 740
     }
   },
   "Czechia": {
@@ -473,9 +473,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 558936,
+      "confirmed": 560037,
       "date": "2022-02-04",
-      "deaths": 4315
+      "deaths": 4319
     }
   },
   "Ecuador": {
@@ -501,9 +501,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 466126,
+      "confirmed": 466289,
       "date": "2022-02-04",
-      "deaths": 7353
+      "deaths": 7355
     }
   },
   "Finland": {
@@ -624,9 +624,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 702310,
+      "confirmed": 705614,
       "date": "2022-02-04",
-      "deaths": 16446
+      "deaths": 16470
     }
   },
   "Honduras": {
@@ -993,9 +993,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 948728,
+      "confirmed": 957155,
       "date": "2022-02-04",
-      "deaths": 9657
+      "deaths": 9675
     }
   },
   "Libya": {
@@ -1138,9 +1138,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 274144,
+      "confirmed": 275637,
       "date": "2022-02-04",
-      "deaths": 8494
+      "deaths": 8533
     }
   },
   "Norway": {
@@ -1510,16 +1510,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 497970,
+          "confirmed": 499077,
           "date": "2022-02-04",
-          "deaths": 6993
+          "deaths": 7043
         }
       },
       "New York": {
         "live": {
-          "confirmed": 2906050,
+          "confirmed": 2908120,
           "date": "2022-02-04",
-          "deaths": 44536
+          "deaths": 44555
         }
       },
       "North Carolina": {
@@ -1552,9 +1552,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 329323,
+          "confirmed": 330201,
           "date": "2022-02-04",
-          "deaths": 1461
+          "deaths": 1464
         }
       },
       "Washington": {
