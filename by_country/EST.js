@@ -2239,7 +2239,8 @@ var covid19_dataset_country_est = {
       2033,
       2037,
       2039,
-      2047
+      2047,
+      2053
     ],
     "recovered": [
       0,
