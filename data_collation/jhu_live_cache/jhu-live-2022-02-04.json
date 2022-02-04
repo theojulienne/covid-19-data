@@ -531,86 +531,86 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1466703,
+          "confirmed": 1466877,
           "date": "2022-02-04",
-          "deaths": 13747
+          "deaths": 13748
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1887202,
+          "confirmed": 1935754,
           "date": "2022-02-04",
-          "deaths": 20563
+          "deaths": 20581
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 570739,
+          "confirmed": 584063,
           "date": "2022-02-04",
-          "deaths": 4129
+          "deaths": 4133
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 362782,
+          "confirmed": 372084,
           "date": "2022-02-04",
-          "deaths": 5012
+          "deaths": 5014
         }
       },
       "Hamburg": {
         "live": {
           "confirmed": 272679,
           "date": "2022-02-04",
-          "deaths": 2150
+          "deaths": 2161
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 760014,
+          "confirmed": 780394,
           "date": "2022-02-04",
-          "deaths": 8855
+          "deaths": 8869
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 691192,
+          "confirmed": 710041,
           "date": "2022-02-04",
-          "deaths": 7120
+          "deaths": 7130
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 2113546,
+          "confirmed": 2167172,
           "date": "2022-02-04",
-          "deaths": 21193
+          "deaths": 21236
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 412504,
+          "confirmed": 412555,
           "date": "2022-02-04",
           "deaths": 4824
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 752380,
+          "confirmed": 753216,
           "date": "2022-02-04",
-          "deaths": 14113
+          "deaths": 14117
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 283305,
+          "confirmed": 283309,
           "date": "2022-02-04",
           "deaths": 4627
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 327514,
+          "confirmed": 330621,
           "date": "2022-02-04",
-          "deaths": 6432
+          "deaths": 6435
         }
       }
     }
@@ -958,7 +958,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1340410,
+      "confirmed": 1347183,
       "date": "2022-02-04",
       "deaths": 18570
     }
@@ -1064,9 +1064,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 446770,
+      "confirmed": 447464,
       "date": "2022-02-04",
-      "deaths": 2116
+      "deaths": 2117
     }
   },
   "Morocco": {
@@ -1161,25 +1161,25 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 483779,
+          "confirmed": 485810,
           "date": "2022-02-04",
-          "deaths": 13201
+          "deaths": 13219
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 546141,
+          "confirmed": 547920,
           "date": "2022-02-04",
-          "deaths": 7849
+          "deaths": 7869
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 711691,
+      "confirmed": 717171,
       "date": "2022-02-04",
-      "deaths": 7773
+      "deaths": 7788
     }
   },
   "Paraguay": {
@@ -1660,9 +1660,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 489305,
+      "confirmed": 491016,
       "date": "2022-02-04",
-      "deaths": 5462
+      "deaths": 5469
     }
   },
   "Vietnam": {
