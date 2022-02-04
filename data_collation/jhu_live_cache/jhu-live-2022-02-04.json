@@ -47,9 +47,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1959017,
+      "confirmed": 1995346,
       "date": "2022-02-04",
-      "deaths": 14167
+      "deaths": 14192
     }
   },
   "Azerbaijan": {
@@ -508,9 +508,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 507940,
+      "confirmed": 514892,
       "date": "2022-02-04",
-      "deaths": 2041
+      "deaths": 2058
     }
   },
   "France": {
@@ -928,14 +928,14 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 268659,
+          "confirmed": 268657,
           "date": "2022-02-04",
           "deaths": 1357
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 374023,
+          "confirmed": 376944,
           "date": "2022-02-04",
           "deaths": 3170
         }
@@ -1078,9 +1078,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 962517,
+      "confirmed": 964119,
       "date": "2022-02-04",
-      "deaths": 11778
+      "deaths": 11794
     }
   },
   "Netherlands": {
@@ -1216,9 +1216,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5035796,
+      "confirmed": 5083332,
       "date": "2022-02-04",
-      "deaths": 106060
+      "deaths": 106306
     }
   },
   "Portugal": {
@@ -1276,9 +1276,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 699069,
+      "confirmed": 702624,
       "date": "2022-02-04",
-      "deaths": 8947
+      "deaths": 8950
     }
   },
   "Serbia": {
@@ -1297,16 +1297,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1639953,
+      "confirmed": 1663864,
       "date": "2022-02-04",
-      "deaths": 17896
+      "deaths": 17921
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 762840,
+      "confirmed": 774584,
       "date": "2022-02-04",
-      "deaths": 5912
+      "deaths": 5933
     }
   },
   "South Africa": {
