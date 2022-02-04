@@ -515,9 +515,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 19649274,
+      "confirmed": 19890150,
       "date": "2022-02-04",
-      "deaths": 129058
+      "deaths": 129411
     }
   },
   "Georgia": {
@@ -1470,7 +1470,7 @@
         "live": {
           "confirmed": 5753899,
           "date": "2022-02-04",
-          "deaths": 57001
+          "deaths": 57013
         }
       },
       "Florida": {
@@ -1482,9 +1482,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1084468,
+          "confirmed": 1089942,
           "date": "2022-02-04",
-          "deaths": 13433
+          "deaths": 13497
         }
       },
       "Massachusetts": {
@@ -1531,9 +1531,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 544518,
+          "confirmed": 545041,
           "date": "2022-02-04",
-          "deaths": 5515
+          "deaths": 5671
         }
       },
       "Pennsylvania": {
@@ -1614,9 +1614,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 851537,
+      "confirmed": 853651,
       "date": "2022-02-04",
-      "deaths": 2253
+      "deaths": 2258
     }
   },
   "United Kingdom": {
