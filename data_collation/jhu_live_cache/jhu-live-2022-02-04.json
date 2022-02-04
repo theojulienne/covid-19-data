@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 261240,
+      "confirmed": 263172,
       "date": "2022-02-04",
-      "deaths": 3362
+      "deaths": 3371
     }
   },
   "Argentina": {
@@ -365,7 +365,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 872027,
+          "confirmed": 875427,
           "date": "2022-02-04",
           "deaths": 13420
         }
@@ -1545,9 +1545,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2572202,
+          "confirmed": 2578251,
           "date": "2022-02-04",
-          "deaths": 27281
+          "deaths": 27319
         }
       },
       "Utah": {

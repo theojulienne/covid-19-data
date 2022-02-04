@@ -36,13 +36,13 @@
     },
     "ALB": {
       "back_1week": {
-        "confirmed": 251015,
-        "deaths": 3317,
+        "confirmed": 252577,
+        "deaths": 3323,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 239129,
-        "deaths": 3283,
+        "confirmed": 241512,
+        "deaths": 3286,
         "recovered": 0
       },
       "latest": {
@@ -635,7 +635,7 @@
           "deaths": 11
         },
         "Quebec": {
-          "confirmed": 868435,
+          "confirmed": 872027,
           "deaths": 13378
         },
         "Repatriated Travellers": {
