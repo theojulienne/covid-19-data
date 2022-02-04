@@ -1438,9 +1438,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2465723,
+      "confirmed": 2475632,
       "date": "2022-02-04",
-      "deaths": 22228
+      "deaths": 22250
     }
   },
   "Tunisia": {
@@ -1461,9 +1461,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1193786,
+          "confirmed": 1198179,
           "date": "2022-02-04",
-          "deaths": 14832
+          "deaths": 14872
         }
       },
       "California": {
