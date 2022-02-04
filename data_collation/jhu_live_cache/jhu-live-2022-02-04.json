@@ -1000,9 +1000,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 441959,
+      "confirmed": 445876,
       "date": "2022-02-04",
-      "deaths": 6044
+      "deaths": 6052
     }
   },
   "Lithuania": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2331213,
       "date": "2022-02-04",
-      "deaths": 12770
+      "deaths": 12772
     }
   },
   "Thailand": {
@@ -1681,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 306347,
+      "confirmed": 306777,
       "date": "2022-02-04",
-      "deaths": 3925
+      "deaths": 3928
     }
   }
 }
