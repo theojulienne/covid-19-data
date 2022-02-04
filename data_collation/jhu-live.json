@@ -6,6 +6,13 @@
       "deaths": 3371
     }
   },
+  "Algeria": {
+    "live": {
+      "confirmed": 256806,
+      "date": "2022-02-04",
+      "deaths": 6631
+    }
+  },
   "Argentina": {
     "live": {
       "confirmed": 8555379,
@@ -61,7 +68,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 398665,
+      "confirmed": 405938,
       "date": "2022-02-04",
       "deaths": 1410
     }
@@ -145,13 +152,6 @@
       "confirmed": 354325,
       "date": "2022-02-04",
       "deaths": 14672
-    }
-  },
-  "Botswana": {
-    "live": {
-      "confirmed": 256041,
-      "date": "2022-02-04",
-      "deaths": 2585
     }
   },
   "Brazil": {
@@ -979,9 +979,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 564735,
+      "confirmed": 570142,
       "date": "2022-02-04",
-      "deaths": 2503
+      "deaths": 2505
     }
   },
   "Latvia": {
