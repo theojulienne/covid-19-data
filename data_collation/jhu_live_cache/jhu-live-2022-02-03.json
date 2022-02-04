@@ -31,9 +31,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1110567,
+          "confirmed": 1121265,
           "date": "2022-02-03",
-          "deaths": 1487
+          "deaths": 1518
         }
       },
       "Queensland": {
@@ -45,9 +45,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 889710,
+          "confirmed": 900950,
           "date": "2022-02-03",
-          "deaths": 2088
+          "deaths": 2124
         }
       }
     }
@@ -328,9 +328,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 972260,
+      "confirmed": 980402,
       "date": "2022-02-03",
-      "deaths": 33492
+      "deaths": 33588
     }
   },
   "Burma": {
@@ -344,9 +344,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 498977,
+          "confirmed": 501347,
           "date": "2022-02-03",
-          "deaths": 3593
+          "deaths": 3608
         }
       },
       "British Columbia": {
@@ -445,9 +445,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1047860,
+      "confirmed": 1049406,
       "date": "2022-02-03",
-      "deaths": 8415
+      "deaths": 8420
     }
   },
   "Cyprus": {
@@ -1184,9 +1184,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 594430,
+      "confirmed": 598170,
       "date": "2022-02-03",
-      "deaths": 17426
+      "deaths": 17476
     }
   },
   "Peru": {
@@ -1445,9 +1445,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 924375,
+      "confirmed": 930090,
       "date": "2022-02-03",
-      "deaths": 26429
+      "deaths": 26496
     }
   },
   "Turkey": {
@@ -1489,9 +1489,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 307188,
+          "confirmed": 308084,
           "date": "2022-02-03",
-          "deaths": 4486
+          "deaths": 4495
         }
       },
       "Michigan": {
@@ -1653,9 +1653,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 690496,
+      "confirmed": 700511,
       "date": "2022-02-03",
-      "deaths": 6540
+      "deaths": 6579
     }
   },
   "Venezuela": {
