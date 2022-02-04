@@ -31,9 +31,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 431859,
+          "confirmed": 438716,
           "date": "2022-02-04",
-          "deaths": 234
+          "deaths": 247
         }
       },
       "Victoria": {
@@ -351,9 +351,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 327625,
+          "confirmed": 329143,
           "date": "2022-02-04",
-          "deaths": 2643
+          "deaths": 2656
         }
       },
       "Ontario": {
@@ -972,9 +972,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 907214,
+      "confirmed": 934656,
       "date": "2022-02-04",
-      "deaths": 6812
+      "deaths": 6836
     }
   },
   "Kuwait": {
@@ -1468,9 +1468,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5731593,
+          "confirmed": 5743025,
           "date": "2022-02-04",
-          "deaths": 56884
+          "deaths": 56980
         }
       },
       "Florida": {
