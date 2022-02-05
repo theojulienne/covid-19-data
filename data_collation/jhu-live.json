@@ -803,9 +803,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4353370,
+      "confirmed": 4480423,
       "date": "2022-02-05",
-      "deaths": 144320
+      "deaths": 144497
     }
   },
   "Iran": {
@@ -928,23 +928,23 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 277687,
+          "confirmed": 286784,
           "date": "2022-02-05",
-          "deaths": 1361
+          "deaths": 1366
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 388964,
+          "confirmed": 399882,
           "date": "2022-02-05",
-          "deaths": 3174
+          "deaths": 3197
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 654281,
+          "confirmed": 675403,
           "date": "2022-02-05",
-          "deaths": 3224
+          "deaths": 3234
         }
       }
     }
@@ -1016,16 +1016,16 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 263220,
+          "confirmed": 264121,
           "date": "2022-02-05",
-          "deaths": 3924
+          "deaths": 3925
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 821947,
+          "confirmed": 824437,
           "date": "2022-02-05",
-          "deaths": 10060
+          "deaths": 10065
         }
       }
     }
@@ -1452,9 +1452,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 12051852,
+      "confirmed": 12150567,
       "date": "2022-02-05",
-      "deaths": 88312
+      "deaths": 88533
     }
   },
   "US": {
@@ -1538,9 +1538,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 298012,
+          "confirmed": 298723,
           "date": "2022-02-05",
-          "deaths": 4770
+          "deaths": 4787
         }
       },
       "Texas": {
@@ -1623,23 +1623,23 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 15177316,
+          "confirmed": 15234229,
           "date": "2022-02-05",
-          "deaths": 137601
+          "deaths": 137833
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 560282,
+          "confirmed": 563483,
           "date": "2022-02-05",
-          "deaths": 3124
+          "deaths": 3127
         }
       },
       "Scotland": {
         "live": {
           "confirmed": 1164870,
           "date": "2022-02-05",
-          "deaths": 10407
+          "deaths": 10431
         }
       },
       "Wales": {
