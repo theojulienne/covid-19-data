@@ -559,7 +559,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 278530,
+          "confirmed": 283951,
           "date": "2022-02-05",
           "deaths": 2167
         }
@@ -587,7 +587,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 422624,
+          "confirmed": 425992,
           "date": "2022-02-05",
           "deaths": 4829
         }
@@ -986,9 +986,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 432370,
+      "confirmed": 442871,
       "date": "2022-02-05",
-      "deaths": 4934
+      "deaths": 4945
     }
   },
   "Lebanon": {
@@ -1209,7 +1209,7 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3594002,
+      "confirmed": 3601471,
       "date": "2022-02-05",
       "deaths": 54214
     }
@@ -1237,9 +1237,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2356792,
+      "confirmed": 2385713,
       "date": "2022-02-05",
-      "deaths": 60450
+      "deaths": 60560
     }
   },
   "Russia": {
