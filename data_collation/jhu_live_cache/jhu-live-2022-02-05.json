@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 952066,
+          "confirmed": 967004,
           "date": "2022-02-05",
-          "deaths": 20142
+          "deaths": 20162
         }
       }
     }
@@ -445,9 +445,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1050840,
+      "confirmed": 1052220,
       "date": "2022-02-05",
-      "deaths": 8427
+      "deaths": 8431
     }
   },
   "Cyprus": {
@@ -617,9 +617,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2020846,
+      "confirmed": 2036869,
       "date": "2022-02-05",
-      "deaths": 23927
+      "deaths": 23999
     }
   },
   "Guatemala": {
@@ -1223,9 +1223,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 2843029,
+      "confirmed": 2884540,
       "date": "2022-02-05",
-      "deaths": 20127
+      "deaths": 20171
     }
   },
   "Qatar": {
