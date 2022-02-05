@@ -515,9 +515,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 19890150,
+      "confirmed": 20104692,
       "date": "2022-02-05",
-      "deaths": 129411
+      "deaths": 129581
     }
   },
   "Georgia": {
@@ -624,9 +624,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 705614,
+      "confirmed": 709910,
       "date": "2022-02-05",
-      "deaths": 16470
+      "deaths": 16495
     }
   },
   "Honduras": {
@@ -1531,7 +1531,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 545041,
+          "confirmed": 545469,
           "date": "2022-02-05",
           "deaths": 5671
         }
