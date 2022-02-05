@@ -367,17 +367,17 @@
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 348655,
-        "deaths": 1402,
+        "confirmed": 355314,
+        "deaths": 1403,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 320688,
+        "confirmed": 324304,
         "deaths": 1398,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 398665,
+        "confirmed": 405938,
         "deaths": 1410,
         "recovered": 0
       }
@@ -1263,18 +1263,18 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 463921,
-        "deaths": 7303,
+        "confirmed": 464383,
+        "deaths": 7311,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 460602,
-        "deaths": 7212,
+        "confirmed": 461252,
+        "deaths": 7226,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 466126,
-        "deaths": 7353,
+        "confirmed": 466289,
+        "deaths": 7355,
         "recovered": 0
       }
     },
@@ -1938,17 +1938,17 @@
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 320918,
-        "deaths": 5567,
+        "confirmed": 321111,
+        "deaths": 5578,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 319379,
-        "deaths": 5520,
+        "confirmed": 319838,
+        "deaths": 5528,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 321764,
+        "confirmed": 321922,
         "deaths": 5604,
         "recovered": 0
       }
@@ -2057,18 +2057,18 @@
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 891982,
-        "deaths": 9544,
+        "confirmed": 900098,
+        "deaths": 9561,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 847624,
-        "deaths": 9445,
+        "confirmed": 853252,
+        "deaths": 9460,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 948728,
-        "deaths": 9657,
+        "confirmed": 957155,
+        "deaths": 9675,
         "recovered": 0
       }
     },

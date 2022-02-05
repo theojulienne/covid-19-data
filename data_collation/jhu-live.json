@@ -68,9 +68,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 405938,
+      "confirmed": 413372,
       "date": "2022-02-05",
-      "deaths": 1410
+      "deaths": 1411
     }
   },
   "Bangladesh": {
@@ -501,9 +501,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 466289,
+      "confirmed": 466455,
       "date": "2022-02-05",
-      "deaths": 7355
+      "deaths": 7356
     }
   },
   "Finland": {
@@ -965,9 +965,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 321922,
+      "confirmed": 322043,
       "date": "2022-02-05",
-      "deaths": 5604
+      "deaths": 5607
     }
   },
   "Korea, South": {
@@ -993,9 +993,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 957155,
+      "confirmed": 965627,
       "date": "2022-02-05",
-      "deaths": 9675
+      "deaths": 9694
     }
   },
   "Libya": {
