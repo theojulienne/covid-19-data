@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 256806,
+      "confirmed": 257598,
       "date": "2022-02-05",
-      "deaths": 6631
+      "deaths": 6640
     }
   },
   "Argentina": {
@@ -365,9 +365,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 875427,
+          "confirmed": 878382,
           "date": "2022-02-05",
-          "deaths": 13420
+          "deaths": 13453
         }
       }
     }
@@ -951,9 +951,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1301492,
+      "confirmed": 1314243,
       "date": "2022-02-05",
-      "deaths": 13288
+      "deaths": 13300
     }
   },
   "Kazakhstan": {
@@ -1071,9 +1071,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1143974,
+      "confirmed": 1146041,
       "date": "2022-02-05",
-      "deaths": 15540
+      "deaths": 15575
     }
   },
   "Nepal": {
@@ -1138,9 +1138,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 275637,
+      "confirmed": 277137,
       "date": "2022-02-05",
-      "deaths": 8533
+      "deaths": 8549
     }
   },
   "Norway": {
@@ -1311,9 +1311,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3616075,
+      "confirmed": 3622210,
       "date": "2022-02-05",
-      "deaths": 95545
+      "deaths": 95817
     }
   },
   "Spain": {
@@ -1399,9 +1399,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 615902,
+      "confirmed": 617189,
       "date": "2022-02-05",
-      "deaths": 15544
+      "deaths": 15572
     }
   },
   "Sweden": {
@@ -1545,9 +1545,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2578251,
+          "confirmed": 2583299,
           "date": "2022-02-05",
-          "deaths": 27319
+          "deaths": 27359
         }
       },
       "Utah": {
