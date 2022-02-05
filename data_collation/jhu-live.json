@@ -831,95 +831,95 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3111300,
+      "confirmed": 3136993,
       "date": "2022-02-05",
-      "deaths": 9111
+      "deaths": 9135
     }
   },
   "Italy": {
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 1074582,
+          "confirmed": 1083284,
           "date": "2022-02-05",
-          "deaths": 9303
+          "deaths": 9321
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 1091467,
+          "confirmed": 1099740,
           "date": "2022-02-05",
-          "deaths": 15251
+          "deaths": 15288
         }
       },
       "Friuli Venezia Giulia": {
         "live": {
-          "confirmed": 280734,
+          "confirmed": 283556,
           "date": "2022-02-05",
-          "deaths": 4547
+          "deaths": 4559
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 928376,
+          "confirmed": 937537,
           "date": "2022-02-05",
-          "deaths": 9941
+          "deaths": 9964
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 311214,
+          "confirmed": 313692,
           "date": "2022-02-05",
-          "deaths": 4932
+          "deaths": 4936
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 2190897,
+          "confirmed": 2202033,
           "date": "2022-02-05",
-          "deaths": 37493
+          "deaths": 37569
         }
       },
       "Marche": {
         "live": {
-          "confirmed": 280536,
+          "confirmed": 283020,
           "date": "2022-02-05",
-          "deaths": 3449
+          "deaths": 3453
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 906172,
+          "confirmed": 911656,
           "date": "2022-02-05",
-          "deaths": 12696
+          "deaths": 12716
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 631733,
+          "confirmed": 638002,
           "date": "2022-02-05",
-          "deaths": 7306
+          "deaths": 7314
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 654096,
+          "confirmed": 661546,
           "date": "2022-02-05",
-          "deaths": 8702
+          "deaths": 8780
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 771885,
+          "confirmed": 778533,
           "date": "2022-02-05",
-          "deaths": 8380
+          "deaths": 8410
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 1203728,
+          "confirmed": 1213740,
           "date": "2022-02-05",
-          "deaths": 13310
+          "deaths": 13347
         }
       }
     }
