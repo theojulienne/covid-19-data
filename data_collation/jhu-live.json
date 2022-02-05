@@ -54,9 +54,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1995346,
+      "confirmed": 2027604,
       "date": "2022-02-05",
-      "deaths": 14192
+      "deaths": 14214
     }
   },
   "Azerbaijan": {
@@ -1297,16 +1297,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1660336,
+      "confirmed": 1686936,
       "date": "2022-02-05",
-      "deaths": 17921
+      "deaths": 17938
     }
   },
   "Slovenia": {
     "live": {
       "confirmed": 786957,
       "date": "2022-02-05",
-      "deaths": 5958
+      "deaths": 5959
     }
   },
   "South Africa": {
@@ -1614,9 +1614,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 853651,
+      "confirmed": 855642,
       "date": "2022-02-05",
-      "deaths": 2258
+      "deaths": 2262
     }
   },
   "United Kingdom": {
