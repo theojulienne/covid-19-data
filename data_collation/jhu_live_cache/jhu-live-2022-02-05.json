@@ -181,7 +181,7 @@
         "live": {
           "confirmed": 1175073,
           "date": "2022-02-05",
-          "deaths": 25450
+          "deaths": 25412
         }
       },
       "Distrito Federal": {
@@ -193,14 +193,14 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 908707,
+          "confirmed": 913000,
           "date": "2022-02-05",
-          "deaths": 13635
+          "deaths": 13645
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 1062606,
+          "confirmed": 1064685,
           "date": "2022-02-05",
           "deaths": 25150
         }
@@ -214,14 +214,14 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 644179,
+          "confirmed": 648766,
           "date": "2022-02-05",
-          "deaths": 14363
+          "deaths": 14389
         }
       },
       "Mato Grosso do Sul": {
         "live": {
-          "confirmed": 436658,
+          "confirmed": 436674,
           "date": "2022-02-05",
           "deaths": 9948
         }
@@ -235,9 +235,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 658777,
+          "confirmed": 661600,
           "date": "2022-02-05",
-          "deaths": 17400
+          "deaths": 17414
         }
       },
       "Paraiba": {
@@ -263,9 +263,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 349140,
+          "confirmed": 350036,
           "date": "2022-02-05",
-          "deaths": 7419
+          "deaths": 7436
         }
       },
       "Rio Grande do Norte": {
@@ -284,9 +284,9 @@
       },
       "Rio de Janeiro": {
         "live": {
-          "confirmed": 1819607,
+          "confirmed": 1837001,
           "date": "2022-02-05",
-          "deaths": 70026
+          "deaths": 70125
         }
       },
       "Rondonia": {
@@ -305,9 +305,9 @@
       },
       "Sao Paulo": {
         "live": {
-          "confirmed": 4704552,
+          "confirmed": 4723087,
           "date": "2022-02-05",
-          "deaths": 158872
+          "deaths": 159242
         }
       },
       "Sergipe": {
@@ -351,9 +351,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 329143,
+          "confirmed": 330638,
           "date": "2022-02-05",
-          "deaths": 2656
+          "deaths": 2675
         }
       },
       "Ontario": {
@@ -1034,23 +1034,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1250411,
+          "confirmed": 1258148,
           "date": "2022-02-05",
-          "deaths": 41210
+          "deaths": 41266
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 479209,
+          "confirmed": 482592,
           "date": "2022-02-05",
-          "deaths": 45496
+          "deaths": 45538
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 270060,
+          "confirmed": 273417,
           "date": "2022-02-05",
-          "deaths": 14251
+          "deaths": 14308
         }
       }
     }
@@ -1475,7 +1475,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 2756745,
+          "confirmed": 2803049,
           "date": "2022-02-05",
           "deaths": 25234
         }
