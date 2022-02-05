@@ -810,9 +810,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6520707,
+      "confirmed": 6543837,
       "date": "2022-02-05",
-      "deaths": 132681
+      "deaths": 132745
     }
   },
   "Iraq": {
@@ -1078,9 +1078,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 964119,
+      "confirmed": 965222,
       "date": "2022-02-05",
-      "deaths": 11794
+      "deaths": 11803
     }
   },
   "Netherlands": {
@@ -1667,9 +1667,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2315689,
+      "confirmed": 2327859,
       "date": "2022-02-05",
-      "deaths": 38147
+      "deaths": 38261
     }
   },
   "West Bank and Gaza": {
