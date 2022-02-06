@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 263172,
+      "confirmed": 264624,
       "date": "2022-02-06",
-      "deaths": 3371
+      "deaths": 3380
     }
   },
   "Algeria": {
@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 8577215,
+      "confirmed": 8589879,
       "date": "2022-02-06",
-      "deaths": 122584
+      "deaths": 122684
     }
   },
   "Armenia": {
@@ -1547,7 +1547,7 @@
         "live": {
           "confirmed": 2589527,
           "date": "2022-02-06",
-          "deaths": 27370
+          "deaths": 27369
         }
       },
       "Utah": {
