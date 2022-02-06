@@ -958,7 +958,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1357874,
+      "confirmed": 1357974,
       "date": "2022-02-06",
       "deaths": 18600
     }
@@ -1577,37 +1577,37 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 265891,
+          "confirmed": 267180,
           "date": "2022-02-06",
-          "deaths": 9198
+          "deaths": 9199
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 275696,
+          "confirmed": 277593,
           "date": "2022-02-06",
-          "deaths": 6631
+          "deaths": 6641
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 378971,
+          "confirmed": 381269,
           "date": "2022-02-06",
-          "deaths": 8569
+          "deaths": 8587
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 276348,
+          "confirmed": 277920,
           "date": "2022-02-06",
-          "deaths": 6278
+          "deaths": 6282
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 277769,
+          "confirmed": 280557,
           "date": "2022-02-06",
-          "deaths": 5767
+          "deaths": 5769
         }
       }
     }
