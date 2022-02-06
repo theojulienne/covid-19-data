@@ -54,9 +54,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 2027604,
+      "confirmed": 2056928,
       "date": "2022-02-06",
-      "deaths": 14214
+      "deaths": 14232
     }
   },
   "Azerbaijan": {
@@ -1614,9 +1614,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 855642,
+      "confirmed": 857657,
       "date": "2022-02-06",
-      "deaths": 2262
+      "deaths": 2264
     }
   },
   "United Kingdom": {
