@@ -75,16 +75,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1853187,
+      "confirmed": 1861532,
       "date": "2022-02-06",
-      "deaths": 28560
+      "deaths": 28589
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 769076,
+      "confirmed": 777391,
       "date": "2022-02-06",
-      "deaths": 6132
+      "deaths": 6147
     }
   },
   "Belgium": {
@@ -559,7 +559,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 283951,
+          "confirmed": 285319,
           "date": "2022-02-06",
           "deaths": 2171
         }
@@ -587,7 +587,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 426033,
+          "confirmed": 428752,
           "date": "2022-02-06",
           "deaths": 4829
         }
@@ -986,9 +986,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 442871,
+      "confirmed": 450105,
       "date": "2022-02-06",
-      "deaths": 4945
+      "deaths": 4951
     }
   },
   "Lebanon": {
@@ -1078,9 +1078,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 965222,
+      "confirmed": 966405,
       "date": "2022-02-06",
-      "deaths": 11803
+      "deaths": 11814
     }
   },
   "Netherlands": {
@@ -1209,9 +1209,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3601471,
+      "confirmed": 3609568,
       "date": "2022-02-06",
-      "deaths": 54214
+      "deaths": 54526
     }
   },
   "Poland": {
@@ -1297,9 +1297,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1686936,
+      "confirmed": 1705482,
       "date": "2022-02-06",
-      "deaths": 17938
+      "deaths": 17958
     }
   },
   "Slovenia": {
@@ -1667,9 +1667,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2327859,
+      "confirmed": 2341971,
       "date": "2022-02-06",
-      "deaths": 38261
+      "deaths": 38324
     }
   },
   "West Bank and Gaza": {
@@ -1681,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 306777,
+      "confirmed": 307206,
       "date": "2022-02-06",
-      "deaths": 3928
+      "deaths": 3930
     }
   }
 }
