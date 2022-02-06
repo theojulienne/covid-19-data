@@ -810,9 +810,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6543837,
+      "confirmed": 6579266,
       "date": "2022-02-06",
-      "deaths": 132745
+      "deaths": 132830
     }
   },
   "Iraq": {
@@ -1237,9 +1237,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2385713,
+      "confirmed": 2401821,
       "date": "2022-02-06",
-      "deaths": 60560
+      "deaths": 60642
     }
   },
   "Russia": {
