@@ -61,9 +61,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 691180,
+      "confirmed": 698654,
       "date": "2022-02-06",
-      "deaths": 8846
+      "deaths": 8871
     }
   },
   "Bahrain": {
@@ -335,7 +335,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 537569,
+      "confirmed": 537901,
       "date": "2022-02-06",
       "deaths": 19310
     }
@@ -1087,51 +1087,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 521608,
+          "confirmed": 534168,
           "date": "2022-02-06",
           "deaths": 2629
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 315852,
+          "confirmed": 321184,
           "date": "2022-02-06",
           "deaths": 2089
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 714029,
+          "confirmed": 720977,
           "date": "2022-02-06",
-          "deaths": 3581
+          "deaths": 3583
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 831806,
+          "confirmed": 847485,
           "date": "2022-02-06",
-          "deaths": 3187
+          "deaths": 3190
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 311199,
+          "confirmed": 314496,
           "date": "2022-02-06",
-          "deaths": 1358
+          "deaths": 1359
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 396743,
+          "confirmed": 406780,
           "date": "2022-02-06",
           "deaths": 1488
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1097629,
+          "confirmed": 1125426,
           "date": "2022-02-06",
-          "deaths": 4928
+          "deaths": 4929
         }
       }
     }
@@ -1283,9 +1283,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1757741,
+      "confirmed": 1768343,
       "date": "2022-02-06",
-      "deaths": 13928
+      "deaths": 13991
     }
   },
   "Singapore": {
