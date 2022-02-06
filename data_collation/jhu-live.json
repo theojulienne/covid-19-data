@@ -38,9 +38,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 447145,
+          "confirmed": 452891,
           "date": "2022-02-06",
-          "deaths": 268
+          "deaths": 277
         }
       },
       "Victoria": {
@@ -193,9 +193,9 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 918544,
+          "confirmed": 919616,
           "date": "2022-02-06",
-          "deaths": 13651
+          "deaths": 13655
         }
       },
       "Goias": {
@@ -214,16 +214,16 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 648766,
+          "confirmed": 651968,
           "date": "2022-02-06",
-          "deaths": 14389
+          "deaths": 14404
         }
       },
       "Mato Grosso do Sul": {
         "live": {
           "confirmed": 440295,
           "date": "2022-02-06",
-          "deaths": 9969
+          "deaths": 9970
         }
       },
       "Minas Gerais": {
@@ -235,9 +235,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 661600,
+          "confirmed": 663430,
           "date": "2022-02-06",
-          "deaths": 17414
+          "deaths": 17425
         }
       },
       "Paraiba": {
@@ -263,9 +263,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 350036,
+          "confirmed": 350618,
           "date": "2022-02-06",
-          "deaths": 7436
+          "deaths": 7437
         }
       },
       "Rio Grande do Norte": {
@@ -487,9 +487,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 435052,
+      "confirmed": 437350,
       "date": "2022-02-06",
-      "deaths": 22819
+      "deaths": 22877
     }
   },
   "Estonia": {
@@ -972,9 +972,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 971018,
+      "confirmed": 1009688,
       "date": "2022-02-06",
-      "deaths": 6858
+      "deaths": 6873
     }
   },
   "Kuwait": {
