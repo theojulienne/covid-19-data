@@ -1246,30 +1246,30 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2477035,
+          "confirmed": 2495891,
           "date": "2022-02-06",
-          "deaths": 39353
+          "deaths": 39434
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 814254,
+          "confirmed": 824697,
           "date": "2022-02-06",
-          "deaths": 13513
+          "deaths": 13553
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 267189,
+          "confirmed": 271313,
           "date": "2022-02-06",
-          "deaths": 10614
+          "deaths": 10645
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 1122532,
+          "confirmed": 1143980,
           "date": "2022-02-06",
-          "deaths": 30200
+          "deaths": 30267
         }
       }
     }
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2364613,
       "date": "2022-02-06",
-      "deaths": 12782
+      "deaths": 12785
     }
   },
   "Thailand": {

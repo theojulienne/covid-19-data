@@ -655,17 +655,17 @@ var covid19_dataset_latest_totals = {
     "CHE": {
       "back_1week": {
         "confirmed": 2131077,
-        "deaths": 12679,
+        "deaths": 12680,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 1879319,
-        "deaths": 12579,
+        "deaths": 12582,
         "recovered": 0
       },
       "latest": {
         "confirmed": 2364613,
-        "deaths": 12779,
+        "deaths": 12782,
         "recovered": 0
       }
     },
