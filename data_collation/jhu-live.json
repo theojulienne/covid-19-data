@@ -38,7 +38,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 452891,
+          "confirmed": 452882,
           "date": "2022-02-06",
           "deaths": 277
         }
@@ -1200,9 +1200,9 @@
       },
       "Unknown": {
         "live": {
-          "confirmed": 499638,
+          "confirmed": 517646,
           "date": "2022-02-06",
-          "deaths": 2323
+          "deaths": 2568
         }
       }
     }
@@ -1660,9 +1660,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 492678,
+      "confirmed": 494835,
       "date": "2022-02-06",
-      "deaths": 5474
+      "deaths": 5481
     }
   },
   "Vietnam": {
