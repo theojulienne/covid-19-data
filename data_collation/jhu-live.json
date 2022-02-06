@@ -515,9 +515,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 20104692,
+      "confirmed": 20260131,
       "date": "2022-02-06",
-      "deaths": 129581
+      "deaths": 129710
     }
   },
   "Georgia": {
@@ -1138,9 +1138,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 277137,
+      "confirmed": 278182,
       "date": "2022-02-06",
-      "deaths": 8549
+      "deaths": 8578
     }
   },
   "Norway": {
@@ -1531,7 +1531,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 545469,
+          "confirmed": 545818,
           "date": "2022-02-06",
           "deaths": 5671
         }
