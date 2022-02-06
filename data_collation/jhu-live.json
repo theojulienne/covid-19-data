@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 967004,
+          "confirmed": 981386,
           "date": "2022-02-06",
-          "deaths": 20162
+          "deaths": 20177
         }
       }
     }
@@ -617,9 +617,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2036869,
+      "confirmed": 2047849,
       "date": "2022-02-06",
-      "deaths": 23999
+      "deaths": 24094
     }
   },
   "Guatemala": {
@@ -951,9 +951,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1314243,
+      "confirmed": 1330107,
       "date": "2022-02-06",
-      "deaths": 13300
+      "deaths": 13320
     }
   },
   "Kazakhstan": {
@@ -979,9 +979,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 574587,
+      "confirmed": 578819,
       "date": "2022-02-06",
-      "deaths": 2508
+      "deaths": 2510
     }
   },
   "Latvia": {
@@ -1016,14 +1016,14 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 264121,
+          "confirmed": 265703,
           "date": "2022-02-06",
-          "deaths": 3925
+          "deaths": 3929
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 824437,
+          "confirmed": 826986,
           "date": "2022-02-06",
           "deaths": 10065
         }
@@ -1057,9 +1057,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 464234,
+      "confirmed": 467271,
       "date": "2022-02-06",
-      "deaths": 10755
+      "deaths": 10768
     }
   },
   "Mongolia": {
@@ -1223,9 +1223,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 2884540,
+      "confirmed": 2915971,
       "date": "2022-02-06",
-      "deaths": 20171
+      "deaths": 20222
     }
   },
   "Qatar": {
@@ -1399,9 +1399,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 617189,
+      "confirmed": 618520,
       "date": "2022-02-06",
-      "deaths": 15572
+      "deaths": 15595
     }
   },
   "Sweden": {
