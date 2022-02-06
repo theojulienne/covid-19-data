@@ -68,7 +68,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 413372,
+      "confirmed": 421081,
       "date": "2022-02-06",
       "deaths": 1411
     }
@@ -831,9 +831,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3192010,
+      "confirmed": 3196541,
       "date": "2022-02-06",
-      "deaths": 9175
+      "deaths": 9180
     }
   },
   "Italy": {
@@ -993,9 +993,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 965627,
+      "confirmed": 971774,
       "date": "2022-02-06",
-      "deaths": 9694
+      "deaths": 9711
     }
   },
   "Libya": {
