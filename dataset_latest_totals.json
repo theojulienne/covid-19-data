@@ -1144,18 +1144,18 @@
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 550020,
-        "deaths": 4295,
+        "confirmed": 551528,
+        "deaths": 4298,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 524635,
-        "deaths": 4274,
+        "confirmed": 530998,
+        "deaths": 4279,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 558936,
-        "deaths": 4315,
+        "confirmed": 560037,
+        "deaths": 4319,
         "recovered": 0
       }
     },
@@ -2834,8 +2834,8 @@
     },
     "PRY": {
       "back_1week": {
-        "confirmed": 559906,
-        "deaths": 17176,
+        "confirmed": 565368,
+        "deaths": 17212,
         "recovered": 0
       },
       "back_2week": {
