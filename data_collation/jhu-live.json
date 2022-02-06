@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 257598,
+      "confirmed": 257976,
       "date": "2022-02-06",
-      "deaths": 6640
+      "deaths": 6646
     }
   },
   "Argentina": {
@@ -445,9 +445,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1052220,
+      "confirmed": 1053560,
       "date": "2022-02-06",
-      "deaths": 8431
+      "deaths": 8439
     }
   },
   "Cyprus": {
@@ -831,9 +831,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3167105,
+      "confirmed": 3192010,
       "date": "2022-02-06",
-      "deaths": 9139
+      "deaths": 9175
     }
   },
   "Italy": {
