@@ -494,9 +494,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 373900,
+      "confirmed": 380946,
       "date": "2022-02-06",
-      "deaths": 2056
+      "deaths": 2059
     }
   },
   "Ethiopia": {
@@ -831,9 +831,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3142811,
+      "confirmed": 3167105,
       "date": "2022-02-06",
-      "deaths": 9138
+      "deaths": 9139
     }
   },
   "Italy": {
@@ -935,7 +935,7 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 399882,
+          "confirmed": 400652,
           "date": "2022-02-06",
           "deaths": 3197
         }
@@ -1000,9 +1000,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 445876,
+      "confirmed": 450118,
       "date": "2022-02-06",
-      "deaths": 6052
+      "deaths": 6067
     }
   },
   "Lithuania": {
@@ -1152,9 +1152,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 346041,
+      "confirmed": 352187,
       "date": "2022-02-06",
-      "deaths": 4158
+      "deaths": 4172
     }
   },
   "Pakistan": {
@@ -1216,9 +1216,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5129080,
+      "confirmed": 5163780,
       "date": "2022-02-06",
-      "deaths": 106578
+      "deaths": 106597
     }
   },
   "Portugal": {
@@ -1276,9 +1276,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 705637,
+      "confirmed": 708897,
       "date": "2022-02-06",
-      "deaths": 8953
+      "deaths": 8954
     }
   },
   "Serbia": {
@@ -1304,9 +1304,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 786957,
+      "confirmed": 794443,
       "date": "2022-02-06",
-      "deaths": 5959
+      "deaths": 5975
     }
   },
   "South Africa": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2364613,
       "date": "2022-02-06",
-      "deaths": 12785
+      "deaths": 12786
     }
   },
   "Thailand": {
