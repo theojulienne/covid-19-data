@@ -75,9 +75,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1861532,
+      "confirmed": 1870901,
       "date": "2022-02-07",
-      "deaths": 28589
+      "deaths": 28627
     }
   },
   "Belarus": {
@@ -559,7 +559,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 285319,
+          "confirmed": 288507,
           "date": "2022-02-07",
           "deaths": 2171
         }
@@ -810,9 +810,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6579266,
+      "confirmed": 6619085,
       "date": "2022-02-07",
-      "deaths": 132830
+      "deaths": 132934
     }
   },
   "Iraq": {
@@ -1237,9 +1237,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2401821,
+      "confirmed": 2418779,
       "date": "2022-02-07",
-      "deaths": 60642
+      "deaths": 60723
     }
   },
   "Russia": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2364613,
       "date": "2022-02-07",
-      "deaths": 12788
+      "deaths": 12791
     }
   },
   "Thailand": {
