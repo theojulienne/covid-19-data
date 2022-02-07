@@ -531,7 +531,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1536323,
+          "confirmed": 1536327,
           "date": "2022-02-07",
           "deaths": 13776
         }
@@ -928,7 +928,7 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 295195,
+          "confirmed": 295166,
           "date": "2022-02-07",
           "deaths": 1373
         }
@@ -1209,9 +1209,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3609568,
+      "confirmed": 3616387,
       "date": "2022-02-07",
-      "deaths": 54526
+      "deaths": 54538
     }
   },
   "Poland": {
@@ -1304,7 +1304,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 799955,
+      "confirmed": 800012,
       "date": "2022-02-07",
       "deaths": 5990
     }
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2364613,
       "date": "2022-02-07",
-      "deaths": 12787
+      "deaths": 12788
     }
   },
   "Thailand": {
@@ -1614,9 +1614,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 857657,
+      "confirmed": 859361,
       "date": "2022-02-07",
-      "deaths": 2264
+      "deaths": 2265
     }
   },
   "United Kingdom": {
