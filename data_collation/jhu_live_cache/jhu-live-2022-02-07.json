@@ -1078,9 +1078,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 966405,
+      "confirmed": 967427,
       "date": "2022-02-07",
-      "deaths": 11814
+      "deaths": 11827
     }
   },
   "Netherlands": {
@@ -1431,7 +1431,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 2364613,
+      "confirmed": 2433265,
       "date": "2022-02-07",
       "deaths": 12791
     }
@@ -1517,9 +1517,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2914433,
+          "confirmed": 2915207,
           "date": "2022-02-07",
-          "deaths": 44668
+          "deaths": 44681
         }
       },
       "North Carolina": {
@@ -1667,9 +1667,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2341971,
+      "confirmed": 2358786,
       "date": "2022-02-07",
-      "deaths": 38324
+      "deaths": 38424
     }
   },
   "West Bank and Gaza": {
@@ -1681,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 307206,
+      "confirmed": 307317,
       "date": "2022-02-07",
-      "deaths": 3930
+      "deaths": 3933
     }
   }
 }
