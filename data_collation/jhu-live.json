@@ -958,7 +958,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1357974,
+      "confirmed": 1361663,
       "date": "2022-02-07",
       "deaths": 18600
     }
@@ -1161,16 +1161,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 488603,
+          "confirmed": 489655,
           "date": "2022-02-07",
-          "deaths": 13242
+          "deaths": 13252
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 551399,
+          "confirmed": 552262,
           "date": "2022-02-07",
-          "deaths": 7891
+          "deaths": 7905
         }
       }
     }
@@ -1200,9 +1200,9 @@
       },
       "Unknown": {
         "live": {
-          "confirmed": 517646,
+          "confirmed": 531837,
           "date": "2022-02-07",
-          "deaths": 2568
+          "deaths": 2661
         }
       }
     }
@@ -1660,9 +1660,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 494835,
+      "confirmed": 496283,
       "date": "2022-02-07",
-      "deaths": 5481
+      "deaths": 5487
     }
   },
   "Vietnam": {
