@@ -831,9 +831,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3240489,
+      "confirmed": 3247419,
       "date": "2022-02-07",
-      "deaths": 9208
+      "deaths": 9226
     }
   },
   "Italy": {
@@ -993,9 +993,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 971774,
+      "confirmed": 978125,
       "date": "2022-02-07",
-      "deaths": 9711
+      "deaths": 9730
     }
   },
   "Libya": {
@@ -1016,16 +1016,16 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 265703,
+          "confirmed": 267072,
           "date": "2022-02-07",
           "deaths": 3929
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 826986,
+          "confirmed": 829397,
           "date": "2022-02-07",
-          "deaths": 10065
+          "deaths": 10066
         }
       }
     }
