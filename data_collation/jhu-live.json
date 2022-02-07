@@ -376,9 +376,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 981386,
+          "confirmed": 994679,
           "date": "2022-02-07",
-          "deaths": 20177
+          "deaths": 20202
         }
       }
     }
@@ -594,9 +594,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 767461,
+          "confirmed": 771443,
           "date": "2022-02-07",
-          "deaths": 14141
+          "deaths": 14143
         }
       },
       "Sachsen-Anhalt": {
@@ -617,9 +617,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2047849,
+      "confirmed": 2066696,
       "date": "2022-02-07",
-      "deaths": 24094
+      "deaths": 24210
     }
   },
   "Guatemala": {
@@ -824,7 +824,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1205914,
+      "confirmed": 1221082,
       "date": "2022-02-07",
       "deaths": 6228
     }
@@ -928,23 +928,23 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 295166,
+          "confirmed": 301724,
           "date": "2022-02-07",
-          "deaths": 1373
+          "deaths": 1374
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 413207,
+          "confirmed": 421515,
           "date": "2022-02-07",
-          "deaths": 3202
+          "deaths": 3218
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 692929,
+          "confirmed": 705140,
           "date": "2022-02-07",
-          "deaths": 3239
+          "deaths": 3247
         }
       }
     }
@@ -1223,9 +1223,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 2915971,
+      "confirmed": 2932990,
       "date": "2022-02-07",
-      "deaths": 20222
+      "deaths": 20258
     }
   },
   "Qatar": {
@@ -1290,9 +1290,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 397823,
+      "confirmed": 405629,
       "date": "2022-02-07",
-      "deaths": 871
+      "deaths": 874
     }
   },
   "Slovakia": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2433265,
       "date": "2022-02-07",
-      "deaths": 12798
+      "deaths": 12808
     }
   },
   "Thailand": {
