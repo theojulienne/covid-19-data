@@ -367,7 +367,7 @@
         "live": {
           "confirmed": 880950,
           "date": "2022-02-07",
-          "deaths": 13475
+          "deaths": 13495
         }
       }
     }
@@ -445,9 +445,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1053560,
+      "confirmed": 1054909,
       "date": "2022-02-07",
-      "deaths": 8439
+      "deaths": 8443
     }
   },
   "Cyprus": {
@@ -840,86 +840,86 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 1091239,
+          "confirmed": 1095280,
           "date": "2022-02-07",
-          "deaths": 9330
+          "deaths": 9377
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 1107181,
+          "confirmed": 1112384,
           "date": "2022-02-07",
-          "deaths": 15321
+          "deaths": 15358
         }
       },
       "Friuli Venezia Giulia": {
         "live": {
-          "confirmed": 285107,
+          "confirmed": 285749,
           "date": "2022-02-07",
-          "deaths": 4571
+          "deaths": 4576
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 946020,
+          "confirmed": 951333,
           "date": "2022-02-07",
-          "deaths": 9973
+          "deaths": 9989
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 315617,
+          "confirmed": 316562,
           "date": "2022-02-07",
-          "deaths": 4940
+          "deaths": 4944
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 2210403,
+          "confirmed": 2213519,
           "date": "2022-02-07",
-          "deaths": 37643
+          "deaths": 37713
         }
       },
       "Marche": {
         "live": {
-          "confirmed": 285539,
+          "confirmed": 286561,
           "date": "2022-02-07",
-          "deaths": 3458
+          "deaths": 3468
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 915240,
+          "confirmed": 918928,
           "date": "2022-02-07",
-          "deaths": 12720
+          "deaths": 12733
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 643148,
+          "confirmed": 645493,
           "date": "2022-02-07",
-          "deaths": 7318
+          "deaths": 7322
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 669398,
+          "confirmed": 673220,
           "date": "2022-02-07",
-          "deaths": 8790
+          "deaths": 8815
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 784216,
+          "confirmed": 786999,
           "date": "2022-02-07",
-          "deaths": 8437
+          "deaths": 8477
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 1221210,
+          "confirmed": 1224068,
           "date": "2022-02-07",
-          "deaths": 13359
+          "deaths": 13373
         }
       }
     }
@@ -1452,9 +1452,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 12238501,
+      "confirmed": 12335015,
       "date": "2022-02-07",
-      "deaths": 88734
+      "deaths": 88970
     }
   },
   "US": {
@@ -1538,9 +1538,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 298723,
+          "confirmed": 298975,
           "date": "2022-02-07",
-          "deaths": 4788
+          "deaths": 4794
         }
       },
       "Texas": {
@@ -1566,9 +1566,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 262587,
+          "confirmed": 263328,
           "date": "2022-02-07",
-          "deaths": 1994
+          "deaths": 2005
         }
       }
     }
@@ -1623,30 +1623,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 15282993,
+          "confirmed": 15331148,
           "date": "2022-02-07",
-          "deaths": 137894
+          "deaths": 137928
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 566177,
+          "confirmed": 569282,
           "date": "2022-02-07",
-          "deaths": 3128
+          "deaths": 3130
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 1164870,
+          "confirmed": 1173535,
           "date": "2022-02-07",
           "deaths": 10433
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 789285,
+          "confirmed": 792667,
           "date": "2022-02-07",
-          "deaths": 6863
+          "deaths": 6872
         }
       }
     }
