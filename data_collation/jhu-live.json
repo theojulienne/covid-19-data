@@ -1177,9 +1177,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 725068,
+      "confirmed": 727413,
       "date": "2022-02-07",
-      "deaths": 7824
+      "deaths": 7844
     }
   },
   "Paraguay": {
@@ -1438,9 +1438,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2497001,
+      "confirmed": 2507471,
       "date": "2022-02-07",
-      "deaths": 22291
+      "deaths": 22303
     }
   },
   "Tunisia": {
