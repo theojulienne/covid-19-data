@@ -25139,7 +25139,7 @@ var covid19_dataset_country_aus = {
           6857,
           8508,
           5746,
-          452882
+          457583
         ],
         "current_hospitalized": [
           0,
@@ -27387,7 +27387,7 @@ var covid19_dataset_country_aus = {
           6,
           6,
           6,
-          277
+          296
         ],
         "recovered": [
           0,
@@ -47916,7 +47916,7 @@ var covid19_dataset_country_aus = {
       47041,
       48692,
       45930,
-      1637814
+      1642515
     ],
     "current_hospitalized": [
       0,
@@ -50164,7 +50164,7 @@ var covid19_dataset_country_aus = {
       35,
       35,
       35,
-      1884
+      1903
     ],
     "recovered": [
       0,
