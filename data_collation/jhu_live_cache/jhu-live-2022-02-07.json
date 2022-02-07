@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 264624,
+      "confirmed": 264875,
       "date": "2022-02-07",
-      "deaths": 3380
+      "deaths": 3387
     }
   },
   "Algeria": {
@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 8589879,
+      "confirmed": 8615285,
       "date": "2022-02-07",
-      "deaths": 122684
+      "deaths": 122943
     }
   },
   "Armenia": {
@@ -501,9 +501,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 466539,
+      "confirmed": 466677,
       "date": "2022-02-07",
-      "deaths": 7363
+      "deaths": 7373
     }
   },
   "Finland": {
@@ -515,9 +515,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 20260131,
+      "confirmed": 20303662,
       "date": "2022-02-07",
-      "deaths": 129710
+      "deaths": 130125
     }
   },
   "Georgia": {
@@ -624,9 +624,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 711076,
+      "confirmed": 712057,
       "date": "2022-02-07",
-      "deaths": 16501
+      "deaths": 16509
     }
   },
   "Honduras": {
@@ -979,9 +979,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 578819,
+      "confirmed": 583113,
       "date": "2022-02-07",
-      "deaths": 2510
+      "deaths": 2511
     }
   },
   "Latvia": {
@@ -1470,7 +1470,7 @@
         "live": {
           "confirmed": 5802815,
           "date": "2022-02-07",
-          "deaths": 57396
+          "deaths": 57414
         }
       },
       "Florida": {
@@ -1517,7 +1517,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2915207,
+          "confirmed": 2916333,
           "date": "2022-02-07",
           "deaths": 44694
         }
@@ -1552,9 +1552,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 330201,
+          "confirmed": 332179,
           "date": "2022-02-07",
-          "deaths": 1464
+          "deaths": 1473
         }
       },
       "Washington": {
