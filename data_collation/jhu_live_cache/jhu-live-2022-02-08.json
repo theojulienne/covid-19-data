@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 8615285,
+      "confirmed": 8648075,
       "date": "2022-02-08",
-      "deaths": 122943
+      "deaths": 123227
     }
   },
   "Armenia": {
@@ -459,9 +459,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 274979,
+      "confirmed": 277864,
       "date": "2022-02-08",
-      "deaths": 749
+      "deaths": 756
     }
   },
   "Czechia": {
@@ -508,9 +508,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 466677,
+      "confirmed": 466840,
       "date": "2022-02-08",
-      "deaths": 7373
+      "deaths": 7385
     }
   },
   "Finland": {
@@ -838,9 +838,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3279390,
+      "confirmed": 3286273,
       "date": "2022-02-08",
-      "deaths": 9276
+      "deaths": 9303
     }
   },
   "Italy": {
@@ -1000,9 +1000,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 978125,
+      "confirmed": 984607,
       "date": "2022-02-08",
-      "deaths": 9730
+      "deaths": 9750
     }
   },
   "Libya": {
@@ -1023,16 +1023,16 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 267072,
+          "confirmed": 268752,
           "date": "2022-02-08",
           "deaths": 3929
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 829397,
+          "confirmed": 832428,
           "date": "2022-02-08",
-          "deaths": 10066
+          "deaths": 10069
         }
       }
     }
@@ -1094,9 +1094,9 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 542628,
+          "confirmed": 603399,
           "date": "2022-02-08",
-          "deaths": 2629
+          "deaths": 2628
         }
       },
       "Limburg": {
@@ -1136,9 +1136,9 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1140904,
+          "confirmed": 1201008,
           "date": "2022-02-08",
-          "deaths": 4929
+          "deaths": 4925
         }
       }
     }
@@ -1470,7 +1470,7 @@
         "live": {
           "confirmed": 5822357,
           "date": "2022-02-08",
-          "deaths": 57507
+          "deaths": 57532
         }
       },
       "Florida": {
@@ -1552,9 +1552,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 332179,
+          "confirmed": 332599,
           "date": "2022-02-08",
-          "deaths": 1473
+          "deaths": 1486
         }
       },
       "Washington": {
