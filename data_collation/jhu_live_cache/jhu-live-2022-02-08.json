@@ -142,9 +142,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 872811,
+      "confirmed": 874906,
       "date": "2022-02-08",
-      "deaths": 21150
+      "deaths": 21171
     }
   },
   "Bosnia and Herzegovina": {
@@ -394,42 +394,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 910062,
+          "confirmed": 910504,
           "date": "2022-02-08",
           "deaths": 17873
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 397478,
+          "confirmed": 397921,
           "date": "2022-02-08",
           "deaths": 9947
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1717233,
+          "confirmed": 1720356,
           "date": "2022-02-08",
           "deaths": 28509
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 308516,
+          "confirmed": 309458,
           "date": "2022-02-08",
           "deaths": 7016
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 275904,
+          "confirmed": 276649,
           "date": "2022-02-08",
           "deaths": 7877
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 533358,
+          "confirmed": 533494,
           "date": "2022-02-08",
           "deaths": 14620
         }
@@ -1168,16 +1168,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 489655,
+          "confirmed": 490103,
           "date": "2022-02-08",
-          "deaths": 13252
+          "deaths": 13267
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 552262,
+          "confirmed": 553112,
           "date": "2022-02-08",
-          "deaths": 7905
+          "deaths": 7906
         }
       }
     }
@@ -1461,7 +1461,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1211770,
+          "confirmed": 1214267,
           "date": "2022-02-08",
           "deaths": 14987
         }
