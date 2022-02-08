@@ -942,7 +942,7 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 421515,
+          "confirmed": 430715,
           "date": "2022-02-08",
           "deaths": 3218
         }
@@ -993,9 +993,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 453751,
+      "confirmed": 464895,
       "date": "2022-02-08",
-      "deaths": 4960
+      "deaths": 4969
     }
   },
   "Lebanon": {
@@ -1085,9 +1085,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 967427,
+      "confirmed": 968611,
       "date": "2022-02-08",
-      "deaths": 11827
+      "deaths": 11838
     }
   },
   "Netherlands": {
@@ -1159,9 +1159,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 354597,
+      "confirmed": 356900,
       "date": "2022-02-08",
-      "deaths": 4180
+      "deaths": 4188
     }
   },
   "Pakistan": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2433265,
       "date": "2022-02-08",
-      "deaths": 12811
+      "deaths": 12813
     }
   },
   "Thailand": {
@@ -1614,9 +1614,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 859361,
+      "confirmed": 860976,
       "date": "2022-02-08",
-      "deaths": 2265
+      "deaths": 2269
     }
   },
   "United Kingdom": {
