@@ -522,9 +522,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 20303662,
+      "confirmed": 20538622,
       "date": "2022-02-08",
-      "deaths": 130125
+      "deaths": 130816
     }
   },
   "Georgia": {
@@ -972,7 +972,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 322151,
+      "confirmed": 322214,
       "date": "2022-02-08",
       "deaths": 5621
     }
@@ -986,9 +986,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 583113,
+      "confirmed": 587102,
       "date": "2022-02-08",
-      "deaths": 2511
+      "deaths": 2513
     }
   },
   "Latvia": {
@@ -1311,9 +1311,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3625190,
+      "confirmed": 3626014,
       "date": "2022-02-08",
-      "deaths": 96021
+      "deaths": 96289
     }
   },
   "Spain": {
@@ -1482,9 +1482,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1093945,
+          "confirmed": 1095321,
           "date": "2022-02-08",
-          "deaths": 13587
+          "deaths": 13640
         }
       },
       "Massachusetts": {
@@ -1531,9 +1531,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 546213,
+          "confirmed": 546837,
           "date": "2022-02-08",
-          "deaths": 5671
+          "deaths": 5707
         }
       },
       "Pennsylvania": {
