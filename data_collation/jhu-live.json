@@ -68,9 +68,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 421081,
+      "confirmed": 428123,
       "date": "2022-02-08",
-      "deaths": 1411
+      "deaths": 1414
     }
   },
   "Bangladesh": {
@@ -142,9 +142,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 871749,
+      "confirmed": 872811,
       "date": "2022-02-08",
-      "deaths": 21129
+      "deaths": 21150
     }
   },
   "Bosnia and Herzegovina": {
@@ -328,9 +328,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 995436,
+      "confirmed": 1003448,
       "date": "2022-02-08",
-      "deaths": 33770
+      "deaths": 33946
     }
   },
   "Burma": {
@@ -351,9 +351,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 330638,
+          "confirmed": 333925,
           "date": "2022-02-08",
-          "deaths": 2675
+          "deaths": 2707
         }
       },
       "Ontario": {
@@ -1152,7 +1152,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 893560,
+      "confirmed": 911212,
       "date": "2022-02-08",
       "deaths": 1467
     }
@@ -1468,9 +1468,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5802815,
+          "confirmed": 5807065,
           "date": "2022-02-08",
-          "deaths": 57414
+          "deaths": 57443
         }
       },
       "Florida": {
@@ -1559,9 +1559,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 351573,
+          "confirmed": 355892,
           "date": "2022-02-08",
-          "deaths": 2335
+          "deaths": 2376
         }
       },
       "Wisconsin": {
