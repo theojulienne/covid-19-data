@@ -594,9 +594,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 437882,
+          "confirmed": 448339,
           "date": "2022-02-08",
-          "deaths": 4834
+          "deaths": 4841
         }
       },
       "Sachsen": {
@@ -1283,9 +1283,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1779782,
+      "confirmed": 1793554,
       "date": "2022-02-08",
-      "deaths": 14054
+      "deaths": 14113
     }
   },
   "Singapore": {
