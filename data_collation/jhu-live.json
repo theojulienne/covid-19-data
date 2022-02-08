@@ -54,9 +54,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 2084227,
+      "confirmed": 2111314,
       "date": "2022-02-08",
-      "deaths": 14246
+      "deaths": 14271
     }
   },
   "Azerbaijan": {
@@ -501,9 +501,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 385567,
+      "confirmed": 391849,
       "date": "2022-02-08",
-      "deaths": 2065
+      "deaths": 2075
     }
   },
   "Ethiopia": {
@@ -1246,30 +1246,30 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2511333,
+          "confirmed": 2524235,
           "date": "2022-02-08",
-          "deaths": 39517
+          "deaths": 39602
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 836927,
+          "confirmed": 845413,
           "date": "2022-02-08",
-          "deaths": 13592
+          "deaths": 13630
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 275650,
+          "confirmed": 280900,
           "date": "2022-02-08",
-          "deaths": 10660
+          "deaths": 10679
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 1157352,
+          "confirmed": 1168366,
           "date": "2022-02-08",
-          "deaths": 30331
+          "deaths": 30398
         }
       }
     }
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2433265,
       "date": "2022-02-08",
-      "deaths": 12807
+      "deaths": 12810
     }
   },
   "Thailand": {
