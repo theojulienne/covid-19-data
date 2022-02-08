@@ -566,7 +566,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 288507,
+          "confirmed": 293751,
           "date": "2022-02-08",
           "deaths": 2171
         }
@@ -1209,9 +1209,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3616387,
+      "confirmed": 3619633,
       "date": "2022-02-08",
-      "deaths": 54538
+      "deaths": 54621
     }
   },
   "Poland": {
@@ -1667,9 +1667,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2358786,
+      "confirmed": 2380695,
       "date": "2022-02-08",
-      "deaths": 38424
+      "deaths": 38521
     }
   },
   "West Bank and Gaza": {
@@ -1681,7 +1681,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 307317,
+      "confirmed": 307636,
       "date": "2022-02-08",
       "deaths": 3933
     }
