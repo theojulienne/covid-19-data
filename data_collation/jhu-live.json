@@ -154,6 +154,13 @@
       "deaths": 14800
     }
   },
+  "Botswana": {
+    "live": {
+      "confirmed": 257167,
+      "date": "2022-02-08",
+      "deaths": 2593
+    }
+  },
   "Brazil": {
     "subseries": {
       "Alagoas": {
@@ -431,9 +438,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 721971,
+      "confirmed": 733708,
       "date": "2022-02-08",
-      "deaths": 7641
+      "deaths": 7694
     }
   },
   "Croatia": {
@@ -972,9 +979,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 1044963,
+      "confirmed": 1081681,
       "date": "2022-02-08",
-      "deaths": 6886
+      "deaths": 6922
     }
   },
   "Kuwait": {
@@ -1037,13 +1044,6 @@
           "confirmed": 1268716,
           "date": "2022-02-08",
           "deaths": 41350
-        }
-      },
-      "Guanajuato": {
-        "live": {
-          "confirmed": 256259,
-          "date": "2022-02-08",
-          "deaths": 14167
         }
       },
       "Mexico": {
@@ -1438,9 +1438,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2507471,
+      "confirmed": 2517869,
       "date": "2022-02-08",
-      "deaths": 22303
+      "deaths": 22320
     }
   },
   "Tunisia": {
