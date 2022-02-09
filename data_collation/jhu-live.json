@@ -38,9 +38,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 462761,
+          "confirmed": 469663,
           "date": "2022-02-09",
-          "deaths": 308
+          "deaths": 332
         }
       },
       "Victoria": {
@@ -200,16 +200,16 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 943673,
+          "confirmed": 946853,
           "date": "2022-02-09",
-          "deaths": 13723
+          "deaths": 13726
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 1078824,
+          "confirmed": 1082676,
           "date": "2022-02-09",
-          "deaths": 25236
+          "deaths": 25243
         }
       },
       "Maranhao": {
@@ -221,9 +221,9 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 656139,
+          "confirmed": 660820,
           "date": "2022-02-09",
-          "deaths": 14444
+          "deaths": 14464
         }
       },
       "Mato Grosso do Sul": {
@@ -242,9 +242,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 667874,
+          "confirmed": 671716,
           "date": "2022-02-09",
-          "deaths": 17458
+          "deaths": 17476
         }
       },
       "Paraiba": {
@@ -270,9 +270,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 352464,
+          "confirmed": 353714,
           "date": "2022-02-09",
-          "deaths": 7466
+          "deaths": 7479
         }
       },
       "Rio Grande do Norte": {
@@ -351,14 +351,14 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 508051,
+          "confirmed": 509718,
           "date": "2022-02-09",
-          "deaths": 3673
+          "deaths": 3686
         }
       },
       "British Columbia": {
         "live": {
-          "confirmed": 333925,
+          "confirmed": 335042,
           "date": "2022-02-09",
           "deaths": 2707
         }
@@ -494,9 +494,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 441923,
+      "confirmed": 444117,
       "date": "2022-02-09",
-      "deaths": 22993
+      "deaths": 23053
     }
   },
   "Estonia": {
@@ -1461,9 +1461,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1214267,
+          "confirmed": 1216724,
           "date": "2022-02-09",
-          "deaths": 14987
+          "deaths": 15087
         }
       },
       "California": {
@@ -1653,9 +1653,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 733010,
+      "confirmed": 741454,
       "date": "2022-02-09",
-      "deaths": 6656
+      "deaths": 6676
     }
   },
   "Venezuela": {
