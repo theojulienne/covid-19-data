@@ -6,18 +6,11 @@
       "deaths": 3399
     }
   },
-  "Algeria": {
-    "live": {
-      "confirmed": 259673,
-      "date": "2022-02-09",
-      "deaths": 6678
-    }
-  },
   "Argentina": {
     "live": {
-      "confirmed": 8648075,
+      "confirmed": 8675327,
       "date": "2022-02-09",
-      "deaths": 123227
+      "deaths": 123444
     }
   },
   "Armenia": {
@@ -960,7 +953,7 @@
     "live": {
       "confirmed": 1367054,
       "date": "2022-02-09",
-      "deaths": 18672
+      "deaths": 18693
     }
   },
   "Kenya": {
@@ -1016,16 +1009,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 268752,
+          "confirmed": 271073,
           "date": "2022-02-09",
-          "deaths": 3929
+          "deaths": 3930
+        }
+      },
+      "Sabah": {
+        "live": {
+          "confirmed": 259932,
+          "date": "2022-02-09",
+          "deaths": 2841
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 832428,
+          "confirmed": 836010,
           "date": "2022-02-09",
-          "deaths": 10069
+          "deaths": 10070
         }
       }
     }
@@ -1057,14 +1057,14 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 471524,
+      "confirmed": 474548,
       "date": "2022-02-09",
-      "deaths": 10803
+      "deaths": 10837
     }
   },
   "Mongolia": {
     "live": {
-      "confirmed": 860976,
+      "confirmed": 863372,
       "date": "2022-02-09",
       "deaths": 2134
     }
@@ -1147,7 +1147,7 @@
     "live": {
       "confirmed": 937321,
       "date": "2022-02-09",
-      "deaths": 1467
+      "deaths": 1512
     }
   },
   "Oman": {
@@ -1552,9 +1552,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 332599,
+          "confirmed": 333352,
           "date": "2022-02-09",
-          "deaths": 1486
+          "deaths": 1491
         }
       },
       "Washington": {
@@ -1674,9 +1674,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 586355,
+      "confirmed": 594037,
       "date": "2022-02-09",
-      "deaths": 5181
+      "deaths": 5196
     }
   },
   "Zambia": {
