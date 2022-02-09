@@ -1047,18 +1047,18 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 3013454,
-        "deaths": 37209,
+        "confirmed": 3043084,
+        "deaths": 37243,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2763800,
-        "deaths": 37050,
+        "confirmed": 2794245,
+        "deaths": 37080,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3243698,
-        "deaths": 37478,
+        "confirmed": 3273375,
+        "deaths": 37549,
         "recovered": 0
       }
     },
