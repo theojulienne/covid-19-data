@@ -335,7 +335,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 539554,
+      "confirmed": 540597,
       "date": "2022-02-09",
       "deaths": 19310
     }
@@ -587,9 +587,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 448399,
+          "confirmed": 457815,
           "date": "2022-02-09",
-          "deaths": 4841
+          "deaths": 4853
         }
       },
       "Sachsen": {
@@ -965,9 +965,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 322214,
+      "confirmed": 322274,
       "date": "2022-02-09",
-      "deaths": 5621
+      "deaths": 5622
     }
   },
   "Korea, South": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2489172,
       "date": "2022-02-09",
-      "deaths": 12874
+      "deaths": 12889
     }
   },
   "Thailand": {
@@ -1566,9 +1566,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 263555,
+          "confirmed": 263989,
           "date": "2022-02-09",
-          "deaths": 2023
+          "deaths": 2029
         }
       }
     }

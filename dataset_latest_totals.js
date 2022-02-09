@@ -1938,17 +1938,17 @@ var covid19_dataset_latest_totals = {
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 321381,
-        "deaths": 5583,
+        "confirmed": 321552,
+        "deaths": 5587,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 320399,
-        "deaths": 5558,
+        "confirmed": 320584,
+        "deaths": 5562,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 322151,
+        "confirmed": 322214,
         "deaths": 5621,
         "recovered": 0
       }
