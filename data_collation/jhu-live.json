@@ -438,9 +438,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 990595,
+      "confirmed": 998463,
       "date": "2022-02-09",
-      "deaths": 14244
+      "deaths": 14281
     }
   },
   "Cuba": {
@@ -1431,9 +1431,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 2460036,
+      "confirmed": 2489172,
       "date": "2022-02-09",
-      "deaths": 12870
+      "deaths": 12874
     }
   },
   "Thailand": {
@@ -1681,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 307636,
+      "confirmed": 308050,
       "date": "2022-02-09",
-      "deaths": 3933
+      "deaths": 3934
     }
   }
 }
