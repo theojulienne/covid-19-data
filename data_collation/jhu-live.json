@@ -54,9 +54,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 2111314,
+      "confirmed": 2149623,
       "date": "2022-02-09",
-      "deaths": 14271
+      "deaths": 14293
     }
   },
   "Azerbaijan": {
@@ -152,13 +152,6 @@
       "confirmed": 358398,
       "date": "2022-02-09",
       "deaths": 14856
-    }
-  },
-  "Botswana": {
-    "live": {
-      "confirmed": 257167,
-      "date": "2022-02-09",
-      "deaths": 2593
     }
   },
   "Brazil": {
@@ -838,7 +831,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3286273,
+      "confirmed": 3301478,
       "date": "2022-02-09",
       "deaths": 9303
     }
@@ -1246,30 +1239,37 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2524235,
+          "confirmed": 2535756,
           "date": "2022-02-09",
-          "deaths": 39602
+          "deaths": 39684
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 845413,
+          "confirmed": 857369,
           "date": "2022-02-09",
-          "deaths": 13630
+          "deaths": 13665
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 280900,
+          "confirmed": 286644,
           "date": "2022-02-09",
-          "deaths": 10679
+          "deaths": 10696
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 1168366,
+          "confirmed": 1188010,
           "date": "2022-02-09",
-          "deaths": 30398
+          "deaths": 30458
+        }
+      },
+      "Sverdlovsk Oblast": {
+        "live": {
+          "confirmed": 263007,
+          "date": "2022-02-09",
+          "deaths": 10096
         }
       }
     }
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2460036,
       "date": "2022-02-09",
-      "deaths": 12865
+      "deaths": 12867
     }
   },
   "Thailand": {
