@@ -68,16 +68,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1887271,
+      "confirmed": 1894535,
       "date": "2022-02-10",
-      "deaths": 28703
+      "deaths": 28744
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 797188,
+      "confirmed": 805651,
       "date": "2022-02-10",
-      "deaths": 6190
+      "deaths": 6204
     }
   },
   "Belgium": {
@@ -431,9 +431,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 998463,
+      "confirmed": 1004804,
       "date": "2022-02-10",
-      "deaths": 14281
+      "deaths": 14329
     }
   },
   "Cuba": {
@@ -552,7 +552,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 299111,
+          "confirmed": 304259,
           "date": "2022-02-10",
           "deaths": 2195
         }
@@ -928,7 +928,7 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 457385,
+          "confirmed": 457384,
           "date": "2022-02-10",
           "deaths": 3278
         }
@@ -979,9 +979,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 476730,
+      "confirmed": 488329,
       "date": "2022-02-10",
-      "deaths": 4978
+      "deaths": 4987
     }
   },
   "Lebanon": {
@@ -1078,9 +1078,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 970462,
+      "confirmed": 971475,
       "date": "2022-02-10",
-      "deaths": 11852
+      "deaths": 11864
     }
   },
   "Netherlands": {
@@ -1202,9 +1202,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3623176,
+      "confirmed": 3627575,
       "date": "2022-02-10",
-      "deaths": 54690
+      "deaths": 54783
     }
   },
   "Poland": {
@@ -1230,9 +1230,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2482394,
+      "confirmed": 2508860,
       "date": "2022-02-10",
-      "deaths": 61092
+      "deaths": 61231
     }
   },
   "Russia": {
@@ -1614,9 +1614,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 862514,
+      "confirmed": 864102,
       "date": "2022-02-10",
-      "deaths": 2273
+      "deaths": 2278
     }
   },
   "United Kingdom": {
@@ -1667,9 +1667,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2404651,
+      "confirmed": 2430683,
       "date": "2022-02-10",
-      "deaths": 38614
+      "deaths": 38688
     }
   },
   "West Bank and Gaza": {
@@ -1681,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 308050,
+      "confirmed": 308556,
       "date": "2022-02-10",
-      "deaths": 3934
+      "deaths": 3935
     }
   }
 }
