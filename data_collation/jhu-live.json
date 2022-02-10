@@ -186,16 +186,16 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 954323,
+          "confirmed": 957092,
           "date": "2022-02-10",
-          "deaths": 13748
+          "deaths": 13760
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 1085931,
+          "confirmed": 1091634,
           "date": "2022-02-10",
-          "deaths": 25252
+          "deaths": 25281
         }
       },
       "Maranhao": {
@@ -207,16 +207,16 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 660820,
+          "confirmed": 664854,
           "date": "2022-02-10",
-          "deaths": 14464
+          "deaths": 14478
         }
       },
       "Mato Grosso do Sul": {
         "live": {
           "confirmed": 448921,
           "date": "2022-02-10",
-          "deaths": 10029
+          "deaths": 10031
         }
       },
       "Minas Gerais": {
@@ -228,9 +228,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 671716,
+          "confirmed": 675003,
           "date": "2022-02-10",
-          "deaths": 17476
+          "deaths": 17494
         }
       },
       "Paraiba": {
@@ -256,9 +256,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 353714,
+          "confirmed": 354619,
           "date": "2022-02-10",
-          "deaths": 7479
+          "deaths": 7497
         }
       },
       "Rio Grande do Norte": {
@@ -344,9 +344,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 335042,
+          "confirmed": 336229,
           "date": "2022-02-10",
-          "deaths": 2707
+          "deaths": 2725
         }
       },
       "Ontario": {
@@ -965,9 +965,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 1131239,
+      "confirmed": 1185361,
       "date": "2022-02-10",
-      "deaths": 6943
+      "deaths": 6963
     }
   },
   "Kuwait": {
@@ -1559,9 +1559,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 355892,
+          "confirmed": 357250,
           "date": "2022-02-10",
-          "deaths": 2376
+          "deaths": 2393
         }
       },
       "Wisconsin": {
