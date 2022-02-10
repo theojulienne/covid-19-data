@@ -142,9 +142,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 359876,
+      "confirmed": 361189,
       "date": "2022-02-10",
-      "deaths": 14897
+      "deaths": 14938
     }
   },
   "Brazil": {
@@ -803,9 +803,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6696927,
+      "confirmed": 6730608,
       "date": "2022-02-10",
-      "deaths": 133164
+      "deaths": 133294
     }
   },
   "Iraq": {
@@ -993,9 +993,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 459548,
+      "confirmed": 463321,
       "date": "2022-02-10",
-      "deaths": 6096
+      "deaths": 6107
     }
   },
   "Lithuania": {
@@ -1431,9 +1431,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 2489172,
+      "confirmed": 2515506,
       "date": "2022-02-10",
-      "deaths": 12899
+      "deaths": 12906
     }
   },
   "Thailand": {
