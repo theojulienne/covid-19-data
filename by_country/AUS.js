@@ -27468,7 +27468,7 @@ var covid19_dataset_country_aus = {
           6,
           6,
           6,
-          332
+          325
         ],
         "recovered": [
           0,
@@ -47262,7 +47262,8 @@ var covid19_dataset_country_aus = {
     "2022-02-07",
     "2022-02-08",
     "2022-02-09",
-    "2022-02-10"
+    "2022-02-10",
+    "2022-02-11"
   ],
   "total": {
     "confirmed": [
@@ -50271,7 +50272,7 @@ var covid19_dataset_country_aus = {
       35,
       35,
       35,
-      361
+      354
     ],
     "recovered": [
       0,
