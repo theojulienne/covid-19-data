@@ -487,9 +487,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 398519,
+      "confirmed": 405101,
       "date": "2022-02-10",
-      "deaths": 2088
+      "deaths": 2095
     }
   },
   "Ethiopia": {
@@ -631,9 +631,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1671547,
+      "confirmed": 1684432,
       "date": "2022-02-10",
-      "deaths": 42170
+      "deaths": 42269
     }
   },
   "India": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2489172,
       "date": "2022-02-10",
-      "deaths": 12890
+      "deaths": 12891
     }
   },
   "Thailand": {
