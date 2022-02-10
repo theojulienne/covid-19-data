@@ -61,9 +61,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 442062,
+      "confirmed": 448166,
       "date": "2022-02-10",
-      "deaths": 1418
+      "deaths": 1419
     }
   },
   "Bangladesh": {
@@ -494,9 +494,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 467001,
+      "confirmed": 467153,
       "date": "2022-02-10",
-      "deaths": 7397
+      "deaths": 7407
     }
   },
   "Finland": {
@@ -1138,9 +1138,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 282147,
+      "confirmed": 283547,
       "date": "2022-02-10",
-      "deaths": 8658
+      "deaths": 8686
     }
   },
   "Norway": {
@@ -1184,9 +1184,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 615911,
+      "confirmed": 618815,
       "date": "2022-02-10",
-      "deaths": 17751
+      "deaths": 17801
     }
   },
   "Peru": {
@@ -1566,9 +1566,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 263989,
+          "confirmed": 264314,
           "date": "2022-02-10",
-          "deaths": 2029
+          "deaths": 2036
         }
       }
     }
