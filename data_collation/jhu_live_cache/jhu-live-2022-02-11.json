@@ -515,9 +515,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 1398059,
+      "confirmed": 1418027,
       "date": "2022-02-11",
-      "deaths": 15404
+      "deaths": 15459
     }
   },
   "Germany": {
@@ -1577,37 +1577,37 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 274659,
+          "confirmed": 277077,
           "date": "2022-02-11",
-          "deaths": 9249
+          "deaths": 9264
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 285533,
+          "confirmed": 287528,
           "date": "2022-02-11",
-          "deaths": 6689
+          "deaths": 6698
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 393961,
+          "confirmed": 398065,
           "date": "2022-02-11",
-          "deaths": 8653
+          "deaths": 8685
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 286819,
+          "confirmed": 289770,
           "date": "2022-02-11",
-          "deaths": 6355
+          "deaths": 6380
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 294016,
+          "confirmed": 298112,
           "date": "2022-02-11",
-          "deaths": 5784
+          "deaths": 5790
         }
       }
     }
