@@ -68,16 +68,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1894535,
+      "confirmed": 1899803,
       "date": "2022-02-11",
-      "deaths": 28744
+      "deaths": 28771
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 805651,
+      "confirmed": 814262,
       "date": "2022-02-11",
-      "deaths": 6204
+      "deaths": 6221
     }
   },
   "Belgium": {
@@ -552,7 +552,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 304259,
+          "confirmed": 309553,
           "date": "2022-02-11",
           "deaths": 2201
         }
@@ -831,9 +831,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3347650,
+      "confirmed": 3367897,
       "date": "2022-02-11",
-      "deaths": 9399
+      "deaths": 9431
     }
   },
   "Italy": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2515506,
       "date": "2022-02-11",
-      "deaths": 12924
+      "deaths": 12926
     }
   },
   "Thailand": {
@@ -1667,9 +1667,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2430683,
+      "confirmed": 2457170,
       "date": "2022-02-11",
-      "deaths": 38688
+      "deaths": 38784
     }
   },
   "West Bank and Gaza": {
