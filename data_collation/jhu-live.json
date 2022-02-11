@@ -328,7 +328,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 541904,
+      "confirmed": 543511,
       "date": "2022-02-11",
       "deaths": 19310
     }
@@ -369,9 +369,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 1030465,
+          "confirmed": 1046427,
           "date": "2022-02-11",
-          "deaths": 20295
+          "deaths": 20332
         }
       }
     }
@@ -587,9 +587,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 803443,
+          "confirmed": 811622,
           "date": "2022-02-11",
-          "deaths": 14204
+          "deaths": 14216
         }
       },
       "Sachsen-Anhalt": {
@@ -597,13 +597,6 @@
           "confirmed": 325154,
           "date": "2022-02-11",
           "deaths": 4672
-        }
-      },
-      "Schleswig-Holstein": {
-        "live": {
-          "confirmed": 262969,
-          "date": "2022-02-11",
-          "deaths": 2029
         }
       },
       "Thuringen": {
@@ -617,9 +610,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2129153,
+      "confirmed": 2146798,
       "date": "2022-02-11",
-      "deaths": 24507
+      "deaths": 24609
     }
   },
   "Guatemala": {
@@ -951,9 +944,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1417890,
+      "confirmed": 1436762,
       "date": "2022-02-11",
-      "deaths": 13431
+      "deaths": 13456
     }
   },
   "Kazakhstan": {
@@ -1016,16 +1009,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 273910,
+          "confirmed": 276770,
           "date": "2022-02-11",
-          "deaths": 3931
+          "deaths": 3935
+        }
+      },
+      "Sabah": {
+        "live": {
+          "confirmed": 266262,
+          "date": "2022-02-11",
+          "deaths": 2845
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 839789,
+          "confirmed": 844080,
           "date": "2022-02-11",
-          "deaths": 10072
+          "deaths": 10073
         }
       }
     }
@@ -1290,9 +1290,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 439640,
+      "confirmed": 449570,
       "date": "2022-02-11",
-      "deaths": 882
+      "deaths": 885
     }
   },
   "Slovakia": {
@@ -1399,9 +1399,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 624545,
+      "confirmed": 625804,
       "date": "2022-02-11",
-      "deaths": 15723
+      "deaths": 15754
     }
   },
   "Sweden": {
