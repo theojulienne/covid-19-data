@@ -1030,18 +1030,18 @@
     },
     "CUB": {
       "back_1week": {
-        "confirmed": 1047860,
-        "deaths": 8415,
+        "confirmed": 1049406,
+        "deaths": 8420,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1031170,
-        "deaths": 8376,
+        "confirmed": 1033984,
+        "deaths": 8383,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1056846,
-        "deaths": 8450,
+        "confirmed": 1057797,
+        "deaths": 8454,
         "recovered": 0
       }
     },
@@ -1785,17 +1785,17 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 1193156,
+        "confirmed": 1199217,
         "deaths": 6228,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1159271,
+        "confirmed": 1164536,
         "deaths": 6136,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1230539,
+        "confirmed": 1236188,
         "deaths": 6291,
         "recovered": 0
       }
@@ -3395,18 +3395,18 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 11833165,
-        "deaths": 87831,
+        "confirmed": 11940695,
+        "deaths": 88064,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 11167927,
-        "deaths": 86487,
+        "confirmed": 11250107,
+        "deaths": 86661,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 12554674,
-        "deaths": 89477,
+        "confirmed": 12653276,
+        "deaths": 89741,
         "recovered": 0
       }
     },
@@ -3497,22 +3497,22 @@
     },
     "USA": {
       "back_1week": {
-        "confirmed": 72581890,
-        "deaths": 848378,
+        "confirmed": 72884560,
+        "deaths": 851172,
         "recovered": 10651043,
-        "tested": 785885731
+        "tested": 787667313
       },
       "back_2week": {
-        "confirmed": 69728367,
-        "deaths": 831480,
+        "confirmed": 70286672,
+        "deaths": 834558,
         "recovered": 10344086,
-        "tested": 775578371
+        "tested": 777533681
       },
       "latest": {
-        "confirmed": 74191785,
-        "deaths": 863966,
+        "confirmed": 74389643,
+        "deaths": 866761,
         "recovered": 10863687,
-        "tested": 568292273
+        "tested": 0
       },
       "states": {
         "AK": {
@@ -3799,48 +3799,48 @@
           "tested": 46416248
         },
         "UT": {
-          "confirmed": 905112,
-          "deaths": 4223,
-          "hospitalized": 36897,
+          "confirmed": 907174,
+          "deaths": 4237,
+          "hospitalized": 37015,
           "recovered": 358249,
           "tested": 6835576
         },
         "VA": {
-          "confirmed": 1593694,
-          "deaths": 17305,
-          "hospitalized": 138854,
+          "confirmed": 1598416,
+          "deaths": 17393,
+          "hospitalized": 139244,
           "tested": 13639852
         },
         "VT": {
-          "confirmed": 99644,
-          "deaths": 531,
-          "hospitalized": 4417,
+          "confirmed": 100092,
+          "deaths": 534,
+          "hospitalized": 4438,
           "recovered": 13305,
           "tested": 3477608
         },
         "WA": {
-          "confirmed": 1382782,
-          "deaths": 11099,
-          "hospitalized": 107065,
+          "confirmed": 1391026,
+          "deaths": 11194,
+          "hospitalized": 107467,
           "tested": 11019264
         },
         "WI": {
-          "confirmed": 1545059,
-          "deaths": 12739,
-          "hospitalized": 96149,
+          "confirmed": 1548219,
+          "deaths": 12786,
+          "hospitalized": 96388,
           "recovered": 552642,
           "tested": 15311325
         },
         "WV": {
-          "confirmed": 466125,
-          "deaths": 5900,
+          "confirmed": 468391,
+          "deaths": 5939,
           "recovered": 124983,
           "tested": 4776929
         },
         "WY": {
-          "confirmed": 151159,
+          "confirmed": 151803,
           "deaths": 1667,
-          "hospitalized": 11302,
+          "hospitalized": 11334,
           "recovered": 53550,
           "tested": 1329487
         }
