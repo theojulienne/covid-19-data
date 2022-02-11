@@ -508,9 +508,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 20834193,
+      "confirmed": 20965569,
       "date": "2022-02-11",
-      "deaths": 131421
+      "deaths": 131690
     }
   },
   "Georgia": {
@@ -1311,88 +1311,88 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3634811,
+      "confirmed": 3637673,
       "date": "2022-02-11",
-      "deaths": 96705
+      "deaths": 96851
     }
   },
   "Spain": {
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 1288933,
+          "confirmed": 1294854,
           "date": "2022-02-11",
-          "deaths": 12321
+          "deaths": 12360
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 384372,
+          "confirmed": 385539,
           "date": "2022-02-11",
-          "deaths": 4627
+          "deaths": 4641
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 1226328,
+          "confirmed": 1235278,
           "date": "2022-02-11",
-          "deaths": 8766
+          "deaths": 8794
         }
       },
       "Canarias": {
         "live": {
-          "confirmed": 268649,
+          "confirmed": 269786,
           "date": "2022-02-11",
-          "deaths": 1503
+          "deaths": 1507
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 453277,
+          "confirmed": 455343,
           "date": "2022-02-11",
-          "deaths": 6949
+          "deaths": 6959
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 628898,
+          "confirmed": 631008,
           "date": "2022-02-11",
-          "deaths": 8067
+          "deaths": 8076
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 2181414,
+          "confirmed": 2189244,
           "date": "2022-02-11",
-          "deaths": 16616
+          "deaths": 16801
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 491737,
+          "confirmed": 495632,
           "date": "2022-02-11",
-          "deaths": 3006
+          "deaths": 3013
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 1531042,
+          "confirmed": 1537251,
           "date": "2022-02-11",
-          "deaths": 16793
+          "deaths": 16846
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 351816,
+          "confirmed": 353590,
           "date": "2022-02-11",
-          "deaths": 2073
+          "deaths": 2087
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 633089,
+          "confirmed": 636429,
           "date": "2022-02-11",
-          "deaths": 5823
+          "deaths": 5824
         }
       }
     }
@@ -1531,9 +1531,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 547905,
+          "confirmed": 548382,
           "date": "2022-02-11",
-          "deaths": 5707
+          "deaths": 5782
         }
       },
       "Pennsylvania": {
