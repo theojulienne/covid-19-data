@@ -1438,9 +1438,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2545873,
+      "confirmed": 2561115,
       "date": "2022-02-11",
-      "deaths": 22364
+      "deaths": 22387
     }
   },
   "Tunisia": {
@@ -1468,9 +1468,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5854478,
+          "confirmed": 5860644,
           "date": "2022-02-11",
-          "deaths": 57901
+          "deaths": 57982
         }
       },
       "Florida": {
