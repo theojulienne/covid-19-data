@@ -142,9 +142,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 361189,
+      "confirmed": 362527,
       "date": "2022-02-11",
-      "deaths": 14938
+      "deaths": 14984
     }
   },
   "Brazil": {
@@ -431,9 +431,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1004804,
+      "confirmed": 1009973,
       "date": "2022-02-11",
-      "deaths": 14329
+      "deaths": 14373
     }
   },
   "Cuba": {
@@ -986,9 +986,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 488329,
+      "confirmed": 500126,
       "date": "2022-02-11",
-      "deaths": 4987
+      "deaths": 5007
     }
   },
   "Lebanon": {
@@ -1202,9 +1202,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3627575,
+      "confirmed": 3630637,
       "date": "2022-02-11",
-      "deaths": 54783
+      "deaths": 54854
     }
   },
   "Poland": {
@@ -1431,7 +1431,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 2515506,
+      "confirmed": 2537734,
       "date": "2022-02-11",
       "deaths": 12926
     }
