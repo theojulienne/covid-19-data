@@ -24,9 +24,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1174246,
+          "confirmed": 1183196,
           "date": "2022-02-10",
-          "deaths": 1640
+          "deaths": 1659
         }
       },
       "Queensland": {
@@ -38,9 +38,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 953288,
+          "confirmed": 961809,
           "date": "2022-02-10",
-          "deaths": 2235
+          "deaths": 2248
         }
       }
     }
@@ -151,58 +151,58 @@
     "subseries": {
       "Alagoas": {
         "live": {
-          "confirmed": 274449,
+          "confirmed": 275113,
           "date": "2022-02-10",
-          "deaths": 6492
+          "deaths": 6499
         }
       },
       "Amazonas": {
         "live": {
-          "confirmed": 554583,
+          "confirmed": 557246,
           "date": "2022-02-10",
-          "deaths": 14045
+          "deaths": 14052
         }
       },
       "Bahia": {
         "live": {
-          "confirmed": 1424629,
+          "confirmed": 1435389,
           "date": "2022-02-10",
-          "deaths": 28345
+          "deaths": 28399
         }
       },
       "Ceara": {
         "live": {
-          "confirmed": 1191350,
+          "confirmed": 1195043,
           "date": "2022-02-10",
-          "deaths": 25653
+          "deaths": 25687
         }
       },
       "Distrito Federal": {
         "live": {
-          "confirmed": 649550,
+          "confirmed": 653200,
           "date": "2022-02-10",
-          "deaths": 11256
+          "deaths": 11265
         }
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 957092,
+          "confirmed": 961457,
           "date": "2022-02-10",
-          "deaths": 13760
+          "deaths": 13771
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 1091634,
+          "confirmed": 1093224,
           "date": "2022-02-10",
-          "deaths": 25281
+          "deaths": 25284
         }
       },
       "Maranhao": {
         "live": {
-          "confirmed": 396564,
+          "confirmed": 398065,
           "date": "2022-02-10",
-          "deaths": 10562
+          "deaths": 10574
         }
       },
       "Mato Grosso": {
@@ -214,16 +214,16 @@
       },
       "Mato Grosso do Sul": {
         "live": {
-          "confirmed": 448921,
+          "confirmed": 452472,
           "date": "2022-02-10",
-          "deaths": 10031
+          "deaths": 10045
         }
       },
       "Minas Gerais": {
         "live": {
-          "confirmed": 2933701,
+          "confirmed": 2960007,
           "date": "2022-02-10",
-          "deaths": 58075
+          "deaths": 58203
         }
       },
       "Para": {
@@ -235,23 +235,23 @@
       },
       "Paraiba": {
         "live": {
-          "confirmed": 528173,
+          "confirmed": 531315,
           "date": "2022-02-10",
-          "deaths": 9871
+          "deaths": 9886
         }
       },
       "Parana": {
         "live": {
-          "confirmed": 2137621,
+          "confirmed": 2153188,
           "date": "2022-02-10",
-          "deaths": 41570
+          "deaths": 41618
         }
       },
       "Pernambuco": {
         "live": {
-          "confirmed": 742409,
+          "confirmed": 748039,
           "date": "2022-02-10",
-          "deaths": 20771
+          "deaths": 20789
         }
       },
       "Piaui": {
@@ -263,58 +263,58 @@
       },
       "Rio Grande do Norte": {
         "live": {
-          "confirmed": 448501,
+          "confirmed": 450878,
           "date": "2022-02-10",
-          "deaths": 7846
+          "deaths": 7863
         }
       },
       "Rio Grande do Sul": {
         "live": {
-          "confirmed": 1964978,
+          "confirmed": 1981233,
           "date": "2022-02-10",
-          "deaths": 37384
+          "deaths": 37417
         }
       },
       "Rio de Janeiro": {
         "live": {
-          "confirmed": 1882077,
+          "confirmed": 1893620,
           "date": "2022-02-10",
-          "deaths": 70448
+          "deaths": 70528
         }
       },
       "Rondonia": {
         "live": {
-          "confirmed": 341370,
+          "confirmed": 343812,
           "date": "2022-02-10",
-          "deaths": 6886
+          "deaths": 6890
         }
       },
       "Santa Catarina": {
         "live": {
-          "confirmed": 1520112,
+          "confirmed": 1528594,
           "date": "2022-02-10",
-          "deaths": 20876
+          "deaths": 20911
         }
       },
       "Sao Paulo": {
         "live": {
-          "confirmed": 4782249,
+          "confirmed": 4801295,
           "date": "2022-02-10",
-          "deaths": 160542
+          "deaths": 160839
         }
       },
       "Sergipe": {
         "live": {
-          "confirmed": 310100,
+          "confirmed": 311648,
           "date": "2022-02-10",
-          "deaths": 6147
+          "deaths": 6154
         }
       },
       "Tocantins": {
         "live": {
-          "confirmed": 284778,
+          "confirmed": 286432,
           "date": "2022-02-10",
-          "deaths": 4028
+          "deaths": 4033
         }
       }
     }
@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 720802,
+      "confirmed": 725701,
       "date": "2022-02-10",
-      "deaths": 16542
+      "deaths": 16577
     }
   },
   "Honduras": {
@@ -958,9 +958,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 322274,
+      "confirmed": 322334,
       "date": "2022-02-10",
-      "deaths": 5622
+      "deaths": 5626
     }
   },
   "Korea, South": {
@@ -1489,9 +1489,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 311088,
+          "confirmed": 311591,
           "date": "2022-02-10",
-          "deaths": 4556
+          "deaths": 4565
         }
       },
       "Michigan": {
@@ -1653,9 +1653,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 749554,
+      "confirmed": 758366,
       "date": "2022-02-10",
-      "deaths": 6696
+      "deaths": 6710
     }
   },
   "Venezuela": {
