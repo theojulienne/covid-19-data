@@ -40,16 +40,16 @@
         "live": {
           "confirmed": 961809,
           "date": "2022-02-11",
-          "deaths": 2248
+          "deaths": 2247
         }
       }
     }
   },
   "Austria": {
     "live": {
-      "confirmed": 2184873,
+      "confirmed": 2217585,
       "date": "2022-02-11",
-      "deaths": 14315
+      "deaths": 14337
     }
   },
   "Azerbaijan": {
@@ -1034,23 +1034,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1278083,
+          "confirmed": 1285560,
           "date": "2022-02-11",
-          "deaths": 41452
+          "deaths": 41538
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 489567,
+          "confirmed": 493040,
           "date": "2022-02-11",
-          "deaths": 45694
+          "deaths": 45764
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 280030,
+          "confirmed": 282962,
           "date": "2022-02-11",
-          "deaths": 14408
+          "deaths": 14474
         }
       }
     }
@@ -1209,9 +1209,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5296386,
+      "confirmed": 5328492,
       "date": "2022-02-11",
-      "deaths": 107466
+      "deaths": 107757
     }
   },
   "Portugal": {
@@ -1276,9 +1276,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 722002,
+      "confirmed": 724525,
       "date": "2022-02-11",
-      "deaths": 8965
+      "deaths": 8969
     }
   },
   "Serbia": {
@@ -1297,9 +1297,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1794150,
+      "confirmed": 1818532,
       "date": "2022-02-11",
-      "deaths": 18040
+      "deaths": 18064
     }
   },
   "Slovenia": {
@@ -1433,7 +1433,7 @@
     "live": {
       "confirmed": 2515506,
       "date": "2022-02-11",
-      "deaths": 12919
+      "deaths": 12921
     }
   },
   "Thailand": {
