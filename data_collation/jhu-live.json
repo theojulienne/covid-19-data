@@ -24,7 +24,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1183196,
+          "confirmed": 1183100,
           "date": "2022-02-11",
           "deaths": 1659
         }
@@ -360,7 +360,7 @@
         "live": {
           "confirmed": 891949,
           "date": "2022-02-11",
-          "deaths": 13617
+          "deaths": 13656
         }
       }
     }
@@ -524,9 +524,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1657539,
+          "confirmed": 1690065,
           "date": "2022-02-11",
-          "deaths": 13875
+          "deaths": 13896
         }
       },
       "Bayern": {
@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 725701,
+      "confirmed": 729977,
       "date": "2022-02-11",
-      "deaths": 16577
+      "deaths": 16611
     }
   },
   "Honduras": {
@@ -796,9 +796,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4580093,
-      "date": "2022-02-09",
-      "deaths": 144719
+      "confirmed": 4667554,
+      "date": "2022-02-11",
+      "deaths": 144858
     }
   },
   "Iran": {
@@ -921,23 +921,23 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 326467,
+          "confirmed": 334592,
           "date": "2022-02-11",
-          "deaths": 1410
+          "deaths": 1428
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 470211,
+          "confirmed": 485513,
           "date": "2022-02-11",
-          "deaths": 3302
+          "deaths": 3329
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 759431,
+          "confirmed": 778091,
           "date": "2022-02-11",
-          "deaths": 3282
+          "deaths": 3291
         }
       }
     }
@@ -1071,9 +1071,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1152414,
+      "confirmed": 1153562,
       "date": "2022-02-11",
-      "deaths": 15727
+      "deaths": 15747
     }
   },
   "Nepal": {
@@ -1468,9 +1468,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5860644,
+          "confirmed": 5867677,
           "date": "2022-02-11",
-          "deaths": 57982
+          "deaths": 58068
         }
       },
       "Florida": {
@@ -1503,9 +1503,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 287957,
+          "confirmed": 288433,
           "date": "2022-02-11",
-          "deaths": 2435
+          "deaths": 2445
         }
       },
       "Nevada": {
@@ -1524,9 +1524,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 546730,
+          "confirmed": 548218,
           "date": "2022-02-11",
-          "deaths": 2477
+          "deaths": 2482
         }
       },
       "Ohio": {
@@ -1538,9 +1538,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 299963,
+          "confirmed": 300509,
           "date": "2022-02-11",
-          "deaths": 4844
+          "deaths": 4859
         }
       },
       "Texas": {
