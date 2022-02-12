@@ -54,9 +54,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 732380,
+      "confirmed": 738328,
       "date": "2022-02-12",
-      "deaths": 8998
+      "deaths": 9027
     }
   },
   "Bahrain": {
@@ -369,9 +369,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 1046427,
+          "confirmed": 1058594,
           "date": "2022-02-12",
-          "deaths": 20332
+          "deaths": 20369
         }
       }
     }
@@ -617,9 +617,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2146798,
+      "confirmed": 2163240,
       "date": "2022-02-12",
-      "deaths": 24609
+      "deaths": 24679
     }
   },
   "Guatemala": {
@@ -928,23 +928,23 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 334592,
+          "confirmed": 342632,
           "date": "2022-02-12",
-          "deaths": 1428
+          "deaths": 1433
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 485513,
+          "confirmed": 492259,
           "date": "2022-02-12",
-          "deaths": 3329
+          "deaths": 3340
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 778091,
+          "confirmed": 789856,
           "date": "2022-02-12",
-          "deaths": 3291
+          "deaths": 3298
         }
       }
     }
@@ -1223,9 +1223,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 3049692,
+      "confirmed": 3069128,
       "date": "2022-02-12",
-      "deaths": 20442
+      "deaths": 20492
     }
   },
   "Qatar": {
