@@ -84,49 +84,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 505687,
+          "confirmed": 508397,
           "date": "2022-02-12",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 400677,
+          "confirmed": 401821,
           "date": "2022-02-12",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 434358,
+          "confirmed": 436518,
           "date": "2022-02-12",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 310953,
+          "confirmed": 312390,
           "date": "2022-02-12",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 401775,
+          "confirmed": 403579,
           "date": "2022-02-12",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 335747,
+          "confirmed": 336939,
           "date": "2022-02-12",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 353679,
+          "confirmed": 355095,
           "date": "2022-02-12",
           "deaths": 0
         }
@@ -380,42 +380,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 911695,
+          "confirmed": 912662,
           "date": "2022-02-12",
           "deaths": 17976
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 398508,
+          "confirmed": 399124,
           "date": "2022-02-12",
           "deaths": 9988
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1726889,
+          "confirmed": 1732976,
           "date": "2022-02-12",
           "deaths": 28657
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 310901,
+          "confirmed": 311873,
           "date": "2022-02-12",
           "deaths": 7048
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 277811,
+          "confirmed": 278500,
           "date": "2022-02-12",
           "deaths": 7947
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 534180,
+          "confirmed": 534788,
           "date": "2022-02-12",
           "deaths": 14703
         }
@@ -951,7 +951,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1373047,
+      "confirmed": 1375330,
       "date": "2022-02-12",
       "deaths": 18736
     }
@@ -1161,16 +1161,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 493478,
+          "confirmed": 494238,
           "date": "2022-02-12",
-          "deaths": 13322
+          "deaths": 13335
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 555920,
+          "confirmed": 556772,
           "date": "2022-02-12",
-          "deaths": 7958
+          "deaths": 7971
         }
       }
     }
