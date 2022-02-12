@@ -47,9 +47,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 2217585,
+      "confirmed": 2248713,
       "date": "2022-02-12",
-      "deaths": 14337
+      "deaths": 14360
     }
   },
   "Azerbaijan": {
@@ -1216,9 +1216,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5328492,
+      "confirmed": 5356647,
       "date": "2022-02-12",
-      "deaths": 107757
+      "deaths": 108089
     }
   },
   "Portugal": {
@@ -1246,46 +1246,46 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2577044,
+          "confirmed": 2591380,
           "date": "2022-02-12",
-          "deaths": 39849
+          "deaths": 39934
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 873947,
+          "confirmed": 883093,
           "date": "2022-02-12",
-          "deaths": 13739
+          "deaths": 13770
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 296446,
+          "confirmed": 300777,
           "date": "2022-02-12",
-          "deaths": 10740
+          "deaths": 10766
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 1231724,
+          "confirmed": 1253413,
           "date": "2022-02-12",
-          "deaths": 30582
+          "deaths": 30651
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 274313,
+          "confirmed": 279269,
           "date": "2022-02-12",
-          "deaths": 10117
+          "deaths": 10128
         }
       }
     }
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 724525,
+      "confirmed": 726251,
       "date": "2022-02-12",
-      "deaths": 8969
+      "deaths": 8971
     }
   },
   "Serbia": {
@@ -1304,9 +1304,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1818532,
+      "confirmed": 1841934,
       "date": "2022-02-12",
-      "deaths": 18064
+      "deaths": 18081
     }
   },
   "Slovenia": {
@@ -1440,7 +1440,7 @@
     "live": {
       "confirmed": 2537734,
       "date": "2022-02-12",
-      "deaths": 12932
+      "deaths": 12933
     }
   },
   "Thailand": {
