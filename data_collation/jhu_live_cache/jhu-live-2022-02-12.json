@@ -186,14 +186,14 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 972632,
+          "confirmed": 974892,
           "date": "2022-02-12",
-          "deaths": 13806
+          "deaths": 13820
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 1099588,
+          "confirmed": 1101952,
           "date": "2022-02-12",
           "deaths": 25315
         }
@@ -207,9 +207,9 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 668864,
+          "confirmed": 672298,
           "date": "2022-02-12",
-          "deaths": 14495
+          "deaths": 14511
         }
       },
       "Mato Grosso do Sul": {
@@ -228,9 +228,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 678438,
+          "confirmed": 681543,
           "date": "2022-02-12",
-          "deaths": 17513
+          "deaths": 17534
         }
       },
       "Paraiba": {
@@ -256,9 +256,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 355645,
+          "confirmed": 356816,
           "date": "2022-02-12",
-          "deaths": 7514
+          "deaths": 7526
         }
       },
       "Rio Grande do Norte": {
@@ -344,9 +344,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 337547,
+          "confirmed": 338585,
           "date": "2022-02-12",
-          "deaths": 2730
+          "deaths": 2747
         }
       },
       "Ontario": {
@@ -508,9 +508,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 20965569,
+      "confirmed": 20957064,
       "date": "2022-02-12",
-      "deaths": 131690
+      "deaths": 131672
     }
   },
   "Georgia": {
@@ -796,9 +796,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4667554,
+      "confirmed": 4708043,
       "date": "2022-02-12",
-      "deaths": 144858
+      "deaths": 144958
     }
   },
   "Iran": {
@@ -965,9 +965,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 1239287,
+      "confirmed": 1294205,
       "date": "2022-02-12",
-      "deaths": 7012
+      "deaths": 7045
     }
   },
   "Kuwait": {
@@ -1177,9 +1177,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 737659,
+      "confirmed": 739770,
       "date": "2022-02-12",
-      "deaths": 7909
+      "deaths": 7926
     }
   },
   "Paraguay": {
@@ -1461,9 +1461,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1223947,
+          "confirmed": 1225561,
           "date": "2022-02-12",
-          "deaths": 15219
+          "deaths": 15256
         }
       },
       "California": {
