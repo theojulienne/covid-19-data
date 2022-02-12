@@ -61,9 +61,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 453916,
+      "confirmed": 458539,
       "date": "2022-02-12",
-      "deaths": 1421
+      "deaths": 1425
     }
   },
   "Bangladesh": {
@@ -445,9 +445,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 285943,
+      "confirmed": 288063,
       "date": "2022-02-12",
-      "deaths": 780
+      "deaths": 785
     }
   },
   "Czechia": {
@@ -831,9 +831,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3389368,
+      "confirmed": 3394758,
       "date": "2022-02-12",
-      "deaths": 9458
+      "deaths": 9466
     }
   },
   "Italy": {
@@ -1145,9 +1145,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 284875,
+      "confirmed": 286096,
       "date": "2022-02-12",
-      "deaths": 8705
+      "deaths": 8736
     }
   },
   "Norway": {
@@ -1470,7 +1470,7 @@
         "live": {
           "confirmed": 1227972,
           "date": "2022-02-12",
-          "deaths": 15256
+          "deaths": 15308
         }
       },
       "California": {
@@ -1524,9 +1524,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2926848,
+          "confirmed": 2928089,
           "date": "2022-02-12",
-          "deaths": 45087
+          "deaths": 45100
         }
       },
       "North Carolina": {
