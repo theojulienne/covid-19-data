@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 267020,
+      "confirmed": 267551,
       "date": "2022-02-12",
-      "deaths": 3402
+      "deaths": 3407
     }
   },
   "Argentina": {
@@ -487,9 +487,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 410210,
+      "confirmed": 415994,
       "date": "2022-02-12",
-      "deaths": 2100
+      "deaths": 2106
     }
   },
   "Ethiopia": {
@@ -1311,9 +1311,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 836088,
+      "confirmed": 843495,
       "date": "2022-02-12",
-      "deaths": 6059
+      "deaths": 6074
     }
   },
   "South Africa": {
@@ -1614,9 +1614,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 865576,
+      "confirmed": 866971,
       "date": "2022-02-12",
-      "deaths": 2283
+      "deaths": 2284
     }
   },
   "United Kingdom": {
@@ -1681,9 +1681,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 309013,
+      "confirmed": 309293,
       "date": "2022-02-12",
-      "deaths": 3936
+      "deaths": 3937
     }
   }
 }
