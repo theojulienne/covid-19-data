@@ -8,9 +8,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 8716940,
+      "confirmed": 8728262,
       "date": "2022-02-12",
-      "deaths": 123859
+      "deaths": 123987
     }
   },
   "Armenia": {
@@ -993,9 +993,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1006109,
+      "confirmed": 1012044,
       "date": "2022-02-12",
-      "deaths": 9807
+      "deaths": 9824
     }
   },
   "Libya": {
@@ -1468,7 +1468,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1225561,
+          "confirmed": 1227972,
           "date": "2022-02-12",
           "deaths": 15256
         }
