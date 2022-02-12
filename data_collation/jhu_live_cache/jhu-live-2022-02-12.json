@@ -382,42 +382,42 @@
         "live": {
           "confirmed": 912662,
           "date": "2022-02-12",
-          "deaths": 17976
+          "deaths": 17993
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 399124,
           "date": "2022-02-12",
-          "deaths": 9988
+          "deaths": 9999
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1732976,
           "date": "2022-02-12",
-          "deaths": 28657
+          "deaths": 28684
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 311873,
           "date": "2022-02-12",
-          "deaths": 7048
+          "deaths": 7066
         }
       },
       "Santander": {
         "live": {
           "confirmed": 278500,
           "date": "2022-02-12",
-          "deaths": 7947
+          "deaths": 7959
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 534788,
           "date": "2022-02-12",
-          "deaths": 14703
+          "deaths": 14723
         }
       }
     }
@@ -452,9 +452,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3363053,
+      "confirmed": 3385250,
       "date": "2022-02-12",
-      "deaths": 37712
+      "deaths": 37765
     }
   },
   "Denmark": {
@@ -958,7 +958,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1375330,
+      "confirmed": 1375433,
       "date": "2022-02-12",
       "deaths": 18736
     }
@@ -1660,9 +1660,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 501586,
+      "confirmed": 503162,
       "date": "2022-02-12",
-      "deaths": 5521
+      "deaths": 5529
     }
   },
   "Vietnam": {
