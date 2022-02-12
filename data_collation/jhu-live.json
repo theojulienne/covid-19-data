@@ -986,9 +986,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 500126,
+      "confirmed": 510833,
       "date": "2022-02-12",
-      "deaths": 5007
+      "deaths": 5020
     }
   },
   "Lebanon": {
@@ -1237,9 +1237,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2531597,
+      "confirmed": 2550348,
       "date": "2022-02-12",
-      "deaths": 61363
+      "deaths": 61520
     }
   },
   "Russia": {
@@ -1667,9 +1667,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2457170,
+      "confirmed": 2484481,
       "date": "2022-02-12",
-      "deaths": 38784
+      "deaths": 38862
     }
   },
   "West Bank and Gaza": {
