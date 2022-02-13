@@ -61,9 +61,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 458539,
+      "confirmed": 463805,
       "date": "2022-02-13",
-      "deaths": 1425
+      "deaths": 1427
     }
   },
   "Bangladesh": {
@@ -831,7 +831,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3423870,
+      "confirmed": 3426096,
       "date": "2022-02-13",
       "deaths": 9544
     }
@@ -1531,9 +1531,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2929451,
+          "confirmed": 2930506,
           "date": "2022-02-13",
-          "deaths": 45160
+          "deaths": 45164
         }
       },
       "North Carolina": {
