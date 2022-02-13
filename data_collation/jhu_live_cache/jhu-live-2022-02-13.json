@@ -1168,16 +1168,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 494238,
+          "confirmed": 494971,
           "date": "2022-02-13",
-          "deaths": 13335
+          "deaths": 13355
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 556772,
+          "confirmed": 557931,
           "date": "2022-02-13",
-          "deaths": 7971
+          "deaths": 7978
         }
       }
     }
@@ -1475,9 +1475,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5873209,
+          "confirmed": 5877869,
           "date": "2022-02-13",
-          "deaths": 58142
+          "deaths": 58224
         }
       },
       "Florida": {
