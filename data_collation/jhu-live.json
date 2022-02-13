@@ -351,9 +351,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1070455,
+          "confirmed": 1072720,
           "date": "2022-02-13",
-          "deaths": 12075
+          "deaths": 12093
         }
       },
       "Quebec": {
@@ -489,7 +489,7 @@
     "live": {
       "confirmed": 420604,
       "date": "2022-02-13",
-      "deaths": 2106
+      "deaths": 2113
     }
   },
   "Ethiopia": {
@@ -552,7 +552,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 313298,
+          "confirmed": 314251,
           "date": "2022-02-13",
           "deaths": 2210
         }
@@ -580,9 +580,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 478259,
+          "confirmed": 480811,
           "date": "2022-02-13",
-          "deaths": 4868
+          "deaths": 4869
         }
       },
       "Sachsen": {
@@ -810,9 +810,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6780453,
+      "confirmed": 6806265,
       "date": "2022-02-13",
-      "deaths": 133570
+      "deaths": 133718
     }
   },
   "Iraq": {
@@ -1085,9 +1085,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 972632,
+      "confirmed": 973059,
       "date": "2022-02-13",
-      "deaths": 11882
+      "deaths": 11892
     }
   },
   "Netherlands": {
@@ -1674,9 +1674,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2484481,
+      "confirmed": 2510860,
       "date": "2022-02-13",
-      "deaths": 38862
+      "deaths": 38946
     }
   },
   "West Bank and Gaza": {
