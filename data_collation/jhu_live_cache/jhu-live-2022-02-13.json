@@ -8,9 +8,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 8728262,
+      "confirmed": 8734551,
       "date": "2022-02-13",
-      "deaths": 123987
+      "deaths": 124081
     }
   },
   "Armenia": {
@@ -438,9 +438,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1059834,
+      "confirmed": 1060732,
       "date": "2022-02-13",
-      "deaths": 8467
+      "deaths": 8472
     }
   },
   "Cyprus": {
@@ -494,9 +494,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 467399,
+      "confirmed": 467498,
       "date": "2022-02-13",
-      "deaths": 7421
+      "deaths": 7424
     }
   },
   "Finland": {
@@ -993,9 +993,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1012044,
+      "confirmed": 1016487,
       "date": "2022-02-13",
-      "deaths": 9824
+      "deaths": 9840
     }
   },
   "Libya": {
