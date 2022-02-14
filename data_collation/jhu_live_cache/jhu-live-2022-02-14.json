@@ -321,9 +321,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 546771,
+      "confirmed": 548357,
       "date": "2022-02-14",
-      "deaths": 19310
+      "deaths": 19311
     }
   },
   "Canada": {
@@ -1087,49 +1087,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 657095,
+          "confirmed": 665626,
           "date": "2022-02-14",
-          "deaths": 2638
+          "deaths": 2641
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 361668,
+          "confirmed": 364775,
           "date": "2022-02-14",
           "deaths": 2094
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 849930,
+          "confirmed": 856863,
           "date": "2022-02-14",
           "deaths": 3588
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 963814,
+          "confirmed": 971271,
           "date": "2022-02-14",
-          "deaths": 3211
+          "deaths": 3213
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 380440,
+          "confirmed": 384606,
           "date": "2022-02-14",
           "deaths": 1361
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 467279,
+          "confirmed": 472029,
           "date": "2022-02-14",
-          "deaths": 1490
+          "deaths": 1491
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1273898,
+          "confirmed": 1283025,
           "date": "2022-02-14",
           "deaths": 4937
         }
@@ -1297,9 +1297,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1841010,
+      "confirmed": 1848040,
       "date": "2022-02-14",
-      "deaths": 14427
+      "deaths": 14494
     }
   },
   "Singapore": {
@@ -1413,9 +1413,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 628116,
+      "confirmed": 629347,
       "date": "2022-02-14",
-      "deaths": 15808
+      "deaths": 15844
     }
   },
   "Sweden": {
