@@ -1,11 +1,4 @@
 {
-  "Albania": {
-    "live": {
-      "confirmed": 268008,
-      "date": "2022-02-14",
-      "deaths": 3410
-    }
-  },
   "Argentina": {
     "live": {
       "confirmed": 8734551,
@@ -15,9 +8,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 406379,
+      "confirmed": 407074,
       "date": "2022-02-14",
-      "deaths": 8167
+      "deaths": 8186
     }
   },
   "Australia": {
@@ -638,9 +631,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1695991,
+      "confirmed": 1717072,
       "date": "2022-02-14",
-      "deaths": 42360
+      "deaths": 42631
     }
   },
   "India": {
@@ -1246,44 +1239,51 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2603876,
+          "confirmed": 2613492,
           "date": "2022-02-14",
-          "deaths": 40020
+          "deaths": 40102
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 890442,
+          "confirmed": 896840,
           "date": "2022-02-14",
-          "deaths": 13804
+          "deaths": 13840
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 305360,
+          "confirmed": 310180,
           "date": "2022-02-14",
-          "deaths": 10780
+          "deaths": 10793
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 1273549,
+          "confirmed": 1284933,
           "date": "2022-02-14",
-          "deaths": 30723
+          "deaths": 30793
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 267687,
+          "confirmed": 270920,
           "date": "2022-02-14",
-          "deaths": 6873
+          "deaths": 6887
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 284165,
+          "confirmed": 288757,
           "date": "2022-02-14",
-          "deaths": 10137
+          "deaths": 10147
+        }
+      },
+      "Voronezh Oblast": {
+        "live": {
+          "confirmed": 271920,
+          "date": "2022-02-14",
+          "deaths": 7420
         }
       }
     }
