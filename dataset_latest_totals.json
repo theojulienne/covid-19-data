@@ -2193,18 +2193,18 @@
     },
     "LTU": {
       "back_1week": {
-        "confirmed": 740137,
-        "deaths": 7969,
+        "confirmed": 749614,
+        "deaths": 7986,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 663810,
-        "deaths": 7845,
+        "confirmed": 673518,
+        "deaths": 7860,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 807861,
-        "deaths": 8090,
+        "confirmed": 815861,
+        "deaths": 8114,
         "recovered": 0
       }
     },
