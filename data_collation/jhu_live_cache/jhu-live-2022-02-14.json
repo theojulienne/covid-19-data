@@ -979,9 +979,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 518622,
+      "confirmed": 522766,
       "date": "2022-02-14",
-      "deaths": 5024
+      "deaths": 5029
     }
   },
   "Lebanon": {
@@ -1152,9 +1152,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 365700,
+      "confirmed": 367679,
       "date": "2022-02-14",
-      "deaths": 4208
+      "deaths": 4211
     }
   },
   "Pakistan": {
@@ -1318,7 +1318,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 851378,
+      "confirmed": 851416,
       "date": "2022-02-14",
       "deaths": 6098
     }
@@ -1447,7 +1447,7 @@
     "live": {
       "confirmed": 2537734,
       "date": "2022-02-14",
-      "deaths": 12936
+      "deaths": 12942
     }
   },
   "Thailand": {
@@ -1621,9 +1621,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 868237,
+      "confirmed": 869428,
       "date": "2022-02-14",
-      "deaths": 2285
+      "deaths": 2287
     }
   },
   "United Kingdom": {
