@@ -1854,17 +1854,17 @@
     "ISR": {
       "back_1week": {
         "confirmed": 3247419,
-        "deaths": 9180,
+        "deaths": 9226,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 2900569,
-        "deaths": 8725,
+        "deaths": 8805,
         "recovered": 0
       },
       "latest": {
         "confirmed": 3451526,
-        "deaths": 9544,
+        "deaths": 9624,
         "recovered": 0
       }
     },
@@ -1904,18 +1904,18 @@
     },
     "JOR": {
       "back_1week": {
-        "confirmed": 1330107,
-        "deaths": 13320,
+        "confirmed": 1351733,
+        "deaths": 13347,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1209083,
-        "deaths": 13193,
+        "confirmed": 1225309,
+        "deaths": 13217,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1468360,
-        "deaths": 13508,
+        "confirmed": 1490473,
+        "deaths": 13532,
         "recovered": 0
       }
     },
@@ -2159,18 +2159,18 @@
     },
     "LKA": {
       "back_1week": {
-        "confirmed": 618520,
-        "deaths": 15595,
+        "confirmed": 620732,
+        "deaths": 15621,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 610103,
-        "deaths": 15420,
+        "confirmed": 611185,
+        "deaths": 15441,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 628116,
-        "deaths": 15808,
+        "confirmed": 629347,
+        "deaths": 15844,
         "recovered": 0
       }
     },
