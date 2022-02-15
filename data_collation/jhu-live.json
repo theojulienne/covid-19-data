@@ -8,9 +8,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 407074,
+      "confirmed": 408381,
       "date": "2022-02-15",
-      "deaths": 8186
+      "deaths": 8201
     }
   },
   "Australia": {
@@ -508,9 +508,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 1458093,
+      "confirmed": 1480841,
       "date": "2022-02-15",
-      "deaths": 15577
+      "deaths": 15628
     }
   },
   "Germany": {
@@ -1000,9 +1000,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 820131,
+      "confirmed": 826841,
       "date": "2022-02-15",
-      "deaths": 8134
+      "deaths": 8172
     }
   },
   "Malaysia": {
@@ -1034,21 +1034,21 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1300572,
+          "confirmed": 1302967,
           "date": "2022-02-15",
-          "deaths": 41651
+          "deaths": 41670
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 499545,
+          "confirmed": 500149,
           "date": "2022-02-15",
-          "deaths": 45860
+          "deaths": 45896
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 289050,
+          "confirmed": 289312,
           "date": "2022-02-15",
           "deaths": 14550
         }
@@ -1584,37 +1584,37 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 282268,
+          "confirmed": 284714,
           "date": "2022-02-15",
-          "deaths": 9279
+          "deaths": 9289
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 292417,
+          "confirmed": 293771,
           "date": "2022-02-15",
-          "deaths": 6734
+          "deaths": 6743
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 406992,
+          "confirmed": 411576,
           "date": "2022-02-15",
-          "deaths": 8755
+          "deaths": 8770
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 294052,
+          "confirmed": 295051,
           "date": "2022-02-15",
-          "deaths": 6421
+          "deaths": 6437
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 305280,
+          "confirmed": 308595,
           "date": "2022-02-15",
-          "deaths": 5798
+          "deaths": 5810
         }
       }
     }
