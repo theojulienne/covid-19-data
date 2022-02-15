@@ -445,9 +445,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3403469,
+      "confirmed": 3422981,
       "date": "2022-02-15",
-      "deaths": 37873
+      "deaths": 37946
     }
   },
   "Denmark": {
@@ -1023,7 +1023,7 @@
       },
       "Selangor": {
         "live": {
-          "confirmed": 859601,
+          "confirmed": 859521,
           "date": "2022-02-15",
           "deaths": 10077
         }
