@@ -3904,13 +3904,13 @@
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 484021,
-        "deaths": 5440,
+        "confirmed": 485974,
+        "deaths": 5447,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 504719,
-        "deaths": 5538,
+        "confirmed": 505947,
+        "deaths": 5549,
         "recovered": 0
       }
     },

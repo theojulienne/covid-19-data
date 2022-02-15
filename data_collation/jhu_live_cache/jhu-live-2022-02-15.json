@@ -1177,9 +1177,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 742854,
+      "confirmed": 743653,
       "date": "2022-02-15",
-      "deaths": 7950
+      "deaths": 7960
     }
   },
   "Paraguay": {
@@ -1667,9 +1667,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 505947,
+      "confirmed": 506977,
       "date": "2022-02-15",
-      "deaths": 5549
+      "deaths": 5556
     }
   },
   "Vietnam": {
