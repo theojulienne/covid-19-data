@@ -87,18 +87,18 @@
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 8589879,
-        "deaths": 122684,
+        "confirmed": 8615285,
+        "deaths": 122943,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 8335184,
-        "deaths": 120988,
+        "confirmed": 8378656,
+        "deaths": 121273,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 8734551,
-        "deaths": 124081,
+        "confirmed": 8747601,
+        "deaths": 124349,
         "recovered": 0
       }
     },
@@ -384,17 +384,17 @@
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 421081,
-        "deaths": 1411,
+        "confirmed": 428123,
+        "deaths": 1414,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 368767,
-        "deaths": 1407,
+        "confirmed": 374575,
+        "deaths": 1408,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 463805,
+        "confirmed": 468623,
         "deaths": 1427,
         "recovered": 0
       }
@@ -1030,17 +1030,17 @@
     },
     "CUB": {
       "back_1week": {
-        "confirmed": 1053560,
+        "confirmed": 1054909,
         "deaths": 8439,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1042671,
+        "confirmed": 1044790,
         "deaths": 8397,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1060732,
+        "confirmed": 1061524,
         "deaths": 8472,
         "recovered": 0
       }
@@ -1200,13 +1200,13 @@
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 729760,
-        "deaths": 34514,
+        "confirmed": 732038,
+        "deaths": 34533,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 781470,
-        "deaths": 34854,
+        "confirmed": 799140,
+        "deaths": 35036,
         "recovered": 0
       }
     },
@@ -1490,8 +1490,8 @@
           "recovered": 0
         },
         "Guernsey": {
-          "confirmed": 0,
-          "deaths": 0,
+          "confirmed": 12534,
+          "deaths": 31,
           "recovered": 0
         },
         "Isle of Man": {
@@ -1500,8 +1500,8 @@
           "recovered": 0
         },
         "Jersey": {
-          "confirmed": 0,
-          "deaths": 0,
+          "confirmed": 34203,
+          "deaths": 106,
           "recovered": 0
         },
         "Montserrat": {
@@ -2050,18 +2050,18 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 578819,
-        "deaths": 2510,
+        "confirmed": 583113,
+        "deaths": 2511,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 539654,
-        "deaths": 2496,
+        "confirmed": 545717,
+        "deaths": 2497,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 601307,
-        "deaths": 2520,
+        "confirmed": 603869,
+        "deaths": 2521,
         "recovered": 0
       }
     },
