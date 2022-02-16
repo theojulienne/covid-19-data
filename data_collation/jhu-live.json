@@ -24,7 +24,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 510789,
+          "confirmed": 507793,
           "date": "2022-02-16",
           "deaths": 399
         }
@@ -375,42 +375,42 @@
         "live": {
           "confirmed": 913941,
           "date": "2022-02-16",
-          "deaths": 18050
+          "deaths": 18058
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 399944,
           "date": "2022-02-16",
-          "deaths": 10030
+          "deaths": 10036
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1741224,
           "date": "2022-02-16",
-          "deaths": 28800
+          "deaths": 28828
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 313204,
           "date": "2022-02-16",
-          "deaths": 7095
+          "deaths": 7099
         }
       },
       "Santander": {
         "live": {
           "confirmed": 279587,
           "date": "2022-02-16",
-          "deaths": 8002
+          "deaths": 8010
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 536351,
           "date": "2022-02-16",
-          "deaths": 14781
+          "deaths": 14798
         }
       }
     }
@@ -445,9 +445,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3422981,
+      "confirmed": 3451318,
       "date": "2022-02-16",
-      "deaths": 37946
+      "deaths": 37991
     }
   },
   "Denmark": {
@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 735957,
+      "confirmed": 740011,
       "date": "2022-02-16",
-      "deaths": 16643
+      "deaths": 16661
     }
   },
   "Honduras": {
@@ -640,23 +640,23 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2313212,
+          "confirmed": 2313827,
           "date": "2022-02-16",
-          "deaths": 14698
+          "deaths": 14702
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 723693,
+          "confirmed": 723759,
           "date": "2022-02-16",
-          "deaths": 6610
+          "deaths": 6615
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 829050,
+          "confirmed": 829209,
           "date": "2022-02-16",
-          "deaths": 12252
+          "deaths": 12253
         }
       },
       "Chhattisgarh": {
@@ -1066,7 +1066,7 @@
     "live": {
       "confirmed": 888363,
       "date": "2022-02-16",
-      "deaths": 2148
+      "deaths": 2149
     }
   },
   "Morocco": {
