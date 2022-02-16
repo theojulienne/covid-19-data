@@ -17,7 +17,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1222620,
+          "confirmed": 1222461,
           "date": "2022-02-16",
           "deaths": 1770
         }
@@ -77,49 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 513303,
+          "confirmed": 515834,
           "date": "2022-02-16",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 404407,
+          "confirmed": 405167,
           "date": "2022-02-16",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 439785,
+          "confirmed": 441495,
           "date": "2022-02-16",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 314908,
+          "confirmed": 316488,
           "date": "2022-02-16",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 406625,
+          "confirmed": 407647,
           "date": "2022-02-16",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 338745,
+          "confirmed": 339740,
           "date": "2022-02-16",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 357571,
+          "confirmed": 358883,
           "date": "2022-02-16",
           "deaths": 0
         }
@@ -128,9 +128,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 885004,
+      "confirmed": 886108,
       "date": "2022-02-16",
-      "deaths": 21314
+      "deaths": 21331
     }
   },
   "Bosnia and Herzegovina": {
@@ -951,7 +951,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1379972,
+      "confirmed": 1381558,
       "date": "2022-02-16",
       "deaths": 18796
     }
@@ -1161,16 +1161,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 496134,
+          "confirmed": 496724,
           "date": "2022-02-16",
-          "deaths": 13380
+          "deaths": 13390
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 560036,
+          "confirmed": 560670,
           "date": "2022-02-16",
-          "deaths": 7985
+          "deaths": 8000
         }
       }
     }
