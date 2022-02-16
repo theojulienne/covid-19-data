@@ -1475,8 +1475,8 @@ var covid19_dataset_latest_totals = {
           "recovered": 0
         },
         "Channel Islands": {
-          "confirmed": 47228,
-          "deaths": 139,
+          "confirmed": 0,
+          "deaths": 0,
           "recovered": 0
         },
         "Falkland Islands (Malvinas)": {
