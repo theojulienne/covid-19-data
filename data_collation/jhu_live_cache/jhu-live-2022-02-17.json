@@ -26,7 +26,7 @@
         "live": {
           "confirmed": 513387,
           "date": "2022-02-17",
-          "deaths": 438
+          "deaths": 440
         }
       },
       "Victoria": {
@@ -494,9 +494,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 592765,
+      "confirmed": 600718,
       "date": "2022-02-17",
-      "deaths": 2242
+      "deaths": 2265
     }
   },
   "France": {
@@ -1209,9 +1209,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5434424,
+      "confirmed": 5460552,
       "date": "2022-02-17",
-      "deaths": 108887
+      "deaths": 109205
     }
   },
   "Portugal": {
@@ -1304,9 +1304,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 734389,
+      "confirmed": 735958,
       "date": "2022-02-17",
-      "deaths": 8977
+      "deaths": 8978
     }
   },
   "Serbia": {
@@ -1454,7 +1454,7 @@
     "live": {
       "confirmed": 2628093,
       "date": "2022-02-17",
-      "deaths": 12982
+      "deaths": 12983
     }
   },
   "Thailand": {
