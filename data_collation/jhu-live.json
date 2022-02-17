@@ -54,9 +54,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 477750,
+      "confirmed": 481512,
       "date": "2022-02-17",
-      "deaths": 1432
+      "deaths": 1433
     }
   },
   "Bangladesh": {
@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 744754,
+      "confirmed": 749257,
       "date": "2022-02-17",
-      "deaths": 16679
+      "deaths": 16709
     }
   },
   "Honduras": {
@@ -1184,9 +1184,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 630718,
+      "confirmed": 632444,
       "date": "2022-02-17",
-      "deaths": 18079
+      "deaths": 18116
     }
   },
   "Peru": {
