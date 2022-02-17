@@ -545,7 +545,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 324432,
+          "confirmed": 327954,
           "date": "2022-02-17",
           "deaths": 2237
         }
@@ -928,7 +928,7 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 537893,
+          "confirmed": 537888,
           "date": "2022-02-17",
           "deaths": 3455
         }
@@ -1202,9 +1202,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3644597,
+      "confirmed": 3646793,
       "date": "2022-02-17",
-      "deaths": 55223
+      "deaths": 55330
     }
   },
   "Poland": {
@@ -1454,7 +1454,7 @@
     "live": {
       "confirmed": 2628093,
       "date": "2022-02-17",
-      "deaths": 12985
+      "deaths": 12986
     }
   },
   "Thailand": {
@@ -1628,9 +1628,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 871315,
+      "confirmed": 872210,
       "date": "2022-02-17",
-      "deaths": 2289
+      "deaths": 2290
     }
   },
   "United Kingdom": {
@@ -1681,9 +1681,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2606824,
+      "confirmed": 2643024,
       "date": "2022-02-17",
-      "deaths": 39188
+      "deaths": 39278
     }
   },
   "West Bank and Gaza": {
@@ -1695,9 +1695,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 310155,
+      "confirmed": 310474,
       "date": "2022-02-17",
-      "deaths": 3939
+      "deaths": 3941
     }
   }
 }
