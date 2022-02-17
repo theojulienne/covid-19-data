@@ -351,7 +351,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 904572,
+          "confirmed": 906627,
           "date": "2022-02-17",
           "deaths": 13812
         }
@@ -438,9 +438,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 298235,
+      "confirmed": 300435,
       "date": "2022-02-17",
-      "deaths": 798
+      "deaths": 802
     }
   },
   "Czechia": {
@@ -1339,9 +1339,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3648968,
+      "confirmed": 3652024,
       "date": "2022-02-17",
-      "deaths": 97520
+      "deaths": 97955
     }
   },
   "Spain": {
@@ -1531,9 +1531,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 505500,
+          "confirmed": 505530,
           "date": "2022-02-17",
-          "deaths": 7286
+          "deaths": 7319
         }
       },
       "New York": {
@@ -1566,7 +1566,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2636341,
+          "confirmed": 2637715,
           "date": "2022-02-17",
           "deaths": 28086
         }
