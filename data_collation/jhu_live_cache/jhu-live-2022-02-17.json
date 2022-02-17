@@ -668,9 +668,9 @@
       },
       "Delhi": {
         "live": {
-          "confirmed": 1852662,
+          "confirmed": 1853428,
           "date": "2022-02-17",
-          "deaths": 26081
+          "deaths": 26086
         }
       },
       "Gujarat": {
@@ -682,21 +682,21 @@
       },
       "Haryana": {
         "live": {
-          "confirmed": 975195,
+          "confirmed": 975898,
           "date": "2022-02-17",
-          "deaths": 10499
+          "deaths": 10504
         }
       },
       "Himachal Pradesh": {
         "live": {
-          "confirmed": 281016,
+          "confirmed": 281173,
           "date": "2022-02-17",
-          "deaths": 4084
+          "deaths": 4086
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 451330,
+          "confirmed": 451560,
           "date": "2022-02-17",
           "deaths": 4745
         }
@@ -745,16 +745,16 @@
       },
       "Punjab": {
         "live": {
-          "confirmed": 756130,
+          "confirmed": 756456,
           "date": "2022-02-17",
-          "deaths": 17623
+          "deaths": 17635
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 1268272,
+          "confirmed": 1269974,
           "date": "2022-02-17",
-          "deaths": 9481
+          "deaths": 9494
         }
       },
       "Tamil Nadu": {
@@ -773,16 +773,16 @@
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 2060589,
+          "confirmed": 2061413,
           "date": "2022-02-17",
-          "deaths": 23404
+          "deaths": 23414
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 434053,
+          "confirmed": 434324,
           "date": "2022-02-17",
-          "deaths": 7660
+          "deaths": 7664
         }
       },
       "West Bengal": {
@@ -1034,23 +1034,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1308122,
+          "confirmed": 1312953,
           "date": "2022-02-17",
-          "deaths": 41699
+          "deaths": 41742
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 502169,
+          "confirmed": 504124,
           "date": "2022-02-17",
-          "deaths": 45959
+          "deaths": 46005
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 291054,
+          "confirmed": 293282,
           "date": "2022-02-17",
-          "deaths": 14617
+          "deaths": 14651
         }
       }
     }
