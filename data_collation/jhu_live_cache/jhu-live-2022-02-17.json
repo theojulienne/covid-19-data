@@ -431,9 +431,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1062748,
+      "confirmed": 1063481,
       "date": "2022-02-17",
-      "deaths": 8477
+      "deaths": 8482
     }
   },
   "Cyprus": {
@@ -501,7 +501,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 21397630,
+      "confirmed": 21397592,
       "date": "2022-02-17",
       "deaths": 132932
     }
@@ -517,9 +517,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1820592,
+          "confirmed": 1854802,
           "date": "2022-02-17",
-          "deaths": 13992
+          "deaths": 14019
         }
       },
       "Bayern": {
@@ -824,95 +824,95 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3502529,
+      "confirmed": 3508215,
       "date": "2022-02-17",
-      "deaths": 9710
+      "deaths": 9768
     }
   },
   "Italy": {
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 1156305,
+          "confirmed": 1162364,
           "date": "2022-02-17",
-          "deaths": 9594
+          "deaths": 9605
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 1154135,
+          "confirmed": 1157600,
           "date": "2022-02-17",
-          "deaths": 15640
+          "deaths": 15677
         }
       },
       "Friuli Venezia Giulia": {
         "live": {
-          "confirmed": 299523,
+          "confirmed": 300769,
           "date": "2022-02-17",
-          "deaths": 4675
+          "deaths": 4684
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 1015183,
+          "confirmed": 1021558,
           "date": "2022-02-17",
-          "deaths": 10222
+          "deaths": 10251
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 332054,
+          "confirmed": 333281,
           "date": "2022-02-17",
-          "deaths": 5031
+          "deaths": 5043
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 2278047,
+          "confirmed": 2284163,
           "date": "2022-02-17",
-          "deaths": 38127
+          "deaths": 38178
         }
       },
       "Marche": {
         "live": {
-          "confirmed": 309088,
+          "confirmed": 311262,
           "date": "2022-02-17",
-          "deaths": 3526
+          "deaths": 3534
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 952880,
+          "confirmed": 955939,
           "date": "2022-02-17",
-          "deaths": 12903
+          "deaths": 12920
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 692126,
+          "confirmed": 696492,
           "date": "2022-02-17",
-          "deaths": 7471
+          "deaths": 7501
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 729422,
+          "confirmed": 734915,
           "date": "2022-02-17",
-          "deaths": 9149
+          "deaths": 9185
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 824269,
+          "confirmed": 827960,
           "date": "2022-02-17",
-          "deaths": 8719
+          "deaths": 8739
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 1281954,
+          "confirmed": 1287834,
           "date": "2022-02-17",
-          "deaths": 13637
+          "deaths": 13658
         }
       }
     }
@@ -953,12 +953,12 @@
     "live": {
       "confirmed": 1382966,
       "date": "2022-02-17",
-      "deaths": 18807
+      "deaths": 18836
     }
   },
   "Kenya": {
     "live": {
-      "confirmed": 322545,
+      "confirmed": 322614,
       "date": "2022-02-17",
       "deaths": 5633
     }
@@ -1057,23 +1057,23 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 488899,
+      "confirmed": 490751,
       "date": "2022-02-17",
-      "deaths": 11009
+      "deaths": 11041
     }
   },
   "Mongolia": {
     "live": {
-      "confirmed": 891267,
+      "confirmed": 893721,
       "date": "2022-02-17",
       "deaths": 2152
     }
   },
   "Morocco": {
     "live": {
-      "confirmed": 1157001,
+      "confirmed": 1157637,
       "date": "2022-02-17",
-      "deaths": 15833
+      "deaths": 15855
     }
   },
   "Nepal": {
@@ -1466,16 +1466,16 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 971460,
+      "confirmed": 974214,
       "date": "2022-02-17",
-      "deaths": 27233
+      "deaths": 27295
     }
   },
   "Turkey": {
     "live": {
-      "confirmed": 13173859,
+      "confirmed": 13266265,
       "date": "2022-02-17",
-      "deaths": 91388
+      "deaths": 91646
     }
   },
   "US": {
@@ -1489,9 +1489,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5913970,
+          "confirmed": 5918062,
           "date": "2022-02-17",
-          "deaths": 58788
+          "deaths": 58827
         }
       },
       "Florida": {
@@ -1524,9 +1524,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 290635,
+          "confirmed": 290806,
           "date": "2022-02-17",
-          "deaths": 2466
+          "deaths": 2470
         }
       },
       "Nevada": {
@@ -1538,16 +1538,16 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2933814,
+          "confirmed": 2934329,
           "date": "2022-02-17",
-          "deaths": 45302
+          "deaths": 45332
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 281534,
+          "confirmed": 282031,
           "date": "2022-02-17",
-          "deaths": 999
+          "deaths": 1004
         }
       },
       "Ohio": {
@@ -1566,9 +1566,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2634907,
+          "confirmed": 2636341,
           "date": "2022-02-17",
-          "deaths": 28059
+          "deaths": 28086
         }
       },
       "Utah": {
@@ -1688,9 +1688,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 622175,
+      "confirmed": 625028,
       "date": "2022-02-17",
-      "deaths": 5320
+      "deaths": 5339
     }
   },
   "Zambia": {
