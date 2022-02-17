@@ -362,9 +362,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 1100785,
+          "confirmed": 1112591,
           "date": "2022-02-17",
-          "deaths": 20512
+          "deaths": 20555
         }
       }
     }
@@ -459,9 +459,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 570636,
+      "confirmed": 570889,
       "date": "2022-02-17",
-      "deaths": 4351
+      "deaths": 4354
     }
   },
   "Ecuador": {
@@ -580,9 +580,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 849253,
+          "confirmed": 858051,
           "date": "2022-02-17",
-          "deaths": 14246
+          "deaths": 14248
         }
       },
       "Sachsen-Anhalt": {
@@ -610,9 +610,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2235920,
+      "confirmed": 2255421,
       "date": "2022-02-17",
-      "deaths": 25001
+      "deaths": 25095
     }
   },
   "Guatemala": {
@@ -817,9 +817,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1255303,
+      "confirmed": 1260329,
       "date": "2022-02-17",
-      "deaths": 6399
+      "deaths": 6402
     }
   },
   "Israel": {
@@ -921,23 +921,23 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 370453,
+          "confirmed": 378478,
           "date": "2022-02-17",
-          "deaths": 1483
+          "deaths": 1518
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 537888,
+          "confirmed": 551800,
           "date": "2022-02-17",
-          "deaths": 3455
+          "deaths": 3509
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 846120,
+          "confirmed": 863984,
           "date": "2022-02-17",
-          "deaths": 3354
+          "deaths": 3378
         }
       }
     }
@@ -1138,9 +1138,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 289797,
+      "confirmed": 290915,
       "date": "2022-02-17",
-      "deaths": 8829
+      "deaths": 8851
     }
   },
   "Norway": {
@@ -1454,7 +1454,7 @@
     "live": {
       "confirmed": 2628093,
       "date": "2022-02-17",
-      "deaths": 12994
+      "deaths": 13001
     }
   },
   "Thailand": {
