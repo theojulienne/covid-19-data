@@ -265,18 +265,18 @@
     },
     "AZE": {
       "back_1week": {
-        "confirmed": 710366,
-        "deaths": 8920,
+        "confirmed": 718145,
+        "deaths": 8948,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 663693,
-        "deaths": 8755,
+        "confirmed": 670313,
+        "deaths": 8779,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 752605,
-        "deaths": 9105,
+        "confirmed": 759753,
+        "deaths": 9127,
         "recovered": 0
       }
     },
@@ -1914,18 +1914,18 @@
     },
     "JOR": {
       "back_1week": {
-        "confirmed": 1374453,
-        "deaths": 13382,
+        "confirmed": 1396430,
+        "deaths": 13409,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1243090,
-        "deaths": 13235,
+        "confirmed": 1260983,
+        "deaths": 13248,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1508950,
-        "deaths": 13554,
+        "confirmed": 1526272,
+        "deaths": 13585,
         "recovered": 0
       }
     },
@@ -2169,18 +2169,18 @@
     },
     "LKA": {
       "back_1week": {
-        "confirmed": 621985,
-        "deaths": 15656,
+        "confirmed": 623248,
+        "deaths": 15692,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 612322,
-        "deaths": 15474,
+        "confirmed": 613478,
+        "deaths": 15492,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 630599,
-        "deaths": 15874,
+        "confirmed": 631816,
+        "deaths": 15899,
         "recovered": 0
       }
     },
@@ -2844,18 +2844,18 @@
     },
     "PRT": {
       "back_1week": {
-        "confirmed": 2963747,
-        "deaths": 20302,
+        "confirmed": 2997770,
+        "deaths": 20354,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2690690,
-        "deaths": 19968,
+        "confirmed": 2745383,
+        "deaths": 20024,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3111858,
-        "deaths": 20620,
+        "confirmed": 3131899,
+        "deaths": 20666,
         "recovered": 0
       }
     },
@@ -3116,18 +3116,18 @@
     },
     "SRB": {
       "back_1week": {
-        "confirmed": 1793554,
-        "deaths": 14113,
+        "confirmed": 1806086,
+        "deaths": 14171,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1697012,
-        "deaths": 13687,
+        "confirmed": 1714863,
+        "deaths": 13748,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1855174,
-        "deaths": 14553,
+        "confirmed": 1861413,
+        "deaths": 14611,
         "recovered": 0
       }
     },
