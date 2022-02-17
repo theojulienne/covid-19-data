@@ -24,7 +24,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 513411,
+          "confirmed": 513387,
           "date": "2022-02-17",
           "deaths": 438
         }
@@ -1177,9 +1177,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 745367,
+      "confirmed": 746695,
       "date": "2022-02-17",
-      "deaths": 7970
+      "deaths": 7987
     }
   },
   "Paraguay": {
@@ -1452,9 +1452,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2639062,
+      "confirmed": 2656411,
       "date": "2022-02-17",
-      "deaths": 22516
+      "deaths": 22538
     }
   },
   "Tunisia": {
