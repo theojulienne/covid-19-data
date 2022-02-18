@@ -54,9 +54,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 481512,
+      "confirmed": 485163,
       "date": "2022-02-18",
-      "deaths": 1433
+      "deaths": 1435
     }
   },
   "Bangladesh": {
@@ -438,9 +438,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 300435,
+      "confirmed": 302739,
       "date": "2022-02-18",
-      "deaths": 802
+      "deaths": 807
     }
   },
   "Czechia": {
@@ -459,7 +459,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 570889,
+      "confirmed": 571200,
       "date": "2022-02-18",
       "deaths": 4354
     }
@@ -487,9 +487,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 467975,
+      "confirmed": 468234,
       "date": "2022-02-18",
-      "deaths": 7430
+      "deaths": 7435
     }
   },
   "Finland": {
@@ -944,9 +944,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1541379,
+      "confirmed": 1553758,
       "date": "2022-02-18",
-      "deaths": 13608
+      "deaths": 13629
     }
   },
   "Kazakhstan": {
@@ -958,7 +958,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 322614,
+      "confirmed": 322640,
       "date": "2022-02-18",
       "deaths": 5633
     }
@@ -986,9 +986,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1035209,
+      "confirmed": 1039299,
       "date": "2022-02-18",
-      "deaths": 9909
+      "deaths": 9929
     }
   },
   "Libya": {
