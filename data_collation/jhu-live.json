@@ -373,44 +373,44 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 914227,
+          "confirmed": 914567,
           "date": "2022-02-18",
-          "deaths": 18072
+          "deaths": 18082
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 400065,
+          "confirmed": 400249,
           "date": "2022-02-18",
-          "deaths": 10044
+          "deaths": 10054
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1742998,
+          "confirmed": 1744876,
           "date": "2022-02-18",
-          "deaths": 28861
+          "deaths": 28895
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 313491,
+          "confirmed": 313855,
           "date": "2022-02-18",
-          "deaths": 7105
+          "deaths": 7113
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 279826,
+          "confirmed": 280037,
           "date": "2022-02-18",
-          "deaths": 8024
+          "deaths": 8029
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 537008,
+          "confirmed": 537181,
           "date": "2022-02-18",
-          "deaths": 14814
+          "deaths": 14826
         }
       }
     }
@@ -1459,9 +1459,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2656411,
+      "confirmed": 2674477,
       "date": "2022-02-18",
-      "deaths": 22538
+      "deaths": 22565
     }
   },
   "Tunisia": {
