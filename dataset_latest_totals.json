@@ -367,18 +367,18 @@
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 1011588,
-        "deaths": 34044,
+        "confirmed": 1018851,
+        "deaths": 34152,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 963108,
-        "deaths": 33405,
+        "confirmed": 972260,
+        "deaths": 33492,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1049543,
-        "deaths": 34686,
+        "confirmed": 1054566,
+        "deaths": 34779,
         "recovered": 0
       }
     },
@@ -604,8 +604,8 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 517650,
-          "deaths": 3790
+          "confirmed": 518538,
+          "deaths": 3804
         },
         "British Columbia": {
           "confirmed": 341532,
@@ -1200,8 +1200,8 @@
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 739297,
-        "deaths": 34572,
+        "confirmed": 745819,
+        "deaths": 34639,
         "recovered": 0
       },
       "latest": {
@@ -3490,18 +3490,18 @@
     },
     "URY": {
       "back_1week": {
-        "confirmed": 741454,
-        "deaths": 6676,
+        "confirmed": 749554,
+        "deaths": 6696,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 679878,
-        "deaths": 6513,
+        "confirmed": 690496,
+        "deaths": 6540,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 788676,
-        "deaths": 6794,
+        "confirmed": 795316,
+        "deaths": 6820,
         "recovered": 0
       }
     },
