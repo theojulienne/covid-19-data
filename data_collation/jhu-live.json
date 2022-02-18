@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 764202,
+      "confirmed": 768019,
       "date": "2022-02-18",
-      "deaths": 9157
+      "deaths": 9182
     }
   },
   "Bahrain": {
@@ -1078,9 +1078,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 974857,
+      "confirmed": 975132,
       "date": "2022-02-18",
-      "deaths": 11911
+      "deaths": 11913
     }
   },
   "Netherlands": {
@@ -1230,9 +1230,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2629090,
+      "confirmed": 2643614,
       "date": "2022-02-18",
-      "deaths": 62188
+      "deaths": 62323
     }
   },
   "Russia": {
