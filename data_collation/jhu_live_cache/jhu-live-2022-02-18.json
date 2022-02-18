@@ -351,7 +351,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 906627,
+          "confirmed": 908464,
           "date": "2022-02-18",
           "deaths": 13835
         }
@@ -953,7 +953,7 @@
     "live": {
       "confirmed": 1384317,
       "date": "2022-02-18",
-      "deaths": 18836
+      "deaths": 18851
     }
   },
   "Kenya": {
@@ -1057,9 +1057,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 490751,
+      "confirmed": 492604,
       "date": "2022-02-18",
-      "deaths": 11041
+      "deaths": 11068
     }
   },
   "Mongolia": {
@@ -1517,9 +1517,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 668996,
+          "confirmed": 670394,
           "date": "2022-02-18",
-          "deaths": 11119
+          "deaths": 11164
         }
       },
       "Minnesota": {
@@ -1531,9 +1531,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 505658,
+          "confirmed": 506095,
           "date": "2022-02-18",
-          "deaths": 7319
+          "deaths": 7333
         }
       },
       "New York": {
@@ -1573,9 +1573,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 337008,
+          "confirmed": 337331,
           "date": "2022-02-18",
-          "deaths": 1517
+          "deaths": 1520
         }
       },
       "Washington": {
@@ -1688,9 +1688,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 625028,
+      "confirmed": 627956,
       "date": "2022-02-18",
-      "deaths": 5339
+      "deaths": 5357
     }
   },
   "Zambia": {
