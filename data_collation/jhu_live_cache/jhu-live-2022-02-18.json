@@ -362,9 +362,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 1112591,
+          "confirmed": 1123571,
           "date": "2022-02-18",
-          "deaths": 20555
+          "deaths": 20607
         }
       }
     }
@@ -610,9 +610,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2255421,
+      "confirmed": 2274025,
       "date": "2022-02-18",
-      "deaths": 25095
+      "deaths": 25183
     }
   },
   "Guatemala": {
@@ -817,9 +817,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1260329,
+      "confirmed": 1265124,
       "date": "2022-02-18",
-      "deaths": 6402
+      "deaths": 6417
     }
   },
   "Israel": {
@@ -921,23 +921,23 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 378478,
+          "confirmed": 387454,
           "date": "2022-02-18",
-          "deaths": 1518
+          "deaths": 1530
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 551794,
+          "confirmed": 563299,
           "date": "2022-02-18",
-          "deaths": 3509
+          "deaths": 3548
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 863984,
+          "confirmed": 880113,
           "date": "2022-02-18",
-          "deaths": 3378
+          "deaths": 3404
         }
       }
     }
@@ -1009,23 +1009,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 293469,
+          "confirmed": 296185,
           "date": "2022-02-18",
-          "deaths": 3958
+          "deaths": 3969
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 292545,
+          "confirmed": 298110,
           "date": "2022-02-18",
-          "deaths": 2887
+          "deaths": 2893
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 875888,
+          "confirmed": 881952,
           "date": "2022-02-18",
-          "deaths": 10100
+          "deaths": 10106
         }
       }
     }
@@ -1087,51 +1087,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 690068,
+          "confirmed": 697043,
           "date": "2022-02-18",
-          "deaths": 2651
+          "deaths": 2654
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 373740,
+          "confirmed": 376753,
           "date": "2022-02-18",
-          "deaths": 2096
+          "deaths": 2098
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 878202,
+          "confirmed": 884632,
           "date": "2022-02-18",
           "deaths": 3590
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 995633,
+          "confirmed": 1002129,
           "date": "2022-02-18",
-          "deaths": 3227
+          "deaths": 3229
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 398030,
+          "confirmed": 401870,
           "date": "2022-02-18",
-          "deaths": 1364
+          "deaths": 1366
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 488984,
+          "confirmed": 493239,
           "date": "2022-02-18",
-          "deaths": 1494
+          "deaths": 1499
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1313872,
+          "confirmed": 1322750,
           "date": "2022-02-18",
-          "deaths": 4944
+          "deaths": 4946
         }
       }
     }
@@ -1318,9 +1318,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 533425,
+      "confirmed": 551519,
       "date": "2022-02-18",
-      "deaths": 930
+      "deaths": 937
     }
   },
   "Slovakia": {
@@ -1420,9 +1420,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 633051,
+      "confirmed": 634333,
       "date": "2022-02-18",
-      "deaths": 15926
+      "deaths": 15949
     }
   },
   "Sweden": {
@@ -1566,9 +1566,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2638455,
+          "confirmed": 2639003,
           "date": "2022-02-18",
-          "deaths": 28145
+          "deaths": 28168
         }
       },
       "Utah": {
