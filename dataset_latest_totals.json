@@ -2442,12 +2442,12 @@
     "MNG": {
       "back_1week": {
         "confirmed": 863372,
-        "deaths": 2137,
+        "deaths": 2139,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 849668,
-        "deaths": 2116,
+        "deaths": 2117,
         "recovered": 0
       },
       "latest": {
