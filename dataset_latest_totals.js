@@ -2050,18 +2050,18 @@ var covid19_dataset_latest_totals = {
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 590565,
-        "deaths": 2514,
+        "confirmed": 593889,
+        "deaths": 2517,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 558745,
-        "deaths": 2501,
+        "confirmed": 564735,
+        "deaths": 2503,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 607952,
-        "deaths": 2524,
+        "confirmed": 609453,
+        "deaths": 2525,
         "recovered": 0
       }
     },
