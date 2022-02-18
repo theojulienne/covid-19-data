@@ -1812,35 +1812,35 @@
     },
     "IRN": {
       "back_1week": {
-        "confirmed": 6696927,
-        "deaths": 133164,
+        "confirmed": 6730608,
+        "deaths": 133294,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 6446404,
-        "deaths": 132563,
+        "confirmed": 6483799,
+        "deaths": 132624,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 6876565,
-        "deaths": 134238,
+        "confirmed": 6894110,
+        "deaths": 134420,
         "recovered": 0
       }
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 2263525,
-        "deaths": 24600,
+        "confirmed": 2267745,
+        "deaths": 24626,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2226776,
-        "deaths": 24430,
+        "confirmed": 2233725,
+        "deaths": 24455,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2284205,
-        "deaths": 24792,
+        "confirmed": 2286451,
+        "deaths": 24824,
         "recovered": 0
       }
     },
@@ -3116,18 +3116,18 @@
     },
     "SRB": {
       "back_1week": {
-        "confirmed": 1806086,
-        "deaths": 14171,
+        "confirmed": 1817207,
+        "deaths": 14234,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1714863,
-        "deaths": 13748,
+        "confirmed": 1730486,
+        "deaths": 13807,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1861413,
-        "deaths": 14611,
+        "confirmed": 1867836,
+        "deaths": 14666,
         "recovered": 0
       }
     },

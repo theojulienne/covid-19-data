@@ -321,9 +321,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 556256,
+      "confirmed": 559314,
       "date": "2022-02-18",
-      "deaths": 19319
+      "deaths": 19322
     }
   },
   "Canada": {
@@ -580,9 +580,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 858911,
+          "confirmed": 867193,
           "date": "2022-02-18",
-          "deaths": 14248
+          "deaths": 14252
         }
       },
       "Sachsen-Anhalt": {
@@ -803,16 +803,16 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6894110,
+      "confirmed": 6913427,
       "date": "2022-02-18",
-      "deaths": 134420
+      "deaths": 134607
     }
   },
   "Iraq": {
     "live": {
-      "confirmed": 2286451,
+      "confirmed": 2288777,
       "date": "2022-02-18",
-      "deaths": 24824
+      "deaths": 24840
     }
   },
   "Ireland": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3517251,
+      "confirmed": 3523457,
       "date": "2022-02-18",
-      "deaths": 9800
+      "deaths": 9828
     }
   },
   "Italy": {
@@ -1311,9 +1311,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1867836,
+      "confirmed": 1874134,
       "date": "2022-02-18",
-      "deaths": 14666
+      "deaths": 14728
     }
   },
   "Singapore": {
@@ -1454,7 +1454,7 @@
     "live": {
       "confirmed": 2664194,
       "date": "2022-02-18",
-      "deaths": 13011
+      "deaths": 13012
     }
   },
   "Thailand": {
@@ -1566,7 +1566,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2638212,
+          "confirmed": 2638455,
           "date": "2022-02-18",
           "deaths": 28145
         }
