@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 859884,
+      "confirmed": 868078,
       "date": "2022-02-18",
-      "deaths": 6313
+      "deaths": 6329
     }
   },
   "Belgium": {
@@ -545,7 +545,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 327954,
+          "confirmed": 331373,
           "date": "2022-02-18",
           "deaths": 2249
         }
@@ -979,9 +979,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 556891,
+      "confirmed": 567176,
       "date": "2022-02-18",
-      "deaths": 5073
+      "deaths": 5093
     }
   },
   "Lebanon": {
@@ -993,9 +993,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 480945,
+      "confirmed": 482153,
       "date": "2022-02-18",
-      "deaths": 6169
+      "deaths": 6178
     }
   },
   "Lithuania": {
@@ -1202,9 +1202,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3646793,
+      "confirmed": 3648925,
       "date": "2022-02-18",
-      "deaths": 55330
+      "deaths": 55409
     }
   },
   "Poland": {
@@ -1681,9 +1681,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2643024,
+      "confirmed": 2685463,
       "date": "2022-02-18",
-      "deaths": 39278
+      "deaths": 39358
     }
   },
   "West Bank and Gaza": {
