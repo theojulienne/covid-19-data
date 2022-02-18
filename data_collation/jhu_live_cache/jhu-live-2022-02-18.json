@@ -480,9 +480,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 441941,
+      "confirmed": 448666,
       "date": "2022-02-18",
-      "deaths": 2148
+      "deaths": 2152
     }
   },
   "Ethiopia": {
@@ -928,7 +928,7 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 551800,
+          "confirmed": 551794,
           "date": "2022-02-18",
           "deaths": 3509
         }
@@ -1454,7 +1454,7 @@
     "live": {
       "confirmed": 2648012,
       "date": "2022-02-18",
-      "deaths": 13007
+      "deaths": 13008
     }
   },
   "Thailand": {
@@ -1628,9 +1628,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 872210,
+      "confirmed": 873092,
       "date": "2022-02-18",
-      "deaths": 2290
+      "deaths": 2292
     }
   },
   "United Kingdom": {
