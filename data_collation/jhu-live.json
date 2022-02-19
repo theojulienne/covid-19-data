@@ -1209,9 +1209,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5481938,
+      "confirmed": 5500728,
       "date": "2022-02-19",
-      "deaths": 109509
+      "deaths": 109792
     }
   },
   "Portugal": {
@@ -1304,9 +1304,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 737334,
+      "confirmed": 738331,
       "date": "2022-02-19",
-      "deaths": 8981
+      "deaths": 8982
     }
   },
   "Serbia": {
@@ -1332,9 +1332,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 871951,
+      "confirmed": 875747,
       "date": "2022-02-19",
-      "deaths": 6174
+      "deaths": 6184
     }
   },
   "South Africa": {
@@ -1695,9 +1695,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 310764,
+      "confirmed": 311016,
       "date": "2022-02-19",
-      "deaths": 3942
+      "deaths": 3943
     }
   }
 }
