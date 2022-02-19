@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 519061,
+          "confirmed": 523947,
           "date": "2022-02-19",
-          "deaths": 446
+          "deaths": 456
         }
       },
       "Victoria": {
@@ -179,14 +179,14 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 1002510,
+          "confirmed": 1004733,
           "date": "2022-02-19",
-          "deaths": 13982
+          "deaths": 13995
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 1133511,
+          "confirmed": 1135829,
           "date": "2022-02-19",
           "deaths": 25495
         }
@@ -200,9 +200,9 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 688245,
+          "confirmed": 690906,
           "date": "2022-02-19",
-          "deaths": 14614
+          "deaths": 14620
         }
       },
       "Mato Grosso do Sul": {
@@ -221,9 +221,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 697370,
+          "confirmed": 700232,
           "date": "2022-02-19",
-          "deaths": 17638
+          "deaths": 17658
         }
       },
       "Paraiba": {
@@ -249,9 +249,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 361320,
+          "confirmed": 362031,
           "date": "2022-02-19",
-          "deaths": 7591
+          "deaths": 7599
         }
       },
       "Rio Grande do Norte": {
@@ -337,9 +337,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 342939,
+          "confirmed": 343631,
           "date": "2022-02-19",
-          "deaths": 2781
+          "deaths": 2786
         }
       },
       "Ontario": {
@@ -417,9 +417,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 779323,
+      "confirmed": 783437,
       "date": "2022-02-19",
-      "deaths": 7874
+      "deaths": 7894
     }
   },
   "Croatia": {
@@ -965,9 +965,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 1755806,
+      "confirmed": 1858009,
       "date": "2022-02-19",
-      "deaths": 7283
+      "deaths": 7354
     }
   },
   "Kuwait": {
@@ -1145,7 +1145,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 1103956,
+      "confirmed": 1119204,
       "date": "2022-02-19",
       "deaths": 1548
     }
