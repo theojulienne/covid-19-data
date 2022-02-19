@@ -54,9 +54,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 485163,
+      "confirmed": 488423,
       "date": "2022-02-19",
-      "deaths": 1435
+      "deaths": 1437
     }
   },
   "Bangladesh": {
@@ -459,9 +459,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 571200,
+      "confirmed": 571552,
       "date": "2022-02-19",
-      "deaths": 4354
+      "deaths": 4357
     }
   },
   "Ecuador": {
@@ -1538,7 +1538,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2937909,
+          "confirmed": 2938679,
           "date": "2022-02-19",
           "deaths": 45397
         }
