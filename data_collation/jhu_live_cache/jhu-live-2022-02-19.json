@@ -362,9 +362,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 1123571,
+          "confirmed": 1134389,
           "date": "2022-02-19",
-          "deaths": 20607
+          "deaths": 20657
         }
       }
     }
@@ -921,23 +921,23 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 387454,
+          "confirmed": 395154,
           "date": "2022-02-19",
-          "deaths": 1530
+          "deaths": 1547
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 563299,
+          "confirmed": 575750,
           "date": "2022-02-19",
-          "deaths": 3548
+          "deaths": 3579
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 880113,
+          "confirmed": 893629,
           "date": "2022-02-19",
-          "deaths": 3404
+          "deaths": 3431
         }
       }
     }
@@ -1009,23 +1009,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 296185,
+          "confirmed": 298900,
           "date": "2022-02-19",
-          "deaths": 3969
+          "deaths": 3977
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 298110,
+          "confirmed": 303469,
           "date": "2022-02-19",
-          "deaths": 2893
+          "deaths": 2900
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 881952,
+          "confirmed": 889144,
           "date": "2022-02-19",
-          "deaths": 10106
+          "deaths": 10111
         }
       }
     }
@@ -1034,23 +1034,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1317780,
+          "confirmed": 1321872,
           "date": "2022-02-19",
-          "deaths": 41785
+          "deaths": 41845
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 506607,
+          "confirmed": 508842,
           "date": "2022-02-19",
-          "deaths": 46050
+          "deaths": 46113
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 295369,
+          "confirmed": 297863,
           "date": "2022-02-19",
-          "deaths": 14676
+          "deaths": 14700
         }
       }
     }
