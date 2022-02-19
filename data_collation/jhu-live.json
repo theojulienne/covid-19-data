@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 768019,
+      "confirmed": 771709,
       "date": "2022-02-19",
-      "deaths": 9182
+      "deaths": 9211
     }
   },
   "Bahrain": {
@@ -321,9 +321,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 559314,
+      "confirmed": 562364,
       "date": "2022-02-19",
-      "deaths": 19322
+      "deaths": 19327
     }
   },
   "Canada": {
@@ -610,9 +610,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2274025,
+      "confirmed": 2289330,
       "date": "2022-02-19",
-      "deaths": 25183
+      "deaths": 25260
     }
   },
   "Guatemala": {
@@ -1087,51 +1087,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 697043,
+          "confirmed": 701874,
           "date": "2022-02-19",
-          "deaths": 2654
+          "deaths": 2657
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 376753,
+          "confirmed": 379031,
           "date": "2022-02-19",
-          "deaths": 2098
+          "deaths": 2099
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 884632,
+          "confirmed": 889165,
           "date": "2022-02-19",
           "deaths": 3590
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 1002129,
+          "confirmed": 1005989,
           "date": "2022-02-19",
-          "deaths": 3229
+          "deaths": 3233
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 401870,
+          "confirmed": 404677,
           "date": "2022-02-19",
           "deaths": 1366
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 493239,
+          "confirmed": 496213,
           "date": "2022-02-19",
           "deaths": 1499
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1322750,
+          "confirmed": 1327890,
           "date": "2022-02-19",
-          "deaths": 4946
+          "deaths": 4948
         }
       }
     }
