@@ -431,9 +431,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1064128,
+      "confirmed": 1064757,
       "date": "2022-02-19",
-      "deaths": 8484
+      "deaths": 8486
     }
   },
   "Cyprus": {
@@ -824,9 +824,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3523457,
+      "confirmed": 3532179,
       "date": "2022-02-19",
-      "deaths": 9828
+      "deaths": 9841
     }
   },
   "Italy": {
@@ -944,9 +944,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1553758,
+      "confirmed": 1560822,
       "date": "2022-02-19",
-      "deaths": 13629
+      "deaths": 13657
     }
   },
   "Kazakhstan": {
@@ -1071,9 +1071,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1158145,
+      "confirmed": 1158669,
       "date": "2022-02-19",
-      "deaths": 15870
+      "deaths": 15881
     }
   },
   "Nepal": {
@@ -1223,9 +1223,9 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 353346,
+      "confirmed": 353780,
       "date": "2022-02-19",
-      "deaths": 661
+      "deaths": 662
     }
   },
   "Romania": {
@@ -1318,9 +1318,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 551519,
+      "confirmed": 576355,
       "date": "2022-02-19",
-      "deaths": 937
+      "deaths": 941
     }
   },
   "Slovakia": {
@@ -1420,9 +1420,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 634333,
+      "confirmed": 635606,
       "date": "2022-02-19",
-      "deaths": 15949
+      "deaths": 15969
     }
   },
   "Sweden": {
