@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 868078,
+      "confirmed": 875934,
       "date": "2022-02-19",
-      "deaths": 6329
+      "deaths": 6348
     }
   },
   "Belgium": {
@@ -424,9 +424,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1035632,
+      "confirmed": 1039157,
       "date": "2022-02-19",
-      "deaths": 14729
+      "deaths": 14773
     }
   },
   "Cuba": {
@@ -803,9 +803,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6913427,
+      "confirmed": 6925485,
       "date": "2022-02-19",
-      "deaths": 134607
+      "deaths": 134798
     }
   },
   "Iraq": {
