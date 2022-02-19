@@ -445,9 +445,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3483932,
+      "confirmed": 3497820,
       "date": "2022-02-19",
-      "deaths": 38106
+      "deaths": 38188
     }
   },
   "Denmark": {
@@ -951,7 +951,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1384317,
+      "confirmed": 1385444,
       "date": "2022-02-19",
       "deaths": 18851
     }
@@ -1580,9 +1580,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 361635,
+          "confirmed": 361753,
           "date": "2022-02-19",
-          "deaths": 2456
+          "deaths": 2473
         }
       }
     }
