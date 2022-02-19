@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 987856,
+          "confirmed": 987725,
           "date": "2022-02-19",
           "deaths": 2367
         }
@@ -640,23 +640,23 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2315030,
+          "confirmed": 2315525,
           "date": "2022-02-19",
-          "deaths": 14707
+          "deaths": 14708
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 723861,
+          "confirmed": 723907,
           "date": "2022-02-19",
-          "deaths": 6623
+          "deaths": 6626
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 829457,
+          "confirmed": 829548,
           "date": "2022-02-19",
-          "deaths": 12253
+          "deaths": 12255
         }
       },
       "Chhattisgarh": {
@@ -1066,7 +1066,7 @@
     "live": {
       "confirmed": 893721,
       "date": "2022-02-19",
-      "deaths": 2155
+      "deaths": 2157
     }
   },
   "Morocco": {
@@ -1674,9 +1674,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 509600,
+      "confirmed": 509947,
       "date": "2022-02-19",
-      "deaths": 5582
+      "deaths": 5591
     }
   },
   "Vietnam": {
