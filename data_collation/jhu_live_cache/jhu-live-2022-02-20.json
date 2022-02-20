@@ -277,9 +277,9 @@
       },
       "Rondonia": {
         "live": {
-          "confirmed": 360405,
+          "confirmed": 359394,
           "date": "2022-02-20",
-          "deaths": 7008
+          "deaths": 7000
         }
       },
       "Santa Catarina": {
@@ -1459,9 +1459,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2693362,
+      "confirmed": 2712315,
       "date": "2022-02-20",
-      "deaths": 22594
+      "deaths": 22624
     }
   },
   "Tunisia": {
@@ -1681,9 +1681,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2685463,
+      "confirmed": 2740293,
       "date": "2022-02-20",
-      "deaths": 39358
+      "deaths": 39423
     }
   },
   "West Bank and Gaza": {
