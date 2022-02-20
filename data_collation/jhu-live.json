@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 771709,
+      "confirmed": 774394,
       "date": "2022-02-20",
-      "deaths": 9211
+      "deaths": 9235
     }
   },
   "Bahrain": {
@@ -1216,7 +1216,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 353780,
+      "confirmed": 354222,
       "date": "2022-02-20",
       "deaths": 662
     }
