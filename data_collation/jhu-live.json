@@ -1177,9 +1177,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 749135,
+      "confirmed": 750087,
       "date": "2022-02-20",
-      "deaths": 8000
+      "deaths": 8010
     }
   },
   "Paraguay": {
@@ -1482,9 +1482,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1237579,
+          "confirmed": 1239274,
           "date": "2022-02-20",
-          "deaths": 15486
+          "deaths": 15562
         }
       },
       "California": {
