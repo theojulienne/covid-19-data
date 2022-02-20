@@ -24,7 +24,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 528212,
+          "confirmed": 528159,
           "date": "2022-02-20",
           "deaths": 458
         }
@@ -424,9 +424,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1064757,
+      "confirmed": 1065385,
       "date": "2022-02-20",
-      "deaths": 8486
+      "deaths": 8487
     }
   },
   "Cyprus": {
@@ -1318,9 +1318,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1874134,
+      "confirmed": 1883113,
       "date": "2022-02-20",
-      "deaths": 14728
+      "deaths": 14849
     }
   },
   "Singapore": {
@@ -1480,9 +1480,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 13434130,
+      "confirmed": 13504485,
       "date": "2022-02-20",
-      "deaths": 92188
+      "deaths": 92451
     }
   },
   "US": {
