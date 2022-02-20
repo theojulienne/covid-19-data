@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 8823054,
+      "confirmed": 8827504,
       "date": "2022-02-20",
-      "deaths": 125185
+      "deaths": 125278
     }
   },
   "Armenia": {
@@ -819,7 +819,7 @@
     "live": {
       "confirmed": 3548617,
       "date": "2022-02-20",
-      "deaths": 9933
+      "deaths": 9971
     }
   },
   "Italy": {
