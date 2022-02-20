@@ -475,7 +475,7 @@
     "live": {
       "confirmed": 459747,
       "date": "2022-02-20",
-      "deaths": 2158
+      "deaths": 2162
     }
   },
   "Ethiopia": {
@@ -1628,9 +1628,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 873882,
+      "confirmed": 874607,
       "date": "2022-02-20",
-      "deaths": 2293
+      "deaths": 2294
     }
   },
   "United Kingdom": {
