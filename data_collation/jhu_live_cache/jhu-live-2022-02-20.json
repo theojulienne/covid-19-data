@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 875934,
+      "confirmed": 883217,
       "date": "2022-02-20",
-      "deaths": 6348
+      "deaths": 6361
     }
   },
   "Belgium": {
@@ -344,9 +344,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1085518,
+          "confirmed": 1087484,
           "date": "2022-02-20",
-          "deaths": 12247
+          "deaths": 12264
         }
       },
       "Quebec": {
@@ -417,9 +417,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1039157,
+      "confirmed": 1041212,
       "date": "2022-02-20",
-      "deaths": 14773
+      "deaths": 14815
     }
   },
   "Cuba": {
@@ -445,9 +445,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 2552361,
+      "confirmed": 2578051,
       "date": "2022-02-20",
-      "deaths": 4278
+      "deaths": 4312
     }
   },
   "Dominican Republic": {
@@ -517,7 +517,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 2506859,
+          "confirmed": 2507690,
           "date": "2022-02-20",
           "deaths": 21050
         }
@@ -573,9 +573,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 872982,
+          "confirmed": 877474,
           "date": "2022-02-20",
-          "deaths": 14264
+          "deaths": 14265
         }
       },
       "Sachsen-Anhalt": {
@@ -796,16 +796,16 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6925485,
+      "confirmed": 6942452,
       "date": "2022-02-20",
-      "deaths": 134798
+      "deaths": 135040
     }
   },
   "Iraq": {
     "live": {
-      "confirmed": 2290011,
+      "confirmed": 2291170,
       "date": "2022-02-20",
-      "deaths": 24851
+      "deaths": 24858
     }
   },
   "Ireland": {
@@ -951,7 +951,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 322669,
+      "confirmed": 322696,
       "date": "2022-02-20",
       "deaths": 5635
     }
@@ -1420,9 +1420,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 635606,
+      "confirmed": 636837,
       "date": "2022-02-20",
-      "deaths": 15969
+      "deaths": 15994
     }
   },
   "Sweden": {
