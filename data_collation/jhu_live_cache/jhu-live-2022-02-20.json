@@ -494,9 +494,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 21649042,
+      "confirmed": 21708045,
       "date": "2022-02-20",
-      "deaths": 133670
+      "deaths": 133671
     }
   },
   "Georgia": {
@@ -1071,9 +1071,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1158669,
+      "confirmed": 1158967,
       "date": "2022-02-20",
-      "deaths": 15881
+      "deaths": 15894
     }
   },
   "Nepal": {
@@ -1346,9 +1346,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3657091,
+      "confirmed": 3658547,
       "date": "2022-02-20",
-      "deaths": 98617
+      "deaths": 98667
     }
   },
   "Spain": {
@@ -1559,7 +1559,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 285160,
+          "confirmed": 285265,
           "date": "2022-02-20",
           "deaths": 2343
         }
