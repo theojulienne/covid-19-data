@@ -321,9 +321,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 562364,
+      "confirmed": 565667,
       "date": "2022-02-20",
-      "deaths": 19327
+      "deaths": 19331
     }
   },
   "Canada": {
@@ -362,9 +362,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 1134389,
+          "confirmed": 1143245,
           "date": "2022-02-20",
-          "deaths": 20657
+          "deaths": 20712
         }
       }
     }
@@ -912,25 +912,32 @@
   },
   "Japan": {
     "subseries": {
+      "Aichi": {
+        "live": {
+          "confirmed": 284794,
+          "date": "2022-02-20",
+          "deaths": 1454
+        }
+      },
       "Kanagawa": {
         "live": {
-          "confirmed": 395154,
+          "confirmed": 401968,
           "date": "2022-02-20",
-          "deaths": 1547
+          "deaths": 1560
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 575750,
+          "confirmed": 584150,
           "date": "2022-02-20",
-          "deaths": 3579
+          "deaths": 3601
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 893629,
+          "confirmed": 906564,
           "date": "2022-02-20",
-          "deaths": 3431
+          "deaths": 3448
         }
       }
     }
@@ -1002,23 +1009,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 298900,
+          "confirmed": 301544,
           "date": "2022-02-20",
-          "deaths": 3977
+          "deaths": 3986
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 303469,
+          "confirmed": 308476,
           "date": "2022-02-20",
-          "deaths": 2900
+          "deaths": 2904
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 889144,
+          "confirmed": 896324,
           "date": "2022-02-20",
-          "deaths": 10111
+          "deaths": 10118
         }
       }
     }
@@ -1318,9 +1325,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 576355,
+      "confirmed": 582638,
       "date": "2022-02-20",
-      "deaths": 941
+      "deaths": 945
     }
   },
   "Slovakia": {
@@ -1517,9 +1524,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 670394,
+          "confirmed": 390140,
           "date": "2022-02-20",
-          "deaths": 11164
+          "deaths": 7530
         }
       },
       "Minnesota": {
