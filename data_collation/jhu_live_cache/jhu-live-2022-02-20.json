@@ -351,9 +351,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 910200,
+          "confirmed": 911397,
           "date": "2022-02-20",
-          "deaths": 13841
+          "deaths": 13853
         }
       }
     }
@@ -431,9 +431,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 304503,
+      "confirmed": 306219,
       "date": "2022-02-20",
-      "deaths": 811
+      "deaths": 823
     }
   },
   "Czechia": {
@@ -972,9 +972,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 611820,
+      "confirmed": 613015,
       "date": "2022-02-20",
-      "deaths": 2528
+      "deaths": 2529
     }
   },
   "Latvia": {
@@ -1057,9 +1057,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 494219,
+      "confirmed": 495184,
       "date": "2022-02-20",
-      "deaths": 11093
+      "deaths": 11104
     }
   },
   "Mongolia": {
@@ -1138,9 +1138,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 292660,
+      "confirmed": 293328,
       "date": "2022-02-20",
-      "deaths": 8891
+      "deaths": 8898
     }
   },
   "Norway": {
@@ -1573,9 +1573,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2645495,
+          "confirmed": 2646066,
           "date": "2022-02-20",
-          "deaths": 28269
+          "deaths": 28279
         }
       },
       "Utah": {
