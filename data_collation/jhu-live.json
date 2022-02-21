@@ -473,9 +473,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 459747,
+      "confirmed": 462728,
       "date": "2022-02-21",
-      "deaths": 2162
+      "deaths": 2170
     }
   },
   "Ethiopia": {
@@ -487,9 +487,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 605046,
+      "confirmed": 622717,
       "date": "2022-02-21",
-      "deaths": 2277
+      "deaths": 2329
     }
   },
   "France": {
@@ -510,9 +510,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1920400,
+          "confirmed": 1920469,
           "date": "2022-02-21",
-          "deaths": 14062
+          "deaths": 14061
         }
       },
       "Bayern": {
@@ -979,9 +979,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 585944,
+      "confirmed": 589763,
       "date": "2022-02-21",
-      "deaths": 5108
+      "deaths": 5113
     }
   },
   "Lebanon": {
@@ -1152,9 +1152,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 375688,
+      "confirmed": 376724,
       "date": "2022-02-21",
-      "deaths": 4231
+      "deaths": 4234
     }
   },
   "Pakistan": {
@@ -1209,9 +1209,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5513075,
+      "confirmed": 5521766,
       "date": "2022-02-21",
-      "deaths": 109817
+      "deaths": 109833
     }
   },
   "Portugal": {
@@ -1311,9 +1311,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 739344,
+      "confirmed": 740396,
       "date": "2022-02-21",
-      "deaths": 8984
+      "deaths": 8986
     }
   },
   "Serbia": {
@@ -1332,16 +1332,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2000643,
+      "confirmed": 2010065,
       "date": "2022-02-21",
-      "deaths": 18240
+      "deaths": 18252
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 878036,
+      "confirmed": 880073,
       "date": "2022-02-21",
-      "deaths": 6203
+      "deaths": 6221
     }
   },
   "South Africa": {
@@ -1461,7 +1461,7 @@
     "live": {
       "confirmed": 2664194,
       "date": "2022-02-21",
-      "deaths": 13016
+      "deaths": 13018
     }
   },
   "Thailand": {
