@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 532273,
+          "confirmed": 532255,
           "date": "2022-02-21",
-          "deaths": 464
+          "deaths": 463
         }
       },
       "Victoria": {
@@ -1466,9 +1466,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2712315,
+      "confirmed": 2731198,
       "date": "2022-02-21",
-      "deaths": 22624
+      "deaths": 22656
     }
   },
   "Tunisia": {
