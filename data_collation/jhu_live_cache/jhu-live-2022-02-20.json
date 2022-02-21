@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1254643,
+          "confirmed": 1259503,
           "date": "2022-02-20",
-          "deaths": 1832
+          "deaths": 1839
         }
       },
       "Queensland": {
@@ -31,9 +31,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 992592,
+          "confirmed": 998035,
           "date": "2022-02-20",
-          "deaths": 2376
+          "deaths": 2379
         }
       }
     }
@@ -314,9 +314,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1066413,
+      "confirmed": 1067648,
       "date": "2022-02-20",
-      "deaths": 34998
+      "deaths": 35042
     }
   },
   "Burma": {
@@ -373,35 +373,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 914884,
+          "confirmed": 915318,
           "date": "2022-02-20",
           "deaths": 18101
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 400549,
+          "confirmed": 400818,
           "date": "2022-02-20",
           "deaths": 10067
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1746542,
+          "confirmed": 1749928,
           "date": "2022-02-20",
           "deaths": 28949
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 314251,
+          "confirmed": 315040,
           "date": "2022-02-20",
           "deaths": 7133
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 537339,
+          "confirmed": 537529,
           "date": "2022-02-20",
           "deaths": 14854
         }
@@ -1473,9 +1473,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 979612,
+      "confirmed": 986336,
       "date": "2022-02-20",
-      "deaths": 27375
+      "deaths": 27448
     }
   },
   "Turkey": {
@@ -1496,9 +1496,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5932571,
+          "confirmed": 5935201,
           "date": "2022-02-20",
-          "deaths": 59200
+          "deaths": 59256
         }
       },
       "Florida": {
@@ -1545,9 +1545,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2938679,
+          "confirmed": 2939502,
           "date": "2022-02-20",
-          "deaths": 45397
+          "deaths": 45403
         }
       },
       "North Carolina": {
@@ -1674,9 +1674,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 812367,
+      "confirmed": 815704,
       "date": "2022-02-20",
-      "deaths": 6865
+      "deaths": 6879
     }
   },
   "Venezuela": {
