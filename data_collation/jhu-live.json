@@ -54,9 +54,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 492327,
+      "confirmed": 495212,
       "date": "2022-02-21",
-      "deaths": 1437
+      "deaths": 1498
     }
   },
   "Bangladesh": {
@@ -431,9 +431,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 306219,
+      "confirmed": 308917,
       "date": "2022-02-21",
-      "deaths": 823
+      "deaths": 825
     }
   },
   "Czechia": {
@@ -452,7 +452,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 571856,
+      "confirmed": 572290,
       "date": "2022-02-21",
       "deaths": 4357
     }
@@ -480,9 +480,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 468345,
+      "confirmed": 468379,
       "date": "2022-02-21",
-      "deaths": 7438
+      "deaths": 7440
     }
   },
   "Finland": {
@@ -953,7 +953,7 @@
     "live": {
       "confirmed": 1386963,
       "date": "2022-02-21",
-      "deaths": 18866
+      "deaths": 18867
     }
   },
   "Kenya": {
@@ -986,9 +986,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1046173,
+      "confirmed": 1049274,
       "date": "2022-02-21",
-      "deaths": 9970
+      "deaths": 9989
     }
   },
   "Libya": {
@@ -1057,9 +1057,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 495184,
+      "confirmed": 495415,
       "date": "2022-02-21",
-      "deaths": 11104
+      "deaths": 11117
     }
   },
   "Mongolia": {
@@ -1547,7 +1547,7 @@
         "live": {
           "confirmed": 2940694,
           "date": "2022-02-21",
-          "deaths": 45445
+          "deaths": 45448
         }
       },
       "North Carolina": {
@@ -1695,9 +1695,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 631756,
+      "confirmed": 633684,
       "date": "2022-02-21",
-      "deaths": 5391
+      "deaths": 5406
     }
   },
   "Zambia": {
