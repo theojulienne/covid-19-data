@@ -362,9 +362,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 1143245,
+          "confirmed": 1150668,
           "date": "2022-02-21",
-          "deaths": 20712
+          "deaths": 20759
         }
       }
     }
@@ -680,13 +680,6 @@
           "deaths": 10525
         }
       },
-      "Himachal Pradesh": {
-        "live": {
-          "confirmed": 282123,
-          "date": "2022-02-21",
-          "deaths": 4096
-        }
-      },
       "Jammu and Kashmir": {
         "live": {
           "confirmed": 452306,
@@ -810,9 +803,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1265124,
+      "confirmed": 1276778,
       "date": "2022-02-21",
-      "deaths": 6417
+      "deaths": 6443
     }
   },
   "Israel": {
@@ -914,30 +907,37 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 284794,
+          "confirmed": 288471,
           "date": "2022-02-21",
-          "deaths": 1454
+          "deaths": 1470
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 401968,
+          "confirmed": 408273,
           "date": "2022-02-21",
-          "deaths": 1560
+          "deaths": 1564
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 584149,
+          "confirmed": 588851,
           "date": "2022-02-21",
-          "deaths": 3601
+          "deaths": 3627
+        }
+      },
+      "Saitama": {
+        "live": {
+          "confirmed": 282889,
+          "date": "2022-02-21",
+          "deaths": 1140
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 906564,
+          "confirmed": 915369,
           "date": "2022-02-21",
-          "deaths": 3448
+          "deaths": 3478
         }
       }
     }
@@ -1009,23 +1009,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 301544,
+          "confirmed": 304241,
           "date": "2022-02-21",
-          "deaths": 3986
+          "deaths": 3996
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 308476,
+          "confirmed": 313246,
           "date": "2022-02-21",
-          "deaths": 2904
+          "deaths": 2909
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 896324,
+          "confirmed": 901859,
           "date": "2022-02-21",
-          "deaths": 10118
+          "deaths": 10128
         }
       }
     }
@@ -1325,9 +1325,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 582638,
+      "confirmed": 596261,
       "date": "2022-02-21",
-      "deaths": 945
+      "deaths": 952
     }
   },
   "Slovakia": {
