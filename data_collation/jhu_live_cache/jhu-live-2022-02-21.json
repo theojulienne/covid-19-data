@@ -351,7 +351,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 911397,
+          "confirmed": 912461,
           "date": "2022-02-21",
           "deaths": 13856
         }
@@ -958,9 +958,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 322696,
+      "confirmed": 322702,
       "date": "2022-02-21",
-      "deaths": 5635
+      "deaths": 5638
     }
   },
   "Korea, South": {
@@ -972,9 +972,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 613015,
+      "confirmed": 614344,
       "date": "2022-02-21",
-      "deaths": 2529
+      "deaths": 2530
     }
   },
   "Latvia": {
@@ -1346,9 +1346,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3658547,
+      "confirmed": 3659698,
       "date": "2022-02-21",
-      "deaths": 98667
+      "deaths": 98804
     }
   },
   "Spain": {
