@@ -40,9 +40,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 2473099,
+      "confirmed": 2494535,
       "date": "2022-02-21",
-      "deaths": 14581
+      "deaths": 14594
     }
   },
   "Azerbaijan": {
@@ -624,9 +624,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1746424,
+      "confirmed": 1759685,
       "date": "2022-02-21",
-      "deaths": 43066
+      "deaths": 43299
     }
   },
   "India": {
@@ -1239,72 +1239,72 @@
     "subseries": {
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 301898,
+          "confirmed": 307195,
           "date": "2022-02-21",
-          "deaths": 9811
+          "deaths": 9827
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 2664189,
+          "confirmed": 2669186,
           "date": "2022-02-21",
-          "deaths": 40615
+          "deaths": 40698
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 923202,
+          "confirmed": 926108,
           "date": "2022-02-21",
-          "deaths": 14020
+          "deaths": 14051
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 335321,
+          "confirmed": 339622,
           "date": "2022-02-21",
-          "deaths": 10959
+          "deaths": 10979
         }
       },
       "Perm Krai": {
         "live": {
-          "confirmed": 282858,
+          "confirmed": 287951,
           "date": "2022-02-21",
-          "deaths": 8158
+          "deaths": 8179
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 293190,
+          "confirmed": 297167,
           "date": "2022-02-21",
-          "deaths": 10235
+          "deaths": 10241
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 1376809,
+          "confirmed": 1385852,
           "date": "2022-02-21",
-          "deaths": 31258
+          "deaths": 31338
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 292619,
+          "confirmed": 296769,
           "date": "2022-02-21",
-          "deaths": 6971
+          "deaths": 6984
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 316495,
+          "confirmed": 320045,
           "date": "2022-02-21",
-          "deaths": 10197
+          "deaths": 10204
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 302355,
+          "confirmed": 307437,
           "date": "2022-02-21",
-          "deaths": 7468
+          "deaths": 7481
         }
       }
     }
