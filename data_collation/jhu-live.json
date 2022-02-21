@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 8827504,
+      "confirmed": 8838674,
       "date": "2022-02-21",
-      "deaths": 125278
+      "deaths": 125451
     }
   },
   "Armenia": {
@@ -424,9 +424,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1065385,
+      "confirmed": 1065947,
       "date": "2022-02-21",
-      "deaths": 8487
+      "deaths": 8491
     }
   },
   "Cyprus": {
@@ -610,9 +610,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 757588,
+      "confirmed": 758303,
       "date": "2022-02-21",
-      "deaths": 16787
+      "deaths": 16794
     }
   },
   "Honduras": {
@@ -810,9 +810,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3564251,
+      "confirmed": 3566809,
       "date": "2022-02-21",
-      "deaths": 9990
+      "deaths": 10001
     }
   },
   "Italy": {
@@ -944,16 +944,16 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1570907,
+      "confirmed": 1582161,
       "date": "2022-02-21",
-      "deaths": 13682
+      "deaths": 13713
     }
   },
   "Kazakhstan": {
     "live": {
       "confirmed": 1386963,
       "date": "2022-02-21",
-      "deaths": 18851
+      "deaths": 18866
     }
   },
   "Kenya": {
@@ -1064,16 +1064,16 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 893721,
+      "confirmed": 899002,
       "date": "2022-02-21",
       "deaths": 2159
     }
   },
   "Morocco": {
     "live": {
-      "confirmed": 1158967,
+      "confirmed": 1159157,
       "date": "2022-02-21",
-      "deaths": 15894
+      "deaths": 15916
     }
   },
   "Nepal": {
@@ -1489,7 +1489,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1240505,
+          "confirmed": 1240498,
           "date": "2022-02-21",
           "deaths": 15563
         }
@@ -1695,9 +1695,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 627956,
+      "confirmed": 631756,
       "date": "2022-02-21",
-      "deaths": 5357
+      "deaths": 5391
     }
   },
   "Zambia": {
