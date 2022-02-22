@@ -496,7 +496,7 @@
     "live": {
       "confirmed": 21717576,
       "date": "2022-02-22",
-      "deaths": 129715
+      "deaths": 134044
     }
   },
   "Georgia": {
@@ -979,9 +979,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 589763,
+      "confirmed": 601600,
       "date": "2022-02-22",
-      "deaths": 5113
+      "deaths": 5130
     }
   },
   "Lebanon": {
@@ -1202,9 +1202,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3653526,
+      "confirmed": 3654284,
       "date": "2022-02-22",
-      "deaths": 55763
+      "deaths": 55776
     }
   },
   "Poland": {
@@ -1332,9 +1332,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2010065,
+      "confirmed": 2029174,
       "date": "2022-02-22",
-      "deaths": 18252
+      "deaths": 18279
     }
   },
   "Slovenia": {
@@ -1635,9 +1635,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 875258,
+      "confirmed": 875884,
       "date": "2022-02-22",
-      "deaths": 2296
+      "deaths": 2297
     }
   },
   "United Kingdom": {
