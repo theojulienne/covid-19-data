@@ -17,7 +17,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1268255,
+          "confirmed": 1268170,
           "date": "2022-02-22",
           "deaths": 1853
         }
@@ -128,9 +128,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 889747,
+      "confirmed": 890420,
       "date": "2022-02-22",
-      "deaths": 21378
+      "deaths": 21386
     }
   },
   "Bosnia and Herzegovina": {
@@ -375,35 +375,35 @@
         "live": {
           "confirmed": 915489,
           "date": "2022-02-22",
-          "deaths": 18116
+          "deaths": 18124
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 400920,
           "date": "2022-02-22",
-          "deaths": 10071
+          "deaths": 10075
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1750988,
           "date": "2022-02-22",
-          "deaths": 28979
+          "deaths": 28996
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 315365,
           "date": "2022-02-22",
-          "deaths": 7138
+          "deaths": 7147
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 537767,
           "date": "2022-02-22",
-          "deaths": 14865
+          "deaths": 14871
         }
       }
     }
@@ -494,9 +494,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 21708045,
+      "confirmed": 21717576,
       "date": "2022-02-22",
-      "deaths": 133671
+      "deaths": 129715
     }
   },
   "Georgia": {
@@ -1466,9 +1466,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2731198,
+      "confirmed": 2749561,
       "date": "2022-02-22",
-      "deaths": 22656
+      "deaths": 22691
     }
   },
   "Tunisia": {
