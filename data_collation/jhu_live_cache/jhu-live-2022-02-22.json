@@ -362,9 +362,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 1150668,
+          "confirmed": 1156822,
           "date": "2022-02-22",
-          "deaths": 20759
+          "deaths": 20794
         }
       }
     }
@@ -603,9 +603,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2317014,
+      "confirmed": 2336615,
       "date": "2022-02-22",
-      "deaths": 25417
+      "deaths": 25485
     }
   },
   "Guatemala": {
@@ -803,9 +803,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1276778,
+      "confirmed": 1280058,
       "date": "2022-02-22",
-      "deaths": 6443
+      "deaths": 6452
     }
   },
   "Israel": {
@@ -1009,23 +1009,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 304241,
+          "confirmed": 306441,
           "date": "2022-02-22",
-          "deaths": 3996
+          "deaths": 4005
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 313246,
+          "confirmed": 317652,
           "date": "2022-02-22",
-          "deaths": 2909
+          "deaths": 2921
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 901859,
+          "confirmed": 907427,
           "date": "2022-02-22",
-          "deaths": 10128
+          "deaths": 10132
         }
       }
     }
