@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 8838674,
+      "confirmed": 8855624,
       "date": "2022-02-22",
-      "deaths": 125451
+      "deaths": 125618
     }
   },
   "Armenia": {
@@ -452,9 +452,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 572290,
+      "confirmed": 572596,
       "date": "2022-02-22",
-      "deaths": 4357
+      "deaths": 4360
     }
   },
   "Ecuador": {
@@ -1566,16 +1566,16 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2648067,
+          "confirmed": 2650736,
           "date": "2022-02-22",
-          "deaths": 28288
+          "deaths": 28355
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 337331,
+          "confirmed": 338093,
           "date": "2022-02-22",
-          "deaths": 1520
+          "deaths": 1527
         }
       },
       "Washington": {
