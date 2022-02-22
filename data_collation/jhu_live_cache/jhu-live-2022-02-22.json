@@ -424,7 +424,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1065947,
+      "confirmed": 1066414,
       "date": "2022-02-22",
       "deaths": 8491
     }
@@ -944,9 +944,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1582161,
+      "confirmed": 1591278,
       "date": "2022-02-22",
-      "deaths": 13713
+      "deaths": 13731
     }
   },
   "Kazakhstan": {
@@ -1071,9 +1071,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1159157,
+      "confirmed": 1159584,
       "date": "2022-02-22",
-      "deaths": 15916
+      "deaths": 15922
     }
   },
   "Nepal": {
@@ -1496,9 +1496,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5936524,
+          "confirmed": 5947046,
           "date": "2022-02-22",
-          "deaths": 59276
+          "deaths": 59429
         }
       },
       "Florida": {
@@ -1531,9 +1531,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 291774,
+          "confirmed": 292157,
           "date": "2022-02-22",
-          "deaths": 2478
+          "deaths": 2487
         }
       },
       "Nevada": {
@@ -1545,14 +1545,14 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2941175,
+          "confirmed": 2941383,
           "date": "2022-02-22",
-          "deaths": 45448
+          "deaths": 45491
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 283484,
+          "confirmed": 283678,
           "date": "2022-02-22",
           "deaths": 1009
         }
