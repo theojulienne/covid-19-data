@@ -921,7 +921,7 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 599790,
+          "confirmed": 599789,
           "date": "2022-02-23",
           "deaths": 3690
         }
@@ -1202,9 +1202,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3654284,
+      "confirmed": 3655709,
       "date": "2022-02-23",
-      "deaths": 55776
+      "deaths": 55977
     }
   },
   "Poland": {
@@ -1628,9 +1628,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 875884,
+      "confirmed": 876624,
       "date": "2022-02-23",
-      "deaths": 2297
+      "deaths": 2298
     }
   },
   "United Kingdom": {
