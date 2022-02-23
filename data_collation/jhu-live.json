@@ -362,9 +362,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 1156822,
+          "confirmed": 1163522,
           "date": "2022-02-23",
-          "deaths": 20794
+          "deaths": 20839
         }
       }
     }
@@ -803,9 +803,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1280058,
+      "confirmed": 1284179,
       "date": "2022-02-23",
-      "deaths": 6452
+      "deaths": 6460
     }
   },
   "Israel": {
@@ -907,46 +907,46 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 293256,
+          "confirmed": 299298,
           "date": "2022-02-23",
-          "deaths": 1495
+          "deaths": 1525
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 414535,
+          "confirmed": 420531,
           "date": "2022-02-23",
-          "deaths": 1597
+          "deaths": 1610
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 599789,
+          "confirmed": 611261,
           "date": "2022-02-23",
-          "deaths": 3690
+          "deaths": 3739
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 286765,
+          "confirmed": 291229,
           "date": "2022-02-23",
-          "deaths": 1146
+          "deaths": 1147
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 926812,
+          "confirmed": 941379,
           "date": "2022-02-23",
-          "deaths": 3503
+          "deaths": 3527
         }
       }
     }
   },
   "Jordan": {
     "live": {
-      "confirmed": 1591278,
+      "confirmed": 1599422,
       "date": "2022-02-23",
-      "deaths": 13731
+      "deaths": 13751
     }
   },
   "Kazakhstan": {
@@ -1034,23 +1034,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1329209,
+          "confirmed": 1333216,
           "date": "2022-02-23",
-          "deaths": 41913
+          "deaths": 41964
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 511527,
+          "confirmed": 513202,
           "date": "2022-02-23",
-          "deaths": 46211
+          "deaths": 46252
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 300134,
+          "confirmed": 301743,
           "date": "2022-02-23",
-          "deaths": 14730
+          "deaths": 14773
         }
       }
     }
@@ -1216,9 +1216,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 3206281,
+      "confirmed": 3219439,
       "date": "2022-02-23",
-      "deaths": 20894
+      "deaths": 20922
     }
   },
   "Qatar": {
@@ -1325,9 +1325,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 622293,
+      "confirmed": 642605,
       "date": "2022-02-23",
-      "deaths": 956
+      "deaths": 963
     }
   },
   "Slovakia": {
