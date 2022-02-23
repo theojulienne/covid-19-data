@@ -1078,9 +1078,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 976105,
+      "confirmed": 976361,
       "date": "2022-02-23",
-      "deaths": 11928
+      "deaths": 11930
     }
   },
   "Netherlands": {
@@ -1459,9 +1459,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 2711618,
+      "confirmed": 2730037,
       "date": "2022-02-23",
-      "deaths": 13047
+      "deaths": 13057
     }
   },
   "Thailand": {
@@ -1473,9 +1473,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 988329,
+      "confirmed": 990483,
       "date": "2022-02-23",
-      "deaths": 27512
+      "deaths": 27592
     }
   },
   "Turkey": {
