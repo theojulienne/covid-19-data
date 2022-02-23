@@ -351,7 +351,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 913899,
+          "confirmed": 915760,
           "date": "2022-02-23",
           "deaths": 13903
         }
@@ -503,7 +503,7 @@
     "live": {
       "confirmed": 1575999,
       "date": "2022-02-23",
-      "deaths": 16981
+      "deaths": 15981
     }
   },
   "Germany": {
@@ -610,9 +610,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 762096,
+      "confirmed": 766475,
       "date": "2022-02-23",
-      "deaths": 16833
+      "deaths": 16861
     }
   },
   "Honduras": {
@@ -1009,23 +1009,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 306441,
+          "confirmed": 308722,
           "date": "2022-02-23",
-          "deaths": 4005
+          "deaths": 4013
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 317652,
+          "confirmed": 321623,
           "date": "2022-02-23",
-          "deaths": 2921
+          "deaths": 2930
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 907427,
+          "confirmed": 915225,
           "date": "2022-02-23",
-          "deaths": 10132
+          "deaths": 10142
         }
       }
     }
@@ -1538,16 +1538,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 506766,
+          "confirmed": 506921,
           "date": "2022-02-23",
           "deaths": 7371
         }
       },
       "New York": {
         "live": {
-          "confirmed": 2942135,
+          "confirmed": 2942878,
           "date": "2022-02-23",
-          "deaths": 45526
+          "deaths": 45530
         }
       },
       "Ohio": {
@@ -1566,9 +1566,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2650736,
+          "confirmed": 2651986,
           "date": "2022-02-23",
-          "deaths": 28355
+          "deaths": 28421
         }
       },
       "Utah": {

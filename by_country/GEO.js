@@ -2297,7 +2297,7 @@ var covid19_dataset_country_geo = {
       15856,
       15888,
       15933,
-      16981
+      15981
     ],
     "recovered": [
       0,
