@@ -1064,13 +1064,13 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 3403469,
-        "deaths": 37873,
+        "confirmed": 3451318,
+        "deaths": 37991,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3243698,
-        "deaths": 37478,
+        "confirmed": 3273375,
+        "deaths": 37549,
         "recovered": 0
       },
       "latest": {
@@ -1523,18 +1523,18 @@
     },
     "GEO": {
       "back_1week": {
-        "confirmed": 1458093,
-        "deaths": 15577,
+        "confirmed": 1480841,
+        "deaths": 15628,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1325838,
-        "deaths": 15246,
+        "confirmed": 1350454,
+        "deaths": 15300,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1553668,
-        "deaths": 15888,
+        "confirmed": 1565769,
+        "deaths": 15933,
         "recovered": 0
       }
     },
@@ -2203,18 +2203,18 @@
     },
     "LTU": {
       "back_1week": {
-        "confirmed": 820131,
-        "deaths": 8134,
+        "confirmed": 826841,
+        "deaths": 8172,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 756206,
-        "deaths": 7999,
+        "confirmed": 764811,
+        "deaths": 8014,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 865559,
-        "deaths": 8267,
+        "confirmed": 871458,
+        "deaths": 8293,
         "recovered": 0
       }
     },
@@ -3909,18 +3909,18 @@
     },
     "VEN": {
       "back_1week": {
-        "confirmed": 505947,
-        "deaths": 5549,
+        "confirmed": 506977,
+        "deaths": 5556,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 496283,
-        "deaths": 5487,
+        "confirmed": 497977,
+        "deaths": 5495,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 511073,
-        "deaths": 5609,
+        "confirmed": 511772,
+        "deaths": 5616,
         "recovered": 0
       }
     },
