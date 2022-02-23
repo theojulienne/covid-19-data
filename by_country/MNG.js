@@ -2294,7 +2294,8 @@ var covid19_dataset_country_mng = {
       2157,
       2159,
       2159,
-      2159
+      2159,
+      2161
     ],
     "recovered": [
       0,
@@ -2858,6 +2859,7 @@ var covid19_dataset_country_mng = {
       158685,
       158685,
       158685,
+      0,
       0,
       0,
       0,

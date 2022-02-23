@@ -2294,6 +2294,7 @@ var covid19_dataset_country_qat = {
       661,
       662,
       662,
+      662,
       662
     ],
     "recovered": [
@@ -2858,6 +2859,7 @@ var covid19_dataset_country_qat = {
       223995,
       224129,
       224285,
+      0,
       0,
       0,
       0,
