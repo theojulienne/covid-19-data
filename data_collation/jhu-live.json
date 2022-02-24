@@ -54,9 +54,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 501643,
+      "confirmed": 504375,
       "date": "2022-02-24",
-      "deaths": 1444
+      "deaths": 1447
     }
   },
   "Bangladesh": {
@@ -1009,23 +1009,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 308722,
+          "confirmed": 311421,
           "date": "2022-02-24",
-          "deaths": 4013
+          "deaths": 4021
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 321623,
+          "confirmed": 326515,
           "date": "2022-02-24",
-          "deaths": 2930
+          "deaths": 2937
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 915225,
+          "confirmed": 922683,
           "date": "2022-02-24",
-          "deaths": 10142
+          "deaths": 10148
         }
       }
     }
@@ -1489,9 +1489,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1242703,
+          "confirmed": 1243994,
           "date": "2022-02-24",
-          "deaths": 15661
+          "deaths": 15710
         }
       },
       "California": {
@@ -1545,9 +1545,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2943432,
+          "confirmed": 2944170,
           "date": "2022-02-24",
-          "deaths": 45566
+          "deaths": 45571
         }
       },
       "Ohio": {
