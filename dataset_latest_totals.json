@@ -652,7 +652,7 @@
           "deaths": 15
         },
         "Quebec": {
-          "confirmed": 913899,
+          "confirmed": 915760,
           "deaths": 13903
         },
         "Repatriated Travellers": {
@@ -2844,18 +2844,18 @@
     },
     "PRT": {
       "back_1week": {
-        "confirmed": 3111858,
-        "deaths": 20620,
+        "confirmed": 3131899,
+        "deaths": 20666,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2963747,
-        "deaths": 20302,
+        "confirmed": 2997770,
+        "deaths": 20354,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3206281,
-        "deaths": 20894,
+        "confirmed": 3219439,
+        "deaths": 20922,
         "recovered": 0
       }
     },
