@@ -424,7 +424,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1066927,
+      "confirmed": 1067522,
       "date": "2022-02-24",
       "deaths": 8494
     }
@@ -944,9 +944,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1599422,
+      "confirmed": 1606837,
       "date": "2022-02-24",
-      "deaths": 13751
+      "deaths": 13767
     }
   },
   "Kazakhstan": {
@@ -972,9 +972,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 616409,
+      "confirmed": 617275,
       "date": "2022-02-24",
-      "deaths": 2533
+      "deaths": 2534
     }
   },
   "Latvia": {
@@ -1057,9 +1057,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 497946,
+      "confirmed": 499015,
       "date": "2022-02-24",
-      "deaths": 11157
+      "deaths": 11171
     }
   },
   "Mongolia": {
@@ -1071,9 +1071,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1159941,
+      "confirmed": 1160303,
       "date": "2022-02-24",
-      "deaths": 15938
+      "deaths": 15952
     }
   },
   "Nepal": {
@@ -1427,9 +1427,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 640578,
+      "confirmed": 641786,
       "date": "2022-02-24",
-      "deaths": 16086
+      "deaths": 16116
     }
   },
   "Sweden": {
@@ -1480,9 +1480,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 13762181,
+      "confirmed": 13841889,
       "date": "2022-02-24",
-      "deaths": 93258
+      "deaths": 93539
     }
   },
   "US": {
@@ -1496,9 +1496,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5953575,
+          "confirmed": 5956140,
           "date": "2022-02-24",
-          "deaths": 59545
+          "deaths": 59611
         }
       },
       "Florida": {
@@ -1531,9 +1531,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 293230,
+          "confirmed": 293437,
           "date": "2022-02-24",
-          "deaths": 2491
+          "deaths": 2498
         }
       },
       "Nevada": {
@@ -1545,9 +1545,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2942878,
+          "confirmed": 2943432,
           "date": "2022-02-24",
-          "deaths": 45530
+          "deaths": 45566
         }
       },
       "Ohio": {
