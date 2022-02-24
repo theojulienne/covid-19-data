@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1277082,
+          "confirmed": 1285301,
           "date": "2022-02-23",
-          "deaths": 1859
+          "deaths": 1871
         }
       },
       "Queensland": {
@@ -31,9 +31,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1011358,
+          "confirmed": 1018073,
           "date": "2022-02-23",
-          "deaths": 2410
+          "deaths": 2426
         }
       }
     }
@@ -135,9 +135,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 369230,
+      "confirmed": 369870,
       "date": "2022-02-23",
-      "deaths": 15362
+      "deaths": 15380
     }
   },
   "Brazil": {
@@ -314,9 +314,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1077160,
+      "confirmed": 1080571,
       "date": "2022-02-23",
-      "deaths": 35245
+      "deaths": 35298
     }
   },
   "Burma": {
@@ -373,35 +373,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 915616,
+          "confirmed": 915690,
           "date": "2022-02-23",
           "deaths": 18128
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 400974,
+          "confirmed": 401055,
           "date": "2022-02-23",
           "deaths": 10079
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1751766,
+          "confirmed": 1752683,
           "date": "2022-02-23",
           "deaths": 29010
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 315635,
+          "confirmed": 315873,
           "date": "2022-02-23",
           "deaths": 7162
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 537840,
+          "confirmed": 537906,
           "date": "2022-02-23",
           "deaths": 14876
         }
@@ -1184,9 +1184,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 637225,
+      "confirmed": 638153,
       "date": "2022-02-23",
-      "deaths": 18259
+      "deaths": 18281
     }
   },
   "Peru": {
@@ -1517,9 +1517,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 315587,
+          "confirmed": 315897,
           "date": "2022-02-23",
-          "deaths": 4620
+          "deaths": 4640
         }
       },
       "Michigan": {
