@@ -475,7 +475,7 @@
     "live": {
       "confirmed": 478941,
       "date": "2022-02-24",
-      "deaths": 2188
+      "deaths": 2195
     }
   },
   "Ethiopia": {
@@ -494,9 +494,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 21866657,
+      "confirmed": 21933357,
       "date": "2022-02-24",
-      "deaths": 134493
+      "deaths": 134772
     }
   },
   "Georgia": {
@@ -510,9 +510,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2002229,
+          "confirmed": 2030950,
           "date": "2022-02-24",
-          "deaths": 14157
+          "deaths": 14191
         }
       },
       "Bayern": {
@@ -953,7 +953,7 @@
     "live": {
       "confirmed": 1388713,
       "date": "2022-02-24",
-      "deaths": 18882
+      "deaths": 18893
     }
   },
   "Kenya": {
@@ -1064,7 +1064,7 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 903150,
+      "confirmed": 904231,
       "date": "2022-02-24",
       "deaths": 2163
     }
@@ -1346,79 +1346,79 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3665149,
+      "confirmed": 3667560,
       "date": "2022-02-24",
-      "deaths": 98978
+      "deaths": 99018
     }
   },
   "Spain": {
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 1326345,
+          "confirmed": 1335619,
           "date": "2022-02-24",
-          "deaths": 12631
+          "deaths": 12687
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 394084,
+          "confirmed": 394705,
           "date": "2022-02-24",
-          "deaths": 4789
+          "deaths": 4801
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 1283506,
+          "confirmed": 1287135,
           "date": "2022-02-24",
-          "deaths": 8961
+          "deaths": 8979
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 467082,
+          "confirmed": 468143,
           "date": "2022-02-24",
-          "deaths": 7057
+          "deaths": 7061
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 647113,
+          "confirmed": 648196,
           "date": "2022-02-24",
-          "deaths": 8182
+          "deaths": 8194
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 2247771,
+          "confirmed": 2255084,
           "date": "2022-02-24",
-          "deaths": 17880
+          "deaths": 17885
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 521132,
+          "confirmed": 522913,
           "date": "2022-02-24",
-          "deaths": 3073
+          "deaths": 3077
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 1577701,
+          "confirmed": 1582389,
           "date": "2022-02-24",
-          "deaths": 17198
+          "deaths": 17299
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 367862,
+          "confirmed": 369139,
           "date": "2022-02-24",
-          "deaths": 2144
+          "deaths": 2148
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 647201,
+          "confirmed": 648000,
           "date": "2022-02-24",
           "deaths": 6141
         }
@@ -1496,9 +1496,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5956140,
+          "confirmed": 5958461,
           "date": "2022-02-24",
-          "deaths": 59611
+          "deaths": 59641
         }
       },
       "Florida": {
@@ -1510,9 +1510,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1108068,
+          "confirmed": 1108582,
           "date": "2022-02-24",
-          "deaths": 13980
+          "deaths": 13997
         }
       },
       "Massachusetts": {
@@ -1552,7 +1552,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 285667,
+          "confirmed": 285818,
           "date": "2022-02-24",
           "deaths": 2425
         }
@@ -1688,9 +1688,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 638172,
+      "confirmed": 640214,
       "date": "2022-02-24",
-      "deaths": 5439
+      "deaths": 5458
     }
   },
   "Zambia": {
