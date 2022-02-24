@@ -473,7 +473,7 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 474550,
+      "confirmed": 478941,
       "date": "2022-02-24",
       "deaths": 2188
     }
@@ -487,9 +487,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 629727,
+      "confirmed": 637658,
       "date": "2022-02-24",
-      "deaths": 2351
+      "deaths": 2364
     }
   },
   "France": {
@@ -914,7 +914,7 @@
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 420531,
+          "confirmed": 420503,
           "date": "2022-02-24",
           "deaths": 1610
         }
@@ -1152,7 +1152,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 378922,
+      "confirmed": 379618,
       "date": "2022-02-24",
       "deaths": 4238
     }
@@ -1209,9 +1209,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5602680,
+      "confirmed": 5620946,
       "date": "2022-02-24",
-      "deaths": 110517
+      "deaths": 110858
     }
   },
   "Portugal": {
@@ -1311,9 +1311,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 741864,
+      "confirmed": 742541,
       "date": "2022-02-24",
-      "deaths": 8990
+      "deaths": 8991
     }
   },
   "Serbia": {
@@ -1332,16 +1332,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2052260,
+      "confirmed": 2071372,
       "date": "2022-02-24",
-      "deaths": 18314
+      "deaths": 18338
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 884830,
+      "confirmed": 887224,
       "date": "2022-02-24",
-      "deaths": 6246
+      "deaths": 6256
     }
   },
   "South Africa": {
@@ -1461,7 +1461,7 @@
     "live": {
       "confirmed": 2730037,
       "date": "2022-02-24",
-      "deaths": 13061
+      "deaths": 13066
     }
   },
   "Thailand": {
@@ -1591,37 +1591,37 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 301322,
+          "confirmed": 303551,
           "date": "2022-02-24",
-          "deaths": 9424
+          "deaths": 9454
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 304877,
+          "confirmed": 305661,
           "date": "2022-02-24",
-          "deaths": 6843
+          "deaths": 6858
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 441459,
+          "confirmed": 445098,
           "date": "2022-02-24",
-          "deaths": 8938
+          "deaths": 8966
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 302339,
+          "confirmed": 303357,
           "date": "2022-02-24",
-          "deaths": 6560
+          "deaths": 6569
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 324426,
+          "confirmed": 325462,
           "date": "2022-02-24",
-          "deaths": 5913
+          "deaths": 5917
         }
       }
     }
