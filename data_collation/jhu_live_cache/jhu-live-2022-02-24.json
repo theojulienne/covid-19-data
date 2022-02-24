@@ -40,9 +40,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 2550371,
+      "confirmed": 2578962,
       "date": "2022-02-24",
-      "deaths": 14661
+      "deaths": 14700
     }
   },
   "Azerbaijan": {
@@ -782,9 +782,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 5350902,
+      "confirmed": 5408328,
       "date": "2022-02-24",
-      "deaths": 147025
+      "deaths": 147342
     }
   },
   "Iran": {
@@ -993,9 +993,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 489940,
+      "confirmed": 491216,
       "date": "2022-02-24",
-      "deaths": 6222
+      "deaths": 6232
     }
   },
   "Lithuania": {
@@ -1202,9 +1202,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3655709,
+      "confirmed": 3657342,
       "date": "2022-02-24",
-      "deaths": 55977
+      "deaths": 56165
     }
   },
   "Poland": {
@@ -1461,7 +1461,7 @@
     "live": {
       "confirmed": 2730037,
       "date": "2022-02-24",
-      "deaths": 13066
+      "deaths": 13068
     }
   },
   "Thailand": {
