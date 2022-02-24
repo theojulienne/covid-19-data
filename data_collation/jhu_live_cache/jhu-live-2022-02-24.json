@@ -24,7 +24,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 550015,
+          "confirmed": 549935,
           "date": "2022-02-24",
           "deaths": 513
         }
@@ -375,35 +375,35 @@
         "live": {
           "confirmed": 915690,
           "date": "2022-02-24",
-          "deaths": 18128
+          "deaths": 18134
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 401055,
           "date": "2022-02-24",
-          "deaths": 10079
+          "deaths": 10082
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1752683,
           "date": "2022-02-24",
-          "deaths": 29010
+          "deaths": 29022
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 315873,
           "date": "2022-02-24",
-          "deaths": 7162
+          "deaths": 7173
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 537906,
           "date": "2022-02-24",
-          "deaths": 14876
+          "deaths": 14885
         }
       }
     }
@@ -1466,9 +1466,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2770793,
+      "confirmed": 2794350,
       "date": "2022-02-24",
-      "deaths": 22730
+      "deaths": 22768
     }
   },
   "Tunisia": {
