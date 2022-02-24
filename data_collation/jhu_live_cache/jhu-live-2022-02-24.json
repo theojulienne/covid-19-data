@@ -77,49 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 527485,
+          "confirmed": 529145,
           "date": "2022-02-24",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 409532,
+          "confirmed": 410170,
           "date": "2022-02-24",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 449983,
+          "confirmed": 451112,
           "date": "2022-02-24",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 322965,
+          "confirmed": 323927,
           "date": "2022-02-24",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 413864,
+          "confirmed": 414635,
           "date": "2022-02-24",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 343798,
+          "confirmed": 344365,
           "date": "2022-02-24",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 364909,
+          "confirmed": 365913,
           "date": "2022-02-24",
           "deaths": 0
         }
@@ -128,9 +128,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 891112,
+      "confirmed": 891851,
       "date": "2022-02-24",
-      "deaths": 21400
+      "deaths": 21406
     }
   },
   "Bosnia and Herzegovina": {
@@ -951,7 +951,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1388101,
+      "confirmed": 1388713,
       "date": "2022-02-24",
       "deaths": 18882
     }
@@ -1161,16 +1161,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 499768,
+          "confirmed": 500092,
           "date": "2022-02-24",
-          "deaths": 13471
+          "deaths": 13480
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 565319,
+          "confirmed": 565975,
           "date": "2022-02-24",
-          "deaths": 8045
+          "deaths": 8048
         }
       }
     }
@@ -1674,16 +1674,16 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 512169,
+      "confirmed": 512560,
       "date": "2022-02-24",
-      "deaths": 5621
+      "deaths": 5624
     }
   },
   "Vietnam": {
     "live": {
-      "confirmed": 2890522,
+      "confirmed": 2972378,
       "date": "2022-02-24",
-      "deaths": 39682
+      "deaths": 39773
     }
   },
   "West Bank and Gaza": {
