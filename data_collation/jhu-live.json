@@ -452,9 +452,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 572596,
+      "confirmed": 573458,
       "date": "2022-02-24",
-      "deaths": 4360
+      "deaths": 4363
     }
   },
   "Ecuador": {
@@ -566,23 +566,23 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 554983,
+          "confirmed": 562333,
           "date": "2022-02-24",
-          "deaths": 4971
+          "deaths": 4978
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 903026,
+          "confirmed": 913904,
           "date": "2022-02-24",
-          "deaths": 14280
+          "deaths": 14287
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 385418,
+          "confirmed": 393371,
           "date": "2022-02-24",
-          "deaths": 4730
+          "deaths": 4736
         }
       },
       "Schleswig-Holstein": {
@@ -1318,9 +1318,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1896575,
+      "confirmed": 1900293,
       "date": "2022-02-24",
-      "deaths": 15010
+      "deaths": 15059
     }
   },
   "Singapore": {
@@ -1461,7 +1461,7 @@
     "live": {
       "confirmed": 2747563,
       "date": "2022-02-24",
-      "deaths": 13070
+      "deaths": 13071
     }
   },
   "Thailand": {
