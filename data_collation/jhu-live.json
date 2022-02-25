@@ -40,9 +40,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 2578962,
+      "confirmed": 2610286,
       "date": "2022-02-25",
-      "deaths": 14700
+      "deaths": 14725
     }
   },
   "Azerbaijan": {
@@ -487,7 +487,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 637658,
+      "confirmed": 637729,
       "date": "2022-02-25",
       "deaths": 2364
     }
@@ -907,9 +907,9 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 303673,
+          "confirmed": 303672,
           "date": "2022-02-25",
-          "deaths": 1553
+          "deaths": 1552
         }
       },
       "Kanagawa": {
@@ -928,7 +928,7 @@
       },
       "Saitama": {
         "live": {
-          "confirmed": 296939,
+          "confirmed": 296938,
           "date": "2022-02-25",
           "deaths": 1152
         }
@@ -1209,9 +1209,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5620946,
+      "confirmed": 5637646,
       "date": "2022-02-25",
-      "deaths": 110858
+      "deaths": 111056
     }
   },
   "Portugal": {
@@ -1332,16 +1332,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2071372,
+      "confirmed": 2087491,
       "date": "2022-02-25",
-      "deaths": 18338
+      "deaths": 18375
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 887224,
+      "confirmed": 889202,
       "date": "2022-02-25",
-      "deaths": 6257
+      "deaths": 6264
     }
   },
   "South Africa": {
@@ -1461,7 +1461,7 @@
     "live": {
       "confirmed": 2747563,
       "date": "2022-02-25",
-      "deaths": 13072
+      "deaths": 13073
     }
   },
   "Thailand": {
