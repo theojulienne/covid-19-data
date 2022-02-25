@@ -337,9 +337,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 346196,
+          "confirmed": 346793,
           "date": "2022-02-25",
-          "deaths": 2831
+          "deaths": 2840
         }
       },
       "Ontario": {
@@ -433,7 +433,7 @@
     "live": {
       "confirmed": 315341,
       "date": "2022-02-25",
-      "deaths": 834
+      "deaths": 848
     }
   },
   "Czechia": {
@@ -494,9 +494,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 21933339,
+      "confirmed": 21991477,
       "date": "2022-02-25",
-      "deaths": 134772
+      "deaths": 134960
     }
   },
   "Georgia": {
@@ -972,9 +972,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 617275,
+      "confirmed": 618121,
       "date": "2022-02-25",
-      "deaths": 2534
+      "deaths": 2535
     }
   },
   "Latvia": {
@@ -1346,9 +1346,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3667560,
+      "confirmed": 3669671,
       "date": "2022-02-25",
-      "deaths": 99018
+      "deaths": 99145
     }
   },
   "Spain": {
@@ -1517,9 +1517,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1108582,
+          "confirmed": 1109348,
           "date": "2022-02-25",
-          "deaths": 13997
+          "deaths": 14016
         }
       },
       "Massachusetts": {
@@ -1561,7 +1561,7 @@
         "live": {
           "confirmed": 304285,
           "date": "2022-02-25",
-          "deaths": 4950
+          "deaths": 4960
         }
       },
       "Texas": {
