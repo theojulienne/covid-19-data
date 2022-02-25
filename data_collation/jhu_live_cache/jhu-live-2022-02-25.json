@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 8878486,
+      "confirmed": 8887973,
       "date": "2022-02-25",
-      "deaths": 125872
+      "deaths": 125958
     }
   },
   "Armenia": {
@@ -610,9 +610,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 770135,
+      "confirmed": 773575,
       "date": "2022-02-25",
-      "deaths": 16906
+      "deaths": 16939
     }
   },
   "Honduras": {
@@ -1138,9 +1138,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 295712,
+      "confirmed": 296229,
       "date": "2022-02-25",
-      "deaths": 8968
+      "deaths": 8981
     }
   },
   "Norway": {
@@ -1496,9 +1496,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1243994,
+          "confirmed": 1245088,
           "date": "2022-02-25",
-          "deaths": 15710
+          "deaths": 15753
         }
       },
       "California": {
@@ -1573,9 +1573,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 338537,
+          "confirmed": 338729,
           "date": "2022-02-25",
-          "deaths": 1539
+          "deaths": 1542
         }
       },
       "Washington": {
