@@ -321,9 +321,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 578446,
+      "confirmed": 581837,
       "date": "2022-02-25",
-      "deaths": 19353
+      "deaths": 19356
     }
   },
   "Canada": {
@@ -362,9 +362,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 1171720,
+          "confirmed": 1180571,
           "date": "2022-02-25",
-          "deaths": 20888
+          "deaths": 20934
         }
       }
     }
@@ -803,9 +803,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1287908,
+      "confirmed": 1292212,
       "date": "2022-02-25",
-      "deaths": 6471
+      "deaths": 6475
     }
   },
   "Israel": {
@@ -907,37 +907,37 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 303672,
+          "confirmed": 307859,
           "date": "2022-02-25",
-          "deaths": 1552
+          "deaths": 1580
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 426988,
+          "confirmed": 433712,
           "date": "2022-02-25",
-          "deaths": 1620
+          "deaths": 1649
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 616918,
+          "confirmed": 625452,
           "date": "2022-02-25",
-          "deaths": 3767
+          "deaths": 3814
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 296938,
+          "confirmed": 300242,
           "date": "2022-02-25",
-          "deaths": 1152
+          "deaths": 1161
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 951548,
+          "confirmed": 962673,
           "date": "2022-02-25",
-          "deaths": 3541
+          "deaths": 3564
         }
       }
     }
@@ -1325,9 +1325,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 661198,
+      "confirmed": 679795,
       "date": "2022-02-25",
-      "deaths": 975
+      "deaths": 986
     }
   },
   "Slovakia": {
