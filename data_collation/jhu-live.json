@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 781538,
+      "confirmed": 782748,
       "date": "2022-02-25",
-      "deaths": 9330
+      "deaths": 9358
     }
   },
   "Bahrain": {
@@ -566,9 +566,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 562333,
+          "confirmed": 569855,
           "date": "2022-02-25",
-          "deaths": 4978
+          "deaths": 4992
         }
       },
       "Sachsen": {
@@ -603,9 +603,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2369396,
+      "confirmed": 2385304,
       "date": "2022-02-25",
-      "deaths": 25603
+      "deaths": 25668
     }
   },
   "Guatemala": {
@@ -810,9 +810,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3604828,
+      "confirmed": 3607504,
       "date": "2022-02-25",
-      "deaths": 10108
+      "deaths": 10114
     }
   },
   "Italy": {
@@ -1318,9 +1318,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1900293,
+      "confirmed": 1903494,
       "date": "2022-02-25",
-      "deaths": 15059
+      "deaths": 15110
     }
   },
   "Singapore": {
