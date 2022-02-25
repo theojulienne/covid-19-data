@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1285301,
+          "confirmed": 1292781,
           "date": "2022-02-24",
-          "deaths": 1871
+          "deaths": 1877
         }
       },
       "Queensland": {
@@ -31,9 +31,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1017972,
+          "confirmed": 1024552,
           "date": "2022-02-24",
-          "deaths": 2426
+          "deaths": 2437
         }
       }
     }
@@ -1184,9 +1184,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 638153,
+      "confirmed": 639078,
       "date": "2022-02-24",
-      "deaths": 18281
+      "deaths": 18315
     }
   },
   "Peru": {
@@ -1461,7 +1461,7 @@
     "live": {
       "confirmed": 2747563,
       "date": "2022-02-24",
-      "deaths": 13072
+      "deaths": 13073
     }
   },
   "Thailand": {
@@ -1517,9 +1517,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 315897,
+          "confirmed": 316238,
           "date": "2022-02-24",
-          "deaths": 4640
+          "deaths": 4647
         }
       },
       "Michigan": {
