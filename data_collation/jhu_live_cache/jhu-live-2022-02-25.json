@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 902315,
+      "confirmed": 907978,
       "date": "2022-02-25",
-      "deaths": 6421
+      "deaths": 6438
     }
   },
   "Belgium": {
@@ -344,9 +344,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1093930,
+          "confirmed": 1096357,
           "date": "2022-02-25",
-          "deaths": 12347
+          "deaths": 12386
         }
       },
       "Quebec": {
@@ -417,9 +417,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1049667,
+      "confirmed": 1051697,
       "date": "2022-02-25",
-      "deaths": 14964
+      "deaths": 14990
     }
   },
   "Cuba": {
@@ -789,9 +789,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 7011932,
+      "confirmed": 7023904,
       "date": "2022-02-25",
-      "deaths": 135952
+      "deaths": 136166
     }
   },
   "Iraq": {
@@ -1230,9 +1230,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2708315,
+      "confirmed": 2717289,
       "date": "2022-02-25",
-      "deaths": 63073
+      "deaths": 63193
     }
   },
   "Russia": {
@@ -1459,7 +1459,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 2747563,
+      "confirmed": 2765218,
       "date": "2022-02-25",
       "deaths": 13078
     }
@@ -1628,9 +1628,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 877406,
+      "confirmed": 878102,
       "date": "2022-02-25",
-      "deaths": 2299
+      "deaths": 2300
     }
   },
   "United Kingdom": {
