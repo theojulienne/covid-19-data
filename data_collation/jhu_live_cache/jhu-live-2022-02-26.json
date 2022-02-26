@@ -951,7 +951,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1389288,
+      "confirmed": 1389784,
       "date": "2022-02-26",
       "deaths": 18906
     }
@@ -1510,7 +1510,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 2875808,
+          "confirmed": 2886770,
           "date": "2022-02-26",
           "deaths": 26662
         }
