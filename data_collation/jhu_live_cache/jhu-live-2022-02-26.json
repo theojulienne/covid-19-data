@@ -40,9 +40,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 2610286,
+      "confirmed": 2636258,
       "date": "2022-02-26",
-      "deaths": 14725
+      "deaths": 14762
     }
   },
   "Azerbaijan": {
@@ -431,7 +431,7 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 315341,
+      "confirmed": 317167,
       "date": "2022-02-26",
       "deaths": 848
     }
@@ -566,9 +566,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 569855,
+          "confirmed": 572593,
           "date": "2022-02-26",
-          "deaths": 4992
+          "deaths": 4996
         }
       },
       "Sachsen": {
@@ -979,9 +979,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 633960,
+      "confirmed": 644077,
       "date": "2022-02-26",
-      "deaths": 5191
+      "deaths": 5223
     }
   },
   "Lebanon": {
@@ -1078,9 +1078,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 976670,
+      "confirmed": 976771,
       "date": "2022-02-26",
-      "deaths": 11932
+      "deaths": 11934
     }
   },
   "Netherlands": {
@@ -1628,9 +1628,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 878102,
+      "confirmed": 878746,
       "date": "2022-02-26",
-      "deaths": 2300
+      "deaths": 2301
     }
   },
   "United Kingdom": {
