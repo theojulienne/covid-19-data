@@ -1812,18 +1812,18 @@
     },
     "IRN": {
       "back_1week": {
-        "confirmed": 6894110,
-        "deaths": 134420,
+        "confirmed": 6913427,
+        "deaths": 134607,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 6730608,
-        "deaths": 133294,
+        "confirmed": 6761855,
+        "deaths": 133437,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 7011932,
-        "deaths": 135952,
+        "confirmed": 7023904,
+        "deaths": 136166,
         "recovered": 0
       }
     },
