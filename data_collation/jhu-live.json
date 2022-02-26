@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1292781,
+          "confirmed": 1299750,
           "date": "2022-02-25",
-          "deaths": 1877
+          "deaths": 1888
         }
       },
       "Queensland": {
@@ -31,9 +31,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1024397,
+          "confirmed": 1030271,
           "date": "2022-02-25",
-          "deaths": 2437
+          "deaths": 2452
         }
       }
     }
@@ -54,9 +54,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 504375,
+      "confirmed": 506974,
       "date": "2022-02-25",
-      "deaths": 1447
+      "deaths": 1448
     }
   },
   "Bangladesh": {
@@ -128,16 +128,16 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 891851,
+      "confirmed": 892537,
       "date": "2022-02-25",
-      "deaths": 21406
+      "deaths": 21414
     }
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 370295,
+      "confirmed": 370652,
       "date": "2022-02-25",
-      "deaths": 15392
+      "deaths": 15411
     }
   },
   "Brazil": {
@@ -314,9 +314,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1083425,
+      "confirmed": 1086328,
       "date": "2022-02-25",
-      "deaths": 35357
+      "deaths": 35433
     }
   },
   "Burma": {
@@ -330,9 +330,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 523786,
+          "confirmed": 524381,
           "date": "2022-02-25",
-          "deaths": 3885
+          "deaths": 3898
         }
       },
       "British Columbia": {
@@ -373,35 +373,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 915873,
+          "confirmed": 916016,
           "date": "2022-02-25",
           "deaths": 18136
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 401166,
+          "confirmed": 401303,
           "date": "2022-02-25",
           "deaths": 10087
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1753860,
+          "confirmed": 1754910,
           "date": "2022-02-25",
           "deaths": 29030
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 316014,
+          "confirmed": 316138,
           "date": "2022-02-25",
           "deaths": 7182
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 538052,
+          "confirmed": 538175,
           "date": "2022-02-25",
           "deaths": 14889
         }
@@ -466,9 +466,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 477173,
+      "confirmed": 478984,
       "date": "2022-02-25",
-      "deaths": 23927
+      "deaths": 23957
     }
   },
   "Estonia": {
@@ -1480,9 +1480,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 992574,
+      "confirmed": 994543,
       "date": "2022-02-25",
-      "deaths": 27640
+      "deaths": 27668
     }
   },
   "Turkey": {
@@ -1524,9 +1524,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 316238,
+          "confirmed": 316558,
           "date": "2022-02-25",
-          "deaths": 4647
+          "deaths": 4652
         }
       },
       "Michigan": {
