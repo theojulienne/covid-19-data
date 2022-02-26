@@ -8,9 +8,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 418792,
+      "confirmed": 419423,
       "date": "2022-02-26",
-      "deaths": 8413
+      "deaths": 8433
     }
   },
   "Australia": {
@@ -1034,23 +1034,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1342303,
+          "confirmed": 1345276,
           "date": "2022-02-26",
-          "deaths": 42013
+          "deaths": 42047
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 517439,
+          "confirmed": 519091,
           "date": "2022-02-26",
-          "deaths": 46359
+          "deaths": 46408
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 304180,
+          "confirmed": 305184,
           "date": "2022-02-26",
-          "deaths": 14798
+          "deaths": 14808
         }
       }
     }
