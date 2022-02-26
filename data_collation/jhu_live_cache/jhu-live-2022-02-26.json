@@ -61,16 +61,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1941057,
+      "confirmed": 1941816,
       "date": "2022-02-26",
-      "deaths": 29016
+      "deaths": 29024
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 907978,
+      "confirmed": 913333,
       "date": "2022-02-26",
-      "deaths": 6438
+      "deaths": 6454
     }
   },
   "Belgium": {
@@ -475,7 +475,7 @@
     "live": {
       "confirmed": 487955,
       "date": "2022-02-26",
-      "deaths": 2204
+      "deaths": 2213
     }
   },
   "Ethiopia": {
@@ -538,7 +538,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 345612,
+          "confirmed": 347093,
           "date": "2022-02-26",
           "deaths": 2288
         }
@@ -782,9 +782,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 5457775,
+      "confirmed": 5504418,
       "date": "2022-02-26",
-      "deaths": 147586
+      "deaths": 147844
     }
   },
   "Iran": {
@@ -1230,9 +1230,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2717289,
+      "confirmed": 2724480,
       "date": "2022-02-26",
-      "deaths": 63193
+      "deaths": 63294
     }
   },
   "Russia": {
@@ -1695,9 +1695,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 312374,
+      "confirmed": 312611,
       "date": "2022-02-26",
-      "deaths": 3947
+      "deaths": 3951
     }
   }
 }
