@@ -2373,18 +2373,18 @@
     },
     "MKD": {
       "back_1week": {
-        "confirmed": 290915,
-        "deaths": 8851,
+        "confirmed": 291820,
+        "deaths": 8869,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 283547,
-        "deaths": 8686,
+        "confirmed": 284875,
+        "deaths": 8705,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 295712,
-        "deaths": 8968,
+        "confirmed": 296229,
+        "deaths": 8981,
         "recovered": 0
       }
     },
