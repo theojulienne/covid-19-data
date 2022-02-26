@@ -77,49 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 530934,
+          "confirmed": 532238,
           "date": "2022-02-26",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 410723,
+          "confirmed": 411195,
           "date": "2022-02-26",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 452409,
+          "confirmed": 453315,
           "date": "2022-02-26",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 324950,
+          "confirmed": 325695,
           "date": "2022-02-26",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 415308,
+          "confirmed": 415791,
           "date": "2022-02-26",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 344927,
+          "confirmed": 345311,
           "date": "2022-02-26",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 366991,
+          "confirmed": 367755,
           "date": "2022-02-26",
           "deaths": 0
         }
@@ -510,58 +510,58 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2058869,
+          "confirmed": 2058953,
           "date": "2022-02-26",
           "deaths": 14230
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 2688989,
+          "confirmed": 2722333,
           "date": "2022-02-26",
-          "deaths": 21266
+          "deaths": 21307
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 727110,
+          "confirmed": 734192,
           "date": "2022-02-26",
-          "deaths": 4242
+          "deaths": 4243
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 502811,
+          "confirmed": 508890,
           "date": "2022-02-26",
-          "deaths": 5175
+          "deaths": 5179
         }
       },
       "Hamburg": {
         "live": {
           "confirmed": 345612,
           "date": "2022-02-26",
-          "deaths": 2286
+          "deaths": 2288
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 1043813,
+          "confirmed": 1053371,
           "date": "2022-02-26",
-          "deaths": 9139
+          "deaths": 9168
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 1011016,
+          "confirmed": 1026690,
           "date": "2022-02-26",
-          "deaths": 7417
+          "deaths": 7447
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 2976909,
+          "confirmed": 3012581,
           "date": "2022-02-26",
-          "deaths": 22141
+          "deaths": 22194
         }
       },
       "Rheinland-Pfalz": {
@@ -573,30 +573,30 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 922788,
+          "confirmed": 923434,
           "date": "2022-02-26",
-          "deaths": 14293
+          "deaths": 14295
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 402339,
+          "confirmed": 402344,
           "date": "2022-02-26",
           "deaths": 4744
         }
       },
       "Schleswig-Holstein": {
         "live": {
-          "confirmed": 311289,
+          "confirmed": 315067,
           "date": "2022-02-26",
-          "deaths": 2102
+          "deaths": 2109
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 400167,
+          "confirmed": 404422,
           "date": "2022-02-26",
-          "deaths": 6597
+          "deaths": 6603
         }
       }
     }
@@ -1332,7 +1332,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2087491,
+      "confirmed": 2083963,
       "date": "2022-02-26",
       "deaths": 18375
     }
