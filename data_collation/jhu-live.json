@@ -603,9 +603,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2385304,
+      "confirmed": 2397187,
       "date": "2022-02-26",
-      "deaths": 25668
+      "deaths": 25719
     }
   },
   "Guatemala": {
@@ -1318,9 +1318,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1903494,
+      "confirmed": 1906142,
       "date": "2022-02-26",
-      "deaths": 15110
+      "deaths": 15155
     }
   },
   "Singapore": {
