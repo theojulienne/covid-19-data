@@ -501,9 +501,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 1591936,
+      "confirmed": 1598172,
       "date": "2022-02-26",
-      "deaths": 16054
+      "deaths": 16097
     }
   },
   "Germany": {
@@ -1000,9 +1000,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 891538,
+      "confirmed": 896910,
       "date": "2022-02-26",
-      "deaths": 8368
+      "deaths": 8387
     }
   },
   "Malaysia": {
@@ -1468,7 +1468,7 @@
     "live": {
       "confirmed": 2765218,
       "date": "2022-02-26",
-      "deaths": 13082
+      "deaths": 13083
     }
   },
   "Thailand": {
