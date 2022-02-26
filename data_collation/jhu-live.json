@@ -914,7 +914,7 @@
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 433712,
+          "confirmed": 433709,
           "date": "2022-02-26",
           "deaths": 1649
         }
@@ -928,7 +928,7 @@
       },
       "Saitama": {
         "live": {
-          "confirmed": 300242,
+          "confirmed": 300241,
           "date": "2022-02-26",
           "deaths": 1161
         }
@@ -1209,9 +1209,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5637646,
+      "confirmed": 5651596,
       "date": "2022-02-26",
-      "deaths": 111056
+      "deaths": 111277
     }
   },
   "Portugal": {
@@ -1311,9 +1311,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 743205,
+      "confirmed": 743742,
       "date": "2022-02-26",
-      "deaths": 8993
+      "deaths": 8994
     }
   },
   "Serbia": {
@@ -1332,16 +1332,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2083963,
+      "confirmed": 2102420,
       "date": "2022-02-26",
-      "deaths": 18375
+      "deaths": 18413
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 889202,
+      "confirmed": 891041,
       "date": "2022-02-26",
-      "deaths": 6264
+      "deaths": 6276
     }
   },
   "South Africa": {
