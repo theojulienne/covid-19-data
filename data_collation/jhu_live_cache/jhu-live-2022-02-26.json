@@ -494,9 +494,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 21991477,
+      "confirmed": 22045100,
       "date": "2022-02-26",
-      "deaths": 134960
+      "deaths": 135061
     }
   },
   "Georgia": {
@@ -1346,9 +1346,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3669671,
+      "confirmed": 3671991,
       "date": "2022-02-26",
-      "deaths": 99145
+      "deaths": 99191
     }
   },
   "Spain": {
