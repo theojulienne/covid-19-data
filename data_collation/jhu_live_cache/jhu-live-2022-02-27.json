@@ -351,9 +351,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 918819,
+          "confirmed": 921030,
           "date": "2022-02-27",
-          "deaths": 13955
+          "deaths": 13974
         }
       }
     }
@@ -1009,23 +1009,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 315675,
+          "confirmed": 317493,
           "date": "2022-02-27",
-          "deaths": 4042
+          "deaths": 4047
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 334506,
+          "confirmed": 337380,
           "date": "2022-02-27",
-          "deaths": 2954
+          "deaths": 2958
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 936713,
+          "confirmed": 943536,
           "date": "2022-02-27",
-          "deaths": 10161
+          "deaths": 10163
         }
       }
     }
@@ -1216,9 +1216,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 3251302,
+      "confirmed": 3258409,
       "date": "2022-02-27",
-      "deaths": 21001
+      "deaths": 21039
     }
   },
   "Qatar": {
@@ -1566,9 +1566,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2657582,
+          "confirmed": 2657912,
           "date": "2022-02-27",
-          "deaths": 28608
+          "deaths": 28632
         }
       },
       "Utah": {
