@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 559973,
+          "confirmed": 563498,
           "date": "2022-02-27",
-          "deaths": 528
+          "deaths": 529
         }
       },
       "Victoria": {
@@ -128,9 +128,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 892537,
+      "confirmed": 893048,
       "date": "2022-02-27",
-      "deaths": 21414
+      "deaths": 21419
     }
   },
   "Bosnia and Herzegovina": {
@@ -1177,9 +1177,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 754362,
+      "confirmed": 754905,
       "date": "2022-02-27",
-      "deaths": 8063
+      "deaths": 8073
     }
   },
   "Paraguay": {
