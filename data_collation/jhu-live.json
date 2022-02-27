@@ -61,9 +61,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1941816,
+      "confirmed": 1942680,
       "date": "2022-02-27",
-      "deaths": 29024
+      "deaths": 29033
     }
   },
   "Belarus": {
@@ -417,9 +417,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1053568,
+      "confirmed": 1054596,
       "date": "2022-02-27",
-      "deaths": 15012
+      "deaths": 15030
     }
   },
   "Cuba": {
@@ -538,7 +538,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 347093,
+          "confirmed": 348394,
           "date": "2022-02-27",
           "deaths": 2293
         }
@@ -1078,9 +1078,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 976771,
+      "confirmed": 976865,
       "date": "2022-02-27",
-      "deaths": 11934
+      "deaths": 11935
     }
   },
   "Netherlands": {
@@ -1223,16 +1223,16 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 356363,
+      "confirmed": 356671,
       "date": "2022-02-27",
-      "deaths": 667
+      "deaths": 668
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 2724480,
+      "confirmed": 2728727,
       "date": "2022-02-27",
-      "deaths": 63294
+      "deaths": 63353
     }
   },
   "Russia": {
@@ -1628,7 +1628,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 878746,
+      "confirmed": 879368,
       "date": "2022-02-27",
       "deaths": 2301
     }
