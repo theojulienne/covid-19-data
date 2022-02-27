@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 913333,
+      "confirmed": 917468,
       "date": "2022-02-27",
-      "deaths": 6454
+      "deaths": 6470
     }
   },
   "Belgium": {
@@ -475,7 +475,7 @@
     "live": {
       "confirmed": 492149,
       "date": "2022-02-27",
-      "deaths": 2213
+      "deaths": 2225
     }
   },
   "Ethiopia": {
@@ -566,9 +566,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 572593,
+          "confirmed": 574792,
           "date": "2022-02-27",
-          "deaths": 4996
+          "deaths": 4997
         }
       },
       "Sachsen": {
@@ -979,9 +979,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 644077,
+      "confirmed": 649504,
       "date": "2022-02-27",
-      "deaths": 5223
+      "deaths": 5230
     }
   },
   "Lebanon": {
@@ -993,9 +993,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 492154,
+      "confirmed": 493548,
       "date": "2022-02-27",
-      "deaths": 6241
+      "deaths": 6250
     }
   },
   "Lithuania": {
@@ -1202,9 +1202,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3660020,
+      "confirmed": 3661049,
       "date": "2022-02-27",
-      "deaths": 56351
+      "deaths": 56401
     }
   },
   "Poland": {
@@ -1695,9 +1695,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 312611,
+      "confirmed": 312707,
       "date": "2022-02-27",
-      "deaths": 3951
+      "deaths": 3952
     }
   }
 }
