@@ -17,7 +17,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1305764,
+          "confirmed": 1305734,
           "date": "2022-02-27",
           "deaths": 1895
         }
@@ -373,35 +373,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 916016,
+          "confirmed": 916123,
           "date": "2022-02-27",
           "deaths": 18145
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 401303,
+          "confirmed": 401410,
           "date": "2022-02-27",
           "deaths": 10091
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1754910,
+          "confirmed": 1755802,
           "date": "2022-02-27",
           "deaths": 29053
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 316138,
+          "confirmed": 316232,
           "date": "2022-02-27",
           "deaths": 7188
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 538175,
+          "confirmed": 538585,
           "date": "2022-02-27",
           "deaths": 14895
         }
@@ -965,9 +965,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 2831283,
+      "confirmed": 2994841,
       "date": "2022-02-27",
-      "deaths": 7895
+      "deaths": 7944
     }
   },
   "Kuwait": {
