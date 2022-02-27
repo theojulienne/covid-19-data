@@ -588,18 +588,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 3234003,
-        "deaths": 35997,
+        "confirmed": 3237983,
+        "deaths": 36013,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3177799,
-        "deaths": 35372,
+        "confirmed": 3188589,
+        "deaths": 35481,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3276828,
-        "deaths": 36473,
+        "confirmed": 3279166,
+        "deaths": 36507,
         "recovered": 0
       },
       "states": {
@@ -644,8 +644,8 @@
           "deaths": 5
         },
         "Ontario": {
-          "confirmed": 1096357,
-          "deaths": 12386
+          "confirmed": 1098695,
+          "deaths": 12420
         },
         "Prince Edward Island": {
           "confirmed": 13372,
