@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 784260,
+      "confirmed": 785301,
       "date": "2022-02-27",
-      "deaths": 9378
+      "deaths": 9400
     }
   },
   "Bahrain": {
@@ -782,16 +782,16 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 5504418,
+      "confirmed": 5539394,
       "date": "2022-02-27",
-      "deaths": 147844
+      "deaths": 148073
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 7030943,
+      "confirmed": 7040467,
       "date": "2022-02-27",
-      "deaths": 136390
+      "deaths": 136631
     }
   },
   "Iraq": {
