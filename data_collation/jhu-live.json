@@ -40,9 +40,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 2636258,
+      "confirmed": 2659532,
       "date": "2022-02-27",
-      "deaths": 14762
+      "deaths": 14787
     }
   },
   "Azerbaijan": {
@@ -921,7 +921,7 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 635852,
+          "confirmed": 635845,
           "date": "2022-02-27",
           "deaths": 3863
         }
@@ -1152,9 +1152,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 379618,
+      "confirmed": 381381,
       "date": "2022-02-27",
-      "deaths": 4238
+      "deaths": 4242
     }
   },
   "Pakistan": {
@@ -1209,9 +1209,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5651596,
+      "confirmed": 5660493,
       "date": "2022-02-27",
-      "deaths": 111277
+      "deaths": 111316
     }
   },
   "Portugal": {
@@ -1311,9 +1311,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 743742,
+      "confirmed": 744374,
       "date": "2022-02-27",
-      "deaths": 8994
+      "deaths": 8996
     }
   },
   "Serbia": {
@@ -1332,16 +1332,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2102420,
+      "confirmed": 2112272,
       "date": "2022-02-27",
-      "deaths": 18413
+      "deaths": 18453
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 891041,
+      "confirmed": 891950,
       "date": "2022-02-27",
-      "deaths": 6276
+      "deaths": 6292
     }
   },
   "South Africa": {
