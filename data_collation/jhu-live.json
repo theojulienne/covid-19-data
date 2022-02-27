@@ -438,9 +438,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3568717,
+      "confirmed": 3574328,
       "date": "2022-02-27",
-      "deaths": 38558
+      "deaths": 38592
     }
   },
   "Denmark": {
@@ -951,7 +951,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1389784,
+      "confirmed": 1390173,
       "date": "2022-02-27",
       "deaths": 18906
     }
