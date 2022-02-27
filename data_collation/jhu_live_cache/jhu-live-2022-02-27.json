@@ -501,9 +501,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 1598172,
+      "confirmed": 1603007,
       "date": "2022-02-27",
-      "deaths": 16097
+      "deaths": 16138
     }
   },
   "Germany": {
@@ -1034,23 +1034,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1345276,
+          "confirmed": 1348398,
           "date": "2022-02-27",
-          "deaths": 42047
+          "deaths": 42072
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 519091,
+          "confirmed": 520475,
           "date": "2022-02-27",
-          "deaths": 46408
+          "deaths": 46444
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 305184,
+          "confirmed": 306013,
           "date": "2022-02-27",
-          "deaths": 14808
+          "deaths": 14812
         }
       }
     }
