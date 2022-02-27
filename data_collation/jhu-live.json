@@ -54,9 +54,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 509390,
+      "confirmed": 512306,
       "date": "2022-02-27",
-      "deaths": 1450
+      "deaths": 1453
     }
   },
   "Bangladesh": {
@@ -480,9 +480,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 468625,
+      "confirmed": 468674,
       "date": "2022-02-27",
-      "deaths": 7458
+      "deaths": 7460
     }
   },
   "Finland": {
@@ -958,7 +958,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 322906,
+      "confirmed": 322930,
       "date": "2022-02-27",
       "deaths": 5639
     }
@@ -972,9 +972,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 618703,
+      "confirmed": 619310,
       "date": "2022-02-27",
-      "deaths": 2536
+      "deaths": 2537
     }
   },
   "Latvia": {
@@ -986,9 +986,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1065307,
+      "confirmed": 1066840,
       "date": "2022-02-27",
-      "deaths": 10069
+      "deaths": 10079
     }
   },
   "Libya": {
@@ -1057,9 +1057,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 500812,
+      "confirmed": 501312,
       "date": "2022-02-27",
-      "deaths": 11201
+      "deaths": 11213
     }
   },
   "Mongolia": {
@@ -1138,9 +1138,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 296703,
+      "confirmed": 297081,
       "date": "2022-02-27",
-      "deaths": 8994
+      "deaths": 9001
     }
   },
   "Norway": {
