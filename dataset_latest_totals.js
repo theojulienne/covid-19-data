@@ -265,13 +265,13 @@ var covid19_dataset_latest_totals = {
     },
     "AZE": {
       "back_1week": {
-        "confirmed": 768019,
-        "deaths": 9182,
+        "confirmed": 771709,
+        "deaths": 9211,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 732380,
-        "deaths": 8998,
+        "confirmed": 738328,
+        "deaths": 9027,
         "recovered": 0
       },
       "latest": {
