@@ -1487,9 +1487,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 13975389,
+      "confirmed": 14025181,
       "date": "2022-02-27",
-      "deaths": 94026
+      "deaths": 94232
     }
   },
   "US": {
@@ -1561,7 +1561,7 @@
         "live": {
           "confirmed": 304285,
           "date": "2022-02-27",
-          "deaths": 4963
+          "deaths": 4965
         }
       },
       "Texas": {
