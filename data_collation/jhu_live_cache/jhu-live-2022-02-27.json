@@ -362,9 +362,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 1188101,
+          "confirmed": 1195250,
           "date": "2022-02-27",
-          "deaths": 20981
+          "deaths": 21019
         }
       }
     }
@@ -424,7 +424,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1068757,
+      "confirmed": 1069387,
       "date": "2022-02-27",
       "deaths": 8494
     }
@@ -907,46 +907,46 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 313038,
+          "confirmed": 317382,
           "date": "2022-02-27",
-          "deaths": 1599
+          "deaths": 1612
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 439451,
+          "confirmed": 445148,
           "date": "2022-02-27",
-          "deaths": 1680
+          "deaths": 1688
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 635845,
+          "confirmed": 642552,
           "date": "2022-02-27",
-          "deaths": 3863
+          "deaths": 3875
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 304787,
+          "confirmed": 309739,
           "date": "2022-02-27",
-          "deaths": 1167
+          "deaths": 1171
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 974235,
+          "confirmed": 984556,
           "date": "2022-02-27",
-          "deaths": 3593
+          "deaths": 3621
         }
       }
     }
   },
   "Jordan": {
     "live": {
-      "confirmed": 1617178,
+      "confirmed": 1623474,
       "date": "2022-02-27",
-      "deaths": 13798
+      "deaths": 13814
     }
   },
   "Kazakhstan": {
