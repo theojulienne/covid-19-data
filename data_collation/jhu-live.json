@@ -351,7 +351,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 921030,
+          "confirmed": 921875,
           "date": "2022-02-28",
           "deaths": 13981
         }
@@ -1353,9 +1353,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3673257,
+      "confirmed": 3674042,
       "date": "2022-02-28",
-      "deaths": 99229
+      "deaths": 99412
     }
   },
   "Spain": {
@@ -1505,7 +1505,7 @@
         "live": {
           "confirmed": 5973073,
           "date": "2022-02-28",
-          "deaths": 60136
+          "deaths": 60140
         }
       },
       "Florida": {
@@ -1531,9 +1531,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 392419,
+          "confirmed": 392673,
           "date": "2022-02-28",
-          "deaths": 7625
+          "deaths": 7631
         }
       },
       "Minnesota": {
@@ -1545,9 +1545,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 508796,
+          "confirmed": 511021,
           "date": "2022-02-28",
-          "deaths": 7452
+          "deaths": 7479
         }
       },
       "New York": {
@@ -1566,16 +1566,16 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2658421,
+          "confirmed": 2659580,
           "date": "2022-02-28",
-          "deaths": 28644
+          "deaths": 28654
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 338729,
+          "confirmed": 339132,
           "date": "2022-02-28",
-          "deaths": 1542
+          "deaths": 1543
         }
       },
       "Washington": {
