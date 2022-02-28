@@ -810,7 +810,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3625738,
+      "confirmed": 3629383,
       "date": "2022-02-28",
       "deaths": 10154
     }
@@ -1000,9 +1000,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 900519,
+      "confirmed": 902554,
       "date": "2022-02-28",
-      "deaths": 8410
+      "deaths": 8421
     }
   },
   "Malaysia": {
