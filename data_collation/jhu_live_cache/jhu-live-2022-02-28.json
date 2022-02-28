@@ -353,7 +353,7 @@
         "live": {
           "confirmed": 921030,
           "date": "2022-02-28",
-          "deaths": 13974
+          "deaths": 13981
         }
       }
     }
@@ -431,7 +431,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1069387,
+      "confirmed": 1069862,
       "date": "2022-02-28",
       "deaths": 8494
     }
@@ -817,9 +817,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3629383,
+      "confirmed": 3632793,
       "date": "2022-02-28",
-      "deaths": 10154
+      "deaths": 10189
     }
   },
   "Italy": {
@@ -951,9 +951,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1623474,
+      "confirmed": 1631708,
       "date": "2022-02-28",
-      "deaths": 13814
+      "deaths": 13835
     }
   },
   "Kazakhstan": {
@@ -1078,9 +1078,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1160892,
+      "confirmed": 1160975,
       "date": "2022-02-28",
-      "deaths": 15978
+      "deaths": 15988
     }
   },
   "Nepal": {
@@ -1468,7 +1468,7 @@
     "live": {
       "confirmed": 2801951,
       "date": "2022-02-28",
-      "deaths": 13096
+      "deaths": 13100
     }
   },
   "Thailand": {
@@ -1487,9 +1487,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14025181,
+      "confirmed": 14089456,
       "date": "2022-02-28",
-      "deaths": 94232
+      "deaths": 94445
     }
   },
   "US": {
@@ -1559,7 +1559,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 304285,
+          "confirmed": 304568,
           "date": "2022-02-28",
           "deaths": 4965
         }
