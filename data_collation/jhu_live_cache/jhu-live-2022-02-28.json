@@ -360,11 +360,18 @@
   },
   "Chile": {
     "subseries": {
+      "Biobio": {
+        "live": {
+          "confirmed": 287963,
+          "date": "2022-02-28",
+          "deaths": 3160
+        }
+      },
       "Metropolitana": {
         "live": {
-          "confirmed": 1195250,
+          "confirmed": 1201171,
           "date": "2022-02-28",
-          "deaths": 21019
+          "deaths": 21065
         }
       }
     }
@@ -803,9 +810,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1292212,
+      "confirmed": 1300422,
       "date": "2022-02-28",
-      "deaths": 6475
+      "deaths": 6497
     }
   },
   "Israel": {
@@ -907,37 +914,37 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 317382,
+          "confirmed": 320637,
           "date": "2022-02-28",
-          "deaths": 1612
+          "deaths": 1642
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 445146,
+          "confirmed": 451550,
           "date": "2022-02-28",
-          "deaths": 1688
+          "deaths": 1696
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 642552,
+          "confirmed": 647183,
           "date": "2022-02-28",
-          "deaths": 3875
+          "deaths": 3886
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 309739,
+          "confirmed": 313952,
           "date": "2022-02-28",
-          "deaths": 1171
+          "deaths": 1177
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 984396,
+          "confirmed": 994028,
           "date": "2022-02-28",
-          "deaths": 3621
+          "deaths": 3649
         }
       }
     }
@@ -1193,9 +1200,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 1582977,
+          "confirmed": 1591825,
           "date": "2022-02-28",
-          "deaths": 91987
+          "deaths": 92364
         }
       }
     }
@@ -1372,13 +1379,6 @@
           "confirmed": 1290406,
           "date": "2022-02-28",
           "deaths": 8995
-        }
-      },
-      "Canarias": {
-        "live": {
-          "confirmed": 287018,
-          "date": "2022-02-28",
-          "deaths": 1576
         }
       },
       "Castilla - La Mancha": {
