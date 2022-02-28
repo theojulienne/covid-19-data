@@ -510,7 +510,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2086860,
+          "confirmed": 2089112,
           "date": "2022-02-28",
           "deaths": 14246
         }
@@ -782,9 +782,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 5539394,
+      "confirmed": 5564448,
       "date": "2022-02-28",
-      "deaths": 148073
+      "deaths": 148335
     }
   },
   "Iran": {
@@ -979,9 +979,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 649504,
+      "confirmed": 653120,
       "date": "2022-02-28",
-      "deaths": 5230
+      "deaths": 5239
     }
   },
   "Lebanon": {
@@ -1202,9 +1202,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3661049,
+      "confirmed": 3661997,
       "date": "2022-02-28",
-      "deaths": 56401
+      "deaths": 56451
     }
   },
   "Poland": {
@@ -1339,7 +1339,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 892606,
+      "confirmed": 892620,
       "date": "2022-02-28",
       "deaths": 6306
     }
@@ -1468,7 +1468,7 @@
     "live": {
       "confirmed": 2765218,
       "date": "2022-02-28",
-      "deaths": 13087
+      "deaths": 13091
     }
   },
   "Thailand": {
@@ -1628,7 +1628,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 879368,
+      "confirmed": 879973,
       "date": "2022-02-28",
       "deaths": 2301
     }
