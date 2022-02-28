@@ -179,16 +179,16 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 1022062,
+          "confirmed": 1022147,
           "date": "2022-02-28",
-          "deaths": 14119
+          "deaths": 14123
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 1166420,
+          "confirmed": 1166468,
           "date": "2022-02-28",
-          "deaths": 25739
+          "deaths": 25740
         }
       },
       "Maranhao": {
@@ -200,9 +200,9 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 705050,
+          "confirmed": 706673,
           "date": "2022-02-28",
-          "deaths": 14706
+          "deaths": 14718
         }
       },
       "Mato Grosso do Sul": {
@@ -221,9 +221,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 717927,
+          "confirmed": 719326,
           "date": "2022-02-28",
-          "deaths": 17793
+          "deaths": 17799
         }
       },
       "Paraiba": {
@@ -249,9 +249,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 365108,
+          "confirmed": 365153,
           "date": "2022-02-28",
-          "deaths": 7647
+          "deaths": 7656
         }
       },
       "Rio Grande do Norte": {
@@ -965,9 +965,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 2994841,
+      "confirmed": 3134456,
       "date": "2022-02-28",
-      "deaths": 7944
+      "deaths": 8058
     }
   },
   "Kuwait": {
