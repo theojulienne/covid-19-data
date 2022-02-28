@@ -40,9 +40,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 2659532,
+      "confirmed": 2679742,
       "date": "2022-02-28",
-      "deaths": 14787
+      "deaths": 14809
     }
   },
   "Azerbaijan": {
@@ -473,9 +473,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 492149,
+      "confirmed": 494430,
       "date": "2022-02-28",
-      "deaths": 2225
+      "deaths": 2236
     }
   },
   "Ethiopia": {
@@ -487,9 +487,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 637729,
+      "confirmed": 637757,
       "date": "2022-02-28",
-      "deaths": 2364
+      "deaths": 2366
     }
   },
   "France": {
@@ -993,9 +993,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 493548,
+      "confirmed": 494446,
       "date": "2022-02-28",
-      "deaths": 6250
+      "deaths": 6261
     }
   },
   "Lithuania": {
@@ -1078,9 +1078,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 976865,
+      "confirmed": 976984,
       "date": "2022-02-28",
-      "deaths": 11935
+      "deaths": 11936
     }
   },
   "Netherlands": {
@@ -1152,9 +1152,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 381381,
+      "confirmed": 382244,
       "date": "2022-02-28",
-      "deaths": 4242
+      "deaths": 4244
     }
   },
   "Pakistan": {
@@ -1209,9 +1209,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5660493,
+      "confirmed": 5667054,
       "date": "2022-02-28",
-      "deaths": 111316
+      "deaths": 111317
     }
   },
   "Portugal": {
@@ -1311,9 +1311,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 744374,
+      "confirmed": 745027,
       "date": "2022-02-28",
-      "deaths": 8996
+      "deaths": 8998
     }
   },
   "Serbia": {
@@ -1332,16 +1332,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2112272,
+      "confirmed": 2119358,
       "date": "2022-02-28",
-      "deaths": 18453
+      "deaths": 18485
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 891950,
+      "confirmed": 892606,
       "date": "2022-02-28",
-      "deaths": 6292
+      "deaths": 6306
     }
   },
   "South Africa": {
@@ -1468,7 +1468,7 @@
     "live": {
       "confirmed": 2765218,
       "date": "2022-02-28",
-      "deaths": 13082
+      "deaths": 13087
     }
   },
   "Thailand": {
