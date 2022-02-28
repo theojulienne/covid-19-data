@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 8897178,
+      "confirmed": 8900656,
       "date": "2022-02-28",
-      "deaths": 126120
+      "deaths": 126152
     }
   },
   "Armenia": {
@@ -1016,23 +1016,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 317493,
+          "confirmed": 319860,
           "date": "2022-02-28",
-          "deaths": 4047
+          "deaths": 4060
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 337380,
+          "confirmed": 339554,
           "date": "2022-02-28",
-          "deaths": 2958
+          "deaths": 2969
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 943536,
+          "confirmed": 949634,
           "date": "2022-02-28",
-          "deaths": 10163
+          "deaths": 10185
         }
       }
     }
