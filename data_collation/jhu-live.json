@@ -24,14 +24,14 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 563498,
+          "confirmed": 566805,
           "date": "2022-02-28",
-          "deaths": 529
+          "deaths": 530
         }
       },
       "Victoria": {
         "live": {
-          "confirmed": 1040797,
+          "confirmed": 1040755,
           "date": "2022-02-28",
           "deaths": 2472
         }
@@ -610,9 +610,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 776262,
+      "confirmed": 776991,
       "date": "2022-02-28",
-      "deaths": 16961
+      "deaths": 16971
     }
   },
   "Honduras": {
@@ -951,7 +951,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1390173,
+      "confirmed": 1390441,
       "date": "2022-02-28",
       "deaths": 18906
     }
@@ -1473,9 +1473,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2869616,
+      "confirmed": 2891927,
       "date": "2022-02-28",
-      "deaths": 22891
+      "deaths": 22933
     }
   },
   "Tunisia": {
@@ -1681,9 +1681,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 3219177,
+      "confirmed": 3321005,
       "date": "2022-02-28",
-      "deaths": 40050
+      "deaths": 40144
     }
   },
   "West Bank and Gaza": {
