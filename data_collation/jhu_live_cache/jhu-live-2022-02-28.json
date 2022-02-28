@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 785301,
+      "confirmed": 785670,
       "date": "2022-02-28",
-      "deaths": 9400
+      "deaths": 9417
     }
   },
   "Bahrain": {
@@ -135,9 +135,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 370652,
+      "confirmed": 371202,
       "date": "2022-02-28",
-      "deaths": 15411
+      "deaths": 15459
     }
   },
   "Brazil": {
@@ -344,9 +344,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1100696,
+          "confirmed": 1102011,
           "date": "2022-02-28",
-          "deaths": 12430
+          "deaths": 12433
         }
       },
       "Quebec": {
@@ -417,9 +417,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1054596,
+      "confirmed": 1054794,
       "date": "2022-02-28",
-      "deaths": 15030
+      "deaths": 15069
     }
   },
   "Cuba": {
@@ -445,9 +445,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 2748260,
+      "confirmed": 2764838,
       "date": "2022-02-28",
-      "deaths": 4584
+      "deaths": 4612
     }
   },
   "Dominican Republic": {
@@ -517,7 +517,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 2767777,
+          "confirmed": 2768858,
           "date": "2022-02-28",
           "deaths": 21315
         }
@@ -566,9 +566,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 574792,
+          "confirmed": 580282,
           "date": "2022-02-28",
-          "deaths": 4997
+          "deaths": 5003
         }
       },
       "Sachsen": {
@@ -796,9 +796,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2301590,
+      "confirmed": 2302793,
       "date": "2022-02-28",
-      "deaths": 24975
+      "deaths": 24989
     }
   },
   "Ireland": {
@@ -935,7 +935,7 @@
       },
       "Tokyo": {
         "live": {
-          "confirmed": 984556,
+          "confirmed": 984396,
           "date": "2022-02-28",
           "deaths": 3621
         }
@@ -1695,7 +1695,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 312707,
+      "confirmed": 312750,
       "date": "2022-02-28",
       "deaths": 3952
     }
