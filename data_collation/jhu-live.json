@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 917468,
+      "confirmed": 919736,
       "date": "2022-02-28",
-      "deaths": 6470
+      "deaths": 6480
     }
   },
   "Belgium": {
@@ -1223,9 +1223,9 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 356671,
+      "confirmed": 356982,
       "date": "2022-02-28",
-      "deaths": 668
+      "deaths": 670
     }
   },
   "Romania": {
@@ -1466,7 +1466,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 2765218,
+      "confirmed": 2801951,
       "date": "2022-02-28",
       "deaths": 13096
     }
