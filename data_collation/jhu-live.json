@@ -321,9 +321,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 586198,
+      "confirmed": 587891,
       "date": "2022-02-28",
-      "deaths": 19365
+      "deaths": 19368
     }
   },
   "Canada": {
@@ -573,16 +573,16 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 932852,
+          "confirmed": 936399,
           "date": "2022-02-28",
-          "deaths": 14299
+          "deaths": 14305
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 408719,
+          "confirmed": 412461,
           "date": "2022-02-28",
-          "deaths": 4749
+          "deaths": 4758
         }
       },
       "Schleswig-Holstein": {
@@ -603,9 +603,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2405401,
+      "confirmed": 2421664,
       "date": "2022-02-28",
-      "deaths": 25785
+      "deaths": 25860
     }
   },
   "Guatemala": {
@@ -1318,16 +1318,16 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1908272,
+      "confirmed": 1910975,
       "date": "2022-02-28",
-      "deaths": 15199
+      "deaths": 15241
     }
   },
   "Singapore": {
     "live": {
-      "confirmed": 710880,
+      "confirmed": 724424,
       "date": "2022-02-28",
-      "deaths": 1007
+      "deaths": 1019
     }
   },
   "Slovakia": {
@@ -1341,7 +1341,7 @@
     "live": {
       "confirmed": 892620,
       "date": "2022-02-28",
-      "deaths": 6306
+      "deaths": 6307
     }
   },
   "South Africa": {
