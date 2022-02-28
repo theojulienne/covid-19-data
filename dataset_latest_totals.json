@@ -705,17 +705,17 @@
     },
     "CHN": {
       "back_1week": {
-        "confirmed": 129914,
-        "deaths": 4912,
+        "confirmed": 154549,
+        "deaths": 4930,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 123728,
+        "confirmed": 128642,
         "deaths": 4855,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 153558,
+        "confirmed": 248127,
         "deaths": 5213,
         "recovered": 0
       },
@@ -781,7 +781,7 @@
           "recovered": 0
         },
         "Hong Kong": {
-          "confirmed": 44386,
+          "confirmed": 138955,
           "deaths": 577,
           "recovered": 0
         },
@@ -2169,18 +2169,18 @@
     },
     "LKA": {
       "back_1week": {
-        "confirmed": 635606,
-        "deaths": 15969,
+        "confirmed": 636837,
+        "deaths": 15994,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 626966,
-        "deaths": 15777,
+        "confirmed": 628116,
+        "deaths": 15808,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 644060,
-        "deaths": 16166,
+        "confirmed": 645037,
+        "deaths": 16190,
         "recovered": 0
       }
     },
