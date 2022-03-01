@@ -517,9 +517,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2107595,
+          "confirmed": 2135634,
           "date": "2022-03-01",
-          "deaths": 14278
+          "deaths": 14304
         }
       },
       "Bayern": {
@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 777670,
+      "confirmed": 780815,
       "date": "2022-03-01",
-      "deaths": 16977
+      "deaths": 17010
     }
   },
   "Honduras": {
@@ -1007,9 +1007,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 902554,
+      "confirmed": 907144,
       "date": "2022-03-01",
-      "deaths": 8421
+      "deaths": 8397
     }
   },
   "Malaysia": {
@@ -1078,9 +1078,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1160975,
+      "confirmed": 1161131,
       "date": "2022-03-01",
-      "deaths": 15988
+      "deaths": 15994
     }
   },
   "Nepal": {
@@ -1487,9 +1487,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14089456,
+      "confirmed": 14149341,
       "date": "2022-03-01",
-      "deaths": 94445
+      "deaths": 94648
     }
   },
   "US": {
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5975857,
+          "confirmed": 5976463,
           "date": "2022-03-01",
-          "deaths": 60206
+          "deaths": 60218
         }
       },
       "Florida": {
@@ -1538,9 +1538,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 293794,
+          "confirmed": 294209,
           "date": "2022-03-01",
-          "deaths": 2506
+          "deaths": 2510
         }
       },
       "Nevada": {
@@ -1552,14 +1552,14 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2947773,
+          "confirmed": 2947940,
           "date": "2022-03-01",
-          "deaths": 45646
+          "deaths": 45669
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 304648,
+          "confirmed": 304700,
           "date": "2022-03-01",
           "deaths": 4972
         }
