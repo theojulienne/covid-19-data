@@ -431,9 +431,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1069862,
+      "confirmed": 1070258,
       "date": "2022-03-01",
-      "deaths": 8494
+      "deaths": 8495
     }
   },
   "Cyprus": {
@@ -617,9 +617,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 776991,
+      "confirmed": 777670,
       "date": "2022-03-01",
-      "deaths": 16971
+      "deaths": 16977
     }
   },
   "Honduras": {
@@ -914,37 +914,37 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 320637,
+          "confirmed": 325272,
           "date": "2022-03-01",
-          "deaths": 1642
+          "deaths": 1657
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 451545,
+          "confirmed": 457648,
           "date": "2022-03-01",
-          "deaths": 1696
+          "deaths": 1719
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 647177,
+          "confirmed": 656143,
           "date": "2022-03-01",
-          "deaths": 3886
+          "deaths": 3927
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 313952,
+          "confirmed": 318181,
           "date": "2022-03-01",
-          "deaths": 1177
+          "deaths": 1184
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 994028,
+          "confirmed": 1005841,
           "date": "2022-03-01",
-          "deaths": 3649
+          "deaths": 3681
         }
       }
     }
@@ -1016,23 +1016,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 319860,
+          "confirmed": 321627,
           "date": "2022-03-01",
-          "deaths": 4060
+          "deaths": 4081
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 339554,
+          "confirmed": 341712,
           "date": "2022-03-01",
-          "deaths": 2969
+          "deaths": 2975
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 949634,
+          "confirmed": 955603,
           "date": "2022-03-01",
-          "deaths": 10185
+          "deaths": 10198
         }
       }
     }
@@ -1223,9 +1223,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 3262618,
+      "confirmed": 3273624,
       "date": "2022-03-01",
-      "deaths": 21063
+      "deaths": 21086
     }
   },
   "Qatar": {
@@ -1325,9 +1325,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1910975,
+      "confirmed": 1913861,
       "date": "2022-03-01",
-      "deaths": 15241
+      "deaths": 15280
     }
   },
   "Singapore": {
@@ -1468,7 +1468,7 @@
     "live": {
       "confirmed": 2818720,
       "date": "2022-03-01",
-      "deaths": 13106
+      "deaths": 13109
     }
   },
   "Thailand": {
@@ -1566,9 +1566,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2659580,
+          "confirmed": 2659988,
           "date": "2022-03-01",
-          "deaths": 28654
+          "deaths": 28663
         }
       },
       "Utah": {
