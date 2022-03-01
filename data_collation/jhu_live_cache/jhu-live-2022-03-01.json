@@ -351,7 +351,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 921875,
+          "confirmed": 922677,
           "date": "2022-03-01",
           "deaths": 13996
         }
@@ -1545,9 +1545,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 511021,
+          "confirmed": 511181,
           "date": "2022-03-01",
-          "deaths": 7479
+          "deaths": 7489
         }
       },
       "New York": {
@@ -1566,9 +1566,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2659988,
+          "confirmed": 2661012,
           "date": "2022-03-01",
-          "deaths": 28663
+          "deaths": 28697
         }
       },
       "Utah": {
