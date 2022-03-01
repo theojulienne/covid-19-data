@@ -70,17 +70,17 @@
     },
     "ARE": {
       "back_1week": {
-        "confirmed": 874607,
+        "confirmed": 875258,
         "deaths": 2294,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 868237,
+        "confirmed": 869428,
         "deaths": 2285,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 879368,
+        "confirmed": 879973,
         "deaths": 2301,
         "recovered": 0
       }
@@ -1761,18 +1761,18 @@
     },
     "IDN": {
       "back_1week": {
-        "confirmed": 5197505,
-        "deaths": 146365,
+        "confirmed": 5231923,
+        "deaths": 146541,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 4807778,
-        "deaths": 145176,
+        "confirmed": 4844279,
+        "deaths": 145321,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 5539394,
-        "deaths": 148073,
+        "confirmed": 5564448,
+        "deaths": 148335,
         "recovered": 0
       }
     },
@@ -2667,18 +2667,18 @@
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 975559,
-        "deaths": 11921,
+        "confirmed": 975806,
+        "deaths": 11925,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 973059,
-        "deaths": 11892,
+        "confirmed": 973541,
+        "deaths": 11900,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 976865,
-        "deaths": 11935,
+        "confirmed": 976984,
+        "deaths": 11936,
         "recovered": 0
       }
     },
@@ -2776,17 +2776,17 @@
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 3652203,
+        "confirmed": 3653526,
         "deaths": 55684,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3637280,
+        "confirmed": 3639942,
         "deaths": 54930,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3661049,
+        "confirmed": 3661997,
         "deaths": 56401,
         "recovered": 0
       }
