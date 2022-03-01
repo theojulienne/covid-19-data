@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 566805,
+          "confirmed": 571258,
           "date": "2022-03-01",
-          "deaths": 530
+          "deaths": 540
         }
       },
       "Victoria": {
@@ -77,49 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 532238,
+          "confirmed": 535229,
           "date": "2022-03-01",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 411195,
+          "confirmed": 412186,
           "date": "2022-03-01",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 453315,
+          "confirmed": 455105,
           "date": "2022-03-01",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 325695,
+          "confirmed": 327324,
           "date": "2022-03-01",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 415791,
+          "confirmed": 416814,
           "date": "2022-03-01",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 345311,
+          "confirmed": 345966,
           "date": "2022-03-01",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 367755,
+          "confirmed": 369340,
           "date": "2022-03-01",
           "deaths": 0
         }
@@ -128,9 +128,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 893330,
+      "confirmed": 893395,
       "date": "2022-03-01",
-      "deaths": 21432
+      "deaths": 21438
     }
   },
   "Bosnia and Herzegovina": {
@@ -382,35 +382,35 @@
         "live": {
           "confirmed": 916376,
           "date": "2022-03-01",
-          "deaths": 18160
+          "deaths": 18162
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 401520,
           "date": "2022-03-01",
-          "deaths": 10094
+          "deaths": 10097
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1757355,
           "date": "2022-03-01",
-          "deaths": 29099
+          "deaths": 29117
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 316547,
           "date": "2022-03-01",
-          "deaths": 7200
+          "deaths": 7209
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 538758,
           "date": "2022-03-01",
-          "deaths": 14928
+          "deaths": 14938
         }
       }
     }
@@ -1094,51 +1094,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 718340,
-          "date": "2022-02-28",
-          "deaths": 2667
+          "confirmed": 751901,
+          "date": "2022-03-01",
+          "deaths": 2688
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 384703,
-          "date": "2022-02-28",
-          "deaths": 2100
+          "confirmed": 399873,
+          "date": "2022-03-01",
+          "deaths": 2105
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 902484,
-          "date": "2022-02-28",
-          "deaths": 3594
+          "confirmed": 957498,
+          "date": "2022-03-01",
+          "deaths": 3596
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 1020681,
-          "date": "2022-02-28",
-          "deaths": 3239
+          "confirmed": 1075766,
+          "date": "2022-03-01",
+          "deaths": 3247
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 412610,
-          "date": "2022-02-28",
-          "deaths": 1368
+          "confirmed": 433514,
+          "date": "2022-03-01",
+          "deaths": 1374
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 505387,
-          "date": "2022-02-28",
-          "deaths": 1500
+          "confirmed": 527914,
+          "date": "2022-03-01",
+          "deaths": 1506
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1346898,
-          "date": "2022-02-28",
-          "deaths": 4951
+          "confirmed": 1395119,
+          "date": "2022-03-01",
+          "deaths": 4975
         }
       }
     }
@@ -1168,25 +1168,25 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 501370,
+          "confirmed": 501544,
           "date": "2022-03-01",
-          "deaths": 13498
+          "deaths": 13500
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 567761,
+          "confirmed": 568277,
           "date": "2022-03-01",
-          "deaths": 8067
+          "deaths": 8070
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 755262,
+      "confirmed": 755498,
       "date": "2022-03-01",
-      "deaths": 8079
+      "deaths": 8083
     }
   },
   "Paraguay": {
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5973073,
+          "confirmed": 5975857,
           "date": "2022-03-01",
-          "deaths": 60140
+          "deaths": 60206
         }
       },
       "Florida": {
