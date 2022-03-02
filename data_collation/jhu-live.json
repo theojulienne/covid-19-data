@@ -40,9 +40,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 2704530,
+      "confirmed": 2744023,
       "date": "2022-03-02",
-      "deaths": 14841
+      "deaths": 14888
     }
   },
   "Azerbaijan": {
@@ -979,9 +979,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 662644,
+      "confirmed": 673218,
       "date": "2022-03-02",
-      "deaths": 5256
+      "deaths": 5284
     }
   },
   "Lebanon": {
@@ -1202,9 +1202,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3663059,
+      "confirmed": 3663920,
       "date": "2022-03-02",
-      "deaths": 56451
+      "deaths": 56504
     }
   },
   "Poland": {
@@ -1628,7 +1628,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 880451,
+      "confirmed": 880970,
       "date": "2022-03-02",
       "deaths": 2301
     }
