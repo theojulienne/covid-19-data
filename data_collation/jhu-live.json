@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 571241,
+          "confirmed": 572399,
           "date": "2022-03-02",
-          "deaths": 540
+          "deaths": 564
         }
       },
       "Victoria": {
@@ -375,35 +375,35 @@
         "live": {
           "confirmed": 916433,
           "date": "2022-03-02",
-          "deaths": 18162
+          "deaths": 18168
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 401553,
           "date": "2022-03-02",
-          "deaths": 10097
+          "deaths": 10101
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1757795,
           "date": "2022-03-02",
-          "deaths": 29117
+          "deaths": 29137
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 316638,
           "date": "2022-03-02",
-          "deaths": 7209
+          "deaths": 7222
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 538836,
           "date": "2022-03-02",
-          "deaths": 14938
+          "deaths": 14946
         }
       }
     }
@@ -494,9 +494,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 22178602,
+      "confirmed": 22166213,
       "date": "2022-03-02",
-      "deaths": 135569
+      "deaths": 135520
     }
   },
   "Georgia": {
@@ -1325,9 +1325,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 724424,
+      "confirmed": 748504,
       "date": "2022-03-02",
-      "deaths": 1019
+      "deaths": 1030
     }
   },
   "Slovakia": {
@@ -1473,9 +1473,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2912347,
+      "confirmed": 2934544,
       "date": "2022-03-02",
-      "deaths": 22976
+      "deaths": 23021
     }
   },
   "Tunisia": {
