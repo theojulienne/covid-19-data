@@ -47,7 +47,7 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 786502,
+      "confirmed": 787367,
       "date": "2022-03-02",
       "deaths": 9454
     }
@@ -135,9 +135,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 371381,
+      "confirmed": 371553,
       "date": "2022-03-02",
-      "deaths": 15470
+      "deaths": 15484
     }
   },
   "Brazil": {
@@ -445,9 +445,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 2783399,
+      "confirmed": 2803857,
       "date": "2022-03-02",
-      "deaths": 4649
+      "deaths": 4687
     }
   },
   "Dominican Republic": {
@@ -566,23 +566,23 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 589291,
+          "confirmed": 597893,
           "date": "2022-03-02",
-          "deaths": 5014
+          "deaths": 5031
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 947586,
+          "confirmed": 959690,
           "date": "2022-03-02",
-          "deaths": 14342
+          "deaths": 14351
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 416985,
+          "confirmed": 425190,
           "date": "2022-03-02",
-          "deaths": 4765
+          "deaths": 4774
         }
       },
       "Schleswig-Holstein": {
@@ -603,9 +603,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2438872,
+      "confirmed": 2454429,
       "date": "2022-03-02",
-      "deaths": 25914
+      "deaths": 25972
     }
   },
   "Guatemala": {
@@ -796,9 +796,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2303816,
+      "confirmed": 2305083,
       "date": "2022-03-02",
-      "deaths": 24999
+      "deaths": 25013
     }
   },
   "Ireland": {
@@ -810,7 +810,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3645484,
+      "confirmed": 3648113,
       "date": "2022-03-02",
       "deaths": 10218
     }
@@ -1087,51 +1087,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 756532,
+          "confirmed": 762560,
           "date": "2022-03-02",
-          "deaths": 2689
+          "deaths": 2692
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 401636,
+          "confirmed": 404431,
           "date": "2022-03-02",
           "deaths": 2108
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 962779,
+          "confirmed": 970598,
           "date": "2022-03-02",
-          "deaths": 3600
+          "deaths": 3602
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 1082243,
+          "confirmed": 1089542,
           "date": "2022-03-02",
-          "deaths": 3249
+          "deaths": 3252
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 436147,
+          "confirmed": 440525,
           "date": "2022-03-02",
-          "deaths": 1375
+          "deaths": 1376
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 531471,
+          "confirmed": 535802,
           "date": "2022-03-02",
           "deaths": 1506
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1401027,
+          "confirmed": 1408445,
           "date": "2022-03-02",
-          "deaths": 4978
+          "deaths": 4980
         }
       }
     }
@@ -1443,23 +1443,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 332991,
+          "confirmed": 333303,
           "date": "2022-03-02",
-          "deaths": 2159
+          "deaths": 2172
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 562322,
+          "confirmed": 562761,
           "date": "2022-03-02",
-          "deaths": 5046
+          "deaths": 5077
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 427997,
+          "confirmed": 428216,
           "date": "2022-03-02",
-          "deaths": 2847
+          "deaths": 2867
         }
       }
     }
