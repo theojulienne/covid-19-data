@@ -431,9 +431,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1070258,
+      "confirmed": 1070730,
       "date": "2022-03-02",
-      "deaths": 8495
+      "deaths": 8496
     }
   },
   "Cyprus": {
@@ -517,9 +517,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2135727,
+          "confirmed": 2166507,
           "date": "2022-03-02",
-          "deaths": 14303
+          "deaths": 14334
         }
       },
       "Bayern": {
@@ -965,9 +965,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 322978,
+      "confirmed": 323002,
       "date": "2022-03-02",
-      "deaths": 5639
+      "deaths": 5640
     }
   },
   "Korea, South": {
@@ -979,9 +979,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 620452,
+      "confirmed": 620980,
       "date": "2022-03-02",
-      "deaths": 2539
+      "deaths": 2540
     }
   },
   "Latvia": {
@@ -1078,9 +1078,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1161131,
+      "confirmed": 1161290,
       "date": "2022-03-02",
-      "deaths": 15994
+      "deaths": 16002
     }
   },
   "Nepal": {
@@ -1348,7 +1348,7 @@
     "live": {
       "confirmed": 897040,
       "date": "2022-03-02",
-      "deaths": 6326
+      "deaths": 6327
     }
   },
   "South Africa": {
@@ -1434,9 +1434,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 646948,
+      "confirmed": 647699,
       "date": "2022-03-02",
-      "deaths": 16244
+      "deaths": 16267
     }
   },
   "Sweden": {
@@ -1487,9 +1487,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14149341,
+      "confirmed": 14206121,
       "date": "2022-03-02",
-      "deaths": 94648
+      "deaths": 94837
     }
   },
   "US": {
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5977531,
+          "confirmed": 5979717,
           "date": "2022-03-02",
-          "deaths": 60275
+          "deaths": 60338
         }
       },
       "Florida": {
@@ -1552,9 +1552,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2948322,
+          "confirmed": 2948427,
           "date": "2022-03-02",
-          "deaths": 45674
+          "deaths": 45696
         }
       },
       "Pennsylvania": {
