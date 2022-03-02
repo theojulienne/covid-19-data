@@ -337,7 +337,7 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 348305,
+          "confirmed": 348771,
           "date": "2022-03-02",
           "deaths": 2873
         }
@@ -452,9 +452,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 574556,
+      "confirmed": 574912,
       "date": "2022-03-02",
-      "deaths": 4368
+      "deaths": 4369
     }
   },
   "Ecuador": {
@@ -965,9 +965,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 3273449,
+      "confirmed": 3492686,
       "date": "2022-03-02",
-      "deaths": 8170
+      "deaths": 8266
     }
   },
   "Kuwait": {
