@@ -344,7 +344,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 922677,
+          "confirmed": 924307,
           "date": "2022-03-02",
           "deaths": 14016
         }
@@ -953,7 +953,7 @@
     "live": {
       "confirmed": 1390966,
       "date": "2022-03-02",
-      "deaths": 18947
+      "deaths": 18958
     }
   },
   "Kenya": {
@@ -1057,14 +1057,14 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 502386,
+      "confirmed": 502956,
       "date": "2022-03-02",
-      "deaths": 11228
+      "deaths": 11242
     }
   },
   "Mongolia": {
     "live": {
-      "confirmed": 908157,
+      "confirmed": 909379,
       "date": "2022-03-02",
       "deaths": 2171
     }
@@ -1346,9 +1346,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3675691,
+      "confirmed": 3677686,
       "date": "2022-03-02",
-      "deaths": 99430
+      "deaths": 99458
     }
   },
   "Spain": {
@@ -1480,9 +1480,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 998230,
+      "confirmed": 999441,
       "date": "2022-03-02",
-      "deaths": 27784
+      "deaths": 27824
     }
   },
   "Turkey": {
@@ -1531,9 +1531,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 392673,
+          "confirmed": 393133,
           "date": "2022-03-02",
-          "deaths": 7631
+          "deaths": 7692
         }
       },
       "Minnesota": {
@@ -1545,9 +1545,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 511181,
+          "confirmed": 511417,
           "date": "2022-03-02",
-          "deaths": 7489
+          "deaths": 7521
         }
       },
       "New York": {
@@ -1573,9 +1573,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 339208,
+          "confirmed": 339395,
           "date": "2022-03-02",
-          "deaths": 1543
+          "deaths": 1549
         }
       },
       "Washington": {
@@ -1688,9 +1688,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 647203,
+      "confirmed": 648039,
       "date": "2022-03-02",
-      "deaths": 5513
+      "deaths": 5532
     }
   },
   "Zambia": {
