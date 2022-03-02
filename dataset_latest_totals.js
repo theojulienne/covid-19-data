@@ -171,12 +171,12 @@ var covid19_dataset_latest_totals = {
         "tested": 4874341
       },
       "latest": {
-        "confirmed": 44637,
+        "confirmed": 45195,
         "current_hospitalized": 17,
         "current_icu": 8,
         "deaths": 35,
         "recovered": 19522,
-        "tested": 4869935
+        "tested": 4872330
       },
       "states": {
         "ACT": {
@@ -205,7 +205,7 @@ var covid19_dataset_latest_totals = {
           "tested": 350231
         },
         "QLD": {
-          "confirmed": 4453,
+          "confirmed": 5011,
           "current_hospitalized": 15,
           "current_icu": 0,
           "deaths": 6,
