@@ -360,11 +360,18 @@
   },
   "Chile": {
     "subseries": {
+      "Biobio": {
+        "live": {
+          "confirmed": 293262,
+          "date": "2022-03-02",
+          "deaths": 3160
+        }
+      },
       "Metropolitana": {
         "live": {
-          "confirmed": 1205057,
+          "confirmed": 1211091,
           "date": "2022-03-02",
-          "deaths": 21092
+          "deaths": 21121
         }
       }
     }
@@ -803,16 +810,16 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1303720,
+      "confirmed": 1307062,
       "date": "2022-03-02",
-      "deaths": 6508
+      "deaths": 6521
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 3648113,
+      "confirmed": 3649106,
       "date": "2022-03-02",
-      "deaths": 10218
+      "deaths": 10221
     }
   },
   "Italy": {
@@ -907,37 +914,37 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 325272,
+          "confirmed": 330497,
           "date": "2022-03-02",
-          "deaths": 1657
+          "deaths": 1680
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 457648,
+          "confirmed": 463853,
           "date": "2022-03-02",
-          "deaths": 1719
+          "deaths": 1740
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 656137,
+          "confirmed": 665356,
           "date": "2022-03-02",
-          "deaths": 3927
+          "deaths": 3962
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 318180,
+          "confirmed": 322797,
           "date": "2022-03-02",
-          "deaths": 1184
+          "deaths": 1194
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1005841,
+          "confirmed": 1018534,
           "date": "2022-03-02",
-          "deaths": 3681
+          "deaths": 3712
         }
       }
     }
@@ -1318,9 +1325,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1913861,
+      "confirmed": 1916707,
       "date": "2022-03-02",
-      "deaths": 15280
+      "deaths": 15315
     }
   },
   "Singapore": {
@@ -1372,13 +1379,6 @@
           "confirmed": 1296668,
           "date": "2022-03-02",
           "deaths": 9015
-        }
-      },
-      "Canarias": {
-        "live": {
-          "confirmed": 292083,
-          "date": "2022-03-02",
-          "deaths": 1583
         }
       },
       "Castilla - La Mancha": {
@@ -1468,7 +1468,7 @@
     "live": {
       "confirmed": 2842412,
       "date": "2022-03-02",
-      "deaths": 13115
+      "deaths": 13119
     }
   },
   "Thailand": {
@@ -1566,9 +1566,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2661012,
+          "confirmed": 2661473,
           "date": "2022-03-02",
-          "deaths": 28697
+          "deaths": 28722
         }
       },
       "Utah": {
