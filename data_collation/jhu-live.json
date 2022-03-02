@@ -49,7 +49,7 @@
     "live": {
       "confirmed": 786502,
       "date": "2022-03-02",
-      "deaths": 9438
+      "deaths": 9454
     }
   },
   "Bahrain": {
@@ -321,9 +321,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 590237,
+      "confirmed": 592139,
       "date": "2022-03-02",
-      "deaths": 19372
+      "deaths": 19375
     }
   },
   "Canada": {
@@ -344,9 +344,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1103187,
+          "confirmed": 1105146,
           "date": "2022-03-02",
-          "deaths": 12451
+          "deaths": 12478
         }
       },
       "Quebec": {
@@ -517,9 +517,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 2822175,
+          "confirmed": 2825007,
           "date": "2022-03-02",
-          "deaths": 21411
+          "deaths": 21413
         }
       },
       "Berlin": {
