@@ -505,9 +505,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 22223910,
+      "confirmed": 22744393,
       "date": "2022-03-03",
-      "deaths": 135706
+      "deaths": 137681
     }
   },
   "Georgia": {
@@ -1213,9 +1213,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3663920,
+      "confirmed": 3664905,
       "date": "2022-03-03",
-      "deaths": 56504
+      "deaths": 56538
     }
   },
   "Poland": {
@@ -1632,7 +1632,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 880970,
+      "confirmed": 881472,
       "date": "2022-03-03",
       "deaths": 2301
     }
@@ -1699,9 +1699,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 313203,
+      "confirmed": 313394,
       "date": "2022-03-03",
-      "deaths": 3955
+      "deaths": 3957
     }
   }
 }
