@@ -128,9 +128,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 893512,
+      "confirmed": 893775,
       "date": "2022-03-03",
-      "deaths": 21441
+      "deaths": 21443
     }
   },
   "Bosnia and Herzegovina": {
@@ -962,7 +962,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1390966,
+      "confirmed": 1391277,
       "date": "2022-03-03",
       "deaths": 18958
     }
@@ -1188,9 +1188,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 755853,
+      "confirmed": 756085,
       "date": "2022-03-03",
-      "deaths": 8093
+      "deaths": 8098
     }
   },
   "Paraguay": {
