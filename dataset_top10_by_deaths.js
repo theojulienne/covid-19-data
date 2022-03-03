@@ -24388,7 +24388,8 @@ var covid19_dataset_top10_by_deaths = {
     "2022-02-28",
     "2022-03-01",
     "2022-03-02",
-    "2022-03-03"
+    "2022-03-03",
+    "2022-03-04"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10_by_deaths', covid19_dataset_top10_by_deaths, {});
