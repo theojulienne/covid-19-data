@@ -449,9 +449,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3599534,
+      "confirmed": 3608535,
       "date": "2022-03-03",
-      "deaths": 38741
+      "deaths": 38787
     }
   },
   "Denmark": {
@@ -628,9 +628,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 412733,
+      "confirmed": 413699,
       "date": "2022-03-03",
-      "deaths": 10778
+      "deaths": 10785
     }
   },
   "Hungary": {
