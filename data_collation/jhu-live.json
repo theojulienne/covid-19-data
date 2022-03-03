@@ -577,9 +577,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 598035,
+          "confirmed": 607397,
           "date": "2022-03-03",
-          "deaths": 5030
+          "deaths": 5039
         }
       },
       "Sachsen": {
@@ -614,9 +614,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2454429,
+      "confirmed": 2470212,
       "date": "2022-03-03",
-      "deaths": 25972
+      "deaths": 26036
     }
   },
   "Guatemala": {
@@ -1098,49 +1098,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 762560,
+          "confirmed": 770139,
           "date": "2022-03-03",
-          "deaths": 2692
+          "deaths": 2693
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 404431,
+          "confirmed": 408464,
           "date": "2022-03-03",
           "deaths": 2108
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 970598,
+          "confirmed": 982577,
           "date": "2022-03-03",
-          "deaths": 3602
+          "deaths": 3606
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 1089542,
+          "confirmed": 1097169,
           "date": "2022-03-03",
-          "deaths": 3252
+          "deaths": 3254
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 440525,
+          "confirmed": 445422,
           "date": "2022-03-03",
           "deaths": 1376
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 535802,
+          "confirmed": 540467,
           "date": "2022-03-03",
           "deaths": 1506
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1408445,
+          "confirmed": 1417222,
           "date": "2022-03-03",
           "deaths": 4980
         }
@@ -1329,9 +1329,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1916707,
+      "confirmed": 1919327,
       "date": "2022-03-03",
-      "deaths": 15315
+      "deaths": 15346
     }
   },
   "Singapore": {
