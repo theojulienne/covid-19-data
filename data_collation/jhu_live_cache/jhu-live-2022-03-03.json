@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5984701,
+          "confirmed": 5985090,
           "date": "2022-03-03",
-          "deaths": 60539
+          "deaths": 60533
         }
       },
       "Florida": {
