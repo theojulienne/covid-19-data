@@ -344,7 +344,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 924307,
+          "confirmed": 925564,
           "date": "2022-03-03",
           "deaths": 14040
         }
@@ -1505,7 +1505,7 @@
         "live": {
           "confirmed": 5984701,
           "date": "2022-03-03",
-          "deaths": 60524
+          "deaths": 60539
         }
       },
       "Florida": {
@@ -1545,16 +1545,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 511417,
+          "confirmed": 511610,
           "date": "2022-03-03",
           "deaths": 7521
         }
       },
       "New York": {
         "live": {
-          "confirmed": 2949391,
+          "confirmed": 2950272,
           "date": "2022-03-03",
-          "deaths": 45717
+          "deaths": 45718
         }
       },
       "Pennsylvania": {
@@ -1566,9 +1566,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2662404,
+          "confirmed": 2663207,
           "date": "2022-03-03",
-          "deaths": 28775
+          "deaths": 28791
         }
       },
       "Utah": {
