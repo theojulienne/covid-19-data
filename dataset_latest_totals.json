@@ -2442,12 +2442,12 @@
     "MNG": {
       "back_1week": {
         "confirmed": 899706,
-        "deaths": 2161,
+        "deaths": 2163,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 888363,
-        "deaths": 2149,
+        "deaths": 2152,
         "recovered": 0
       },
       "latest": {
@@ -3909,18 +3909,18 @@
     },
     "VEN": {
       "back_1week": {
-        "confirmed": 511772,
-        "deaths": 5616,
+        "confirmed": 512560,
+        "deaths": 5624,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 506977,
-        "deaths": 5556,
+        "confirmed": 508042,
+        "deaths": 5564,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 515124,
-        "deaths": 5636,
+        "confirmed": 515582,
+        "deaths": 5639,
         "recovered": 0
       }
     },

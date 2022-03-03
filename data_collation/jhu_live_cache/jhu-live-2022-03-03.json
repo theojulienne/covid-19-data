@@ -1077,7 +1077,7 @@
     "live": {
       "confirmed": 909379,
       "date": "2022-03-03",
-      "deaths": 2171
+      "deaths": 2172
     }
   },
   "Morocco": {
@@ -1678,9 +1678,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 515582,
+      "confirmed": 515762,
       "date": "2022-03-03",
-      "deaths": 5639
+      "deaths": 5641
     }
   },
   "Vietnam": {
