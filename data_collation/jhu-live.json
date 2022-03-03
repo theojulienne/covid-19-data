@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 780815,
+      "confirmed": 784024,
       "date": "2022-03-03",
-      "deaths": 17010
+      "deaths": 17018
     }
   },
   "Honduras": {
@@ -1172,16 +1172,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 501758,
+          "confirmed": 502012,
           "date": "2022-03-03",
-          "deaths": 13504
+          "deaths": 13508
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 568635,
+          "confirmed": 568928,
           "date": "2022-03-03",
-          "deaths": 8073
+          "deaths": 8080
         }
       }
     }
@@ -1477,9 +1477,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2934544,
+      "confirmed": 2958162,
       "date": "2022-03-03",
-      "deaths": 23021
+      "deaths": 23070
     }
   },
   "Tunisia": {
@@ -1685,9 +1685,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 3557629,
+      "confirmed": 3709481,
       "date": "2022-03-03",
-      "deaths": 40338
+      "deaths": 40452
     }
   },
   "West Bank and Gaza": {
