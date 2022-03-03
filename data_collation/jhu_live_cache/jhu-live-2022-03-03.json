@@ -498,9 +498,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 658559,
+      "confirmed": 664588,
       "date": "2022-03-03",
-      "deaths": 2381
+      "deaths": 2384
     }
   },
   "France": {
@@ -521,93 +521,93 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2166507,
+          "confirmed": 2166607,
           "date": "2022-03-03",
           "deaths": 14334
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 2825007,
+          "confirmed": 2865297,
           "date": "2022-03-03",
-          "deaths": 21413
+          "deaths": 21456
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 754735,
+          "confirmed": 754778,
           "date": "2022-03-03",
           "deaths": 4263
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 525220,
+          "confirmed": 532919,
           "date": "2022-03-03",
-          "deaths": 5195
+          "deaths": 5204
         }
       },
       "Hamburg": {
         "live": {
           "confirmed": 353263,
           "date": "2022-03-03",
-          "deaths": 2302
+          "deaths": 2307
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 1079422,
+          "confirmed": 1090187,
           "date": "2022-03-03",
-          "deaths": 9218
+          "deaths": 9237
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 1067990,
+          "confirmed": 1088101,
           "date": "2022-03-03",
-          "deaths": 7499
+          "deaths": 7519
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 3100575,
+          "confirmed": 3137750,
           "date": "2022-03-03",
-          "deaths": 22336
+          "deaths": 22410
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 597893,
+          "confirmed": 598035,
           "date": "2022-03-03",
-          "deaths": 5031
+          "deaths": 5030
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 959690,
+          "confirmed": 961615,
           "date": "2022-03-03",
-          "deaths": 14351
+          "deaths": 14354
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 425190,
+          "confirmed": 425195,
           "date": "2022-03-03",
           "deaths": 4774
         }
       },
       "Schleswig-Holstein": {
         "live": {
-          "confirmed": 328752,
+          "confirmed": 334403,
           "date": "2022-03-03",
-          "deaths": 2125
+          "deaths": 2130
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 417578,
+          "confirmed": 422723,
           "date": "2022-03-03",
-          "deaths": 6622
+          "deaths": 6624
         }
       }
     }
@@ -1004,9 +1004,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 495972,
+      "confirmed": 496778,
       "date": "2022-03-03",
-      "deaths": 6276
+      "deaths": 6284
     }
   },
   "Lithuania": {
@@ -1163,9 +1163,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 383389,
+      "confirmed": 383874,
       "date": "2022-03-03",
-      "deaths": 4246
+      "deaths": 4248
     }
   },
   "Pakistan": {
@@ -1220,9 +1220,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5694767,
+      "confirmed": 5708827,
       "date": "2022-03-03",
-      "deaths": 111864
+      "deaths": 112130
     }
   },
   "Portugal": {
@@ -1322,9 +1322,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 746066,
+      "confirmed": 746473,
       "date": "2022-03-03",
-      "deaths": 9002
+      "deaths": 9004
     }
   },
   "Serbia": {
@@ -1343,16 +1343,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2150666,
+      "confirmed": 2164751,
       "date": "2022-03-03",
-      "deaths": 18567
+      "deaths": 18611
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 897040,
+      "confirmed": 898947,
       "date": "2022-03-03",
-      "deaths": 6327
+      "deaths": 6337
     }
   },
   "South Africa": {
