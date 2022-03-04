@@ -498,7 +498,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 664588,
+      "confirmed": 671773,
       "date": "2022-03-04",
       "deaths": 2387
     }
@@ -1004,16 +1004,16 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 496778,
+      "confirmed": 497279,
       "date": "2022-03-04",
-      "deaths": 6284
+      "deaths": 6288
     }
   },
   "Lithuania": {
     "live": {
-      "confirmed": 918569,
+      "confirmed": 923815,
       "date": "2022-03-04",
-      "deaths": 8484
+      "deaths": 8482
     }
   },
   "Malaysia": {
@@ -1089,9 +1089,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 977269,
+      "confirmed": 977380,
       "date": "2022-03-04",
-      "deaths": 11944
+      "deaths": 11945
     }
   },
   "Netherlands": {
@@ -1479,7 +1479,7 @@
     "live": {
       "confirmed": 2865436,
       "date": "2022-03-04",
-      "deaths": 13161
+      "deaths": 13165
     }
   },
   "Thailand": {
@@ -1632,7 +1632,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 881472,
+      "confirmed": 881919,
       "date": "2022-03-04",
       "deaths": 2301
     }
@@ -1699,9 +1699,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 313394,
+      "confirmed": 313613,
       "date": "2022-03-04",
-      "deaths": 3957
+      "deaths": 3958
     }
   }
 }
