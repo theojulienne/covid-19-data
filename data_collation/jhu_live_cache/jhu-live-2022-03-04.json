@@ -77,49 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 538399,
+          "confirmed": 539935,
           "date": "2022-03-04",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 413012,
+          "confirmed": 413463,
           "date": "2022-03-04",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 457521,
+          "confirmed": 458643,
           "date": "2022-03-04",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 329209,
+          "confirmed": 330135,
           "date": "2022-03-04",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 417646,
+          "confirmed": 418039,
           "date": "2022-03-04",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 346654,
+          "confirmed": 347108,
           "date": "2022-03-04",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 371061,
+          "confirmed": 371898,
           "date": "2022-03-04",
           "deaths": 0
         }
@@ -512,9 +512,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 1619274,
+      "confirmed": 1620639,
       "date": "2022-03-04",
-      "deaths": 16274
+      "deaths": 16306
     }
   },
   "Germany": {
