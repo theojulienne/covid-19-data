@@ -1064,18 +1064,18 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 3538222,
-        "deaths": 38403,
+        "confirmed": 3549479,
+        "deaths": 38433,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3451318,
-        "deaths": 37991,
+        "confirmed": 3468364,
+        "deaths": 38050,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3599534,
-        "deaths": 38741,
+        "confirmed": 3608535,
+        "deaths": 38787,
         "recovered": 0
       }
     },
@@ -1948,12 +1948,12 @@
     },
     "KAZ": {
       "back_1week": {
-        "confirmed": 1388713,
+        "confirmed": 1389288,
         "deaths": 18882,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1382966,
+        "confirmed": 1384317,
         "deaths": 18807,
         "recovered": 0
       },

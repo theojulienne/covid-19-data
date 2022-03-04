@@ -172,14 +172,14 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 1024587,
+          "confirmed": 1025080,
           "date": "2022-03-04",
-          "deaths": 14157
+          "deaths": 14161
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 1172402,
+          "confirmed": 1173646,
           "date": "2022-03-04",
           "deaths": 25777
         }
@@ -193,9 +193,9 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 707245,
+          "confirmed": 710157,
           "date": "2022-03-04",
-          "deaths": 14727
+          "deaths": 14754
         }
       },
       "Mato Grosso do Sul": {
@@ -214,9 +214,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 721190,
+          "confirmed": 722841,
           "date": "2022-03-04",
-          "deaths": 17854
+          "deaths": 17868
         }
       },
       "Paraiba": {
@@ -242,9 +242,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 365356,
+          "confirmed": 365598,
           "date": "2022-03-04",
-          "deaths": 7668
+          "deaths": 7675
         }
       },
       "Rio Grande do Norte": {
@@ -449,9 +449,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3608535,
+      "confirmed": 3616640,
       "date": "2022-03-04",
-      "deaths": 38787
+      "deaths": 38837
     }
   },
   "Denmark": {
@@ -962,7 +962,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1391277,
+      "confirmed": 1391563,
       "date": "2022-03-04",
       "deaths": 18963
     }
