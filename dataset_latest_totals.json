@@ -248,18 +248,18 @@
     },
     "AUT": {
       "back_1week": {
-        "confirmed": 2550371,
-        "deaths": 14661,
+        "confirmed": 2578962,
+        "deaths": 14700,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2362662,
-        "deaths": 14471,
+        "confirmed": 2393576,
+        "deaths": 14503,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2744023,
-        "deaths": 14888,
+        "confirmed": 2775589,
+        "deaths": 14924,
         "recovered": 0
       }
     },
@@ -588,18 +588,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 3274692,
-        "deaths": 36468,
+        "confirmed": 3280166,
+        "deaths": 36506,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3233298,
-        "deaths": 36127,
+        "confirmed": 3240493,
+        "deaths": 36193,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3313423,
-        "deaths": 36776,
+        "confirmed": 3321281,
+        "deaths": 36845,
         "recovered": 0
       },
       "states": {
@@ -644,8 +644,8 @@
           "deaths": 5
         },
         "Ontario": {
-          "confirmed": 1115285,
-          "deaths": 12528
+          "confirmed": 1119966,
+          "deaths": 12544
         },
         "Prince Edward Island": {
           "confirmed": 15267,
@@ -706,17 +706,17 @@
     "CHN": {
       "back_1week": {
         "confirmed": 183708,
-        "deaths": 5021,
+        "deaths": 5061,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 138322,
-        "deaths": 4863,
+        "deaths": 4874,
         "recovered": 0
       },
       "latest": {
         "confirmed": 403776,
-        "deaths": 5804,
+        "deaths": 6002,
         "recovered": 0
       },
       "states": {
@@ -782,7 +782,7 @@
         },
         "Hong Kong": {
           "confirmed": 293730,
-          "deaths": 1168,
+          "deaths": 1366,
           "recovered": 0
         },
         "Hubei": {
@@ -1132,13 +1132,13 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 2666454,
-        "deaths": 4422,
+        "confirmed": 2691663,
+        "deaths": 4461,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2442799,
-        "deaths": 4163,
+        "confirmed": 2483399,
+        "deaths": 4207,
         "recovered": 0
       },
       "latest": {
@@ -1829,18 +1829,18 @@
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 2296665,
-        "deaths": 24917,
+        "confirmed": 2298164,
+        "deaths": 24931,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2284205,
-        "deaths": 24792,
+        "confirmed": 2286451,
+        "deaths": 24824,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2305083,
-        "deaths": 25013,
+        "confirmed": 2306092,
+        "deaths": 25028,
         "recovered": 0
       }
     },
