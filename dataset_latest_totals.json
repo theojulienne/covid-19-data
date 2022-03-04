@@ -160,7 +160,7 @@
         "current_icu": 8,
         "deaths": 35,
         "recovered": 19522,
-        "tested": 4880379
+        "tested": 4879371
       },
       "back_2week": {
         "confirmed": 45849,
@@ -168,7 +168,7 @@
         "current_icu": 8,
         "deaths": 35,
         "recovered": 19522,
-        "tested": 4878557
+        "tested": 4882970
       },
       "latest": {
         "confirmed": 46663,
@@ -176,7 +176,7 @@
         "current_icu": 8,
         "deaths": 35,
         "recovered": 19522,
-        "tested": 4872330
+        "tested": 4878368
       },
       "states": {
         "ACT": {
@@ -210,7 +210,7 @@
           "current_icu": 0,
           "deaths": 6,
           "recovered": 0,
-          "tested": 4511
+          "tested": 10549
         },
         "SA": {
           "confirmed": 871,
@@ -588,18 +588,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 3252511,
-        "deaths": 36159,
+        "confirmed": 3264634,
+        "deaths": 36385,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3211317,
-        "deaths": 35716,
+        "confirmed": 3225542,
+        "deaths": 36052,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3295797,
-        "deaths": 36630,
+        "confirmed": 3307144,
+        "deaths": 36706,
         "recovered": 0
       },
       "states": {
@@ -644,8 +644,8 @@
           "deaths": 5
         },
         "Ontario": {
-          "confirmed": 1103187,
-          "deaths": 12451
+          "confirmed": 1114534,
+          "deaths": 12527
         },
         "Prince Edward Island": {
           "confirmed": 14305,

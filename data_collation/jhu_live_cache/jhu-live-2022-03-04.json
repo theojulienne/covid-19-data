@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 582696,
+          "confirmed": 584481,
           "date": "2022-03-04",
-          "deaths": 570
+          "deaths": 577
         }
       },
       "Victoria": {
@@ -365,6 +365,17 @@
           "confirmed": 1218187,
           "date": "2022-03-04",
           "deaths": 21167
+        }
+      }
+    }
+  },
+  "China": {
+    "subseries": {
+      "Hong Kong": {
+        "live": {
+          "confirmed": 350557,
+          "date": "2022-03-04",
+          "deaths": 1366
         }
       }
     }
@@ -1473,9 +1484,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2958162,
+      "confirmed": 2981996,
       "date": "2022-03-04",
-      "deaths": 23070
+      "deaths": 23124
     }
   },
   "Tunisia": {
@@ -1496,9 +1507,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1246178,
+          "confirmed": 1248818,
           "date": "2022-03-04",
-          "deaths": 15761
+          "deaths": 15625
         }
       },
       "California": {
@@ -1534,13 +1545,6 @@
           "confirmed": 393133,
           "date": "2022-03-04",
           "deaths": 7692
-        }
-      },
-      "Minnesota": {
-        "live": {
-          "confirmed": 294230,
-          "date": "2022-03-04",
-          "deaths": 2513
         }
       },
       "Nevada": {
@@ -1681,9 +1685,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 3709481,
+      "confirmed": 3885631,
       "date": "2022-03-04",
-      "deaths": 40452
+      "deaths": 40547
     }
   },
   "West Bank and Gaza": {
