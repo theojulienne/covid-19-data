@@ -355,16 +355,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 296910,
+          "confirmed": 300380,
           "date": "2022-03-04",
-          "deaths": 3199
+          "deaths": 3208
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1218187,
+          "confirmed": 1225676,
           "date": "2022-03-04",
-          "deaths": 21167
+          "deaths": 21206
         }
       }
     }
@@ -435,7 +435,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1071326,
+      "confirmed": 1071964,
       "date": "2022-03-04",
       "deaths": 8498
     }
@@ -918,37 +918,37 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 335304,
+          "confirmed": 339609,
           "date": "2022-03-04",
-          "deaths": 1707
+          "deaths": 1720
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 471044,
+          "confirmed": 477515,
           "date": "2022-03-04",
-          "deaths": 1761
+          "deaths": 1775
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 673103,
+          "confirmed": 679792,
           "date": "2022-03-04",
-          "deaths": 4002
+          "deaths": 4048
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 327268,
+          "confirmed": 331610,
           "date": "2022-03-04",
-          "deaths": 1205
+          "deaths": 1213
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1030785,
+          "confirmed": 1041302,
           "date": "2022-03-04",
-          "deaths": 3740
+          "deaths": 3767
         }
       }
     }
@@ -1227,9 +1227,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 3294691,
+      "confirmed": 3308438,
       "date": "2022-03-04",
-      "deaths": 21141
+      "deaths": 21162
     }
   },
   "Qatar": {
@@ -1336,9 +1336,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 785825,
+      "confirmed": 803389,
       "date": "2022-03-04",
-      "deaths": 1049
+      "deaths": 1067
     }
   },
   "Slovakia": {
@@ -1445,9 +1445,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 648410,
+      "confirmed": 648993,
       "date": "2022-03-04",
-      "deaths": 16287
+      "deaths": 16307
     }
   },
   "Sweden": {
