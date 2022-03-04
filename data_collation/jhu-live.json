@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1067953,
+          "confirmed": 1067857,
           "date": "2022-03-04",
           "deaths": 2566
         }
@@ -549,7 +549,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 356023,
+          "confirmed": 357855,
           "date": "2022-03-04",
           "deaths": 2312
         }
@@ -793,9 +793,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 5667355,
+      "confirmed": 5693702,
       "date": "2022-03-04",
-      "deaths": 149268
+      "deaths": 149596
     }
   },
   "Iran": {
@@ -990,9 +990,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 682118,
+      "confirmed": 689794,
       "date": "2022-03-04",
-      "deaths": 5299
+      "deaths": 5323
     }
   },
   "Lebanon": {
@@ -1241,9 +1241,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2754730,
+      "confirmed": 2760332,
       "date": "2022-03-04",
-      "deaths": 63782
+      "deaths": 63849
     }
   },
   "Russia": {
@@ -1479,7 +1479,7 @@
     "live": {
       "confirmed": 2865436,
       "date": "2022-03-04",
-      "deaths": 13165
+      "deaths": 13168
     }
   },
   "Thailand": {
