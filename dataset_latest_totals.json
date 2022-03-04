@@ -2861,18 +2861,18 @@
     },
     "PRY": {
       "back_1week": {
-        "confirmed": 638153,
-        "deaths": 18281,
+        "confirmed": 639078,
+        "deaths": 18315,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 630718,
-        "deaths": 18079,
+        "confirmed": 632444,
+        "deaths": 18116,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 642573,
-        "deaths": 18422,
+        "confirmed": 642982,
+        "deaths": 18440,
         "recovered": 0
       }
     },

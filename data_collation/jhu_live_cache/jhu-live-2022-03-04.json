@@ -1020,23 +1020,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 325555,
+          "confirmed": 327914,
           "date": "2022-03-04",
-          "deaths": 4126
+          "deaths": 4137
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 346665,
+          "confirmed": 348796,
           "date": "2022-03-04",
-          "deaths": 3006
+          "deaths": 3021
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 970150,
+          "confirmed": 979047,
           "date": "2022-03-04",
-          "deaths": 10220
+          "deaths": 10230
         }
       }
     }
@@ -1195,9 +1195,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 642982,
+      "confirmed": 643342,
       "date": "2022-03-04",
-      "deaths": 18440
+      "deaths": 18454
     }
   },
   "Peru": {
