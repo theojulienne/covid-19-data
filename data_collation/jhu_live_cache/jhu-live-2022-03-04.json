@@ -330,9 +330,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 349213,
+          "confirmed": 349604,
           "date": "2022-03-04",
-          "deaths": 2883
+          "deaths": 2896
         }
       },
       "Ontario": {
@@ -965,9 +965,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 3691488,
+      "confirmed": 3958326,
       "date": "2022-03-04",
-      "deaths": 8394
+      "deaths": 8580
     }
   },
   "Kuwait": {
@@ -1177,9 +1177,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 756085,
+      "confirmed": 756539,
       "date": "2022-03-04",
-      "deaths": 8098
+      "deaths": 8101
     }
   },
   "Paraguay": {
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5985090,
+          "confirmed": 5986662,
           "date": "2022-03-04",
-          "deaths": 60533
+          "deaths": 60591
         }
       },
       "Florida": {
