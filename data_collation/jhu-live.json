@@ -344,7 +344,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 925564,
+          "confirmed": 926918,
           "date": "2022-03-04",
           "deaths": 14056
         }
@@ -442,9 +442,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 328657,
+      "confirmed": 329674,
       "date": "2022-03-04",
-      "deaths": 861
+      "deaths": 873
     }
   },
   "Czechia": {
@@ -964,7 +964,7 @@
     "live": {
       "confirmed": 1391563,
       "date": "2022-03-04",
-      "deaths": 18963
+      "deaths": 18967
     }
   },
   "Kenya": {
@@ -983,9 +983,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 621466,
+      "confirmed": 621965,
       "date": "2022-03-04",
-      "deaths": 2541
+      "deaths": 2543
     }
   },
   "Latvia": {
@@ -1068,14 +1068,14 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 503690,
+      "confirmed": 504307,
       "date": "2022-03-04",
-      "deaths": 11254
+      "deaths": 11269
     }
   },
   "Mongolia": {
     "live": {
-      "confirmed": 910377,
+      "confirmed": 911183,
       "date": "2022-03-04",
       "deaths": 2173
     }
@@ -1149,7 +1149,7 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 298661,
+      "confirmed": 298662,
       "date": "2022-03-04",
       "deaths": 9050
     }
@@ -1577,9 +1577,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 339590,
+          "confirmed": 339700,
           "date": "2022-03-04",
-          "deaths": 1551
+          "deaths": 1555
         }
       },
       "Washington": {
@@ -1692,9 +1692,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 649110,
+      "confirmed": 649971,
       "date": "2022-03-04",
-      "deaths": 5542
+      "deaths": 5557
     }
   },
   "Zambia": {
