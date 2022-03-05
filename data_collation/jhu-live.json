@@ -54,9 +54,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 521613,
+      "confirmed": 523654,
       "date": "2022-03-05",
-      "deaths": 1456
+      "deaths": 1458
     }
   },
   "Bangladesh": {
@@ -77,49 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 539935,
+          "confirmed": 541764,
           "date": "2022-03-05",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 413463,
+          "confirmed": 413987,
           "date": "2022-03-05",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 458643,
+          "confirmed": 459941,
           "date": "2022-03-05",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 330135,
+          "confirmed": 331063,
           "date": "2022-03-05",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 418039,
+          "confirmed": 418416,
           "date": "2022-03-05",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 347108,
+          "confirmed": 347471,
           "date": "2022-03-05",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 371898,
+          "confirmed": 372747,
           "date": "2022-03-05",
           "deaths": 0
         }
@@ -135,9 +135,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 371846,
+      "confirmed": 372139,
       "date": "2022-03-05",
-      "deaths": 15505
+      "deaths": 15519
     }
   },
   "Brazil": {
@@ -307,9 +307,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1097298,
+      "confirmed": 1099423,
       "date": "2022-03-05",
-      "deaths": 35716
+      "deaths": 35790
     }
   },
   "Burma": {
@@ -386,44 +386,44 @@
         "live": {
           "confirmed": 916764,
           "date": "2022-03-05",
-          "deaths": 18175
+          "deaths": 18180
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 401655,
           "date": "2022-03-05",
-          "deaths": 10106
+          "deaths": 10107
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1759444,
           "date": "2022-03-05",
-          "deaths": 29154
+          "deaths": 29168
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 316910,
           "date": "2022-03-05",
-          "deaths": 7226
+          "deaths": 7228
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 539223,
           "date": "2022-03-05",
-          "deaths": 14954
+          "deaths": 14960
         }
       }
     }
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 812812,
+      "confirmed": 814583,
       "date": "2022-03-05",
-      "deaths": 8073
+      "deaths": 8082
     }
   },
   "Croatia": {
@@ -477,9 +477,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 487642,
+      "confirmed": 488763,
       "date": "2022-03-05",
-      "deaths": 24149
+      "deaths": 24162
     }
   },
   "Estonia": {
@@ -491,9 +491,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 468850,
+      "confirmed": 468895,
       "date": "2022-03-05",
-      "deaths": 7473
+      "deaths": 7476
     }
   },
   "Finland": {
@@ -521,93 +521,93 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2227742,
+          "confirmed": 2227857,
           "date": "2022-03-05",
-          "deaths": 14411
+          "deaths": 14409
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 2904796,
+          "confirmed": 2936074,
           "date": "2022-03-05",
-          "deaths": 21520
+          "deaths": 21572
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 761785,
+          "confirmed": 767892,
           "date": "2022-03-05",
-          "deaths": 4273
+          "deaths": 4276
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 540826,
+          "confirmed": 546402,
           "date": "2022-03-05",
-          "deaths": 5212
+          "deaths": 5218
         }
       },
       "Hamburg": {
         "live": {
           "confirmed": 357855,
           "date": "2022-03-05",
-          "deaths": 2312
+          "deaths": 2313
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 1101305,
+          "confirmed": 1111774,
           "date": "2022-03-05",
-          "deaths": 9256
+          "deaths": 9267
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 1116990,
+          "confirmed": 1134153,
           "date": "2022-03-05",
-          "deaths": 7546
+          "deaths": 7582
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 3179754,
+          "confirmed": 3222493,
           "date": "2022-03-05",
-          "deaths": 22472
+          "deaths": 22528
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 619229,
+          "confirmed": 619374,
           "date": "2022-03-05",
           "deaths": 5047
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 981395,
+          "confirmed": 982258,
           "date": "2022-03-05",
-          "deaths": 14375
+          "deaths": 14376
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 439998,
+          "confirmed": 440003,
           "date": "2022-03-05",
           "deaths": 4794
         }
       },
       "Schleswig-Holstein": {
         "live": {
-          "confirmed": 339437,
+          "confirmed": 344003,
           "date": "2022-03-05",
-          "deaths": 2136
+          "deaths": 2141
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 429259,
+          "confirmed": 434312,
           "date": "2022-03-05",
-          "deaths": 6629
+          "deaths": 6636
         }
       }
     }
@@ -969,7 +969,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 323025,
+      "confirmed": 323057,
       "date": "2022-03-05",
       "deaths": 5640
     }
@@ -997,9 +997,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1074372,
+      "confirmed": 1075974,
       "date": "2022-03-05",
-      "deaths": 10125
+      "deaths": 10134
     }
   },
   "Libya": {
@@ -1149,14 +1149,14 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 298662,
+      "confirmed": 299049,
       "date": "2022-03-05",
-      "deaths": 9050
+      "deaths": 9065
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 1289884,
+      "confirmed": 1299549,
       "date": "2022-03-05",
       "deaths": 1664
     }
@@ -1172,14 +1172,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 502264,
+          "confirmed": 502455,
           "date": "2022-03-05",
-          "deaths": 13513
+          "deaths": 13518
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 569338,
+          "confirmed": 569637,
           "date": "2022-03-05",
           "deaths": 8083
         }
@@ -1188,9 +1188,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 756539,
+      "confirmed": 757061,
       "date": "2022-03-05",
-      "deaths": 8101
+      "deaths": 8106
     }
   },
   "Paraguay": {
@@ -1234,7 +1234,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 357764,
+      "confirmed": 357920,
       "date": "2022-03-05",
       "deaths": 670
     }
@@ -1491,9 +1491,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 1000518,
+      "confirmed": 1001754,
       "date": "2022-03-05",
-      "deaths": 27857
+      "deaths": 27874
     }
   },
   "Turkey": {
@@ -1671,9 +1671,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 849050,
+      "confirmed": 851241,
       "date": "2022-03-05",
-      "deaths": 7014
+      "deaths": 7031
     }
   },
   "Venezuela": {
@@ -1685,9 +1685,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 3885631,
+      "confirmed": 4059262,
       "date": "2022-03-05",
-      "deaths": 40547
+      "deaths": 40644
     }
   },
   "West Bank and Gaza": {
