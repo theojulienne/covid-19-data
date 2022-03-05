@@ -932,7 +932,7 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 679792,
+          "confirmed": 679791,
           "date": "2022-03-05",
           "deaths": 4048
         }
@@ -1220,9 +1220,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5721316,
+      "confirmed": 5734041,
       "date": "2022-03-05",
-      "deaths": 112336
+      "deaths": 112535
     }
   },
   "Portugal": {
@@ -1322,9 +1322,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 746836,
+      "confirmed": 747119,
       "date": "2022-03-05",
-      "deaths": 9005
+      "deaths": 9006
     }
   },
   "Serbia": {
@@ -1343,9 +1343,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2178234,
+      "confirmed": 2190599,
       "date": "2022-03-05",
-      "deaths": 18631
+      "deaths": 18663
     }
   },
   "Slovenia": {
