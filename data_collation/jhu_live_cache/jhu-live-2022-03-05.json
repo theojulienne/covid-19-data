@@ -54,7 +54,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 523654,
+      "confirmed": 525171,
       "date": "2022-03-05",
       "deaths": 1458
     }
@@ -821,7 +821,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3667443,
+      "confirmed": 3669112,
       "date": "2022-03-05",
       "deaths": 10274
     }
