@@ -1011,9 +1011,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 923810,
+      "confirmed": 928612,
       "date": "2022-03-05",
-      "deaths": 8481
+      "deaths": 8503
     }
   },
   "Malaysia": {
@@ -1241,9 +1241,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2760332,
+      "confirmed": 2765169,
       "date": "2022-03-05",
-      "deaths": 63849
+      "deaths": 63931
     }
   },
   "Russia": {
