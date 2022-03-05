@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 584481,
+          "confirmed": 585499,
           "date": "2022-03-05",
-          "deaths": 577
+          "deaths": 589
         }
       },
       "Victoria": {
@@ -1484,9 +1484,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2981996,
+      "confirmed": 3004814,
       "date": "2022-03-05",
-      "deaths": 23124
+      "deaths": 23176
     }
   },
   "Tunisia": {
@@ -1514,9 +1514,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5988981,
+          "confirmed": 5990363,
           "date": "2022-03-05",
-          "deaths": 60660
+          "deaths": 60706
         }
       },
       "Florida": {
