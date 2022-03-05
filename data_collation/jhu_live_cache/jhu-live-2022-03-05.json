@@ -355,16 +355,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 300380,
+          "confirmed": 303303,
           "date": "2022-03-05",
-          "deaths": 3208
+          "deaths": 3230
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1225676,
+          "confirmed": 1231620,
           "date": "2022-03-05",
-          "deaths": 21206
+          "deaths": 21231
         }
       }
     }
@@ -918,37 +918,37 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 339609,
+          "confirmed": 343839,
           "date": "2022-03-05",
-          "deaths": 1720
+          "deaths": 1733
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 477515,
+          "confirmed": 483713,
           "date": "2022-03-05",
-          "deaths": 1775
+          "deaths": 1785
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 679791,
+          "confirmed": 686927,
           "date": "2022-03-05",
-          "deaths": 4048
+          "deaths": 4076
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 331610,
+          "confirmed": 336350,
           "date": "2022-03-05",
-          "deaths": 1213
+          "deaths": 1218
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1041302,
+          "confirmed": 1052108,
           "date": "2022-03-05",
-          "deaths": 3767
+          "deaths": 3797
         }
       }
     }
