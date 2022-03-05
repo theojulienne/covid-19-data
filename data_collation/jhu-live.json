@@ -337,7 +337,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1124938,
+          "confirmed": 1125074,
           "date": "2022-03-05",
           "deaths": 12594
         }
@@ -505,9 +505,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 22340070,
+      "confirmed": 22393748,
       "date": "2022-03-05",
-      "deaths": 136065
+      "deaths": 136185
     }
   },
   "Georgia": {
@@ -1020,23 +1020,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 327914,
+          "confirmed": 330627,
           "date": "2022-03-05",
-          "deaths": 4137
+          "deaths": 4147
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 348796,
+          "confirmed": 350574,
           "date": "2022-03-05",
-          "deaths": 3021
+          "deaths": 3028
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 979047,
+          "confirmed": 988698,
           "date": "2022-03-05",
-          "deaths": 10230
+          "deaths": 10244
         }
       }
     }
@@ -1149,9 +1149,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 299049,
+      "confirmed": 299419,
       "date": "2022-03-05",
-      "deaths": 9065
+      "deaths": 9075
     }
   },
   "Norway": {
@@ -1357,9 +1357,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3681437,
+      "confirmed": 3683172,
       "date": "2022-03-05",
-      "deaths": 99517
+      "deaths": 99543
     }
   },
   "Spain": {
