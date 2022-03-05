@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 788525,
+      "confirmed": 788958,
       "date": "2022-03-05",
-      "deaths": 9488
+      "deaths": 9500
     }
   },
   "Bahrain": {
@@ -337,7 +337,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1124883,
+          "confirmed": 1124938,
           "date": "2022-03-05",
           "deaths": 12594
         }
@@ -821,9 +821,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3662064,
+      "confirmed": 3667443,
       "date": "2022-03-05",
-      "deaths": 10264
+      "deaths": 10274
     }
   },
   "Italy": {
@@ -1082,9 +1082,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1161506,
+      "confirmed": 1161586,
       "date": "2022-03-05",
-      "deaths": 16009
+      "deaths": 16015
     }
   },
   "Nepal": {
@@ -1445,9 +1445,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 648993,
+      "confirmed": 649632,
       "date": "2022-03-05",
-      "deaths": 16307
+      "deaths": 16321
     }
   },
   "Sweden": {
