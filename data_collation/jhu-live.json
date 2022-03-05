@@ -1250,72 +1250,72 @@
     "subseries": {
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 345905,
+          "confirmed": 347317,
           "date": "2022-03-05",
-          "deaths": 10074
+          "deaths": 10093
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 2706980,
+          "confirmed": 2709040,
           "date": "2022-03-05",
-          "deaths": 41602
+          "deaths": 41679
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 944700,
+          "confirmed": 946109,
           "date": "2022-03-05",
-          "deaths": 14290
+          "deaths": 14305
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 373658,
+          "confirmed": 376667,
           "date": "2022-03-05",
-          "deaths": 11152
+          "deaths": 11162
         }
       },
       "Perm Krai": {
         "live": {
-          "confirmed": 329484,
+          "confirmed": 332447,
           "date": "2022-03-05",
-          "deaths": 8405
+          "deaths": 8420
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 331640,
+          "confirmed": 333793,
           "date": "2022-03-05",
-          "deaths": 10400
+          "deaths": 10423
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 1452714,
+          "confirmed": 1456195,
           "date": "2022-03-05",
-          "deaths": 32168
+          "deaths": 32229
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 341799,
+          "confirmed": 345375,
           "date": "2022-03-05",
-          "deaths": 7165
+          "deaths": 7182
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 369719,
+          "confirmed": 374521,
           "date": "2022-03-05",
-          "deaths": 10331
+          "deaths": 10343
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 339981,
+          "confirmed": 342234,
           "date": "2022-03-05",
-          "deaths": 7695
+          "deaths": 7721
         }
       }
     }
