@@ -330,9 +330,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 349604,
+          "confirmed": 349944,
           "date": "2022-03-05",
-          "deaths": 2896
+          "deaths": 2903
         }
       },
       "Ontario": {
@@ -373,7 +373,7 @@
     "subseries": {
       "Hong Kong": {
         "live": {
-          "confirmed": 350557,
+          "confirmed": 403080,
           "date": "2022-03-05",
           "deaths": 1554
         }
@@ -505,9 +505,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 22340360,
+      "confirmed": 22340070,
       "date": "2022-03-05",
-      "deaths": 136066
+      "deaths": 136065
     }
   },
   "Georgia": {
@@ -976,9 +976,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 3958326,
+      "confirmed": 4212652,
       "date": "2022-03-05",
-      "deaths": 8580
+      "deaths": 8796
     }
   },
   "Kuwait": {
@@ -1549,9 +1549,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 511645,
+          "confirmed": 512110,
           "date": "2022-03-05",
-          "deaths": 7538
+          "deaths": 7552
         }
       },
       "New York": {
@@ -1584,9 +1584,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 366534,
+          "confirmed": 367268,
           "date": "2022-03-05",
-          "deaths": 2544
+          "deaths": 2553
         }
       }
     }
