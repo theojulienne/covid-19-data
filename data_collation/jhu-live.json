@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 8929898,
+      "confirmed": 8934328,
       "date": "2022-03-05",
-      "deaths": 126624
+      "deaths": 126708
     }
   },
   "Armenia": {
@@ -491,7 +491,7 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 468895,
+      "confirmed": 468930,
       "date": "2022-03-05",
       "deaths": 7476
     }
@@ -997,9 +997,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1075974,
+      "confirmed": 1077242,
       "date": "2022-03-05",
-      "deaths": 10134
+      "deaths": 10142
     }
   },
   "Libya": {
@@ -1514,9 +1514,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5990363,
+          "confirmed": 5991716,
           "date": "2022-03-05",
-          "deaths": 60706
+          "deaths": 60754
         }
       },
       "Florida": {
@@ -1685,9 +1685,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 4059262,
+      "confirmed": 4232520,
       "date": "2022-03-05",
-      "deaths": 40644
+      "deaths": 40726
     }
   },
   "West Bank and Gaza": {
