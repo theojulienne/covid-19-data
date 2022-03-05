@@ -604,8 +604,8 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 526563,
-          "deaths": 3939
+          "confirmed": 527102,
+          "deaths": 3946
         },
         "British Columbia": {
           "confirmed": 349213,
@@ -3994,18 +3994,18 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 3665149,
-        "deaths": 98978,
+        "confirmed": 3667560,
+        "deaths": 99018,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3648968,
-        "deaths": 97520,
+        "confirmed": 3652024,
+        "deaths": 97955,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3677686,
-        "deaths": 99458,
+        "confirmed": 3679539,
+        "deaths": 99499,
         "recovered": 0
       }
     },

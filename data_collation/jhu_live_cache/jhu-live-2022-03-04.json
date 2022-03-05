@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1351710,
+          "confirmed": 1361680,
           "date": "2022-03-04",
-          "deaths": 1926
+          "deaths": 1936
         }
       },
       "Queensland": {
@@ -31,9 +31,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1067857,
+          "confirmed": 1073578,
           "date": "2022-03-04",
-          "deaths": 2566
+          "deaths": 2590
         }
       }
     }
@@ -323,9 +323,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 527102,
+          "confirmed": 527604,
           "date": "2022-03-04",
-          "deaths": 3946
+          "deaths": 3954
         }
       },
       "British Columbia": {
@@ -384,35 +384,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 916698,
+          "confirmed": 916764,
           "date": "2022-03-04",
           "deaths": 18175
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 401611,
+          "confirmed": 401655,
           "date": "2022-03-04",
           "deaths": 10106
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1758825,
+          "confirmed": 1759444,
           "date": "2022-03-04",
           "deaths": 29154
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 316750,
+          "confirmed": 316910,
           "date": "2022-03-04",
           "deaths": 7226
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 539086,
+          "confirmed": 539223,
           "date": "2022-03-04",
           "deaths": 14954
         }
@@ -1357,9 +1357,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3679539,
+      "confirmed": 3681437,
       "date": "2022-03-04",
-      "deaths": 99499
+      "deaths": 99517
     }
   },
   "Spain": {
@@ -1479,7 +1479,7 @@
     "live": {
       "confirmed": 2890568,
       "date": "2022-03-04",
-      "deaths": 13172
+      "deaths": 13173
     }
   },
   "Thailand": {
@@ -1521,7 +1521,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 2886770,
+          "confirmed": 2892893,
           "date": "2022-03-04",
           "deaths": 26662
         }
@@ -1535,9 +1535,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 317996,
+          "confirmed": 318306,
           "date": "2022-03-04",
-          "deaths": 4687
+          "deaths": 4693
         }
       },
       "Michigan": {
