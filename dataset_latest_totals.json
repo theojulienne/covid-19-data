@@ -1863,18 +1863,18 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 3607504,
-        "deaths": 10114,
+        "confirmed": 3615224,
+        "deaths": 10126,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3523457,
-        "deaths": 9828,
+        "confirmed": 3535055,
+        "deaths": 9842,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3662064,
-        "deaths": 10264,
+        "confirmed": 3669112,
+        "deaths": 10274,
         "recovered": 0
       }
     },
