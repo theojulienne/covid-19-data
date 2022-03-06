@@ -962,7 +962,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1391984,
+      "confirmed": 1392011,
       "date": "2022-03-06",
       "deaths": 18967
     }
@@ -1045,23 +1045,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1359021,
+          "confirmed": 1360984,
           "date": "2022-03-06",
-          "deaths": 42220
+          "deaths": 42257
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 525233,
+          "confirmed": 526586,
           "date": "2022-03-06",
-          "deaths": 46608
+          "deaths": 46661
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 307968,
+          "confirmed": 308510,
           "date": "2022-03-06",
-          "deaths": 14828
+          "deaths": 14838
         }
       }
     }
