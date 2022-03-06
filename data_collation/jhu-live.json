@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 929340,
+      "confirmed": 931002,
       "date": "2022-03-06",
-      "deaths": 6550
+      "deaths": 6566
     }
   },
   "Belgium": {
@@ -549,7 +549,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 360228,
+          "confirmed": 361381,
           "date": "2022-03-06",
           "deaths": 2319
         }
@@ -800,9 +800,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 7084306,
+      "confirmed": 7089892,
       "date": "2022-03-06",
-      "deaths": 137747
+      "deaths": 137948
     }
   },
   "Iraq": {
@@ -1089,9 +1089,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 977447,
+      "confirmed": 977501,
       "date": "2022-03-06",
-      "deaths": 11945
+      "deaths": 11947
     }
   },
   "Netherlands": {
@@ -1234,7 +1234,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 358083,
+      "confirmed": 358253,
       "date": "2022-03-06",
       "deaths": 670
     }
@@ -1352,7 +1352,7 @@
     "live": {
       "confirmed": 903686,
       "date": "2022-03-06",
-      "deaths": 6357
+      "deaths": 6363
     }
   },
   "South Africa": {
