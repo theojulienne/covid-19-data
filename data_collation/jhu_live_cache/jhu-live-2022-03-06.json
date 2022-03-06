@@ -344,9 +344,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 928128,
+          "confirmed": 929038,
           "date": "2022-03-06",
-          "deaths": 14076
+          "deaths": 14085
         }
       }
     }
@@ -1570,9 +1570,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2665287,
+          "confirmed": 2665489,
           "date": "2022-03-06",
-          "deaths": 28890
+          "deaths": 28897
         }
       },
       "Utah": {
