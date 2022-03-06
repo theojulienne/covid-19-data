@@ -270,13 +270,13 @@
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 768019,
-        "deaths": 9182,
+        "confirmed": 771709,
+        "deaths": 9211,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 788525,
-        "deaths": 9488,
+        "confirmed": 788958,
+        "deaths": 9500,
         "recovered": 0
       }
     },
@@ -350,18 +350,18 @@
     },
     "BGD": {
       "back_1week": {
-        "confirmed": 1941057,
-        "deaths": 29016,
+        "confirmed": 1941816,
+        "deaths": 29024,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1929154,
-        "deaths": 28931,
+        "confirmed": 1931304,
+        "deaths": 28944,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1946369,
-        "deaths": 29064,
+        "confirmed": 1946737,
+        "deaths": 29077,
         "recovered": 0
       }
     },
@@ -1710,18 +1710,18 @@
     },
     "HRV": {
       "back_1week": {
-        "confirmed": 1051697,
-        "deaths": 14990,
+        "confirmed": 1053568,
+        "deaths": 15012,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1035632,
-        "deaths": 14729,
+        "confirmed": 1039157,
+        "deaths": 14773,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1061429,
-        "deaths": 15172,
+        "confirmed": 1062953,
+        "deaths": 15194,
         "recovered": 0
       }
     },
@@ -2912,18 +2912,18 @@
     },
     "ROU": {
       "back_1week": {
-        "confirmed": 2717289,
-        "deaths": 63193,
+        "confirmed": 2724480,
+        "deaths": 63294,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2643614,
-        "deaths": 62323,
+        "confirmed": 2655933,
+        "deaths": 62471,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2760332,
-        "deaths": 63849,
+        "confirmed": 2765169,
+        "deaths": 63931,
         "recovered": 0
       }
     },
