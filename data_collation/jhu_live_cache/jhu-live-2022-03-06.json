@@ -505,9 +505,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 22393748,
+      "confirmed": 22439076,
       "date": "2022-03-06",
-      "deaths": 136185
+      "deaths": 136217
     }
   },
   "Georgia": {
@@ -1045,23 +1045,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1360984,
+          "confirmed": 1363198,
           "date": "2022-03-06",
-          "deaths": 42257
+          "deaths": 42282
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 526586,
+          "confirmed": 527316,
           "date": "2022-03-06",
-          "deaths": 46661
+          "deaths": 46684
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 308510,
+          "confirmed": 309009,
           "date": "2022-03-06",
-          "deaths": 14838
+          "deaths": 14844
         }
       }
     }
@@ -1357,7 +1357,7 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3683172,
+      "confirmed": 3684319,
       "date": "2022-03-06",
       "deaths": 99543
     }
