@@ -54,7 +54,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 525171,
+      "confirmed": 527135,
       "date": "2022-03-06",
       "deaths": 1458
     }
@@ -491,7 +491,7 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 468930,
+      "confirmed": 468966,
       "date": "2022-03-06",
       "deaths": 7476
     }
@@ -821,7 +821,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3672028,
+      "confirmed": 3673103,
       "date": "2022-03-06",
       "deaths": 10282
     }
@@ -997,9 +997,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1077242,
+      "confirmed": 1078249,
       "date": "2022-03-06",
-      "deaths": 10142
+      "deaths": 10152
     }
   },
   "Libya": {
@@ -1068,9 +1068,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 504875,
+      "confirmed": 505393,
       "date": "2022-03-06",
-      "deaths": 11285
+      "deaths": 11292
     }
   },
   "Mongolia": {
@@ -1149,9 +1149,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 299419,
+      "confirmed": 299642,
       "date": "2022-03-06",
-      "deaths": 9075
+      "deaths": 9079
     }
   },
   "Norway": {
