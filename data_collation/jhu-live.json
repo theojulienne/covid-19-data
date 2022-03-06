@@ -314,9 +314,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 597417,
+      "confirmed": 598446,
       "date": "2022-03-06",
-      "deaths": 19386
+      "deaths": 19389
     }
   },
   "Canada": {
@@ -337,9 +337,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1125074,
+          "confirmed": 1126340,
           "date": "2022-03-06",
-          "deaths": 12594
+          "deaths": 12614
         }
       },
       "Quebec": {
@@ -614,9 +614,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2499259,
+      "confirmed": 2508472,
       "date": "2022-03-06",
-      "deaths": 26143
+      "deaths": 26194
     }
   },
   "Guatemala": {
@@ -1098,49 +1098,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 787370,
+          "confirmed": 796401,
           "date": "2022-03-06",
           "deaths": 2695
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 422139,
+          "confirmed": 431288,
           "date": "2022-03-06",
           "deaths": 2108
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 1018550,
+          "confirmed": 1037344,
           "date": "2022-03-06",
           "deaths": 3608
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 1112223,
+          "confirmed": 1118732,
           "date": "2022-03-06",
-          "deaths": 3259
+          "deaths": 3260
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 454353,
+          "confirmed": 458060,
           "date": "2022-03-06",
           "deaths": 1379
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 549749,
+          "confirmed": 554161,
           "date": "2022-03-06",
-          "deaths": 1508
+          "deaths": 1510
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1433803,
+          "confirmed": 1441559,
           "date": "2022-03-06",
           "deaths": 4985
         }
@@ -1227,9 +1227,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 3322134,
+      "confirmed": 3332200,
       "date": "2022-03-06",
-      "deaths": 21182
+      "deaths": 21199
     }
   },
   "Qatar": {
@@ -1329,9 +1329,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1923977,
+      "confirmed": 1925618,
       "date": "2022-03-06",
-      "deaths": 15405
+      "deaths": 15437
     }
   },
   "Singapore": {
