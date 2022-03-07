@@ -706,17 +706,17 @@
     "CHN": {
       "back_1week": {
         "confirmed": 248127,
-        "deaths": 5213,
+        "deaths": 5295,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 154549,
-        "deaths": 4930,
+        "deaths": 4924,
         "recovered": 0
       },
       "latest": {
         "confirmed": 551559,
-        "deaths": 6410,
+        "deaths": 6643,
         "recovered": 0
       },
       "states": {
@@ -782,7 +782,7 @@
         },
         "Hong Kong": {
           "confirmed": 440609,
-          "deaths": 1774,
+          "deaths": 2007,
           "recovered": 0
         },
         "Hubei": {
@@ -3405,18 +3405,18 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 13975389,
-        "deaths": 94026,
+        "confirmed": 14025181,
+        "deaths": 94232,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 13434130,
-        "deaths": 92188,
+        "confirmed": 13504485,
+        "deaths": 92451,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 14326217,
-        "deaths": 95379,
+        "confirmed": 14353888,
+        "deaths": 95549,
         "recovered": 0
       }
     },
