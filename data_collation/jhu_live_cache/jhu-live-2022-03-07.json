@@ -54,9 +54,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 527135,
+      "confirmed": 528834,
       "date": "2022-03-07",
-      "deaths": 1458
+      "deaths": 1459
     }
   },
   "Bangladesh": {
@@ -373,7 +373,7 @@
     "subseries": {
       "Hong Kong": {
         "live": {
-          "confirmed": 471617,
+          "confirmed": 496767,
           "date": "2022-03-07",
           "deaths": 2287
         }
@@ -463,7 +463,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 575949,
+      "confirmed": 576003,
       "date": "2022-03-07",
       "deaths": 4371
     }
@@ -997,9 +997,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1078249,
+      "confirmed": 1079375,
       "date": "2022-03-07",
-      "deaths": 10152
+      "deaths": 10161
     }
   },
   "Libya": {
@@ -1149,9 +1149,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 299642,
+      "confirmed": 299766,
       "date": "2022-03-07",
-      "deaths": 9079
+      "deaths": 9086
     }
   },
   "Norway": {
@@ -1195,9 +1195,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 643879,
+      "confirmed": 644199,
       "date": "2022-03-07",
-      "deaths": 18471
+      "deaths": 18482
     }
   },
   "Peru": {
@@ -1542,9 +1542,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 393515,
+          "confirmed": 393795,
           "date": "2022-03-07",
-          "deaths": 7709
+          "deaths": 7713
         }
       },
       "Nevada": {
@@ -1556,9 +1556,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2953458,
+          "confirmed": 2953812,
           "date": "2022-03-07",
-          "deaths": 45767
+          "deaths": 45769
         }
       },
       "Pennsylvania": {
