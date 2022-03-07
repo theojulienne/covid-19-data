@@ -61,16 +61,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1947266,
+      "confirmed": 1947702,
       "date": "2022-03-07",
-      "deaths": 29085
+      "deaths": 29089
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 931002,
+      "confirmed": 932207,
       "date": "2022-03-07",
-      "deaths": 6566
+      "deaths": 6579
     }
   },
   "Belgium": {
@@ -135,9 +135,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 372139,
+      "confirmed": 372478,
       "date": "2022-03-07",
-      "deaths": 15519
+      "deaths": 15575
     }
   },
   "Brazil": {
@@ -337,9 +337,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1126445,
+          "confirmed": 1127193,
           "date": "2022-03-07",
-          "deaths": 12614
+          "deaths": 12617
         }
       },
       "Quebec": {
@@ -456,9 +456,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 2864063,
+      "confirmed": 2876288,
       "date": "2022-03-07",
-      "deaths": 4868
+      "deaths": 4905
     }
   },
   "Dominican Republic": {
@@ -528,7 +528,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 2980028,
+          "confirmed": 2980574,
           "date": "2022-03-07",
           "deaths": 21593
         }
@@ -577,9 +577,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 625229,
+          "confirmed": 634485,
           "date": "2022-03-07",
-          "deaths": 5049
+          "deaths": 5060
         }
       },
       "Sachsen": {
@@ -591,9 +591,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 446920,
+          "confirmed": 451636,
           "date": "2022-03-07",
-          "deaths": 4796
+          "deaths": 4805
         }
       },
       "Schleswig-Holstein": {
@@ -807,9 +807,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2308191,
+      "confirmed": 2308928,
       "date": "2022-03-07",
-      "deaths": 25050
+      "deaths": 25068
     }
   },
   "Ireland": {
@@ -969,7 +969,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 323075,
+      "confirmed": 323094,
       "date": "2022-03-07",
       "deaths": 5641
     }
@@ -1234,7 +1234,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 358253,
+      "confirmed": 358418,
       "date": "2022-03-07",
       "deaths": 670
     }
@@ -1477,9 +1477,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 2890568,
+      "confirmed": 2948689,
       "date": "2022-03-07",
-      "deaths": 13187
+      "deaths": 13191
     }
   },
   "Thailand": {
