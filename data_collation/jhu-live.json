@@ -386,35 +386,35 @@
         "live": {
           "confirmed": 916884,
           "date": "2022-03-07",
-          "deaths": 18184
+          "deaths": 18189
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 401697,
           "date": "2022-03-07",
-          "deaths": 10108
+          "deaths": 10111
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1760562,
           "date": "2022-03-07",
-          "deaths": 29177
+          "deaths": 29192
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 317115,
           "date": "2022-03-07",
-          "deaths": 7237
+          "deaths": 7243
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 539377,
           "date": "2022-03-07",
-          "deaths": 14963
+          "deaths": 14968
         }
       }
     }
@@ -976,9 +976,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 4456264,
+      "confirmed": 4666977,
       "date": "2022-03-07",
-      "deaths": 8957
+      "deaths": 9096
     }
   },
   "Kuwait": {
