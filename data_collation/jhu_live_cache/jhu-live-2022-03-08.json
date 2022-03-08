@@ -77,49 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 541764,
+          "confirmed": 545852,
           "date": "2022-03-08",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 413987,
+          "confirmed": 414860,
           "date": "2022-03-08",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 459941,
+          "confirmed": 462358,
           "date": "2022-03-08",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 331063,
+          "confirmed": 332961,
           "date": "2022-03-08",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 418416,
+          "confirmed": 419260,
           "date": "2022-03-08",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 347471,
+          "confirmed": 348114,
           "date": "2022-03-08",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 372747,
+          "confirmed": 374574,
           "date": "2022-03-08",
           "deaths": 0
         }
@@ -337,7 +337,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1128149,
+          "confirmed": 1128197,
           "date": "2022-03-08",
           "deaths": 12616
         }
@@ -386,7 +386,7 @@
         "live": {
           "confirmed": 916922,
           "date": "2022-03-08",
-          "deaths": 18189
+          "deaths": 18193
         }
       },
       "Atlantico": {
@@ -400,21 +400,21 @@
         "live": {
           "confirmed": 1760776,
           "date": "2022-03-08",
-          "deaths": 29192
+          "deaths": 29198
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 317240,
           "date": "2022-03-08",
-          "deaths": 7243
+          "deaths": 7244
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 539451,
           "date": "2022-03-08",
-          "deaths": 14968
+          "deaths": 14969
         }
       }
     }
@@ -535,9 +535,9 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 769092,
+          "confirmed": 774622,
           "date": "2022-03-08",
-          "deaths": 4277
+          "deaths": 4279
         }
       },
       "Brandenburg": {
@@ -1172,14 +1172,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 502844,
+          "confirmed": 502968,
           "date": "2022-03-08",
-          "deaths": 13526
+          "deaths": 13530
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 570261,
+          "confirmed": 570353,
           "date": "2022-03-08",
           "deaths": 8085
         }
