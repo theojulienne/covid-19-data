@@ -2769,7 +2769,7 @@
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3522484,
+        "confirmed": 3527549,
         "deaths": 210907,
         "recovered": 0
       }
@@ -3943,7 +3943,7 @@
     },
     "VUT": {
       "back_1week": {
-        "confirmed": 19,
+        "confirmed": 18,
         "deaths": 1,
         "recovered": 0
       },
