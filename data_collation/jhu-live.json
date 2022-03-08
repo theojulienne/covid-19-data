@@ -1004,9 +1004,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 498453,
+      "confirmed": 498839,
       "date": "2022-03-08",
-      "deaths": 6308
+      "deaths": 6314
     }
   },
   "Lithuania": {
@@ -1089,9 +1089,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 977567,
+      "confirmed": 977641,
       "date": "2022-03-08",
-      "deaths": 11948
+      "deaths": 11949
     }
   },
   "Netherlands": {
@@ -1213,9 +1213,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3668268,
+      "confirmed": 3668710,
       "date": "2022-03-08",
-      "deaths": 57066
+      "deaths": 57072
     }
   },
   "Poland": {
@@ -1632,7 +1632,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 883270,
+      "confirmed": 883593,
       "date": "2022-03-08",
       "deaths": 2302
     }
