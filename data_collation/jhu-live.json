@@ -344,7 +344,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 929813,
+          "confirmed": 930748,
           "date": "2022-03-08",
           "deaths": 14120
         }
@@ -442,9 +442,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 334822,
+      "confirmed": 338517,
       "date": "2022-03-08",
-      "deaths": 878
+      "deaths": 883
     }
   },
   "Czechia": {
@@ -1556,9 +1556,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2953947,
+          "confirmed": 2954242,
           "date": "2022-03-08",
-          "deaths": 45792
+          "deaths": 45793
         }
       },
       "Pennsylvania": {
@@ -1570,9 +1570,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2666617,
+          "confirmed": 2667753,
           "date": "2022-03-08",
-          "deaths": 28935
+          "deaths": 28968
         }
       },
       "Utah": {
