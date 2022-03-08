@@ -61,9 +61,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1947702,
+      "confirmed": 1948148,
       "date": "2022-03-08",
-      "deaths": 29089
+      "deaths": 29096
     }
   },
   "Belarus": {
@@ -428,9 +428,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1063985,
+      "confirmed": 1065001,
       "date": "2022-03-08",
-      "deaths": 15234
+      "deaths": 15250
     }
   },
   "Cuba": {
@@ -1234,9 +1234,9 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 358418,
+      "confirmed": 358564,
       "date": "2022-03-08",
-      "deaths": 670
+      "deaths": 671
     }
   },
   "Romania": {
@@ -1477,9 +1477,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 2948689,
+      "confirmed": 2974778,
       "date": "2022-03-08",
-      "deaths": 13199
+      "deaths": 13202
     }
   },
   "Thailand": {
