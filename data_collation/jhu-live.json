@@ -8,9 +8,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 421401,
+      "confirmed": 421541,
       "date": "2022-03-08",
-      "deaths": 8548
+      "deaths": 8552
     }
   },
   "Australia": {
@@ -1011,9 +1011,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 934228,
+      "confirmed": 938968,
       "date": "2022-03-08",
-      "deaths": 8528
+      "deaths": 8548
     }
   },
   "Malaysia": {
@@ -1479,7 +1479,7 @@
     "live": {
       "confirmed": 2948689,
       "date": "2022-03-08",
-      "deaths": 13193
+      "deaths": 13194
     }
   },
   "Thailand": {
