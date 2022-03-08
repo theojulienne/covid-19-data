@@ -337,7 +337,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1129001,
+          "confirmed": 1129062,
           "date": "2022-03-08",
           "deaths": 12629
         }
@@ -346,7 +346,7 @@
         "live": {
           "confirmed": 929813,
           "date": "2022-03-08",
-          "deaths": 14091
+          "deaths": 14120
         }
       }
     }
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 792961,
+      "confirmed": 795808,
       "date": "2022-03-08",
-      "deaths": 17083
+      "deaths": 17106
     }
   },
   "Honduras": {
@@ -830,86 +830,86 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 1230363,
+          "confirmed": 1236215,
           "date": "2022-03-08",
-          "deaths": 9836
+          "deaths": 9847
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 1200538,
+          "confirmed": 1202206,
           "date": "2022-03-08",
-          "deaths": 16012
+          "deaths": 16021
         }
       },
       "Friuli Venezia Giulia": {
         "live": {
-          "confirmed": 311923,
+          "confirmed": 312758,
           "date": "2022-03-08",
-          "deaths": 4809
+          "deaths": 4815
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 1100309,
+          "confirmed": 1106523,
           "date": "2022-03-08",
-          "deaths": 10501
+          "deaths": 10516
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 351531,
+          "confirmed": 353041,
           "date": "2022-03-08",
-          "deaths": 5134
+          "deaths": 5139
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 2361238,
+          "confirmed": 2367735,
           "date": "2022-03-08",
-          "deaths": 38822
+          "deaths": 38831
         }
       },
       "Marche": {
         "live": {
-          "confirmed": 336666,
+          "confirmed": 338879,
           "date": "2022-03-08",
-          "deaths": 3614
+          "deaths": 3619
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 989921,
+          "confirmed": 992251,
           "date": "2022-03-08",
-          "deaths": 13092
+          "deaths": 13100
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 757901,
+          "confirmed": 763927,
           "date": "2022-03-08",
-          "deaths": 7725
+          "deaths": 7745
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 817536,
+          "confirmed": 825196,
           "date": "2022-03-08",
-          "deaths": 9620
+          "deaths": 9655
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 873591,
+          "confirmed": 877431,
           "date": "2022-03-08",
-          "deaths": 9144
+          "deaths": 9162
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 1353637,
+          "confirmed": 1358900,
           "date": "2022-03-08",
-          "deaths": 13907
+          "deaths": 13923
         }
       }
     }
@@ -1343,9 +1343,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2203141,
+      "confirmed": 2216994,
       "date": "2022-03-08",
-      "deaths": 18704
+      "deaths": 18750
     }
   },
   "Slovenia": {
@@ -1498,9 +1498,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14388231,
+      "confirmed": 14425638,
       "date": "2022-03-08",
-      "deaths": 95681
+      "deaths": 95811
     }
   },
   "US": {
@@ -1563,9 +1563,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 305303,
+          "confirmed": 305734,
           "date": "2022-03-08",
-          "deaths": 5002
+          "deaths": 5010
         }
       },
       "Texas": {
