@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 8942888,
+      "confirmed": 8949362,
       "date": "2022-03-08",
-      "deaths": 126842
+      "deaths": 126901
     }
   },
   "Armenia": {
@@ -337,9 +337,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1129229,
+          "confirmed": 1129609,
           "date": "2022-03-08",
-          "deaths": 12629
+          "deaths": 12644
         }
       },
       "Quebec": {
@@ -1020,23 +1020,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 335034,
+          "confirmed": 336755,
           "date": "2022-03-08",
-          "deaths": 4167
+          "deaths": 4183
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 353324,
+          "confirmed": 354540,
           "date": "2022-03-08",
-          "deaths": 3034
+          "deaths": 3039
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1002467,
+          "confirmed": 1010562,
           "date": "2022-03-08",
-          "deaths": 10260
+          "deaths": 10271
         }
       }
     }
@@ -1577,9 +1577,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 339945,
+          "confirmed": 339958,
           "date": "2022-03-08",
-          "deaths": 1560
+          "deaths": 1569
         }
       },
       "Washington": {
