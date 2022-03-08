@@ -24,14 +24,14 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 587356,
+          "confirmed": 603264,
           "date": "2022-03-08",
-          "deaths": 592
+          "deaths": 597
         }
       },
       "Victoria": {
         "live": {
-          "confirmed": 1091061,
+          "confirmed": 1091012,
           "date": "2022-03-08",
           "deaths": 2602
         }
@@ -337,7 +337,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1128197,
+          "confirmed": 1128149,
           "date": "2022-03-08",
           "deaths": 12616
         }
@@ -470,16 +470,16 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 836216,
+      "confirmed": 841575,
       "date": "2022-03-08",
-      "deaths": 35264
+      "deaths": 35309
     }
   },
   "Egypt": {
     "live": {
-      "confirmed": 490969,
+      "confirmed": 491892,
       "date": "2022-03-08",
-      "deaths": 24197
+      "deaths": 24222
     }
   },
   "Estonia": {
@@ -1188,9 +1188,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 757568,
+      "confirmed": 757930,
       "date": "2022-03-08",
-      "deaths": 8114
+      "deaths": 8118
     }
   },
   "Paraguay": {
@@ -1484,9 +1484,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3047857,
+      "confirmed": 3066800,
       "date": "2022-03-08",
-      "deaths": 23300
+      "deaths": 23369
     }
   },
   "Tunisia": {
@@ -1514,9 +1514,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5996026,
+          "confirmed": 5997669,
           "date": "2022-03-08",
-          "deaths": 60914
+          "deaths": 60955
         }
       },
       "Florida": {
