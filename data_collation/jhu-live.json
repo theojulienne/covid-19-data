@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 789481,
+      "confirmed": 789757,
       "date": "2022-03-08",
-      "deaths": 9531
+      "deaths": 9547
     }
   },
   "Bahrain": {
@@ -128,9 +128,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 895098,
+      "confirmed": 895424,
       "date": "2022-03-08",
-      "deaths": 21463
+      "deaths": 21469
     }
   },
   "Bosnia and Herzegovina": {
@@ -314,9 +314,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 599619,
+      "confirmed": 601020,
       "date": "2022-03-08",
-      "deaths": 19391
+      "deaths": 19394
     }
   },
   "Canada": {
@@ -355,16 +355,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 308184,
+          "confirmed": 309939,
           "date": "2022-03-08",
           "deaths": 3257
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1241671,
+          "confirmed": 1245525,
           "date": "2022-03-08",
-          "deaths": 21314
+          "deaths": 21348
         }
       }
     }
@@ -577,16 +577,16 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 634637,
+          "confirmed": 646178,
           "date": "2022-03-08",
-          "deaths": 5060
+          "deaths": 5073
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 997007,
+          "confirmed": 1007083,
           "date": "2022-03-08",
-          "deaths": 14381
+          "deaths": 14389
         }
       },
       "Sachsen-Anhalt": {
@@ -614,9 +614,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2517111,
+      "confirmed": 2538168,
       "date": "2022-03-08",
-      "deaths": 26246
+      "deaths": 26303
     }
   },
   "Guatemala": {
@@ -814,9 +814,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1322591,
+      "confirmed": 1326946,
       "date": "2022-03-08",
-      "deaths": 6570
+      "deaths": 6571
     }
   },
   "Israel": {
@@ -1098,49 +1098,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 805476,
+          "confirmed": 814503,
           "date": "2022-03-08",
-          "deaths": 2697
+          "deaths": 2698
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 440231,
+          "confirmed": 447111,
           "date": "2022-03-08",
-          "deaths": 2108
+          "deaths": 2110
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 1054984,
+          "confirmed": 1069766,
           "date": "2022-03-08",
-          "deaths": 3606
+          "deaths": 3607
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 1125256,
+          "confirmed": 1132503,
           "date": "2022-03-08",
-          "deaths": 3260
+          "deaths": 3264
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 461825,
+          "confirmed": 465650,
           "date": "2022-03-08",
           "deaths": 1379
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 557812,
+          "confirmed": 563692,
           "date": "2022-03-08",
           "deaths": 1510
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1449469,
+          "confirmed": 1459004,
           "date": "2022-03-08",
           "deaths": 4985
         }
@@ -1227,9 +1227,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 3337806,
+      "confirmed": 3352874,
       "date": "2022-03-08",
-      "deaths": 21216
+      "deaths": 21248
     }
   },
   "Qatar": {
@@ -1329,9 +1329,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1927849,
+      "confirmed": 1930437,
       "date": "2022-03-08",
-      "deaths": 15463
+      "deaths": 15488
     }
   },
   "Singapore": {
@@ -1570,9 +1570,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2666427,
+          "confirmed": 2666617,
           "date": "2022-03-08",
-          "deaths": 28919
+          "deaths": 28935
         }
       },
       "Utah": {
@@ -1699,7 +1699,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 313910,
+      "confirmed": 314159,
       "date": "2022-03-08",
       "deaths": 3959
     }
