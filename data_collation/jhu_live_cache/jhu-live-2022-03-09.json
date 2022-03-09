@@ -337,7 +337,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1131045,
+          "confirmed": 1131286,
           "date": "2022-03-09",
           "deaths": 12665
         }
@@ -521,9 +521,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2321127,
+          "confirmed": 2362002,
           "date": "2022-03-09",
-          "deaths": 14528
+          "deaths": 14563
         }
       },
       "Bayern": {
@@ -1082,7 +1082,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1161776,
+      "confirmed": 1161848,
       "date": "2022-03-09",
       "deaths": 16029
     }
@@ -1227,9 +1227,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 3352874,
+      "confirmed": 3367469,
       "date": "2022-03-09",
-      "deaths": 21248
+      "deaths": 21267
     }
   },
   "Qatar": {
@@ -1241,9 +1241,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2776910,
+      "confirmed": 2781086,
       "date": "2022-03-09",
-      "deaths": 64094
+      "deaths": 64156
     }
   },
   "Russia": {
@@ -1498,9 +1498,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14425638,
+      "confirmed": 14458881,
       "date": "2022-03-09",
-      "deaths": 95811
+      "deaths": 95954
     }
   },
   "US": {
@@ -1514,9 +1514,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5999310,
+          "confirmed": 6001367,
           "date": "2022-03-09",
-          "deaths": 61003
+          "deaths": 61051
         }
       },
       "Florida": {
@@ -1556,9 +1556,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2954242,
+          "confirmed": 2954276,
           "date": "2022-03-09",
-          "deaths": 45793
+          "deaths": 45791
         }
       },
       "Pennsylvania": {
