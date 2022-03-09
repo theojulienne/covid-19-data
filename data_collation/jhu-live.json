@@ -77,49 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 545852,
+          "confirmed": 547514,
           "date": "2022-03-09",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 414860,
+          "confirmed": 415235,
           "date": "2022-03-09",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 462358,
+          "confirmed": 463641,
           "date": "2022-03-09",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 332961,
+          "confirmed": 334041,
           "date": "2022-03-09",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 419260,
+          "confirmed": 419566,
           "date": "2022-03-09",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 348114,
+          "confirmed": 348523,
           "date": "2022-03-09",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 374574,
+          "confirmed": 375483,
           "date": "2022-03-09",
           "deaths": 0
         }
@@ -1172,14 +1172,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 502968,
+          "confirmed": 503128,
           "date": "2022-03-09",
-          "deaths": 13530
+          "deaths": 13535
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 570353,
+          "confirmed": 570688,
           "date": "2022-03-09",
           "deaths": 8085
         }
