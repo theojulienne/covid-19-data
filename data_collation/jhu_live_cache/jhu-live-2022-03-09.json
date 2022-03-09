@@ -54,9 +54,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 530730,
+      "confirmed": 532265,
       "date": "2022-03-09",
-      "deaths": 1461
+      "deaths": 1462
     }
   },
   "Bangladesh": {
@@ -491,9 +491,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 469047,
+      "confirmed": 469095,
       "date": "2022-03-09",
-      "deaths": 7477
+      "deaths": 7482
     }
   },
   "Finland": {
@@ -1357,9 +1357,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3686556,
+      "confirmed": 3688423,
       "date": "2022-03-09",
-      "deaths": 99625
+      "deaths": 99656
     }
   },
   "Spain": {
@@ -1516,7 +1516,7 @@
         "live": {
           "confirmed": 6001367,
           "date": "2022-03-09",
-          "deaths": 61051
+          "deaths": 61093
         }
       },
       "Florida": {
