@@ -521,7 +521,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2321088,
+          "confirmed": 2321127,
           "date": "2022-03-09",
           "deaths": 14528
         }
@@ -793,16 +793,16 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 5800253,
+      "confirmed": 5826589,
       "date": "2022-03-09",
-      "deaths": 150831
+      "deaths": 151135
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 7102159,
+      "confirmed": 7107167,
       "date": "2022-03-09",
-      "deaths": 138260
+      "deaths": 138433
     }
   },
   "Iraq": {
@@ -1089,7 +1089,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 977641,
+      "confirmed": 977709,
       "date": "2022-03-09",
       "deaths": 11949
     }
