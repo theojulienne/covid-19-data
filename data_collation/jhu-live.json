@@ -344,7 +344,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 930748,
+          "confirmed": 932174,
           "date": "2022-03-09",
           "deaths": 14126
         }
@@ -442,9 +442,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 338517,
+      "confirmed": 341383,
       "date": "2022-03-09",
-      "deaths": 883
+      "deaths": 886
     }
   },
   "Czechia": {
@@ -463,9 +463,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 576129,
+      "confirmed": 576220,
       "date": "2022-03-09",
-      "deaths": 4371
+      "deaths": 4372
     }
   },
   "Ecuador": {
@@ -964,7 +964,7 @@
     "live": {
       "confirmed": 1392338,
       "date": "2022-03-09",
-      "deaths": 18980
+      "deaths": 18983
     }
   },
   "Kenya": {
@@ -983,9 +983,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 624205,
+      "confirmed": 624573,
       "date": "2022-03-09",
-      "deaths": 2548
+      "deaths": 2549
     }
   },
   "Latvia": {
@@ -1068,14 +1068,14 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 505996,
+      "confirmed": 506222,
       "date": "2022-03-09",
-      "deaths": 11298
+      "deaths": 11304
     }
   },
   "Mongolia": {
     "live": {
-      "confirmed": 913444,
+      "confirmed": 914016,
       "date": "2022-03-09",
       "deaths": 2176
     }
@@ -1149,9 +1149,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 300106,
+      "confirmed": 300398,
       "date": "2022-03-09",
-      "deaths": 9097
+      "deaths": 9104
     }
   },
   "Norway": {
@@ -1445,9 +1445,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 653029,
+      "confirmed": 654336,
       "date": "2022-03-09",
-      "deaths": 16339
+      "deaths": 16361
     }
   },
   "Sweden": {
@@ -1491,9 +1491,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 1016894,
+      "confirmed": 1017907,
       "date": "2022-03-09",
-      "deaths": 27959
+      "deaths": 27989
     }
   },
   "Turkey": {
@@ -1549,7 +1549,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 512905,
+          "confirmed": 513320,
           "date": "2022-03-09",
           "deaths": 7591
         }
@@ -1570,9 +1570,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2668072,
+          "confirmed": 2669277,
           "date": "2022-03-09",
-          "deaths": 28983
+          "deaths": 29019
         }
       },
       "Utah": {
@@ -1692,9 +1692,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 652298,
+      "confirmed": 652763,
       "date": "2022-03-09",
-      "deaths": 5583
+      "deaths": 5588
     }
   },
   "Zambia": {
