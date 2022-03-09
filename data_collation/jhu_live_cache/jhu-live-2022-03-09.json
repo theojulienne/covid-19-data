@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 8949362,
+      "confirmed": 8955458,
       "date": "2022-03-09",
-      "deaths": 126901
+      "deaths": 126955
     }
   },
   "Armenia": {
@@ -337,9 +337,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1131286,
+          "confirmed": 1131621,
           "date": "2022-03-09",
-          "deaths": 12665
+          "deaths": 12667
         }
       },
       "Quebec": {
@@ -969,7 +969,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 323115,
+      "confirmed": 323129,
       "date": "2022-03-09",
       "deaths": 5641
     }
@@ -997,9 +997,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1080381,
+      "confirmed": 1081463,
       "date": "2022-03-09",
-      "deaths": 10169
+      "deaths": 10176
     }
   },
   "Libya": {
@@ -1020,23 +1020,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 336755,
+          "confirmed": 339741,
           "date": "2022-03-09",
-          "deaths": 4183
+          "deaths": 4197
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 354540,
+          "confirmed": 355892,
           "date": "2022-03-09",
-          "deaths": 3039
+          "deaths": 3057
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1010562,
+          "confirmed": 1017168,
           "date": "2022-03-09",
-          "deaths": 10271
+          "deaths": 10293
         }
       }
     }
@@ -1549,9 +1549,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 513320,
+          "confirmed": 513436,
           "date": "2022-03-09",
-          "deaths": 7591
+          "deaths": 7617
         }
       },
       "New York": {
@@ -1577,9 +1577,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 339958,
+          "confirmed": 340022,
           "date": "2022-03-09",
-          "deaths": 1569
+          "deaths": 1572
         }
       },
       "Washington": {
@@ -1699,9 +1699,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 314159,
+      "confirmed": 314641,
       "date": "2022-03-09",
-      "deaths": 3959
+      "deaths": 3960
     }
   }
 }
