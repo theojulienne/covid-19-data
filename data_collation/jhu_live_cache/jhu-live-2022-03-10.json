@@ -498,9 +498,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 22599285,
+      "confirmed": 22668331,
       "date": "2022-03-10",
-      "deaths": 136694
+      "deaths": 136798
     }
   },
   "Georgia": {
@@ -614,9 +614,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 798400,
+      "confirmed": 800403,
       "date": "2022-03-10",
-      "deaths": 17116
+      "deaths": 17127
     }
   },
   "Honduras": {
@@ -814,9 +814,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3695061,
+      "confirmed": 3702896,
       "date": "2022-03-10",
-      "deaths": 10322
+      "deaths": 10358
     }
   },
   "Italy": {
@@ -964,7 +964,7 @@
     "live": {
       "confirmed": 1392427,
       "date": "2022-03-10",
-      "deaths": 18983
+      "deaths": 18988
     }
   },
   "Kenya": {
@@ -1068,14 +1068,14 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 506222,
+      "confirmed": 506681,
       "date": "2022-03-10",
-      "deaths": 11304
+      "deaths": 11319
     }
   },
   "Mongolia": {
     "live": {
-      "confirmed": 914016,
+      "confirmed": 914536,
       "date": "2022-03-10",
       "deaths": 2177
     }
@@ -1084,7 +1084,7 @@
     "live": {
       "confirmed": 1161848,
       "date": "2022-03-10",
-      "deaths": 16029
+      "deaths": 16032
     }
   },
   "Nepal": {
@@ -1486,7 +1486,7 @@
     "live": {
       "confirmed": 3040668,
       "date": "2022-03-10",
-      "deaths": 13229
+      "deaths": 13231
     }
   },
   "Thailand": {
@@ -1498,9 +1498,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 1017907,
+      "confirmed": 1018447,
       "date": "2022-03-10",
-      "deaths": 27989
+      "deaths": 28009
     }
   },
   "Turkey": {
@@ -1521,9 +1521,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5701505,
+          "confirmed": 5703770,
           "date": "2022-03-10",
-          "deaths": 58134
+          "deaths": 58159
         }
       },
       "Florida": {
@@ -1563,9 +1563,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2955007,
+          "confirmed": 2955290,
           "date": "2022-03-10",
-          "deaths": 45784
+          "deaths": 45783
         }
       },
       "Pennsylvania": {
@@ -1699,9 +1699,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 652763,
+      "confirmed": 652966,
       "date": "2022-03-10",
-      "deaths": 5588
+      "deaths": 5594
     }
   },
   "Zambia": {
