@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 608063,
+          "confirmed": 612629,
           "date": "2022-03-10",
-          "deaths": 610
+          "deaths": 615
         }
       },
       "Victoria": {
@@ -386,35 +386,35 @@
         "live": {
           "confirmed": 917041,
           "date": "2022-03-10",
-          "deaths": 18194
+          "deaths": 18198
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 401757,
           "date": "2022-03-10",
-          "deaths": 10111
+          "deaths": 10113
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1761354,
           "date": "2022-03-10",
-          "deaths": 29209
+          "deaths": 29218
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 317322,
           "date": "2022-03-10",
-          "deaths": 7245
+          "deaths": 7247
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 539529,
           "date": "2022-03-10",
-          "deaths": 14972
+          "deaths": 14975
         }
       }
     }
@@ -962,7 +962,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1392338,
+      "confirmed": 1392427,
       "date": "2022-03-10",
       "deaths": 18983
     }
@@ -1077,7 +1077,7 @@
     "live": {
       "confirmed": 914016,
       "date": "2022-03-10",
-      "deaths": 2176
+      "deaths": 2177
     }
   },
   "Morocco": {
