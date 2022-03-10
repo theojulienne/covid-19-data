@@ -128,7 +128,7 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 895854,
+      "confirmed": 896315,
       "date": "2022-03-10",
       "deaths": 21470
     }
@@ -373,7 +373,7 @@
     "subseries": {
       "Hong Kong": {
         "live": {
-          "confirmed": 525242,
+          "confirmed": 551233,
           "date": "2022-03-10",
           "deaths": 2869
         }
@@ -505,7 +505,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 22599350,
+      "confirmed": 22599285,
       "date": "2022-03-10",
       "deaths": 136694
     }
@@ -1188,9 +1188,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 758312,
+      "confirmed": 758613,
       "date": "2022-03-10",
-      "deaths": 8122
+      "deaths": 8125
     }
   },
   "Paraguay": {
@@ -1484,9 +1484,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3088873,
+      "confirmed": 3111857,
       "date": "2022-03-10",
-      "deaths": 23438
+      "deaths": 23512
     }
   },
   "Tunisia": {
@@ -1685,9 +1685,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 4776873,
+      "confirmed": 5042036,
       "date": "2022-03-10",
-      "deaths": 40977
+      "deaths": 41086
     }
   },
   "West Bank and Gaza": {
