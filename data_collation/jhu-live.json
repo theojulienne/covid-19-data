@@ -384,35 +384,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 916986,
+          "confirmed": 917041,
           "date": "2022-03-10",
           "deaths": 18194
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 401736,
+          "confirmed": 401757,
           "date": "2022-03-10",
           "deaths": 10111
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1761053,
+          "confirmed": 1761354,
           "date": "2022-03-10",
           "deaths": 29209
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 317296,
+          "confirmed": 317322,
           "date": "2022-03-10",
           "deaths": 7245
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 539493,
+          "confirmed": 539529,
           "date": "2022-03-10",
           "deaths": 14972
         }
@@ -521,93 +521,93 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2362002,
+          "confirmed": 2362130,
           "date": "2022-03-10",
-          "deaths": 14563
+          "deaths": 14562
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 3050138,
+          "confirmed": 3099116,
           "date": "2022-03-10",
-          "deaths": 21708
+          "deaths": 21759
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 775291,
+          "confirmed": 782238,
           "date": "2022-03-10",
-          "deaths": 4281
+          "deaths": 4288
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 564058,
+          "confirmed": 571838,
           "date": "2022-03-10",
-          "deaths": 5264
+          "deaths": 5276
         }
       },
       "Hamburg": {
         "live": {
           "confirmed": 367922,
           "date": "2022-03-10",
-          "deaths": 2334
+          "deaths": 2336
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 1143512,
+          "confirmed": 1156773,
           "date": "2022-03-10",
-          "deaths": 9312
+          "deaths": 9337
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 1182048,
+          "confirmed": 1206167,
           "date": "2022-03-10",
-          "deaths": 7639
+          "deaths": 7656
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 3345573,
+          "confirmed": 3395588,
           "date": "2022-03-10",
-          "deaths": 22650
+          "deaths": 22706
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 658307,
+          "confirmed": 658477,
           "date": "2022-03-10",
           "deaths": 5082
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 1023357,
+          "confirmed": 1025717,
           "date": "2022-03-10",
           "deaths": 14401
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 465481,
+          "confirmed": 465490,
           "date": "2022-03-10",
           "deaths": 4819
         }
       },
       "Schleswig-Holstein": {
         "live": {
-          "confirmed": 359203,
+          "confirmed": 366226,
           "date": "2022-03-10",
-          "deaths": 2168
+          "deaths": 2177
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 452060,
+          "confirmed": 460184,
           "date": "2022-03-10",
-          "deaths": 6666
+          "deaths": 6669
         }
       }
     }
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 795808,
+      "confirmed": 798400,
       "date": "2022-03-10",
-      "deaths": 17106
+      "deaths": 17116
     }
   },
   "Honduras": {
@@ -1172,14 +1172,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 503128,
+          "confirmed": 503279,
           "date": "2022-03-10",
           "deaths": 13535
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 570688,
+          "confirmed": 570934,
           "date": "2022-03-10",
           "deaths": 8085
         }
