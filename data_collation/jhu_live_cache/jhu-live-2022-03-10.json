@@ -330,7 +330,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1133214,
+          "confirmed": 1133385,
           "date": "2022-03-10",
           "deaths": 12684
         }
@@ -514,9 +514,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2362130,
+          "confirmed": 2399978,
           "date": "2022-03-10",
-          "deaths": 14562
+          "deaths": 14584
         }
       },
       "Bayern": {
@@ -1020,23 +1020,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 339741,
+          "confirmed": 341961,
           "date": "2022-03-10",
-          "deaths": 4197
+          "deaths": 4207
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 355892,
+          "confirmed": 357046,
           "date": "2022-03-10",
-          "deaths": 3057
+          "deaths": 3061
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1017168,
+          "confirmed": 1024693,
           "date": "2022-03-10",
-          "deaths": 10293
+          "deaths": 10304
         }
       }
     }
@@ -1373,77 +1373,77 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 1359285,
+          "confirmed": 1362739,
           "date": "2022-03-10",
-          "deaths": 12931
+          "deaths": 12950
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 400300,
+          "confirmed": 400820,
           "date": "2022-03-10",
-          "deaths": 4904
+          "deaths": 4910
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 1311303,
+          "confirmed": 1313629,
           "date": "2022-03-10",
-          "deaths": 9070
+          "deaths": 9073
         }
       },
       "Canarias": {
         "live": {
-          "confirmed": 304014,
+          "confirmed": 305803,
           "date": "2022-03-10",
-          "deaths": 1599
+          "deaths": 1603
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 476140,
+          "confirmed": 476905,
           "date": "2022-03-10",
-          "deaths": 7109
+          "deaths": 7111
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 659849,
+          "confirmed": 661008,
           "date": "2022-03-10",
-          "deaths": 8306
+          "deaths": 8311
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 2303011,
+          "confirmed": 2307549,
           "date": "2022-03-10",
-          "deaths": 18478
+          "deaths": 18503
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 543395,
+          "confirmed": 545564,
           "date": "2022-03-10",
-          "deaths": 3129
+          "deaths": 3132
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 1611492,
+          "confirmed": 1613377,
           "date": "2022-03-10",
-          "deaths": 17546
+          "deaths": 17555
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 379297,
+          "confirmed": 380119,
           "date": "2022-03-10",
           "deaths": 2177
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 657197,
+          "confirmed": 657913,
           "date": "2022-03-10",
           "deaths": 6275
         }
@@ -1523,7 +1523,7 @@
         "live": {
           "confirmed": 5703770,
           "date": "2022-03-10",
-          "deaths": 58159
+          "deaths": 58176
         }
       },
       "Florida": {
@@ -1535,9 +1535,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1115700,
+          "confirmed": 1116353,
           "date": "2022-03-10",
-          "deaths": 14142
+          "deaths": 14156
         }
       },
       "Massachusetts": {
@@ -1563,9 +1563,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2955290,
+          "confirmed": 2956025,
           "date": "2022-03-10",
-          "deaths": 45783
+          "deaths": 45787
         }
       },
       "Pennsylvania": {
