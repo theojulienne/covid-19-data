@@ -40,9 +40,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 2972647,
+      "confirmed": 3022079,
       "date": "2022-03-10",
-      "deaths": 15113
+      "deaths": 15136
     }
   },
   "Azerbaijan": {
@@ -135,9 +135,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 372817,
+      "confirmed": 372962,
       "date": "2022-03-10",
-      "deaths": 15599
+      "deaths": 15610
     }
   },
   "Brazil": {
@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 2908721,
+      "confirmed": 2923030,
       "date": "2022-03-10",
-      "deaths": 5008
+      "deaths": 5049
     }
   },
   "Dominican Republic": {
@@ -521,9 +521,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 3099116,
+          "confirmed": 3099928,
           "date": "2022-03-10",
-          "deaths": 21759
+          "deaths": 21758
         }
       },
       "Berlin": {
@@ -800,9 +800,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2310539,
+      "confirmed": 2311238,
       "date": "2022-03-10",
-      "deaths": 25082
+      "deaths": 25090
     }
   },
   "Ireland": {
@@ -1454,23 +1454,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 334322,
+          "confirmed": 334491,
           "date": "2022-03-10",
           "deaths": 2227
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 564363,
+          "confirmed": 564635,
           "date": "2022-03-10",
-          "deaths": 5093
+          "deaths": 5112
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 429422,
+          "confirmed": 429811,
           "date": "2022-03-10",
-          "deaths": 2894
+          "deaths": 2911
         }
       }
     }
@@ -1507,7 +1507,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1248818,
+          "confirmed": 1253285,
           "date": "2022-03-10",
           "deaths": 15855
         }
