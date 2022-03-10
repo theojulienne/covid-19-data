@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 932174,
+          "confirmed": 933441,
           "date": "2022-03-10",
           "deaths": 14141
         }
@@ -1082,9 +1082,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1161848,
+      "confirmed": 1161925,
       "date": "2022-03-10",
-      "deaths": 16032
+      "deaths": 16033
     }
   },
   "Nepal": {
@@ -1364,9 +1364,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3688423,
+      "confirmed": 3690291,
       "date": "2022-03-10",
-      "deaths": 99656
+      "deaths": 99681
     }
   },
   "Spain": {
@@ -1577,16 +1577,16 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2669554,
+          "confirmed": 2670965,
           "date": "2022-03-10",
-          "deaths": 29035
+          "deaths": 29061
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 340022,
+          "confirmed": 340102,
           "date": "2022-03-10",
-          "deaths": 1572
+          "deaths": 1576
         }
       },
       "Washington": {
