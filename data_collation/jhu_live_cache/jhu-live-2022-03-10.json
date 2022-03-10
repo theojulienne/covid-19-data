@@ -330,9 +330,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 351141,
+          "confirmed": 351415,
           "date": "2022-03-10",
-          "deaths": 2915
+          "deaths": 2929
         }
       },
       "Ontario": {
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 798400,
+      "confirmed": 795808,
       "date": "2022-03-10",
-      "deaths": 17116
+      "deaths": 17106
     }
   },
   "Honduras": {
@@ -976,9 +976,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 5212118,
+      "confirmed": 5539650,
       "date": "2022-03-10",
-      "deaths": 9440
+      "deaths": 9646
     }
   },
   "Kuwait": {
@@ -1556,9 +1556,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2954754,
+          "confirmed": 2955007,
           "date": "2022-03-10",
-          "deaths": 45796
+          "deaths": 45784
         }
       },
       "Pennsylvania": {
