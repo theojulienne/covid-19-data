@@ -348,16 +348,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 312257,
+          "confirmed": 315170,
           "date": "2022-03-10",
-          "deaths": 3257
+          "deaths": 3293
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1250345,
+          "confirmed": 1255531,
           "date": "2022-03-10",
-          "deaths": 21370
+          "deaths": 21413
         }
       }
     }
@@ -911,37 +911,44 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 358069,
+          "confirmed": 361067,
           "date": "2022-03-10",
-          "deaths": 1785
+          "deaths": 1796
+        }
+      },
+      "Chiba": {
+        "live": {
+          "confirmed": 302837,
+          "date": "2022-03-10",
+          "deaths": 1476
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 505130,
+          "confirmed": 511171,
           "date": "2022-03-10",
-          "deaths": 1837
+          "deaths": 1849
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 707959,
+          "confirmed": 714281,
           "date": "2022-03-10",
-          "deaths": 4210
+          "deaths": 4236
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 350091,
+          "confirmed": 354410,
           "date": "2022-03-10",
-          "deaths": 1227
+          "deaths": 1234
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1086519,
+          "confirmed": 1096599,
           "date": "2022-03-10",
-          "deaths": 3867
+          "deaths": 3897
         }
       }
     }
@@ -1220,9 +1227,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 3367469,
+      "confirmed": 3380263,
       "date": "2022-03-10",
-      "deaths": 21267
+      "deaths": 21285
     }
   },
   "Qatar": {
@@ -1514,9 +1521,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 6002475,
+          "confirmed": 5701505,
           "date": "2022-03-10",
-          "deaths": 61147
+          "deaths": 58134
         }
       },
       "Florida": {
@@ -1570,9 +1577,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2669277,
+          "confirmed": 2669554,
           "date": "2022-03-10",
-          "deaths": 29019
+          "deaths": 29035
         }
       },
       "Utah": {
