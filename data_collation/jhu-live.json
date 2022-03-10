@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1105776,
+          "confirmed": 1105640,
           "date": "2022-03-10",
           "deaths": 2619
         }
@@ -294,13 +294,6 @@
           "confirmed": 321838,
           "date": "2022-03-10",
           "deaths": 6276
-        }
-      },
-      "Tocantins": {
-        "live": {
-          "confirmed": 300114,
-          "date": "2022-03-10",
-          "deaths": 4120
         }
       }
     }
@@ -1145,6 +1138,13 @@
           "deaths": 4987
         }
       }
+    }
+  },
+  "New Zealand": {
+    "live": {
+      "confirmed": 307803,
+      "date": "2022-03-10",
+      "deaths": 81
     }
   },
   "North Macedonia": {
