@@ -61,16 +61,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1948471,
+      "confirmed": 1948798,
       "date": "2022-03-10",
-      "deaths": 29097
+      "deaths": 29100
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 934187,
+      "confirmed": 935684,
       "date": "2022-03-10",
-      "deaths": 6608
+      "deaths": 6618
     }
   },
   "Belgium": {
@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1131621,
+          "confirmed": 1133214,
           "date": "2022-03-10",
-          "deaths": 12667
+          "deaths": 12684
         }
       },
       "Quebec": {
@@ -368,7 +368,7 @@
         "live": {
           "confirmed": 551233,
           "date": "2022-03-10",
-          "deaths": 2869
+          "deaths": 3150
         }
       }
     }
@@ -421,9 +421,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1067589,
+      "confirmed": 1069317,
       "date": "2022-03-10",
-      "deaths": 15276
+      "deaths": 15294
     }
   },
   "Cuba": {
@@ -793,9 +793,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 7107167,
+      "confirmed": 7113591,
       "date": "2022-03-10",
-      "deaths": 138433
+      "deaths": 138572
     }
   },
   "Iraq": {
@@ -925,7 +925,7 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 707967,
+          "confirmed": 707959,
           "date": "2022-03-10",
           "deaths": 4210
         }
@@ -1206,9 +1206,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3669283,
+      "confirmed": 3668940,
       "date": "2022-03-10",
-      "deaths": 57182
+      "deaths": 57258
     }
   },
   "Poland": {
@@ -1227,7 +1227,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 358694,
+      "confirmed": 358821,
       "date": "2022-03-10",
       "deaths": 672
     }
@@ -1477,9 +1477,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 3008537,
+      "confirmed": 3040668,
       "date": "2022-03-10",
-      "deaths": 13223
+      "deaths": 13227
     }
   },
   "Thailand": {
