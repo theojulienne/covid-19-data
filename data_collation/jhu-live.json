@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 612629,
+          "confirmed": 616937,
           "date": "2022-03-11",
-          "deaths": 615
+          "deaths": 623
         }
       },
       "Victoria": {
@@ -179,7 +179,7 @@
       },
       "Goias": {
         "live": {
-          "confirmed": 1205381,
+          "confirmed": 1207381,
           "date": "2022-03-11",
           "deaths": 25955
         }
@@ -193,9 +193,9 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 714295,
+          "confirmed": 716129,
           "date": "2022-03-11",
-          "deaths": 14779
+          "deaths": 14793
         }
       },
       "Mato Grosso do Sul": {
@@ -214,9 +214,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 731689,
+          "confirmed": 733128,
           "date": "2022-03-11",
-          "deaths": 17946
+          "deaths": 17961
         }
       },
       "Paraiba": {
@@ -242,9 +242,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 366202,
+          "confirmed": 366414,
           "date": "2022-03-11",
-          "deaths": 7694
+          "deaths": 7697
         }
       },
       "Rio Grande do Norte": {
@@ -323,9 +323,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 351415,
+          "confirmed": 351751,
           "date": "2022-03-11",
-          "deaths": 2929
+          "deaths": 2932
         }
       },
       "Ontario": {
@@ -976,7 +976,7 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 5539650,
+      "confirmed": 5822626,
       "date": "2022-03-11",
       "deaths": 9646
     }
@@ -1521,9 +1521,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5703770,
+          "confirmed": 5705122,
           "date": "2022-03-11",
-          "deaths": 58176
+          "deaths": 58216
         }
       },
       "Florida": {
