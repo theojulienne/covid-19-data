@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 8961595,
+      "confirmed": 8967210,
       "date": "2022-03-11",
-      "deaths": 127009
+      "deaths": 127051
     }
   },
   "Armenia": {
@@ -435,9 +435,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 344856,
+      "confirmed": 347876,
       "date": "2022-03-11",
-      "deaths": 889
+      "deaths": 895
     }
   },
   "Czechia": {
@@ -484,7 +484,7 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 469134,
+      "confirmed": 469153,
       "date": "2022-03-11",
       "deaths": 7484
     }
@@ -997,9 +997,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1082419,
+      "confirmed": 1083351,
       "date": "2022-03-11",
-      "deaths": 10185
+      "deaths": 10193
     }
   },
   "Libya": {
@@ -1486,7 +1486,7 @@
     "live": {
       "confirmed": 3040668,
       "date": "2022-03-11",
-      "deaths": 13233
+      "deaths": 13265
     }
   },
   "Thailand": {
@@ -1584,9 +1584,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 340102,
+          "confirmed": 340203,
           "date": "2022-03-11",
-          "deaths": 1576
+          "deaths": 1581
         }
       },
       "Washington": {
