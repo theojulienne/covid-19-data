@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 933441,
+          "confirmed": 934620,
           "date": "2022-03-11",
           "deaths": 14154
         }
@@ -456,9 +456,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 576220,
+      "confirmed": 576367,
       "date": "2022-03-11",
-      "deaths": 4372
+      "deaths": 4374
     }
   },
   "Ecuador": {
@@ -498,7 +498,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 22740730,
+      "confirmed": 22741033,
       "date": "2022-03-11",
       "deaths": 136947
     }
@@ -964,7 +964,7 @@
     "live": {
       "confirmed": 1392590,
       "date": "2022-03-11",
-      "deaths": 18988
+      "deaths": 18989
     }
   },
   "Kenya": {
@@ -1068,9 +1068,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 506681,
+      "confirmed": 507028,
       "date": "2022-03-11",
-      "deaths": 11319
+      "deaths": 11333
     }
   },
   "Mongolia": {
@@ -1364,9 +1364,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3690291,
+      "confirmed": 3691962,
       "date": "2022-03-11",
-      "deaths": 99681
+      "deaths": 99709
     }
   },
   "Spain": {
@@ -1443,9 +1443,9 @@
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 657913,
+          "confirmed": 658816,
           "date": "2022-03-11",
-          "deaths": 6275
+          "deaths": 6233
         }
       }
     }
@@ -1549,9 +1549,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 394107,
+          "confirmed": 394489,
           "date": "2022-03-11",
-          "deaths": 7760
+          "deaths": 7772
         }
       },
       "Nevada": {
@@ -1577,9 +1577,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2671300,
+          "confirmed": 2673017,
           "date": "2022-03-11",
-          "deaths": 29069
+          "deaths": 29099
         }
       },
       "Utah": {
@@ -1699,9 +1699,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 652966,
+      "confirmed": 653293,
       "date": "2022-03-11",
-      "deaths": 5594
+      "deaths": 5603
     }
   },
   "Zambia": {
