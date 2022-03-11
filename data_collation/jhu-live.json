@@ -1521,9 +1521,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5705122,
+          "confirmed": 5706259,
           "date": "2022-03-11",
-          "deaths": 58216
+          "deaths": 58248
         }
       },
       "Florida": {
@@ -1563,9 +1563,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2956025,
+          "confirmed": 2956369,
           "date": "2022-03-11",
-          "deaths": 45787
+          "deaths": 45798
         }
       },
       "Pennsylvania": {
@@ -1648,28 +1648,28 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 16425663,
+          "confirmed": 16481364,
           "date": "2022-03-11",
           "deaths": 141478
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 646794,
+          "confirmed": 649064,
           "date": "2022-03-11",
           "deaths": 3246
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 1561034,
+          "confirmed": 1574047,
           "date": "2022-03-11",
           "deaths": 10969
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 824485,
+          "confirmed": 826010,
           "date": "2022-03-11",
           "deaths": 7045
         }
