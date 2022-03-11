@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1133667,
+          "confirmed": 1135292,
           "date": "2022-03-11",
-          "deaths": 12688
+          "deaths": 12638
         }
       },
       "Quebec": {
@@ -911,44 +911,44 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 361067,
+          "confirmed": 364168,
           "date": "2022-03-11",
-          "deaths": 1796
+          "deaths": 1823
         }
       },
       "Chiba": {
         "live": {
-          "confirmed": 302837,
+          "confirmed": 306181,
           "date": "2022-03-11",
-          "deaths": 1476
+          "deaths": 1490
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 511170,
+          "confirmed": 516787,
           "date": "2022-03-11",
-          "deaths": 1849
+          "deaths": 1875
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 714281,
+          "confirmed": 719240,
           "date": "2022-03-11",
-          "deaths": 4236
+          "deaths": 4271
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 354410,
+          "confirmed": 359203,
           "date": "2022-03-11",
-          "deaths": 1234
+          "deaths": 1235
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1096599,
+          "confirmed": 1105063,
           "date": "2022-03-11",
-          "deaths": 3897
+          "deaths": 3923
         }
       }
     }
@@ -1020,23 +1020,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 341961,
+          "confirmed": 344527,
           "date": "2022-03-11",
-          "deaths": 4207
+          "deaths": 4215
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 357046,
+          "confirmed": 358222,
           "date": "2022-03-11",
-          "deaths": 3061
+          "deaths": 3066
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1024693,
+          "confirmed": 1033813,
           "date": "2022-03-11",
-          "deaths": 10304
+          "deaths": 10318
         }
       }
     }
@@ -1579,7 +1579,7 @@
         "live": {
           "confirmed": 2670965,
           "date": "2022-03-11",
-          "deaths": 29061
+          "deaths": 29069
         }
       },
       "Utah": {
