@@ -128,9 +128,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 896315,
+      "confirmed": 896744,
       "date": "2022-03-11",
-      "deaths": 21470
+      "deaths": 21472
     }
   },
   "Bosnia and Herzegovina": {
@@ -978,7 +978,7 @@
     "live": {
       "confirmed": 5822626,
       "date": "2022-03-11",
-      "deaths": 9646
+      "deaths": 9875
     }
   },
   "Kuwait": {
@@ -1188,9 +1188,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 758613,
+      "confirmed": 758923,
       "date": "2022-03-11",
-      "deaths": 8125
+      "deaths": 8128
     }
   },
   "Paraguay": {
@@ -1491,9 +1491,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3111857,
+      "confirmed": 3136649,
       "date": "2022-03-11",
-      "deaths": 23512
+      "deaths": 23575
     }
   },
   "Tunisia": {
@@ -1692,9 +1692,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 5042036,
+      "confirmed": 5260495,
       "date": "2022-03-11",
-      "deaths": 41086
+      "deaths": 41157
     }
   },
   "West Bank and Gaza": {
