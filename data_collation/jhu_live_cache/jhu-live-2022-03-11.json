@@ -54,7 +54,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 533748,
+      "confirmed": 535065,
       "date": "2022-03-11",
       "deaths": 1462
     }
@@ -1556,9 +1556,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 514086,
+          "confirmed": 514620,
           "date": "2022-03-11",
-          "deaths": 7633
+          "deaths": 7653
         }
       },
       "New York": {
