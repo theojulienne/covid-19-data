@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 790153,
+      "confirmed": 790378,
       "date": "2022-03-11",
-      "deaths": 9575
+      "deaths": 9589
     }
   },
   "Bahrain": {
@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 935684,
+      "confirmed": 937583,
       "date": "2022-03-11",
-      "deaths": 6618
+      "deaths": 6633
     }
   },
   "Belgium": {
@@ -786,9 +786,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 5847900,
+      "confirmed": 5864010,
       "date": "2022-03-11",
-      "deaths": 151413
+      "deaths": 151703
     }
   },
   "Iran": {
