@@ -307,9 +307,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 604219,
+      "confirmed": 604860,
       "date": "2022-03-12",
-      "deaths": 19403
+      "deaths": 19406
     }
   },
   "Canada": {
@@ -1098,51 +1098,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 841835,
+          "confirmed": 851033,
           "date": "2022-03-12",
-          "deaths": 2704
+          "deaths": 2706
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 469531,
+          "confirmed": 475151,
           "date": "2022-03-12",
           "deaths": 2113
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 1114443,
+          "confirmed": 1124482,
           "date": "2022-03-12",
           "deaths": 3612
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 1160786,
+          "confirmed": 1169535,
           "date": "2022-03-12",
-          "deaths": 3268
+          "deaths": 3274
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 481860,
+          "confirmed": 486222,
           "date": "2022-03-12",
           "deaths": 1382
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 579374,
+          "confirmed": 583903,
           "date": "2022-03-12",
           "deaths": 1513
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1491759,
+          "confirmed": 1501112,
           "date": "2022-03-12",
-          "deaths": 5017
+          "deaths": 5020
         }
       }
     }
