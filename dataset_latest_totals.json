@@ -1030,17 +1030,17 @@
     },
     "CUB": {
       "back_1week": {
-        "confirmed": 1071326,
+        "confirmed": 1071964,
         "deaths": 8498,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1067522,
+        "confirmed": 1068148,
         "deaths": 8494,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1075030,
+        "confirmed": 1075616,
         "deaths": 8502,
         "recovered": 0
       }
@@ -1863,17 +1863,17 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 3653601,
+        "confirmed": 3662064,
         "deaths": 10239,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3601897,
+        "confirmed": 3607504,
         "deaths": 10105,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3704109,
+        "confirmed": 3707470,
         "deaths": 10358,
         "recovered": 0
       }
@@ -2254,18 +2254,18 @@
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 1161392,
-        "deaths": 16006,
+        "confirmed": 1161506,
+        "deaths": 16009,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1160303,
-        "deaths": 15952,
+        "confirmed": 1160562,
+        "deaths": 15960,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1161925,
-        "deaths": 16033,
+        "confirmed": 1161980,
+        "deaths": 16034,
         "recovered": 0
       }
     },
@@ -3405,18 +3405,18 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 14255545,
-        "deaths": 95025,
+        "confirmed": 14293828,
+        "deaths": 95205,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 13841889,
-        "deaths": 93539,
+        "confirmed": 13913625,
+        "deaths": 93805,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 14488373,
-        "deaths": 96094,
+        "confirmed": 14513774,
+        "deaths": 96217,
         "recovered": 0
       }
     },
