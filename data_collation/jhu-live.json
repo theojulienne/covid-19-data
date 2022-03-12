@@ -607,9 +607,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2604626,
+      "confirmed": 2623628,
       "date": "2022-03-12",
-      "deaths": 26473
+      "deaths": 26513
     }
   },
   "Guatemala": {
@@ -793,9 +793,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 7117544,
+      "confirmed": 7119763,
       "date": "2022-03-12",
-      "deaths": 138711
+      "deaths": 138831
     }
   },
   "Iraq": {
@@ -969,7 +969,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 323160,
+      "confirmed": 323171,
       "date": "2022-03-12",
       "deaths": 5644
     }
@@ -1045,23 +1045,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1370061,
+          "confirmed": 1371566,
           "date": "2022-03-12",
-          "deaths": 42389
+          "deaths": 42412
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 530449,
+          "confirmed": 531428,
           "date": "2022-03-12",
-          "deaths": 46808
+          "deaths": 46852
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 310536,
+          "confirmed": 310923,
           "date": "2022-03-12",
-          "deaths": 14870
+          "deaths": 14876
         }
       }
     }
@@ -1336,9 +1336,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1937183,
+      "confirmed": 1939150,
       "date": "2022-03-12",
-      "deaths": 15552
+      "deaths": 15570
     }
   },
   "Singapore": {
