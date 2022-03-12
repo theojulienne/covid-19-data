@@ -379,35 +379,35 @@
         "live": {
           "confirmed": 917144,
           "date": "2022-03-12",
-          "deaths": 18199
+          "deaths": 18201
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 401792,
           "date": "2022-03-12",
-          "deaths": 10116
+          "deaths": 10117
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1762123,
           "date": "2022-03-12",
-          "deaths": 29225
+          "deaths": 29233
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 317408,
           "date": "2022-03-12",
-          "deaths": 7248
+          "deaths": 7253
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 539613,
           "date": "2022-03-12",
-          "deaths": 14977
+          "deaths": 14980
         }
       }
     }
@@ -514,93 +514,93 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2440298,
+          "confirmed": 2440412,
           "date": "2022-03-12",
           "deaths": 14633
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 3149528,
+          "confirmed": 3193547,
           "date": "2022-03-12",
-          "deaths": 21837
+          "deaths": 21880
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 789873,
+          "confirmed": 797118,
           "date": "2022-03-12",
-          "deaths": 4294
+          "deaths": 4296
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 579474,
+          "confirmed": 586036,
           "date": "2022-03-12",
-          "deaths": 5287
+          "deaths": 5293
         }
       },
       "Hamburg": {
         "live": {
-          "confirmed": 374172,
+          "confirmed": 374173,
           "date": "2022-03-12",
-          "deaths": 2338
+          "deaths": 2341
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 1169212,
+          "confirmed": 1182921,
           "date": "2022-03-12",
-          "deaths": 9348
+          "deaths": 9360
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 1229762,
+          "confirmed": 1251823,
           "date": "2022-03-12",
-          "deaths": 7671
+          "deaths": 7683
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 3444060,
+          "confirmed": 3486172,
           "date": "2022-03-12",
-          "deaths": 22753
+          "deaths": 22792
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 681169,
+          "confirmed": 681324,
           "date": "2022-03-12",
           "deaths": 5103
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 1054197,
+          "confirmed": 1055369,
           "date": "2022-03-12",
-          "deaths": 14437
+          "deaths": 14438
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 482146,
+          "confirmed": 482153,
           "date": "2022-03-12",
           "deaths": 4859
         }
       },
       "Schleswig-Holstein": {
         "live": {
-          "confirmed": 373543,
+          "confirmed": 380063,
           "date": "2022-03-12",
-          "deaths": 2180
+          "deaths": 2186
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 468239,
+          "confirmed": 475375,
           "date": "2022-03-12",
-          "deaths": 6674
+          "deaths": 6677
         }
       }
     }
@@ -1172,16 +1172,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 503426,
+          "confirmed": 503590,
           "date": "2022-03-12",
-          "deaths": 13535
+          "deaths": 13536
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 571268,
+          "confirmed": 571548,
           "date": "2022-03-12",
-          "deaths": 8089
+          "deaths": 8091
         }
       }
     }
