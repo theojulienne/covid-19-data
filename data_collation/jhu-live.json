@@ -421,9 +421,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1070855,
+      "confirmed": 1072430,
       "date": "2022-03-12",
-      "deaths": 15308
+      "deaths": 15321
     }
   },
   "Cuba": {
@@ -542,7 +542,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 374173,
+          "confirmed": 376827,
           "date": "2022-03-12",
           "deaths": 2341
         }
@@ -570,7 +570,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 681324,
+          "confirmed": 684655,
           "date": "2022-03-12",
           "deaths": 5103
         }
@@ -1213,9 +1213,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3669523,
+      "confirmed": 3670177,
       "date": "2022-03-12",
-      "deaths": 57317
+      "deaths": 57441
     }
   },
   "Poland": {
@@ -1241,9 +1241,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2787625,
+      "confirmed": 2790368,
       "date": "2022-03-12",
-      "deaths": 64276
+      "deaths": 64335
     }
   },
   "Russia": {
@@ -1486,7 +1486,7 @@
     "live": {
       "confirmed": 3072758,
       "date": "2022-03-12",
-      "deaths": 13268
+      "deaths": 13266
     }
   },
   "Thailand": {
@@ -1706,7 +1706,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 314986,
+      "confirmed": 315148,
       "date": "2022-03-12",
       "deaths": 3960
     }
