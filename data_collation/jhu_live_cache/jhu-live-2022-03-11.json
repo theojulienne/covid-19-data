@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1435768,
+          "confirmed": 1448586,
           "date": "2022-03-11",
-          "deaths": 1971
+          "deaths": 1975
         }
       },
       "Queensland": {
@@ -31,9 +31,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1112363,
+          "confirmed": 1118438,
           "date": "2022-03-11",
-          "deaths": 2629
+          "deaths": 2640
         }
       }
     }
@@ -300,9 +300,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1109581,
+      "confirmed": 1111216,
       "date": "2022-03-11",
-      "deaths": 36028
+      "deaths": 36069
     }
   },
   "Burma": {
@@ -316,9 +316,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 530288,
+          "confirmed": 530761,
           "date": "2022-03-11",
-          "deaths": 3992
+          "deaths": 4003
         }
       },
       "British Columbia": {
@@ -366,7 +366,7 @@
     "subseries": {
       "Hong Kong": {
         "live": {
-          "confirmed": 575623,
+          "confirmed": 594511,
           "date": "2022-03-11",
           "deaths": 3444
         }
@@ -377,35 +377,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 917089,
+          "confirmed": 917144,
           "date": "2022-03-11",
           "deaths": 18199
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 401779,
+          "confirmed": 401792,
           "date": "2022-03-11",
           "deaths": 10116
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1761706,
+          "confirmed": 1762123,
           "date": "2022-03-11",
           "deaths": 29225
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 317374,
+          "confirmed": 317408,
           "date": "2022-03-11",
           "deaths": 7248
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 539568,
+          "confirmed": 539613,
           "date": "2022-03-11",
           "deaths": 14977
         }
@@ -614,9 +614,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 800403,
+      "confirmed": 802744,
       "date": "2022-03-11",
-      "deaths": 17127
+      "deaths": 17139
     }
   },
   "Honduras": {
@@ -1195,9 +1195,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 645383,
+      "confirmed": 645655,
       "date": "2022-03-11",
-      "deaths": 18517
+      "deaths": 18522
     }
   },
   "Peru": {
@@ -1498,9 +1498,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 1018447,
+      "confirmed": 1020546,
       "date": "2022-03-11",
-      "deaths": 28009
+      "deaths": 28018
     }
   },
   "Turkey": {
@@ -1542,9 +1542,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 319520,
+          "confirmed": 319742,
           "date": "2022-03-11",
-          "deaths": 4723
+          "deaths": 4726
         }
       },
       "Michigan": {
@@ -1678,9 +1678,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 860663,
+      "confirmed": 862153,
       "date": "2022-03-11",
-      "deaths": 7075
+      "deaths": 7083
     }
   },
   "Venezuela": {
@@ -1692,9 +1692,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 5260495,
+      "confirmed": 5448935,
       "date": "2022-03-11",
-      "deaths": 41157
+      "deaths": 41228
     }
   },
   "West Bank and Gaza": {
