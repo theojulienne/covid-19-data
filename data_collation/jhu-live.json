@@ -816,7 +816,7 @@
     "live": {
       "confirmed": 3712085,
       "date": "2022-03-12",
-      "deaths": 10359
+      "deaths": 10367
     }
   },
   "Italy": {
@@ -1068,9 +1068,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 507028,
+      "confirmed": 507599,
       "date": "2022-03-12",
-      "deaths": 11333
+      "deaths": 11339
     }
   },
   "Mongolia": {
@@ -1452,9 +1452,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 655383,
+      "confirmed": 655730,
       "date": "2022-03-12",
-      "deaths": 16381
+      "deaths": 16390
     }
   },
   "Sweden": {
