@@ -104,18 +104,18 @@
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 421008,
-        "deaths": 8516,
+        "confirmed": 421226,
+        "deaths": 8528,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 418792,
-        "deaths": 8413,
+        "confirmed": 419423,
+        "deaths": 8433,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 421842,
-        "deaths": 8568,
+        "confirmed": 421953,
+        "deaths": 8570,
         "recovered": 0
       }
     },
