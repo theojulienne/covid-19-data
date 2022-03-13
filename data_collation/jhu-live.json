@@ -442,9 +442,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3678771,
+      "confirmed": 3683211,
       "date": "2022-03-13",
-      "deaths": 39126
+      "deaths": 39138
     }
   },
   "Denmark": {
@@ -1045,23 +1045,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1371566,
+          "confirmed": 1372979,
           "date": "2022-03-13",
-          "deaths": 42412
+          "deaths": 42433
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 531428,
+          "confirmed": 532146,
           "date": "2022-03-13",
-          "deaths": 46852
+          "deaths": 46898
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 310923,
+          "confirmed": 311035,
           "date": "2022-03-13",
-          "deaths": 14876
+          "deaths": 14878
         }
       }
     }
@@ -1188,9 +1188,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 759224,
+      "confirmed": 759461,
       "date": "2022-03-13",
-      "deaths": 8131
+      "deaths": 8132
     }
   },
   "Paraguay": {
@@ -1685,9 +1685,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 517999,
+      "confirmed": 518303,
       "date": "2022-03-13",
-      "deaths": 5656
+      "deaths": 5657
     }
   },
   "Vietnam": {
