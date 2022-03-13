@@ -3303,12 +3303,12 @@ var covid19_dataset_latest_totals = {
     },
     "THA": {
       "back_1week": {
-        "confirmed": 3004814,
+        "confirmed": 3026695,
         "deaths": 23176,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2844897,
+        "confirmed": 2869616,
         "deaths": 22849,
         "recovered": 0
       },
