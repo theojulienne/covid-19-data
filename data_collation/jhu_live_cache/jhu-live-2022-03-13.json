@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 790575,
+      "confirmed": 790767,
       "date": "2022-03-13",
-      "deaths": 9599
+      "deaths": 9611
     }
   },
   "Bahrain": {
@@ -61,9 +61,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1949253,
+      "confirmed": 1949486,
       "date": "2022-03-13",
-      "deaths": 29108
+      "deaths": 29111
     }
   },
   "Belarus": {
@@ -477,9 +477,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 529793,
+      "confirmed": 531164,
       "date": "2022-03-13",
-      "deaths": 2346
+      "deaths": 2353
     }
   },
   "Ethiopia": {
@@ -542,7 +542,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 376829,
+          "confirmed": 378580,
           "date": "2022-03-13",
           "deaths": 2341
         }
@@ -570,7 +570,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 684765,
+          "confirmed": 687405,
           "date": "2022-03-13",
           "deaths": 5103
         }
@@ -1241,9 +1241,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2790368,
+      "confirmed": 2791994,
       "date": "2022-03-13",
-      "deaths": 64335
+      "deaths": 64361
     }
   },
   "Russia": {
@@ -1639,7 +1639,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 885089,
+      "confirmed": 885407,
       "date": "2022-03-13",
       "deaths": 2302
     }
