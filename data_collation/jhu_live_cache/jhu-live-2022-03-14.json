@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 936575,
+          "confirmed": 937245,
           "date": "2022-03-14",
           "deaths": 14182
         }
@@ -1364,7 +1364,7 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3694504,
+      "confirmed": 3695175,
       "date": "2022-03-14",
       "deaths": 99725
     }
