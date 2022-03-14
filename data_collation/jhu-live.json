@@ -428,7 +428,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1076785,
+      "confirmed": 1077405,
       "date": "2022-03-14",
       "deaths": 8503
     }
@@ -514,9 +514,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2484319,
+          "confirmed": 2513438,
           "date": "2022-03-14",
-          "deaths": 14652
+          "deaths": 14672
         }
       },
       "Bayern": {
@@ -1020,23 +1020,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 348798,
+          "confirmed": 351217,
           "date": "2022-03-14",
-          "deaths": 4245
+          "deaths": 4260
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 359863,
+          "confirmed": 360485,
           "date": "2022-03-14",
-          "deaths": 3069
+          "deaths": 3074
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1045630,
+          "confirmed": 1050018,
           "date": "2022-03-14",
-          "deaths": 10347
+          "deaths": 10361
         }
       }
     }
@@ -1204,9 +1204,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 1594692,
+          "confirmed": 1601185,
           "date": "2022-03-14",
-          "deaths": 92474
+          "deaths": 92695
         }
       }
     }
@@ -1505,9 +1505,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14551665,
+      "confirmed": 14576069,
       "date": "2022-03-14",
-      "deaths": 96487
+      "deaths": 96620
     }
   },
   "US": {
