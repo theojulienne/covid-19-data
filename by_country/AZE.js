@@ -3135,6 +3135,7 @@ var covid19_dataset_country_aze = {
       0,
       0,
       0,
+      0,
       0
     ]
   }
