@@ -1052,23 +1052,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1373306,
+          "confirmed": 1373679,
           "date": "2022-03-15",
           "deaths": 42439
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 532225,
+          "confirmed": 532287,
           "date": "2022-03-15",
           "deaths": 46901
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 311053,
+          "confirmed": 311069,
           "date": "2022-03-15",
-          "deaths": 14878
+          "deaths": 14879
         }
       }
     }
