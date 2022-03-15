@@ -40,9 +40,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 3188147,
+      "confirmed": 3225272,
       "date": "2022-03-15",
-      "deaths": 15221
+      "deaths": 15261
     }
   },
   "Azerbaijan": {
@@ -491,9 +491,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 761110,
+      "confirmed": 767220,
       "date": "2022-03-15",
-      "deaths": 2717
+      "deaths": 2719
     }
   },
   "France": {
@@ -946,7 +946,7 @@
       },
       "Saitama": {
         "live": {
-          "confirmed": 370289,
+          "confirmed": 370288,
           "date": "2022-03-15",
           "deaths": 1259
         }
@@ -997,9 +997,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 744433,
+      "confirmed": 750683,
       "date": "2022-03-15",
-      "deaths": 5444
+      "deaths": 5450
     }
   },
   "Lebanon": {
@@ -1011,9 +1011,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 500304,
+      "confirmed": 500497,
       "date": "2022-03-15",
-      "deaths": 6350
+      "deaths": 6354
     }
   },
   "Lithuania": {
@@ -1170,7 +1170,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 386646,
+      "confirmed": 386829,
       "date": "2022-03-15",
       "deaths": 4250
     }
@@ -1227,9 +1227,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5823982,
+      "confirmed": 5836672,
       "date": "2022-03-15",
-      "deaths": 113444
+      "deaths": 113622
     }
   },
   "Portugal": {
@@ -1257,88 +1257,88 @@
     "subseries": {
       "Chelyabinsk Oblast": {
         "live": {
-          "confirmed": 306472,
+          "confirmed": 307288,
           "date": "2022-03-15",
-          "deaths": 7199
+          "deaths": 7216
         }
       },
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 353477,
+          "confirmed": 354000,
           "date": "2022-03-15",
-          "deaths": 10270
+          "deaths": 10295
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 2722292,
+          "confirmed": 2723291,
           "date": "2022-03-15",
-          "deaths": 42205
+          "deaths": 42246
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 951588,
+          "confirmed": 952238,
           "date": "2022-03-15",
-          "deaths": 14509
+          "deaths": 14528
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 393177,
+          "confirmed": 394102,
           "date": "2022-03-15",
-          "deaths": 11250
+          "deaths": 11262
         }
       },
       "Perm Krai": {
         "live": {
-          "confirmed": 348220,
+          "confirmed": 349225,
           "date": "2022-03-15",
-          "deaths": 8534
+          "deaths": 8546
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 347515,
+          "confirmed": 348628,
           "date": "2022-03-15",
-          "deaths": 10532
+          "deaths": 10555
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 1478684,
+          "confirmed": 1479948,
           "date": "2022-03-15",
-          "deaths": 32658
+          "deaths": 32688
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 363342,
+          "confirmed": 364374,
           "date": "2022-03-15",
-          "deaths": 7318
+          "deaths": 7334
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 402032,
+          "confirmed": 403910,
           "date": "2022-03-15",
-          "deaths": 10423
+          "deaths": 10430
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 353297,
+          "confirmed": 354289,
           "date": "2022-03-15",
-          "deaths": 7922
+          "deaths": 7933
         }
       }
     }
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 748915,
+      "confirmed": 749044,
       "date": "2022-03-15",
-      "deaths": 9020
+      "deaths": 9021
     }
   },
   "Serbia": {
@@ -1364,9 +1364,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 918762,
+      "confirmed": 923011,
       "date": "2022-03-15",
-      "deaths": 6415
+      "deaths": 6419
     }
   },
   "South Africa": {
