@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 937245,
+          "confirmed": 938268,
           "date": "2022-03-15",
           "deaths": 14202
         }
@@ -435,9 +435,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 356784,
+      "confirmed": 360078,
       "date": "2022-03-15",
-      "deaths": 902
+      "deaths": 904
     }
   },
   "Czechia": {
@@ -1034,23 +1034,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 351217,
+          "confirmed": 353458,
           "date": "2022-03-15",
-          "deaths": 4260
+          "deaths": 4276
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 360485,
+          "confirmed": 361076,
           "date": "2022-03-15",
-          "deaths": 3074
+          "deaths": 3079
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1050018,
+          "confirmed": 1057235,
           "date": "2022-03-15",
-          "deaths": 10361
+          "deaths": 10382
         }
       }
     }
@@ -1082,14 +1082,14 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 508235,
+      "confirmed": 508578,
       "date": "2022-03-15",
-      "deaths": 11350
+      "deaths": 11357
     }
   },
   "Mongolia": {
     "live": {
-      "confirmed": 915811,
+      "confirmed": 915908,
       "date": "2022-03-15",
       "deaths": 2177
     }
@@ -1378,9 +1378,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3695175,
+      "confirmed": 3696823,
       "date": "2022-03-15",
-      "deaths": 99725
+      "deaths": 99727
     }
   },
   "Spain": {
@@ -1577,9 +1577,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2960057,
+          "confirmed": 2961172,
           "date": "2022-03-15",
-          "deaths": 45840
+          "deaths": 45842
         }
       },
       "Pennsylvania": {
@@ -1699,9 +1699,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 653854,
+      "confirmed": 654068,
       "date": "2022-03-15",
-      "deaths": 5616
+      "deaths": 5622
     }
   },
   "Zambia": {
