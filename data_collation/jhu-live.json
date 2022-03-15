@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1136292,
+          "confirmed": 1136213,
           "date": "2022-03-15",
           "deaths": 2649
         }
@@ -393,7 +393,7 @@
         "live": {
           "confirmed": 1762823,
           "date": "2022-03-15",
-          "deaths": 29245
+          "deaths": 29247
         }
       },
       "Cundinamarca": {
@@ -407,7 +407,7 @@
         "live": {
           "confirmed": 539746,
           "date": "2022-03-15",
-          "deaths": 14983
+          "deaths": 14986
         }
       }
     }
@@ -1172,14 +1172,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 503844,
+          "confirmed": 503939,
           "date": "2022-03-15",
-          "deaths": 13538
+          "deaths": 13540
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 572042,
+          "confirmed": 572297,
           "date": "2022-03-15",
           "deaths": 8091
         }
@@ -1188,9 +1188,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 759636,
+      "confirmed": 759782,
       "date": "2022-03-15",
-      "deaths": 8137
+      "deaths": 8140
     }
   },
   "Paraguay": {
