@@ -339,7 +339,7 @@
         "live": {
           "confirmed": 937245,
           "date": "2022-03-15",
-          "deaths": 14182
+          "deaths": 14202
         }
       }
     }
@@ -348,16 +348,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 324118,
+          "confirmed": 325790,
           "date": "2022-03-15",
           "deaths": 3356
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1274573,
+          "confirmed": 1277127,
           "date": "2022-03-15",
-          "deaths": 21544
+          "deaths": 21571
         }
       }
     }
@@ -428,7 +428,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1077405,
+      "confirmed": 1077966,
       "date": "2022-03-15",
       "deaths": 8503
     }
@@ -918,44 +918,51 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 371607,
+          "confirmed": 375123,
           "date": "2022-03-15",
-          "deaths": 1846
+          "deaths": 1854
         }
       },
       "Chiba": {
         "live": {
-          "confirmed": 314583,
+          "confirmed": 317293,
           "date": "2022-03-15",
-          "deaths": 1522
+          "deaths": 1541
+        }
+      },
+      "Hyogo": {
+        "live": {
+          "confirmed": 304092,
+          "date": "2022-03-15",
+          "deaths": 2015
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 531867,
+          "confirmed": 538440,
           "date": "2022-03-15",
-          "deaths": 1891
+          "deaths": 1905
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 731169,
+          "confirmed": 737142,
           "date": "2022-03-15",
-          "deaths": 4305
+          "deaths": 4350
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 370288,
+          "confirmed": 372638,
           "date": "2022-03-15",
-          "deaths": 1259
+          "deaths": 1267
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1127194,
+          "confirmed": 1135030,
           "date": "2022-03-15",
-          "deaths": 3963
+          "deaths": 3978
         }
       }
     }
@@ -1528,7 +1535,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 5714756,
+          "confirmed": 5715025,
           "date": "2022-03-15",
           "deaths": 58525
         }
@@ -1577,9 +1584,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 306134,
+          "confirmed": 306251,
           "date": "2022-03-15",
-          "deaths": 5020
+          "deaths": 5025
         }
       },
       "Texas": {
@@ -1607,13 +1614,6 @@
   },
   "Ukraine": {
     "subseries": {
-      "Dnipropetrovsk Oblast": {
-        "live": {
-          "confirmed": 303551,
-          "date": "2022-03-01",
-          "deaths": 9454
-        }
-      },
       "Kharkiv Oblast": {
         "live": {
           "confirmed": 305661,
