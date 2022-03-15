@@ -307,9 +307,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 606227,
+      "confirmed": 606910,
       "date": "2022-03-15",
-      "deaths": 19411
+      "deaths": 19414
     }
   },
   "Canada": {
@@ -577,16 +577,16 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 698324,
+          "confirmed": 711228,
           "date": "2022-03-15",
-          "deaths": 5110
+          "deaths": 5120
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 1080477,
+          "confirmed": 1092773,
           "date": "2022-03-15",
-          "deaths": 14453
+          "deaths": 14470
         }
       },
       "Sachsen-Anhalt": {
@@ -614,9 +614,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2658296,
+      "confirmed": 2684916,
       "date": "2022-03-15",
-      "deaths": 26635
+      "deaths": 26686
     }
   },
   "Guatemala": {
@@ -1105,51 +1105,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 865928,
+          "confirmed": 872499,
           "date": "2022-03-15",
           "deaths": 2709
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 482498,
+          "confirmed": 486466,
           "date": "2022-03-15",
           "deaths": 2113
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 1138449,
+          "confirmed": 1145810,
           "date": "2022-03-15",
-          "deaths": 3615
+          "deaths": 3621
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 1184737,
+          "confirmed": 1192509,
           "date": "2022-03-15",
-          "deaths": 3277
+          "deaths": 3278
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 494543,
+          "confirmed": 498704,
           "date": "2022-03-15",
-          "deaths": 1382
+          "deaths": 1383
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 590649,
+          "confirmed": 595532,
           "date": "2022-03-15",
           "deaths": 1513
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1517338,
+          "confirmed": 1526966,
           "date": "2022-03-15",
-          "deaths": 5023
+          "deaths": 5024
         }
       }
     }
@@ -1343,9 +1343,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1942727,
+      "confirmed": 1945142,
       "date": "2022-03-15",
-      "deaths": 15604
+      "deaths": 15619
     }
   },
   "Singapore": {
@@ -1380,79 +1380,79 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 1365646,
+          "confirmed": 1368513,
           "date": "2022-03-15",
-          "deaths": 12975
+          "deaths": 13000
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 401290,
+          "confirmed": 402753,
           "date": "2022-03-15",
-          "deaths": 4917
+          "deaths": 4950
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 1315688,
+          "confirmed": 1319710,
           "date": "2022-03-15",
-          "deaths": 9079
+          "deaths": 9098
         }
       },
       "Canarias": {
         "live": {
-          "confirmed": 307565,
+          "confirmed": 310568,
           "date": "2022-03-15",
-          "deaths": 1606
+          "deaths": 1612
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 477210,
+          "confirmed": 478538,
           "date": "2022-03-15",
-          "deaths": 7113
+          "deaths": 7118
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 661952,
+          "confirmed": 664470,
           "date": "2022-03-15",
-          "deaths": 8316
+          "deaths": 8329
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 2311638,
+          "confirmed": 2317123,
           "date": "2022-03-15",
-          "deaths": 18528
+          "deaths": 18568
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 547545,
+          "confirmed": 553035,
           "date": "2022-03-15",
-          "deaths": 3136
+          "deaths": 3149
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 1614771,
+          "confirmed": 1616860,
           "date": "2022-03-15",
-          "deaths": 17567
+          "deaths": 17636
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 380866,
+          "confirmed": 382119,
           "date": "2022-03-15",
-          "deaths": 2179
+          "deaths": 2181
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 658816,
+          "confirmed": 660520,
           "date": "2022-03-15",
-          "deaths": 6233
+          "deaths": 6236
         }
       }
     }
@@ -1493,7 +1493,7 @@
     "live": {
       "confirmed": 3170937,
       "date": "2022-03-15",
-      "deaths": 13291
+      "deaths": 13294
     }
   },
   "Thailand": {
