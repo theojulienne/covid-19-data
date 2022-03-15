@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 628403,
+          "confirmed": 633972,
           "date": "2022-03-15",
-          "deaths": 634
+          "deaths": 644
         }
       },
       "Victoria": {
@@ -1491,9 +1491,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3206955,
+      "confirmed": 3226697,
       "date": "2022-03-15",
-      "deaths": 23778
+      "deaths": 23848
     }
   },
   "Tunisia": {
@@ -1692,9 +1692,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 6112648,
+      "confirmed": 6377438,
       "date": "2022-03-15",
-      "deaths": 41385
+      "deaths": 41477
     }
   },
   "West Bank and Gaza": {
