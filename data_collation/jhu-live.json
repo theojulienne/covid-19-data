@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1135292,
+          "confirmed": 1140688,
           "date": "2022-03-15",
-          "deaths": 12638
+          "deaths": 12319
         }
       },
       "Quebec": {
@@ -456,7 +456,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 576641,
+      "confirmed": 576788,
       "date": "2022-03-15",
       "deaths": 4374
     }
@@ -514,9 +514,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2513547,
+          "confirmed": 2552966,
           "date": "2022-03-15",
-          "deaths": 14672
+          "deaths": 14696
         }
       },
       "Bayern": {
@@ -814,9 +814,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1353733,
+      "confirmed": 1360015,
       "date": "2022-03-15",
-      "deaths": 6624
+      "deaths": 6636
     }
   },
   "Israel": {
@@ -1549,9 +1549,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1118357,
+          "confirmed": 1118987,
           "date": "2022-03-15",
-          "deaths": 14173
+          "deaths": 14185
         }
       },
       "Massachusetts": {
