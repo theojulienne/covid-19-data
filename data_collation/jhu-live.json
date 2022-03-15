@@ -61,7 +61,7 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1949725,
+      "confirmed": 1949942,
       "date": "2022-03-15",
       "deaths": 29112
     }
@@ -628,9 +628,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 416729,
+      "confirmed": 417201,
       "date": "2022-03-15",
-      "deaths": 10834
+      "deaths": 10842
     }
   },
   "Hungary": {
@@ -821,9 +821,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3727843,
+      "confirmed": 3729335,
       "date": "2022-03-15",
-      "deaths": 10392
+      "deaths": 10398
     }
   },
   "Italy": {
@@ -1241,7 +1241,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 359259,
+      "confirmed": 359361,
       "date": "2022-03-15",
       "deaths": 677
     }
@@ -1491,9 +1491,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 3141904,
+      "confirmed": 3170937,
       "date": "2022-03-15",
-      "deaths": 13288
+      "deaths": 13290
     }
   },
   "Thailand": {
