@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 8976079,
+      "confirmed": 8981155,
       "date": "2022-03-15",
-      "deaths": 127257
+      "deaths": 127295
     }
   },
   "Armenia": {
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 805393,
+      "confirmed": 807453,
       "date": "2022-03-15",
-      "deaths": 17159
+      "deaths": 17170
     }
   },
   "Honduras": {
