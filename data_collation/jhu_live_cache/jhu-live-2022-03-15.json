@@ -442,9 +442,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3685973,
+      "confirmed": 3696837,
       "date": "2022-03-15",
-      "deaths": 39155
+      "deaths": 39216
     }
   },
   "Denmark": {
@@ -1685,9 +1685,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 518410,
+      "confirmed": 518460,
       "date": "2022-03-15",
-      "deaths": 5658
+      "deaths": 5659
     }
   },
   "Vietnam": {
