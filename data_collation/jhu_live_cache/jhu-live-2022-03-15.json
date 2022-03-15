@@ -368,7 +368,7 @@
         "live": {
           "confirmed": 635675,
           "date": "2022-03-15",
-          "deaths": 4279
+          "deaths": 4568
         }
       }
     }
@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 2958497,
+      "confirmed": 2968444,
       "date": "2022-03-15",
-      "deaths": 5196
+      "deaths": 5232
     }
   },
   "Dominican Republic": {
@@ -521,9 +521,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 3285501,
+          "confirmed": 3285926,
           "date": "2022-03-15",
-          "deaths": 21922
+          "deaths": 21923
         }
       },
       "Berlin": {
@@ -591,9 +591,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 496309,
+          "confirmed": 502540,
           "date": "2022-03-15",
-          "deaths": 4871
+          "deaths": 4877
         }
       },
       "Schleswig-Holstein": {
@@ -807,9 +807,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2313370,
+      "confirmed": 2313943,
       "date": "2022-03-15",
-      "deaths": 25105
+      "deaths": 25109
     }
   },
   "Ireland": {
@@ -1468,21 +1468,21 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 334646,
+          "confirmed": 335008,
           "date": "2022-03-15",
-          "deaths": 2227
+          "deaths": 2257
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 564929,
+          "confirmed": 565383,
           "date": "2022-03-15",
-          "deaths": 5112
+          "deaths": 5126
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 429952,
+          "confirmed": 430373,
           "date": "2022-03-15",
           "deaths": 2927
         }
@@ -1493,7 +1493,7 @@
     "live": {
       "confirmed": 3170937,
       "date": "2022-03-15",
-      "deaths": 13290
+      "deaths": 13291
     }
   },
   "Thailand": {
@@ -1584,9 +1584,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2674768,
+          "confirmed": 2674993,
           "date": "2022-03-15",
-          "deaths": 29148
+          "deaths": 29150
         }
       },
       "Utah": {
@@ -1692,9 +1692,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 6377438,
+      "confirmed": 6552918,
       "date": "2022-03-15",
-      "deaths": 41477
+      "deaths": 41545
     }
   },
   "West Bank and Gaza": {
