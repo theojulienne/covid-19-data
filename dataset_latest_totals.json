@@ -3014,18 +3014,18 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 832821,
-        "deaths": 1078,
+        "confirmed": 846341,
+        "deaths": 1084,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 710880,
-        "deaths": 1007,
+        "confirmed": 724424,
+        "deaths": 1019,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 939436,
-        "deaths": 1145,
+        "confirmed": 948478,
+        "deaths": 1153,
         "recovered": 0
       }
     },
@@ -3405,18 +3405,18 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 14353888,
-        "deaths": 95549,
+        "confirmed": 14388231,
+        "deaths": 95681,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 14025181,
-        "deaths": 94232,
+        "confirmed": 14089456,
+        "deaths": 94445,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 14551665,
-        "deaths": 96487,
+        "confirmed": 14576069,
+        "deaths": 96620,
         "recovered": 0
       }
     },
