@@ -793,9 +793,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 5914532,
+      "confirmed": 5927550,
       "date": "2022-03-16",
-      "deaths": 152745
+      "deaths": 152975
     }
   },
   "Iran": {
@@ -932,7 +932,7 @@
       },
       "Hyogo": {
         "live": {
-          "confirmed": 304092,
+          "confirmed": 304086,
           "date": "2022-03-16",
           "deaths": 2015
         }
@@ -1364,9 +1364,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2295377,
+      "confirmed": 2309029,
       "date": "2022-03-16",
-      "deaths": 18979
+      "deaths": 19009
     }
   },
   "Slovenia": {
@@ -1500,7 +1500,7 @@
     "live": {
       "confirmed": 3170937,
       "date": "2022-03-16",
-      "deaths": 13297
+      "deaths": 13298
     }
   },
   "Thailand": {
@@ -1639,7 +1639,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 885983,
+      "confirmed": 886301,
       "date": "2022-03-16",
       "deaths": 2302
     }
