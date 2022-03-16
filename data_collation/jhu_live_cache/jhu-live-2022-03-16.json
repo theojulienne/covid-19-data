@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 938268,
+          "confirmed": 939648,
           "date": "2022-03-16",
           "deaths": 14213
         }
@@ -498,9 +498,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 22995380,
+      "confirmed": 23104212,
       "date": "2022-03-16",
-      "deaths": 137342
+      "deaths": 137515
     }
   },
   "Georgia": {
@@ -918,51 +918,51 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 375123,
+          "confirmed": 378884,
           "date": "2022-03-16",
-          "deaths": 1854
+          "deaths": 1868
         }
       },
       "Chiba": {
         "live": {
-          "confirmed": 317293,
+          "confirmed": 320553,
           "date": "2022-03-16",
-          "deaths": 1541
+          "deaths": 1550
         }
       },
       "Hyogo": {
         "live": {
-          "confirmed": 304086,
+          "confirmed": 307071,
           "date": "2022-03-16",
-          "deaths": 2015
+          "deaths": 2018
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 538440,
+          "confirmed": 542950,
           "date": "2022-03-16",
-          "deaths": 1905
+          "deaths": 1918
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 737142,
+          "confirmed": 742881,
           "date": "2022-03-16",
-          "deaths": 4350
+          "deaths": 4386
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 372638,
+          "confirmed": 376571,
           "date": "2022-03-16",
-          "deaths": 1267
+          "deaths": 1276
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1135030,
+          "confirmed": 1145251,
           "date": "2022-03-16",
-          "deaths": 3978
+          "deaths": 3999
         }
       }
     }
@@ -1378,9 +1378,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3696823,
+      "confirmed": 3698803,
       "date": "2022-03-16",
-      "deaths": 99727
+      "deaths": 99767
     }
   },
   "Spain": {
@@ -1530,7 +1530,7 @@
         "live": {
           "confirmed": 1253285,
           "date": "2022-03-16",
-          "deaths": 15855
+          "deaths": 16166
         }
       },
       "California": {
@@ -1570,9 +1570,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 514620,
+          "confirmed": 533423,
           "date": "2022-03-16",
-          "deaths": 7653
+          "deaths": 7673
         }
       },
       "New York": {
@@ -1598,9 +1598,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 340399,
+          "confirmed": 340483,
           "date": "2022-03-16",
-          "deaths": 1587
+          "deaths": 1588
         }
       },
       "Washington": {
