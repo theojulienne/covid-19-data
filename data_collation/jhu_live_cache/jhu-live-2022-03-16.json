@@ -24,14 +24,14 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 633972,
+          "confirmed": 640104,
           "date": "2022-03-16",
-          "deaths": 644
+          "deaths": 652
         }
       },
       "Victoria": {
         "live": {
-          "confirmed": 1145639,
+          "confirmed": 1145594,
           "date": "2022-03-16",
           "deaths": 2657
         }
@@ -1202,9 +1202,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 759782,
+      "confirmed": 760105,
       "date": "2022-03-16",
-      "deaths": 8140
+      "deaths": 8143
     }
   },
   "Paraguay": {
@@ -1505,9 +1505,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3226697,
+      "confirmed": 3250642,
       "date": "2022-03-16",
-      "deaths": 23848
+      "deaths": 23918
     }
   },
   "Tunisia": {
