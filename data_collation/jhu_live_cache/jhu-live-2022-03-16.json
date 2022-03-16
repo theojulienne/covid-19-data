@@ -368,7 +368,7 @@
         "live": {
           "confirmed": 647631,
           "date": "2022-03-16",
-          "deaths": 4568
+          "deaths": 4847
         }
       }
     }
@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 2968444,
+      "confirmed": 2978029,
       "date": "2022-03-16",
-      "deaths": 5232
+      "deaths": 5257
     }
   },
   "Dominican Republic": {
@@ -807,9 +807,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2313943,
+      "confirmed": 2314575,
       "date": "2022-03-16",
-      "deaths": 25109
+      "deaths": 25116
     }
   },
   "Ireland": {
@@ -1248,7 +1248,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 359361,
+      "confirmed": 359449,
       "date": "2022-03-16",
       "deaths": 677
     }
@@ -1475,23 +1475,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 335008,
+          "confirmed": 335221,
           "date": "2022-03-16",
           "deaths": 2257
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 565383,
+          "confirmed": 565545,
           "date": "2022-03-16",
-          "deaths": 5126
+          "deaths": 5141
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 430373,
+          "confirmed": 430565,
           "date": "2022-03-16",
-          "deaths": 2927
+          "deaths": 2932
         }
       }
     }
@@ -1500,7 +1500,7 @@
     "live": {
       "confirmed": 3206975,
       "date": "2022-03-16",
-      "deaths": 13306
+      "deaths": 13307
     }
   },
   "Thailand": {
