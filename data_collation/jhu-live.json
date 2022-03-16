@@ -61,16 +61,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1949942,
+      "confirmed": 1950124,
       "date": "2022-03-16",
       "deaths": 29112
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 943027,
+      "confirmed": 944885,
       "date": "2022-03-16",
-      "deaths": 6681
+      "deaths": 6688
     }
   },
   "Belgium": {
@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1141057,
+          "confirmed": 1142517,
           "date": "2022-03-16",
-          "deaths": 12321
+          "deaths": 12334
         }
       },
       "Quebec": {
@@ -421,9 +421,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1074706,
+      "confirmed": 1077365,
       "date": "2022-03-16",
-      "deaths": 15373
+      "deaths": 15383
     }
   },
   "Cuba": {
@@ -1163,9 +1163,9 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 399342,
+      "confirmed": 418861,
       "date": "2022-03-16",
-      "deaths": 102
+      "deaths": 125
     }
   },
   "Norway": {
@@ -1498,9 +1498,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 3170937,
+      "confirmed": 3206975,
       "date": "2022-03-16",
-      "deaths": 13305
+      "deaths": 13306
     }
   },
   "Thailand": {
