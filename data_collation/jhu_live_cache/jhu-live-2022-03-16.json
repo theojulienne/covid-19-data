@@ -339,7 +339,7 @@
         "live": {
           "confirmed": 938268,
           "date": "2022-03-16",
-          "deaths": 14202
+          "deaths": 14213
         }
       }
     }
@@ -348,16 +348,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 325790,
+          "confirmed": 327500,
           "date": "2022-03-16",
           "deaths": 3356
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1277127,
+          "confirmed": 1281142,
           "date": "2022-03-16",
-          "deaths": 21571
+          "deaths": 21594
         }
       }
     }
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 807453,
+      "confirmed": 809586,
       "date": "2022-03-16",
-      "deaths": 17170
+      "deaths": 17178
     }
   },
   "Honduras": {
@@ -1059,23 +1059,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1373679,
+          "confirmed": 1375231,
           "date": "2022-03-16",
-          "deaths": 42439
+          "deaths": 42458
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 532287,
+          "confirmed": 533118,
           "date": "2022-03-16",
-          "deaths": 46901
+          "deaths": 46932
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 311069,
+          "confirmed": 311263,
           "date": "2022-03-16",
-          "deaths": 14879
+          "deaths": 14890
         }
       }
     }
@@ -1500,7 +1500,7 @@
     "live": {
       "confirmed": 3206975,
       "date": "2022-03-16",
-      "deaths": 13311
+      "deaths": 13312
     }
   },
   "Thailand": {
@@ -1584,9 +1584,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 306251,
+          "confirmed": 306606,
           "date": "2022-03-16",
-          "deaths": 5025
+          "deaths": 5031
         }
       },
       "Texas": {
