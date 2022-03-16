@@ -588,17 +588,17 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 3349164,
+        "confirmed": 3349699,
         "deaths": 37148,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3307144,
+        "confirmed": 3307510,
         "deaths": 36706,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3384687,
+        "confirmed": 3386875,
         "deaths": 37040,
         "recovered": 0
       },
@@ -628,7 +628,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 317
         },
         "Newfoundland and Labrador": {
-          "confirmed": 29365,
+          "confirmed": 31070,
           "deaths": 76
         },
         "Northwest Territories": {
@@ -2288,18 +2288,18 @@ var covid19_dataset_latest_totals = {
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 505644,
-        "deaths": 11293,
+        "confirmed": 505996,
+        "deaths": 11298,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 501800,
-        "deaths": 11216,
+        "confirmed": 502386,
+        "deaths": 11228,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 508235,
-        "deaths": 11350,
+        "confirmed": 508578,
+        "deaths": 11357,
         "recovered": 0
       }
     },

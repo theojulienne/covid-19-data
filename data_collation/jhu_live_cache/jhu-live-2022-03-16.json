@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1142710,
+          "confirmed": 1143057,
           "date": "2022-03-16",
-          "deaths": 12335
+          "deaths": 12339
         }
       },
       "Quebec": {
@@ -1082,9 +1082,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 508578,
+      "confirmed": 508917,
       "date": "2022-03-16",
-      "deaths": 11357
+      "deaths": 11368
     }
   },
   "Mongolia": {
