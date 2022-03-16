@@ -135,9 +135,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 373359,
+      "confirmed": 373506,
       "date": "2022-03-16",
-      "deaths": 15635
+      "deaths": 15641
     }
   },
   "Brazil": {
@@ -379,7 +379,7 @@
         "live": {
           "confirmed": 917289,
           "date": "2022-03-16",
-          "deaths": 18207
+          "deaths": 18208
         }
       },
       "Atlantico": {
@@ -393,7 +393,7 @@
         "live": {
           "confirmed": 1762994,
           "date": "2022-03-16",
-          "deaths": 29247
+          "deaths": 29255
         }
       },
       "Cundinamarca": {
@@ -407,7 +407,7 @@
         "live": {
           "confirmed": 539768,
           "date": "2022-03-16",
-          "deaths": 14986
+          "deaths": 14989
         }
       }
     }
@@ -990,9 +990,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 7228550,
+      "confirmed": 7629275,
       "date": "2022-03-16",
-      "deaths": 10888
+      "deaths": 11052
     }
   },
   "Kuwait": {
@@ -1466,9 +1466,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 656386,
+      "confirmed": 656814,
       "date": "2022-03-16",
-      "deaths": 16407
+      "deaths": 16415
     }
   },
   "Sweden": {
