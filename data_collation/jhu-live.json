@@ -514,9 +514,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2595706,
+          "confirmed": 2636980,
           "date": "2022-03-17",
-          "deaths": 14726
+          "deaths": 14758
         }
       },
       "Bayern": {
@@ -978,7 +978,7 @@
     "live": {
       "confirmed": 1393206,
       "date": "2022-03-17",
-      "deaths": 18997
+      "deaths": 18999
     }
   },
   "Kenya": {
@@ -1082,23 +1082,23 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 508917,
+      "confirmed": 509367,
       "date": "2022-03-17",
-      "deaths": 11368
+      "deaths": 11373
     }
   },
   "Mongolia": {
     "live": {
-      "confirmed": 916126,
+      "confirmed": 916445,
       "date": "2022-03-17",
       "deaths": 2177
     }
   },
   "Morocco": {
     "live": {
-      "confirmed": 1162288,
+      "confirmed": 1162322,
       "date": "2022-03-17",
-      "deaths": 16048
+      "deaths": 16050
     }
   },
   "Nepal": {
@@ -1466,9 +1466,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 657134,
+      "confirmed": 657435,
       "date": "2022-03-17",
-      "deaths": 16416
+      "deaths": 16419
     }
   },
   "Sweden": {
@@ -1500,7 +1500,7 @@
     "live": {
       "confirmed": 3206975,
       "date": "2022-03-17",
-      "deaths": 13320
+      "deaths": 13322
     }
   },
   "Thailand": {
@@ -1535,7 +1535,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 5718957,
+          "confirmed": 5720179,
           "date": "2022-03-17",
           "deaths": 58642
         }
@@ -1549,9 +1549,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1119444,
+          "confirmed": 1119976,
           "date": "2022-03-17",
-          "deaths": 14191
+          "deaths": 14195
         }
       },
       "Massachusetts": {
@@ -1605,9 +1605,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 369569,
+          "confirmed": 370042,
           "date": "2022-03-17",
-          "deaths": 2599
+          "deaths": 2610
         }
       }
     }
@@ -1699,9 +1699,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 654068,
+      "confirmed": 654380,
       "date": "2022-03-17",
-      "deaths": 5622
+      "deaths": 5628
     }
   },
   "Zambia": {
