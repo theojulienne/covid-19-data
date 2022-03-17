@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1143057,
+          "confirmed": 1144911,
           "date": "2022-03-17",
-          "deaths": 12339
+          "deaths": 12349
         }
       },
       "Quebec": {
@@ -368,7 +368,7 @@
         "live": {
           "confirmed": 662085,
           "date": "2022-03-17",
-          "deaths": 4847
+          "deaths": 5136
         }
       }
     }
@@ -421,9 +421,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1077365,
+      "confirmed": 1079397,
       "date": "2022-03-17",
-      "deaths": 15383
+      "deaths": 15392
     }
   },
   "Cuba": {
@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 2978029,
+      "confirmed": 2986355,
       "date": "2022-03-17",
-      "deaths": 5257
+      "deaths": 5300
     }
   },
   "Dominican Republic": {
@@ -521,9 +521,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 3389670,
+          "confirmed": 3390841,
           "date": "2022-03-17",
-          "deaths": 22010
+          "deaths": 22012
         }
       },
       "Berlin": {
@@ -807,9 +807,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2314575,
+      "confirmed": 2315134,
       "date": "2022-03-17",
-      "deaths": 25116
+      "deaths": 25119
     }
   },
   "Ireland": {
@@ -1248,7 +1248,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 359449,
+      "confirmed": 359517,
       "date": "2022-03-17",
       "deaths": 677
     }
@@ -1475,23 +1475,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 335221,
+          "confirmed": 335383,
           "date": "2022-03-17",
           "deaths": 2257
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 565545,
+          "confirmed": 565742,
           "date": "2022-03-17",
           "deaths": 5141
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 430565,
+          "confirmed": 430842,
           "date": "2022-03-17",
-          "deaths": 2932
+          "deaths": 2953
         }
       }
     }
@@ -1500,7 +1500,7 @@
     "live": {
       "confirmed": 3206975,
       "date": "2022-03-17",
-      "deaths": 13319
+      "deaths": 13322
     }
   },
   "Thailand": {
@@ -1639,7 +1639,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 886301,
+      "confirmed": 886687,
       "date": "2022-03-17",
       "deaths": 2302
     }
