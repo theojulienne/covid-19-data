@@ -976,7 +976,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1393103,
+      "confirmed": 1393206,
       "date": "2022-03-17",
       "deaths": 18997
     }
@@ -1186,14 +1186,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 504045,
+          "confirmed": 504142,
           "date": "2022-03-17",
-          "deaths": 13540
+          "deaths": 13541
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 572555,
+          "confirmed": 572868,
           "date": "2022-03-17",
           "deaths": 8091
         }
