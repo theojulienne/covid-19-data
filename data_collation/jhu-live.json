@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1511588,
+          "confirmed": 1531630,
           "date": "2022-03-16",
-          "deaths": 1994
+          "deaths": 1999
         }
       },
       "Queensland": {
@@ -31,9 +31,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1145594,
+          "confirmed": 1155346,
           "date": "2022-03-16",
-          "deaths": 2657
+          "deaths": 2664
         }
       }
     }
@@ -1034,23 +1034,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 353458,
+          "confirmed": 356035,
           "date": "2022-03-16",
-          "deaths": 4276
+          "deaths": 4289
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 361076,
+          "confirmed": 361784,
           "date": "2022-03-16",
-          "deaths": 3079
+          "deaths": 3084
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1057235,
+          "confirmed": 1064796,
           "date": "2022-03-16",
-          "deaths": 10382
+          "deaths": 10394
         }
       }
     }
@@ -1172,7 +1172,7 @@
     "live": {
       "confirmed": 1363406,
       "date": "2022-03-16",
-      "deaths": 1753
+      "deaths": 1826
     }
   },
   "Oman": {
