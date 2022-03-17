@@ -54,7 +54,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 541184,
+      "confirmed": 542305,
       "date": "2022-03-17",
       "deaths": 1464
     }
@@ -316,9 +316,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 533164,
+          "confirmed": 533783,
           "date": "2022-03-17",
-          "deaths": 4025
+          "deaths": 4019
         }
       },
       "British Columbia": {
@@ -456,7 +456,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 576904,
+      "confirmed": 577070,
       "date": "2022-03-17",
       "deaths": 4375
     }
@@ -484,7 +484,7 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 469329,
+      "confirmed": 469393,
       "date": "2022-03-17",
       "deaths": 7488
     }
@@ -1011,9 +1011,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1086382,
+      "confirmed": 1086890,
       "date": "2022-03-17",
-      "deaths": 10226
+      "deaths": 10232
     }
   },
   "Libya": {
@@ -1556,9 +1556,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 320543,
+          "confirmed": 320772,
           "date": "2022-03-17",
-          "deaths": 3930
+          "deaths": 3933
         }
       },
       "Michigan": {
