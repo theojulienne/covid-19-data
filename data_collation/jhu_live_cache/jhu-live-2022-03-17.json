@@ -172,14 +172,14 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 1033306,
+          "confirmed": 1033352,
           "date": "2022-03-17",
-          "deaths": 14267
+          "deaths": 14270
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 1231621,
+          "confirmed": 1235095,
           "date": "2022-03-17",
           "deaths": 26045
         }
@@ -193,9 +193,9 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 719019,
+          "confirmed": 719566,
           "date": "2022-03-17",
-          "deaths": 14824
+          "deaths": 14829
         }
       },
       "Mato Grosso do Sul": {
@@ -214,9 +214,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 738836,
+          "confirmed": 740222,
           "date": "2022-03-17",
-          "deaths": 17999
+          "deaths": 18006
         }
       },
       "Paraiba": {
@@ -242,9 +242,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 366815,
+          "confirmed": 366970,
           "date": "2022-03-17",
-          "deaths": 7708
+          "deaths": 7712
         }
       },
       "Rio Grande do Norte": {
@@ -990,9 +990,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 7629275,
+      "confirmed": 8250592,
       "date": "2022-03-17",
-      "deaths": 11052
+      "deaths": 11481
     }
   },
   "Kuwait": {
@@ -1163,9 +1163,9 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 418861,
+      "confirmed": 438477,
       "date": "2022-03-17",
-      "deaths": 125
+      "deaths": 135
     }
   },
   "Norway": {
@@ -1577,7 +1577,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2961562,
+          "confirmed": 2962209,
           "date": "2022-03-17",
           "deaths": 45869
         }
@@ -1706,9 +1706,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 315202,
+      "confirmed": 315496,
       "date": "2022-03-17",
-      "deaths": 3960
+      "deaths": 3961
     }
   }
 }
