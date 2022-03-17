@@ -24,14 +24,14 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 640104,
+          "confirmed": 647290,
           "date": "2022-03-17",
-          "deaths": 652
+          "deaths": 662
         }
       },
       "Victoria": {
         "live": {
-          "confirmed": 1155346,
+          "confirmed": 1155302,
           "date": "2022-03-17",
           "deaths": 2664
         }
@@ -379,28 +379,28 @@
         "live": {
           "confirmed": 917289,
           "date": "2022-03-17",
-          "deaths": 18208
+          "deaths": 18214
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 401848,
           "date": "2022-03-17",
-          "deaths": 10118
+          "deaths": 10119
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1762994,
           "date": "2022-03-17",
-          "deaths": 29255
+          "deaths": 29259
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 317548,
           "date": "2022-03-17",
-          "deaths": 7257
+          "deaths": 7260
         }
       },
       "Valle del Cauca": {
@@ -1202,9 +1202,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 760105,
+      "confirmed": 760405,
       "date": "2022-03-17",
-      "deaths": 8143
+      "deaths": 8146
     }
   },
   "Paraguay": {
@@ -1227,9 +1227,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3671293,
+      "confirmed": 3672069,
       "date": "2022-03-17",
-      "deaths": 57625
+      "deaths": 57735
     }
   },
   "Poland": {
@@ -1505,9 +1505,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3250642,
+      "confirmed": 3276098,
       "date": "2022-03-17",
-      "deaths": 23918
+      "deaths": 23995
     }
   },
   "Tunisia": {
@@ -1692,9 +1692,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 6552918,
+      "confirmed": 6820458,
       "date": "2022-03-17",
-      "deaths": 41545
+      "deaths": 41607
     }
   },
   "West Bank and Gaza": {
