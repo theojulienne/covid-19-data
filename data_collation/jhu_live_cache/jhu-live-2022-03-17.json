@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1145070,
+          "confirmed": 1145534,
           "date": "2022-03-17",
-          "deaths": 12349
+          "deaths": 12353
         }
       },
       "Quebec": {
@@ -348,16 +348,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 327500,
+          "confirmed": 329784,
           "date": "2022-03-17",
-          "deaths": 3356
+          "deaths": 3382
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1281142,
+          "confirmed": 1286213,
           "date": "2022-03-17",
-          "deaths": 21594
+          "deaths": 21624
         }
       }
     }
@@ -1378,9 +1378,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3698803,
+      "confirmed": 3700484,
       "date": "2022-03-17",
-      "deaths": 99767
+      "deaths": 99829
     }
   },
   "Spain": {
@@ -1598,9 +1598,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 340483,
+          "confirmed": 340558,
           "date": "2022-03-17",
-          "deaths": 1588
+          "deaths": 1590
         }
       },
       "Washington": {
