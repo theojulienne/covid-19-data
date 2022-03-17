@@ -330,7 +330,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1144960,
+          "confirmed": 1145070,
           "date": "2022-03-17",
           "deaths": 12349
         }
@@ -498,9 +498,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 23101166,
+      "confirmed": 23201324,
       "date": "2022-03-17",
-      "deaths": 137515
+      "deaths": 137630
     }
   },
   "Georgia": {
@@ -821,9 +821,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3741022,
+      "confirmed": 3744810,
       "date": "2022-03-17",
-      "deaths": 10405
+      "deaths": 10417
     }
   },
   "Italy": {
@@ -1537,7 +1537,7 @@
         "live": {
           "confirmed": 5720179,
           "date": "2022-03-17",
-          "deaths": 58642
+          "deaths": 58668
         }
       },
       "Florida": {
@@ -1591,9 +1591,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2676265,
+          "confirmed": 2676856,
           "date": "2022-03-17",
-          "deaths": 29228
+          "deaths": 29252
         }
       },
       "Utah": {
