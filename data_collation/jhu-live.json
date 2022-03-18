@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 791077,
+      "confirmed": 791176,
       "date": "2022-03-18",
-      "deaths": 9633
+      "deaths": 9641
     }
   },
   "Bahrain": {
@@ -505,9 +505,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 1639678,
+      "confirmed": 1640550,
       "date": "2022-03-18",
-      "deaths": 16612
+      "deaths": 16630
     }
   },
   "Germany": {
