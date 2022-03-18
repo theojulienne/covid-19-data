@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 8990413,
+      "confirmed": 9004829,
       "date": "2022-03-18",
-      "deaths": 127363
+      "deaths": 127439
     }
   },
   "Armenia": {
@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1147508,
+          "confirmed": 1144461,
           "date": "2022-03-18",
-          "deaths": 12359
+          "deaths": 12362
         }
       },
       "Quebec": {
@@ -1556,9 +1556,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 320772,
+          "confirmed": 321021,
           "date": "2022-03-18",
-          "deaths": 3933
+          "deaths": 3934
         }
       },
       "Michigan": {
