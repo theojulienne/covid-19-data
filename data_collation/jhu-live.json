@@ -1103,7 +1103,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 978107,
+      "confirmed": 978119,
       "date": "2022-03-18",
       "deaths": 11950
     }
@@ -1227,9 +1227,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3672661,
+      "confirmed": 3673201,
       "date": "2022-03-18",
-      "deaths": 57880
+      "deaths": 57999
     }
   },
   "Poland": {
@@ -1364,9 +1364,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2322231,
+      "confirmed": 2333162,
       "date": "2022-03-18",
-      "deaths": 19040
+      "deaths": 19073
     }
   },
   "Slovenia": {
@@ -1500,7 +1500,7 @@
     "live": {
       "confirmed": 3241348,
       "date": "2022-03-18",
-      "deaths": 13324
+      "deaths": 13325
     }
   },
   "Thailand": {
@@ -1639,7 +1639,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 886687,
+      "confirmed": 887018,
       "date": "2022-03-18",
       "deaths": 2302
     }
