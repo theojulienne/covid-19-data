@@ -976,7 +976,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1393206,
+      "confirmed": 1393250,
       "date": "2022-03-18",
       "deaths": 18999
     }
@@ -1172,7 +1172,7 @@
     "live": {
       "confirmed": 1372340,
       "date": "2022-03-18",
-      "deaths": 1826
+      "deaths": 2169
     }
   },
   "Oman": {
@@ -1186,9 +1186,9 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 504142,
+          "confirmed": 504219,
           "date": "2022-03-18",
-          "deaths": 13541
+          "deaths": 13545
         }
       },
       "Sindh": {
@@ -1692,9 +1692,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 6820458,
+      "confirmed": 7174423,
       "date": "2022-03-18",
-      "deaths": 41607
+      "deaths": 41683
     }
   },
   "West Bank and Gaza": {
