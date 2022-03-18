@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 946674,
+      "confirmed": 948416,
       "date": "2022-03-18",
-      "deaths": 6698
+      "deaths": 6705
     }
   },
   "Belgium": {
@@ -135,9 +135,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 373799,
+      "confirmed": 373985,
       "date": "2022-03-18",
-      "deaths": 15661
+      "deaths": 15664
     }
   },
   "Brazil": {
@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 2986355,
+      "confirmed": 2993571,
       "date": "2022-03-18",
-      "deaths": 5300
+      "deaths": 5338
     }
   },
   "Dominican Republic": {
@@ -521,9 +521,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 3448099,
+          "confirmed": 3448564,
           "date": "2022-03-18",
-          "deaths": 22050
+          "deaths": 22049
         }
       },
       "Berlin": {
@@ -591,9 +591,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 520737,
+          "confirmed": 528935,
           "date": "2022-03-18",
-          "deaths": 4899
+          "deaths": 4904
         }
       },
       "Schleswig-Holstein": {
@@ -807,9 +807,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2315134,
+      "confirmed": 2315573,
       "date": "2022-03-18",
-      "deaths": 25119
+      "deaths": 25124
     }
   },
   "Ireland": {
@@ -1387,72 +1387,72 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 1368513,
+          "confirmed": 1376249,
           "date": "2022-03-18",
-          "deaths": 13000
+          "deaths": 13067
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 402753,
+          "confirmed": 404159,
           "date": "2022-03-18",
-          "deaths": 4950
+          "deaths": 4961
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 1319710,
+          "confirmed": 1324381,
           "date": "2022-03-18",
-          "deaths": 9098
+          "deaths": 9110
         }
       },
       "Canarias": {
         "live": {
-          "confirmed": 310568,
+          "confirmed": 316554,
           "date": "2022-03-18",
-          "deaths": 1612
+          "deaths": 1618
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 478538,
+          "confirmed": 481055,
           "date": "2022-03-18",
-          "deaths": 7118
+          "deaths": 7121
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 664470,
+          "confirmed": 668359,
           "date": "2022-03-18",
-          "deaths": 8329
+          "deaths": 8342
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 2317123,
+          "confirmed": 2331586,
           "date": "2022-03-18",
-          "deaths": 18568
+          "deaths": 18635
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 553035,
+          "confirmed": 557817,
           "date": "2022-03-18",
-          "deaths": 3149
+          "deaths": 3157
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 1616860,
+          "confirmed": 1621846,
           "date": "2022-03-18",
-          "deaths": 17636
+          "deaths": 17709
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 382119,
+          "confirmed": 384708,
           "date": "2022-03-18",
-          "deaths": 2181
+          "deaths": 2191
         }
       },
       "Pais Vasco": {
@@ -1475,23 +1475,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 335383,
+          "confirmed": 335503,
           "date": "2022-03-18",
           "deaths": 2257
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 565742,
+          "confirmed": 566471,
           "date": "2022-03-18",
-          "deaths": 5141
+          "deaths": 5151
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 430842,
+          "confirmed": 430978,
           "date": "2022-03-18",
-          "deaths": 2953
+          "deaths": 2963
         }
       }
     }
@@ -1500,7 +1500,7 @@
     "live": {
       "confirmed": 3268953,
       "date": "2022-03-18",
-      "deaths": 13325
+      "deaths": 13327
     }
   },
   "Thailand": {
