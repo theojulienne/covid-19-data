@@ -484,7 +484,7 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 469393,
+      "confirmed": 469419,
       "date": "2022-03-18",
       "deaths": 7488
     }
@@ -983,7 +983,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 323237,
+      "confirmed": 323255,
       "date": "2022-03-18",
       "deaths": 5647
     }
@@ -1011,9 +1011,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1086890,
+      "confirmed": 1087387,
       "date": "2022-03-18",
-      "deaths": 10232
+      "deaths": 10237
     }
   },
   "Libya": {
@@ -1248,7 +1248,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 359517,
+      "confirmed": 359670,
       "date": "2022-03-18",
       "deaths": 677
     }
@@ -1577,9 +1577,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2963634,
+          "confirmed": 2964321,
           "date": "2022-03-18",
-          "deaths": 45897
+          "deaths": 45900
         }
       },
       "Pennsylvania": {
