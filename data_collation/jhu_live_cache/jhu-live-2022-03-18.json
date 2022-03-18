@@ -77,49 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 567776,
+          "confirmed": 570809,
           "date": "2022-03-18",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 419218,
+          "confirmed": 419980,
           "date": "2022-03-18",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 476563,
+          "confirmed": 478726,
           "date": "2022-03-18",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 343378,
+          "confirmed": 344971,
           "date": "2022-03-18",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 422783,
+          "confirmed": 423355,
           "date": "2022-03-18",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 351031,
+          "confirmed": 351403,
           "date": "2022-03-18",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 384100,
+          "confirmed": 385553,
           "date": "2022-03-18",
           "deaths": 0
         }
@@ -514,100 +514,100 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2636980,
+          "confirmed": 2637083,
           "date": "2022-03-18",
           "deaths": 14758
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 3390841,
+          "confirmed": 3448099,
           "date": "2022-03-18",
-          "deaths": 22012
+          "deaths": 22050
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 825661,
+          "confirmed": 833613,
           "date": "2022-03-18",
-          "deaths": 4310
+          "deaths": 4315
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 613289,
+          "confirmed": 621167,
           "date": "2022-03-18",
-          "deaths": 5329
+          "deaths": 5332
         }
       },
       "Hamburg": {
         "live": {
           "confirmed": 392772,
           "date": "2022-03-18",
-          "deaths": 2344
+          "deaths": 2348
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 1236716,
+          "confirmed": 1251813,
           "date": "2022-03-18",
-          "deaths": 9455
+          "deaths": 9464
         }
       },
       "Mecklenburg-Vorpommern": {
         "live": {
-          "confirmed": 323039,
+          "confirmed": 330469,
           "date": "2022-03-18",
-          "deaths": 1882
+          "deaths": 1888
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 1339696,
+          "confirmed": 1375949,
           "date": "2022-03-18",
-          "deaths": 7764
+          "deaths": 7780
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 3675329,
+          "confirmed": 3728711,
           "date": "2022-03-18",
-          "deaths": 23002
+          "deaths": 23054
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 739706,
+          "confirmed": 739957,
           "date": "2022-03-18",
           "deaths": 5145
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 1133580,
+          "confirmed": 1135779,
           "date": "2022-03-18",
-          "deaths": 14515
+          "deaths": 14516
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 520731,
+          "confirmed": 520737,
           "date": "2022-03-18",
           "deaths": 4899
         }
       },
       "Schleswig-Holstein": {
         "live": {
-          "confirmed": 410576,
+          "confirmed": 418649,
           "date": "2022-03-18",
-          "deaths": 2203
+          "deaths": 2213
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 506106,
+          "confirmed": 514862,
           "date": "2022-03-18",
-          "deaths": 6715
+          "deaths": 6723
         }
       }
     }
@@ -644,149 +644,149 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2319012,
+          "confirmed": 2319066,
           "date": "2022-03-18",
           "deaths": 14730
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 724178,
+          "confirmed": 724181,
           "date": "2022-03-18",
           "deaths": 6639
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 830391,
+          "confirmed": 830401,
           "date": "2022-03-18",
           "deaths": 12255
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 1151872,
+          "confirmed": 1151892,
           "date": "2022-03-18",
           "deaths": 14034
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 1863345,
+          "confirmed": 1863493,
           "date": "2022-03-18",
-          "deaths": 26144
+          "deaths": 26145
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 1223686,
+          "confirmed": 1223710,
           "date": "2022-03-18",
           "deaths": 10939
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 984317,
+          "confirmed": 984389,
           "date": "2022-03-18",
-          "deaths": 10591
+          "deaths": 10594
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 453493,
+          "confirmed": 453505,
           "date": "2022-03-18",
           "deaths": 4750
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 435015,
+          "confirmed": 435022,
           "date": "2022-03-18",
           "deaths": 5315
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 3944186,
+          "confirmed": 3944326,
           "date": "2022-03-18",
-          "deaths": 40026
+          "deaths": 40028
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 6524066,
+          "confirmed": 6524988,
           "date": "2022-03-18",
-          "deaths": 67008
+          "deaths": 67138
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 1040800,
+          "confirmed": 1040821,
           "date": "2022-03-18",
           "deaths": 10733
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 7871803,
+          "confirmed": 7872032,
           "date": "2022-03-18",
-          "deaths": 143759
+          "deaths": 143762
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 1286852,
+          "confirmed": 1286957,
           "date": "2022-03-18",
-          "deaths": 9115
+          "deaths": 9116
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 758816,
+          "confirmed": 758875,
           "date": "2022-03-18",
           "deaths": 17737
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 1282447,
+          "confirmed": 1282523,
           "date": "2022-03-18",
           "deaths": 9551
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 3452145,
+          "confirmed": 3452215,
           "date": "2022-03-18",
-          "deaths": 38024
+          "deaths": 38025
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 790574,
+          "confirmed": 790637,
           "date": "2022-03-18",
           "deaths": 4111
         }
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 2070114,
+          "confirmed": 2070187,
           "date": "2022-03-18",
           "deaths": 23492
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 436985,
+          "confirmed": 437003,
           "date": "2022-03-18",
           "deaths": 7689
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 2016581,
+          "confirmed": 2016675,
           "date": "2022-03-18",
-          "deaths": 21191
+          "deaths": 21192
         }
       }
     }
@@ -976,7 +976,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1393250,
+      "confirmed": 1393286,
       "date": "2022-03-18",
       "deaths": 18999
     }
