@@ -337,9 +337,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 939648,
+          "confirmed": 942282,
           "date": "2022-03-18",
-          "deaths": 14232
+          "deaths": 14245
         }
       }
     }
@@ -1457,9 +1457,9 @@
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 660520,
+          "confirmed": 663354,
           "date": "2022-03-18",
-          "deaths": 6236
+          "deaths": 6232
         }
       }
     }
