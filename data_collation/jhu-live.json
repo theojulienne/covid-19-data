@@ -77,49 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 570809,
+          "confirmed": 573834,
           "date": "2022-03-19",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 419980,
+          "confirmed": 420609,
           "date": "2022-03-19",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 478726,
+          "confirmed": 480700,
           "date": "2022-03-19",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 344971,
+          "confirmed": 346444,
           "date": "2022-03-19",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 423355,
+          "confirmed": 423885,
           "date": "2022-03-19",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 351403,
+          "confirmed": 351761,
           "date": "2022-03-19",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 385553,
+          "confirmed": 386877,
           "date": "2022-03-19",
           "deaths": 0
         }
@@ -477,7 +477,7 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 540184,
+      "confirmed": 541551,
       "date": "2022-03-19",
       "deaths": 2385
     }
@@ -793,9 +793,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 5948610,
+      "confirmed": 5956561,
       "date": "2022-03-19",
-      "deaths": 153411
+      "deaths": 153599
     }
   },
   "Iran": {
@@ -1103,7 +1103,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 978119,
+      "confirmed": 978127,
       "date": "2022-03-19",
       "deaths": 11950
     }
@@ -1227,9 +1227,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3673201,
+      "confirmed": 3673717,
       "date": "2022-03-19",
-      "deaths": 57999
+      "deaths": 58023
     }
   },
   "Poland": {
@@ -1364,9 +1364,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2333162,
+      "confirmed": 2344057,
       "date": "2022-03-19",
-      "deaths": 19073
+      "deaths": 19093
     }
   },
   "Slovenia": {
@@ -1639,7 +1639,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 887018,
+      "confirmed": 887385,
       "date": "2022-03-19",
       "deaths": 2302
     }
