@@ -530,7 +530,7 @@
         "live": {
           "confirmed": 839361,
           "date": "2022-03-19",
-          "deaths": 4320
+          "deaths": 4319
         }
       },
       "Brandenburg": {
@@ -1685,9 +1685,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 519245,
+      "confirmed": 519420,
       "date": "2022-03-19",
-      "deaths": 5664
+      "deaths": 5666
     }
   },
   "Vietnam": {
