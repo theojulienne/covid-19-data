@@ -128,9 +128,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 898941,
+      "confirmed": 899524,
       "date": "2022-03-19",
-      "deaths": 21477
+      "deaths": 21482
     }
   },
   "Bosnia and Herzegovina": {
@@ -379,44 +379,44 @@
         "live": {
           "confirmed": 917407,
           "date": "2022-03-19",
-          "deaths": 18217
+          "deaths": 18220
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 401901,
           "date": "2022-03-19",
-          "deaths": 10119
+          "deaths": 10120
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1763889,
           "date": "2022-03-19",
-          "deaths": 29266
+          "deaths": 29283
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 317695,
           "date": "2022-03-19",
-          "deaths": 7267
+          "deaths": 7269
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 539882,
           "date": "2022-03-19",
-          "deaths": 14989
+          "deaths": 14990
         }
       }
     }
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 828442,
+      "confirmed": 829400,
       "date": "2022-03-19",
-      "deaths": 8215
+      "deaths": 8226
     }
   },
   "Croatia": {
@@ -976,7 +976,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1393286,
+      "confirmed": 1393337,
       "date": "2022-03-19",
       "deaths": 19001
     }
@@ -997,9 +997,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 626609,
+      "confirmed": 626993,
       "date": "2022-03-19",
-      "deaths": 2552
+      "deaths": 2553
     }
   },
   "Latvia": {
@@ -1170,7 +1170,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 1372340,
+      "confirmed": 1376239,
       "date": "2022-03-19",
       "deaths": 2169
     }
@@ -1186,14 +1186,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 504219,
+          "confirmed": 504324,
           "date": "2022-03-19",
-          "deaths": 13545
+          "deaths": 13547
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 572868,
+          "confirmed": 573347,
           "date": "2022-03-19",
           "deaths": 8091
         }
@@ -1202,9 +1202,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 760735,
+      "confirmed": 761004,
       "date": "2022-03-19",
-      "deaths": 8150
+      "deaths": 8153
     }
   },
   "Paraguay": {
@@ -1241,9 +1241,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 3413013,
+      "confirmed": 3458727,
       "date": "2022-03-19",
-      "deaths": 21342
+      "deaths": 21408
     }
   },
   "Qatar": {
@@ -1692,9 +1692,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 7174423,
+      "confirmed": 7367112,
       "date": "2022-03-19",
-      "deaths": 41683
+      "deaths": 41740
     }
   },
   "West Bank and Gaza": {
