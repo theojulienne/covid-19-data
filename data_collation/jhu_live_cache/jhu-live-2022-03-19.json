@@ -61,16 +61,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1950465,
+      "confirmed": 1950527,
       "date": "2022-03-19",
       "deaths": 29114
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 948416,
+      "confirmed": 949994,
       "date": "2022-03-19",
-      "deaths": 6705
+      "deaths": 6716
     }
   },
   "Belgium": {
@@ -330,14 +330,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1144461,
+          "confirmed": 1146105,
           "date": "2022-03-19",
-          "deaths": 12362
+          "deaths": 12376
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 942282,
+          "confirmed": 942280,
           "date": "2022-03-19",
           "deaths": 14245
         }
@@ -366,9 +366,9 @@
     "subseries": {
       "Hong Kong": {
         "live": {
-          "confirmed": 1016944,
+          "confirmed": 1033541,
           "date": "2022-03-19",
-          "deaths": 5401
+          "deaths": 5650
         }
       }
     }
@@ -421,9 +421,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1081336,
+      "confirmed": 1083111,
       "date": "2022-03-19",
-      "deaths": 15410
+      "deaths": 15425
     }
   },
   "Cuba": {
@@ -584,9 +584,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 1156364,
+          "confirmed": 1166555,
           "date": "2022-03-19",
-          "deaths": 14536
+          "deaths": 14538
         }
       },
       "Sachsen-Anhalt": {
@@ -1371,9 +1371,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 932155,
+      "confirmed": 935329,
       "date": "2022-03-19",
-      "deaths": 6429
+      "deaths": 6435
     }
   },
   "South Africa": {
