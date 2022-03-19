@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 791288,
+      "confirmed": 791404,
       "date": "2022-03-19",
-      "deaths": 9647
+      "deaths": 9651
     }
   },
   "Bahrain": {
@@ -307,9 +307,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 608384,
+      "confirmed": 608763,
       "date": "2022-03-19",
-      "deaths": 19420
+      "deaths": 19423
     }
   },
   "Canada": {
@@ -614,9 +614,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2756487,
+      "confirmed": 2776192,
       "date": "2022-03-19",
-      "deaths": 26847
+      "deaths": 26893
     }
   },
   "Guatemala": {
@@ -1112,49 +1112,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 897084,
+          "confirmed": 903249,
           "date": "2022-03-19",
-          "deaths": 2719
+          "deaths": 2723
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 497340,
+          "confirmed": 499724,
           "date": "2022-03-19",
-          "deaths": 2121
+          "deaths": 2122
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 1166313,
+          "confirmed": 1170925,
           "date": "2022-03-19",
-          "deaths": 3626
+          "deaths": 3628
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 1218356,
+          "confirmed": 1224507,
           "date": "2022-03-19",
-          "deaths": 3281
+          "deaths": 3285
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 512783,
+          "confirmed": 516805,
           "date": "2022-03-19",
           "deaths": 1388
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 608437,
+          "confirmed": 611767,
           "date": "2022-03-19",
           "deaths": 1513
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1558238,
+          "confirmed": 1565435,
           "date": "2022-03-19",
           "deaths": 5032
         }
@@ -1357,9 +1357,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 996914,
+      "confirmed": 1007158,
       "date": "2022-03-19",
-      "deaths": 1191
+      "deaths": 1194
     }
   },
   "Slovakia": {
