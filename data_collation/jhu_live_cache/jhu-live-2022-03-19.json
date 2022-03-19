@@ -925,7 +925,7 @@
       },
       "Chiba": {
         "live": {
-          "confirmed": 326765,
+          "confirmed": 326756,
           "date": "2022-03-19",
           "deaths": 1574
         }
@@ -939,7 +939,7 @@
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 553304,
+          "confirmed": 553301,
           "date": "2022-03-19",
           "deaths": 1944
         }
@@ -1004,9 +1004,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 765297,
+      "confirmed": 769131,
       "date": "2022-03-19",
-      "deaths": 5494
+      "deaths": 5507
     }
   },
   "Lebanon": {
@@ -1234,9 +1234,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5875072,
+      "confirmed": 5885446,
       "date": "2022-03-19",
-      "deaths": 114087
+      "deaths": 114206
     }
   },
   "Portugal": {
@@ -1343,9 +1343,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 749373,
+      "confirmed": 749471,
       "date": "2022-03-19",
-      "deaths": 9025
+      "deaths": 9027
     }
   },
   "Serbia": {
