@@ -172,14 +172,14 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 1033886,
+          "confirmed": 1034189,
           "date": "2022-03-19",
-          "deaths": 14283
+          "deaths": 14292
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 1241569,
+          "confirmed": 1245468,
           "date": "2022-03-19",
           "deaths": 26067
         }
@@ -193,9 +193,9 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 719566,
+          "confirmed": 720563,
           "date": "2022-03-19",
-          "deaths": 14829
+          "deaths": 14838
         }
       },
       "Mato Grosso do Sul": {
@@ -214,9 +214,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 741512,
+          "confirmed": 743154,
           "date": "2022-03-19",
-          "deaths": 18013
+          "deaths": 18027
         }
       },
       "Paraiba": {
@@ -242,7 +242,7 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 367036,
+          "confirmed": 367193,
           "date": "2022-03-19",
           "deaths": 7714
         }
@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 942280,
+          "confirmed": 942282,
           "date": "2022-03-19",
           "deaths": 14245
         }
@@ -990,9 +990,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 8657609,
+      "confirmed": 9038938,
       "date": "2022-03-19",
-      "deaths": 11782
+      "deaths": 12101
     }
   },
   "Kuwait": {
@@ -1163,9 +1163,9 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 452670,
+      "confirmed": 471225,
       "date": "2022-03-19",
-      "deaths": 138
+      "deaths": 144
     }
   },
   "Norway": {
@@ -1535,9 +1535,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5723619,
+          "confirmed": 5726588,
           "date": "2022-03-19",
-          "deaths": 58731
+          "deaths": 58766
         }
       },
       "Florida": {
