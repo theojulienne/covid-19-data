@@ -337,9 +337,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 942282,
+          "confirmed": 943643,
           "date": "2022-03-19",
-          "deaths": 14245
+          "deaths": 14252
         }
       }
     }
@@ -498,9 +498,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 23297675,
+      "confirmed": 23395779,
       "date": "2022-03-19",
-      "deaths": 137739
+      "deaths": 137801
     }
   },
   "Georgia": {
@@ -1526,9 +1526,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14663508,
+      "confirmed": 14680836,
       "date": "2022-03-19",
-      "deaths": 97077
+      "deaths": 97182
     }
   },
   "US": {
