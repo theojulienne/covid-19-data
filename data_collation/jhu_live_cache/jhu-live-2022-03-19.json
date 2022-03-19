@@ -1066,23 +1066,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1377867,
+          "confirmed": 1379068,
           "date": "2022-03-19",
-          "deaths": 42509
+          "deaths": 42521
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 534963,
+          "confirmed": 535680,
           "date": "2022-03-19",
-          "deaths": 46979
+          "deaths": 46985
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 311637,
+          "confirmed": 311758,
           "date": "2022-03-19",
-          "deaths": 14901
+          "deaths": 14913
         }
       }
     }
@@ -1385,9 +1385,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3700484,
+      "confirmed": 3703329,
       "date": "2022-03-19",
-      "deaths": 99829
+      "deaths": 99879
     }
   },
   "Spain": {
@@ -1598,9 +1598,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2677596,
+          "confirmed": 2677685,
           "date": "2022-03-19",
-          "deaths": 29282
+          "deaths": 29300
         }
       },
       "Utah": {
