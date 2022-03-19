@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1551598,
+          "confirmed": 1570591,
           "date": "2022-03-18",
-          "deaths": 2005
+          "deaths": 2017
         }
       },
       "Queensland": {
@@ -31,9 +31,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1164063,
+          "confirmed": 1171910,
           "date": "2022-03-18",
-          "deaths": 2673
+          "deaths": 2675
         }
       }
     }
@@ -54,9 +54,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 542305,
+      "confirmed": 543089,
       "date": "2022-03-18",
-      "deaths": 1464
+      "deaths": 1465
     }
   },
   "Bangladesh": {
@@ -300,9 +300,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1121194,
+      "confirmed": 1122795,
       "date": "2022-03-18",
-      "deaths": 36248
+      "deaths": 36266
     }
   },
   "Burma": {
@@ -377,35 +377,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 917367,
+          "confirmed": 917407,
           "date": "2022-03-18",
           "deaths": 18217
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 401893,
+          "confirmed": 401901,
           "date": "2022-03-18",
           "deaths": 10119
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1763515,
+          "confirmed": 1763889,
           "date": "2022-03-18",
           "deaths": 29266
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 317681,
+          "confirmed": 317695,
           "date": "2022-03-18",
           "deaths": 7267
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 539837,
+          "confirmed": 539882,
           "date": "2022-03-18",
           "deaths": 14989
         }
@@ -435,9 +435,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 367743,
+      "confirmed": 370311,
       "date": "2022-03-18",
-      "deaths": 905
+      "deaths": 915
     }
   },
   "Czechia": {
@@ -456,7 +456,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 577070,
+      "confirmed": 577241,
       "date": "2022-03-18",
       "deaths": 4375
     }
@@ -498,9 +498,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 23298903,
+      "confirmed": 23297675,
       "date": "2022-03-18",
-      "deaths": 137742
+      "deaths": 137739
     }
   },
   "Georgia": {
@@ -628,9 +628,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 417201,
+      "confirmed": 418300,
       "date": "2022-03-18",
-      "deaths": 10842
+      "deaths": 10857
     }
   },
   "Hungary": {
@@ -1034,23 +1034,23 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 358025,
+          "confirmed": 359646,
           "date": "2022-03-18",
-          "deaths": 4296
+          "deaths": 4307
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 362553,
+          "confirmed": 363149,
           "date": "2022-03-18",
           "deaths": 3090
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1072354,
+          "confirmed": 1079784,
           "date": "2022-03-18",
-          "deaths": 10408
+          "deaths": 10420
         }
       }
     }
@@ -1209,9 +1209,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 646630,
+      "confirmed": 646843,
       "date": "2022-03-18",
-      "deaths": 18559
+      "deaths": 18571
     }
   },
   "Peru": {
@@ -1605,9 +1605,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 370042,
+          "confirmed": 370613,
           "date": "2022-03-18",
-          "deaths": 2610
+          "deaths": 2623
         }
       }
     }
@@ -1678,9 +1678,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 871081,
+      "confirmed": 872938,
       "date": "2022-03-18",
-      "deaths": 7120
+      "deaths": 7127
     }
   },
   "Venezuela": {
