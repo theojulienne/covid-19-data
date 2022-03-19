@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1171910,
+          "confirmed": 1171736,
           "date": "2022-03-19",
           "deaths": 2675
         }
@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 942282,
+          "confirmed": 942280,
           "date": "2022-03-19",
           "deaths": 14245
         }
@@ -348,16 +348,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 331895,
+          "confirmed": 333694,
           "date": "2022-03-19",
-          "deaths": 3394
+          "deaths": 3402
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1290886,
+          "confirmed": 1294858,
           "date": "2022-03-19",
-          "deaths": 21645
+          "deaths": 21676
         }
       }
     }
@@ -918,51 +918,51 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 384268,
+          "confirmed": 386676,
           "date": "2022-03-19",
-          "deaths": 1905
+          "deaths": 1910
         }
       },
       "Chiba": {
         "live": {
-          "confirmed": 326756,
+          "confirmed": 329379,
           "date": "2022-03-19",
-          "deaths": 1574
+          "deaths": 1588
         }
       },
       "Hyogo": {
         "live": {
-          "confirmed": 311648,
+          "confirmed": 313565,
           "date": "2022-03-19",
-          "deaths": 2035
+          "deaths": 2037
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 553301,
+          "confirmed": 557572,
           "date": "2022-03-19",
-          "deaths": 1944
+          "deaths": 1952
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 751740,
+          "confirmed": 755379,
           "date": "2022-03-19",
-          "deaths": 4449
+          "deaths": 4482
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 384973,
+          "confirmed": 388374,
           "date": "2022-03-19",
-          "deaths": 1285
+          "deaths": 1291
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1161537,
+          "confirmed": 1168981,
           "date": "2022-03-19",
-          "deaths": 4042
+          "deaths": 4055
         }
       }
     }
@@ -1350,9 +1350,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1952029,
+      "confirmed": 1953897,
       "date": "2022-03-19",
-      "deaths": 15662
+      "deaths": 15676
     }
   },
   "Singapore": {
@@ -1584,7 +1584,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 306860,
+          "confirmed": 306978,
           "date": "2022-03-19",
           "deaths": 5035
         }

@@ -652,7 +652,7 @@
           "deaths": 16
         },
         "Quebec": {
-          "confirmed": 942280,
+          "confirmed": 939648,
           "deaths": 14232
         },
         "Repatriated Travellers": {
@@ -3116,18 +3116,18 @@
     },
     "SRB": {
       "back_1week": {
-        "confirmed": 1934953,
-        "deaths": 15533,
+        "confirmed": 1937183,
+        "deaths": 15552,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1919327,
-        "deaths": 15346,
+        "confirmed": 1921831,
+        "deaths": 15375,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1949953,
-        "deaths": 15647,
+        "confirmed": 1952029,
+        "deaths": 15662,
         "recovered": 0
       }
     },
