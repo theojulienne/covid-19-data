@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 942280,
+          "confirmed": 942282,
           "date": "2022-03-19",
           "deaths": 14245
         }
@@ -830,86 +830,86 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 1297490,
+          "confirmed": 1305393,
           "date": "2022-03-19",
-          "deaths": 9922
+          "deaths": 9924
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 1231488,
+          "confirmed": 1235389,
           "date": "2022-03-19",
-          "deaths": 16138
+          "deaths": 16143
         }
       },
       "Friuli Venezia Giulia": {
         "live": {
-          "confirmed": 321070,
+          "confirmed": 322248,
           "date": "2022-03-19",
-          "deaths": 4860
+          "deaths": 4862
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 1178673,
+          "confirmed": 1187659,
           "date": "2022-03-19",
-          "deaths": 10631
+          "deaths": 10636
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 366469,
+          "confirmed": 368051,
           "date": "2022-03-19",
-          "deaths": 5171
+          "deaths": 5174
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 2432568,
+          "confirmed": 2440620,
           "date": "2022-03-19",
-          "deaths": 39026
+          "deaths": 39043
         }
       },
       "Marche": {
         "live": {
-          "confirmed": 360011,
+          "confirmed": 362571,
           "date": "2022-03-19",
-          "deaths": 3653
+          "deaths": 3657
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 1015027,
+          "confirmed": 1017763,
           "date": "2022-03-19",
-          "deaths": 13147
+          "deaths": 13150
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 822949,
+          "confirmed": 830341,
           "date": "2022-03-19",
-          "deaths": 7850
+          "deaths": 7854
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 891982,
+          "confirmed": 899837,
           "date": "2022-03-19",
-          "deaths": 9833
+          "deaths": 9848
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 921405,
+          "confirmed": 926894,
           "date": "2022-03-19",
-          "deaths": 9301
+          "deaths": 9312
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 1408158,
+          "confirmed": 1414989,
           "date": "2022-03-19",
-          "deaths": 14028
+          "deaths": 14036
         }
       }
     }
@@ -1034,23 +1034,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 359646,
+          "confirmed": 360932,
           "date": "2022-03-19",
-          "deaths": 4307
+          "deaths": 4325
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 363149,
+          "confirmed": 363570,
           "date": "2022-03-19",
-          "deaths": 3090
+          "deaths": 3092
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1079784,
+          "confirmed": 1087150,
           "date": "2022-03-19",
-          "deaths": 10420
+          "deaths": 10435
+        }
+      },
+      "W.P. Kuala Lumpur": {
+        "live": {
+          "confirmed": 306575,
+          "date": "2022-03-19",
+          "deaths": 2762
         }
       }
     }
@@ -1371,7 +1378,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 935329,
+      "confirmed": 935373,
       "date": "2022-03-19",
       "deaths": 6435
     }
@@ -1614,13 +1621,6 @@
   },
   "Ukraine": {
     "subseries": {
-      "Kharkiv Oblast": {
-        "live": {
-          "confirmed": 305661,
-          "date": "2022-03-01",
-          "deaths": 6858
-        }
-      },
       "Kiev": {
         "live": {
           "confirmed": 445098,
