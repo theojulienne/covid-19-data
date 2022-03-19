@@ -505,9 +505,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 1640550,
+      "confirmed": 1641399,
       "date": "2022-03-19",
-      "deaths": 16630
+      "deaths": 16643
     }
   },
   "Germany": {
@@ -976,7 +976,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1393337,
+      "confirmed": 1393369,
       "date": "2022-03-19",
       "deaths": 19001
     }
