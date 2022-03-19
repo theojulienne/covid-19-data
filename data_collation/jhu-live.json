@@ -542,7 +542,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 396887,
+          "confirmed": 400885,
           "date": "2022-03-19",
           "deaths": 2349
         }
@@ -577,9 +577,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 754219,
+          "confirmed": 756937,
           "date": "2022-03-19",
-          "deaths": 5149
+          "deaths": 5151
         }
       },
       "Sachsen": {
@@ -1255,9 +1255,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2810630,
+      "confirmed": 2813798,
       "date": "2022-03-19",
-      "deaths": 64625
+      "deaths": 64669
     }
   },
   "Russia": {
