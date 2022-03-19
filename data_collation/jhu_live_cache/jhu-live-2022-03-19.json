@@ -54,7 +54,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 543089,
+      "confirmed": 543835,
       "date": "2022-03-19",
       "deaths": 1465
     }
@@ -377,35 +377,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 917407,
+          "confirmed": 917451,
           "date": "2022-03-19",
           "deaths": 18220
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 401901,
+          "confirmed": 401908,
           "date": "2022-03-19",
           "deaths": 10120
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1763889,
+          "confirmed": 1764273,
           "date": "2022-03-19",
           "deaths": 29283
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 317695,
+          "confirmed": 317715,
           "date": "2022-03-19",
           "deaths": 7269
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 539882,
+          "confirmed": 539931,
           "date": "2022-03-19",
           "deaths": 14990
         }
@@ -428,16 +428,16 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1079853,
+      "confirmed": 1080686,
       "date": "2022-03-19",
-      "deaths": 8504
+      "deaths": 8506
     }
   },
   "Cyprus": {
     "live": {
-      "confirmed": 370311,
+      "confirmed": 373658,
       "date": "2022-03-19",
-      "deaths": 915
+      "deaths": 916
     }
   },
   "Czechia": {
@@ -456,7 +456,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 577241,
+      "confirmed": 577317,
       "date": "2022-03-19",
       "deaths": 4375
     }
@@ -983,7 +983,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 323255,
+      "confirmed": 323272,
       "date": "2022-03-19",
       "deaths": 5647
     }
@@ -997,7 +997,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 626993,
+      "confirmed": 627143,
       "date": "2022-03-19",
       "deaths": 2553
     }
@@ -1011,9 +1011,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1087387,
+      "confirmed": 1087835,
       "date": "2022-03-19",
-      "deaths": 10237
+      "deaths": 10243
     }
   },
   "Libya": {
@@ -1584,7 +1584,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2964321,
+          "confirmed": 2965252,
           "date": "2022-03-19",
           "deaths": 45900
         }
