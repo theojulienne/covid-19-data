@@ -821,9 +821,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3751042,
+      "confirmed": 3758173,
       "date": "2022-03-19",
-      "deaths": 10417
+      "deaths": 10419
     }
   },
   "Italy": {
@@ -1103,9 +1103,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1162374,
+      "confirmed": 1162444,
       "date": "2022-03-19",
-      "deaths": 16050
+      "deaths": 16051
     }
   },
   "Nepal": {
@@ -1473,9 +1473,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 657723,
+      "confirmed": 657961,
       "date": "2022-03-19",
-      "deaths": 16422
+      "deaths": 16426
     }
   },
   "Sweden": {
