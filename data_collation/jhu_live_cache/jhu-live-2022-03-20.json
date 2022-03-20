@@ -1004,9 +1004,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 769131,
+      "confirmed": 771038,
       "date": "2022-03-20",
-      "deaths": 5507
+      "deaths": 5511
     }
   },
   "Lebanon": {
@@ -1234,9 +1234,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3673717,
+      "confirmed": 3674286,
       "date": "2022-03-20",
-      "deaths": 58023
+      "deaths": 58263
     }
   },
   "Poland": {
