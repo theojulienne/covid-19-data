@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 2999923,
+      "confirmed": 3004907,
       "date": "2022-03-20",
-      "deaths": 5375
+      "deaths": 5402
     }
   },
   "Dominican Republic": {
@@ -521,7 +521,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 3528207,
+          "confirmed": 3528758,
           "date": "2022-03-20",
           "deaths": 22088
         }
@@ -800,16 +800,16 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 7139217,
+      "confirmed": 7141033,
       "date": "2022-03-20",
-      "deaths": 139550
+      "deaths": 139610
     }
   },
   "Iraq": {
     "live": {
-      "confirmed": 2315791,
+      "confirmed": 2316044,
       "date": "2022-03-20",
-      "deaths": 25127
+      "deaths": 25129
     }
   },
   "Ireland": {
@@ -1364,9 +1364,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1007158,
+      "confirmed": 1015017,
       "date": "2022-03-20",
-      "deaths": 1194
+      "deaths": 1198
     }
   },
   "Slovakia": {
@@ -1584,9 +1584,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2965252,
+          "confirmed": 2965989,
           "date": "2022-03-20",
-          "deaths": 45900
+          "deaths": 45903
         }
       },
       "Pennsylvania": {
