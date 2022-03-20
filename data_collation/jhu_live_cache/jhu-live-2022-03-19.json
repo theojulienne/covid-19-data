@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1570591,
+          "confirmed": 1587348,
           "date": "2022-03-19",
-          "deaths": 2017
+          "deaths": 2021
         }
       },
       "Queensland": {
@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1171736,
+          "confirmed": 1178430,
           "date": "2022-03-19",
           "deaths": 2675
         }
