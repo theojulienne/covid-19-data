@@ -248,18 +248,18 @@
     },
     "AUT": {
       "back_1week": {
-        "confirmed": 3071402,
-        "deaths": 15163,
+        "confirmed": 3115867,
+        "deaths": 15180,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2808008,
-        "deaths": 14960,
+        "confirmed": 2839297,
+        "deaths": 14986,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3387012,
-        "deaths": 15344,
+        "confirmed": 3429011,
+        "deaths": 15387,
         "recovered": 0
       }
     },
