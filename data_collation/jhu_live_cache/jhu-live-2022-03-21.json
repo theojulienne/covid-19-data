@@ -1193,14 +1193,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 504393,
+          "confirmed": 504442,
           "date": "2022-03-21",
-          "deaths": 13548
+          "deaths": 13550
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 573579,
+          "confirmed": 573753,
           "date": "2022-03-21",
           "deaths": 8091
         }
