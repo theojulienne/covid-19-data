@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 951081,
+      "confirmed": 951758,
       "date": "2022-03-21",
-      "deaths": 6722
+      "deaths": 6727
     }
   },
   "Belgium": {
@@ -1110,7 +1110,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 978155,
+      "confirmed": 978196,
       "date": "2022-03-21",
       "deaths": 11950
     }
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3268953,
       "date": "2022-03-21",
-      "deaths": 13429
+      "deaths": 13433
     }
   },
   "Thailand": {
