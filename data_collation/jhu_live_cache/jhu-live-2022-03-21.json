@@ -135,9 +135,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 373985,
+      "confirmed": 374276,
       "date": "2022-03-21",
-      "deaths": 15664
+      "deaths": 15677
     }
   },
   "Brazil": {
@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1147405,
+          "confirmed": 1148400,
           "date": "2022-03-21",
-          "deaths": 12379
+          "deaths": 12382
         }
       },
       "Quebec": {
@@ -348,16 +348,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 335308,
+          "confirmed": 336270,
           "date": "2022-03-21",
-          "deaths": 3411
+          "deaths": 4087
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1298215,
+          "confirmed": 1300866,
           "date": "2022-03-21",
-          "deaths": 21699
+          "deaths": 27746
         }
       }
     }
@@ -800,16 +800,16 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 7141033,
+      "confirmed": 7142287,
       "date": "2022-03-21",
-      "deaths": 139610
+      "deaths": 139662
     }
   },
   "Iraq": {
     "live": {
-      "confirmed": 2316044,
+      "confirmed": 2316306,
       "date": "2022-03-21",
-      "deaths": 25129
+      "deaths": 25131
     }
   },
   "Ireland": {
@@ -983,7 +983,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 323281,
+      "confirmed": 323289,
       "date": "2022-03-21",
       "deaths": 5647
     }
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3329950,
       "date": "2022-03-21",
-      "deaths": 13433
+      "deaths": 13446
     }
   },
   "Thailand": {
@@ -1526,9 +1526,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14693917,
+      "confirmed": 14708850,
       "date": "2022-03-21",
-      "deaths": 97267
+      "deaths": 97347
     }
   },
   "US": {
@@ -1544,7 +1544,7 @@
         "live": {
           "confirmed": 5729783,
           "date": "2022-03-21",
-          "deaths": 58865
+          "deaths": 58867
         }
       },
       "Florida": {
@@ -1584,9 +1584,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2966948,
+          "confirmed": 2967236,
           "date": "2022-03-21",
-          "deaths": 45897
+          "deaths": 45898
         }
       },
       "Pennsylvania": {
@@ -1692,9 +1692,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 7958048,
+      "confirmed": 8089761,
       "date": "2022-03-21",
-      "deaths": 41880
+      "deaths": 41949
     }
   },
   "West Bank and Gaza": {
