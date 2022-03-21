@@ -128,9 +128,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 899697,
+      "confirmed": 899787,
       "date": "2022-03-21",
-      "deaths": 21482
+      "deaths": 21483
     }
   },
   "Bosnia and Herzegovina": {
@@ -976,7 +976,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1393427,
+      "confirmed": 1393456,
       "date": "2022-03-21",
       "deaths": 19001
     }

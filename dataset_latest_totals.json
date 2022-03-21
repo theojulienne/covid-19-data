@@ -469,17 +469,17 @@
     },
     "BOL": {
       "back_1week": {
-        "confirmed": 897351,
+        "confirmed": 897489,
         "deaths": 21473,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 894551,
-        "deaths": 21455,
+        "confirmed": 895098,
+        "deaths": 21463,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 899524,
+        "confirmed": 899697,
         "deaths": 21482,
         "recovered": 0
       }
@@ -1953,12 +1953,12 @@
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1391984,
+        "confirmed": 1392011,
         "deaths": 18967,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1393369,
+        "confirmed": 1393427,
         "deaths": 19001,
         "recovered": 0
       }
