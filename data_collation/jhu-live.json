@@ -339,7 +339,7 @@
         "live": {
           "confirmed": 944596,
           "date": "2022-03-21",
-          "deaths": 14260
+          "deaths": 14265
         }
       }
     }
@@ -814,9 +814,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1365467,
+      "confirmed": 1390177,
       "date": "2022-03-21",
-      "deaths": 6638
+      "deaths": 6664
     }
   },
   "Israel": {
@@ -1364,9 +1364,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1015017,
+      "confirmed": 1022555,
       "date": "2022-03-21",
-      "deaths": 1198
+      "deaths": 1208
     }
   },
   "Slovakia": {
