@@ -172,9 +172,9 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 1034422,
+          "confirmed": 1034457,
           "date": "2022-03-21",
-          "deaths": 14299
+          "deaths": 14300
         }
       },
       "Goias": {
@@ -193,9 +193,9 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 720868,
+          "confirmed": 721235,
           "date": "2022-03-21",
-          "deaths": 14840
+          "deaths": 14841
         }
       },
       "Mato Grosso do Sul": {
@@ -214,16 +214,16 @@
       },
       "Para": {
         "live": {
-          "confirmed": 744300,
+          "confirmed": 744882,
           "date": "2022-03-21",
-          "deaths": 18032
+          "deaths": 18036
         }
       },
       "Paraiba": {
         "live": {
-          "confirmed": 591852,
+          "confirmed": 592205,
           "date": "2022-03-21",
-          "deaths": 10172
+          "deaths": 10174
         }
       },
       "Parana": {
@@ -242,9 +242,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 367206,
+          "confirmed": 367207,
           "date": "2022-03-21",
-          "deaths": 7714
+          "deaths": 7716
         }
       },
       "Rio Grande do Norte": {
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 815776,
+      "confirmed": 816136,
       "date": "2022-03-21",
-      "deaths": 17231
+      "deaths": 17238
     }
   },
   "Honduras": {
@@ -1170,9 +1170,9 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 483222,
+      "confirmed": 497731,
       "date": "2022-03-21",
-      "deaths": 151
+      "deaths": 163
     }
   },
   "Norway": {
