@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1587348,
+          "confirmed": 1602318,
           "date": "2022-03-20",
-          "deaths": 2021
+          "deaths": 2025
         }
       },
       "Queensland": {
@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1178237,
+          "confirmed": 1185768,
           "date": "2022-03-20",
           "deaths": 2675
         }
@@ -379,21 +379,21 @@
         "live": {
           "confirmed": 917471,
           "date": "2022-03-20",
-          "deaths": 18221
+          "deaths": 18222
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 401919,
           "date": "2022-03-20",
-          "deaths": 10121
+          "deaths": 10122
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1764497,
           "date": "2022-03-20",
-          "deaths": 29291
+          "deaths": 29304
         }
       },
       "Cundinamarca": {
@@ -407,7 +407,7 @@
         "live": {
           "confirmed": 539988,
           "date": "2022-03-20",
-          "deaths": 14990
+          "deaths": 14992
         }
       }
     }
@@ -1216,9 +1216,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 646968,
+      "confirmed": 647099,
       "date": "2022-03-20",
-      "deaths": 18577
+      "deaths": 18586
     }
   },
   "Peru": {
