@@ -330,7 +330,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1148400,
+          "confirmed": 1149464,
           "date": "2022-03-21",
           "deaths": 12382
         }
@@ -428,9 +428,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1081472,
+      "confirmed": 1082201,
       "date": "2022-03-21",
-      "deaths": 8506
+      "deaths": 8507
     }
   },
   "Cyprus": {
@@ -1103,7 +1103,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1162497,
+      "confirmed": 1162539,
       "date": "2022-03-21",
       "deaths": 16052
     }
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3329950,
       "date": "2022-03-21",
-      "deaths": 13446
+      "deaths": 13445
     }
   },
   "Thailand": {
@@ -1605,9 +1605,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 340606,
+          "confirmed": 340769,
           "date": "2022-03-21",
-          "deaths": 1590
+          "deaths": 1592
         }
       },
       "Washington": {
