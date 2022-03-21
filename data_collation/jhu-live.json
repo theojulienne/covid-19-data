@@ -505,9 +505,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 1641874,
+      "confirmed": 1642242,
       "date": "2022-03-21",
-      "deaths": 16663
+      "deaths": 16671
     }
   },
   "Germany": {
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3268953,
       "date": "2022-03-21",
-      "deaths": 13423
+      "deaths": 13424
     }
   },
   "Thailand": {
