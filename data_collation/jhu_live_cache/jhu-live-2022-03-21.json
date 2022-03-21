@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 666182,
+          "confirmed": 672275,
           "date": "2022-03-21",
-          "deaths": 683
+          "deaths": 685
         }
       },
       "Victoria": {
@@ -990,9 +990,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 9373646,
+      "confirmed": 9582815,
       "date": "2022-03-21",
-      "deaths": 12428
+      "deaths": 12757
     }
   },
   "Kuwait": {
@@ -1512,9 +1512,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3353969,
+      "confirmed": 3377410,
       "date": "2022-03-21",
-      "deaths": 24246
+      "deaths": 24334
     }
   },
   "Tunisia": {
@@ -1685,9 +1685,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 519558,
+      "confirmed": 519670,
       "date": "2022-03-21",
-      "deaths": 5667
+      "deaths": 5668
     }
   },
   "Vietnam": {
