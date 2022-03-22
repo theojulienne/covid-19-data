@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 672275,
+          "confirmed": 681130,
           "date": "2022-03-22",
-          "deaths": 685
+          "deaths": 694
         }
       },
       "Victoria": {
@@ -414,9 +414,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 829400,
+      "confirmed": 831152,
       "date": "2022-03-22",
-      "deaths": 8226
+      "deaths": 8244
     }
   },
   "Croatia": {
@@ -463,7 +463,7 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 853850,
+      "confirmed": 854252,
       "date": "2022-03-22",
       "deaths": 35410
     }
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 816136,
+      "confirmed": 816653,
       "date": "2022-03-22",
-      "deaths": 17238
+      "deaths": 17241
     }
   },
   "Honduras": {
@@ -1066,21 +1066,21 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1379873,
+          "confirmed": 1380104,
           "date": "2022-03-22",
-          "deaths": 42529
+          "deaths": 42531
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 536209,
+          "confirmed": 536226,
           "date": "2022-03-22",
-          "deaths": 47000
+          "deaths": 47004
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 311921,
+          "confirmed": 311929,
           "date": "2022-03-22",
           "deaths": 14916
         }
@@ -1512,9 +1512,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3377410,
+      "confirmed": 3398792,
       "date": "2022-03-22",
-      "deaths": 24334
+      "deaths": 24417
     }
   },
   "Tunisia": {
@@ -1542,9 +1542,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5733646,
+          "confirmed": 5735715,
           "date": "2022-03-22",
-          "deaths": 58867
+          "deaths": 58896
         }
       },
       "Florida": {
