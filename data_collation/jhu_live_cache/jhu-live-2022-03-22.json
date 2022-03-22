@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1150594,
+          "confirmed": 1151014,
           "date": "2022-03-22",
-          "deaths": 12389
+          "deaths": 12391
         }
       },
       "Quebec": {
@@ -456,7 +456,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 577354,
+      "confirmed": 577476,
       "date": "2022-03-22",
       "deaths": 4375
     }
@@ -628,9 +628,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 418300,
+      "confirmed": 418460,
       "date": "2022-03-22",
-      "deaths": 10857
+      "deaths": 10863
     }
   },
   "Hungary": {
@@ -1584,7 +1584,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2967892,
+          "confirmed": 2968417,
           "date": "2022-03-22",
           "deaths": 45909
         }
@@ -1605,9 +1605,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 340769,
+          "confirmed": 340797,
           "date": "2022-03-22",
-          "deaths": 1592
+          "deaths": 1602
         }
       },
       "Washington": {
