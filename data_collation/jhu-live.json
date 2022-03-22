@@ -793,9 +793,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 5967182,
+      "confirmed": 5974646,
       "date": "2022-03-22",
-      "deaths": 153892
+      "deaths": 154062
     }
   },
   "Iran": {
@@ -1004,9 +1004,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 772390,
+      "confirmed": 777201,
       "date": "2022-03-22",
-      "deaths": 5514
+      "deaths": 5525
     }
   },
   "Lebanon": {
@@ -1110,9 +1110,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 978196,
+      "confirmed": 978231,
       "date": "2022-03-22",
-      "deaths": 11950
+      "deaths": 11951
     }
   },
   "Netherlands": {
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3329950,
       "date": "2022-03-22",
-      "deaths": 13448
+      "deaths": 13449
     }
   },
   "Thailand": {
@@ -1639,7 +1639,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 888070,
+      "confirmed": 888386,
       "date": "2022-03-22",
       "deaths": 2302
     }
