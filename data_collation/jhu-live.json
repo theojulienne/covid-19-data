@@ -442,9 +442,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3740174,
+      "confirmed": 3750636,
       "date": "2022-03-22",
-      "deaths": 39374
+      "deaths": 39418
     }
   },
   "Denmark": {
@@ -1209,9 +1209,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 761508,
+      "confirmed": 761643,
       "date": "2022-03-22",
-      "deaths": 8156
+      "deaths": 8159
     }
   },
   "Paraguay": {
