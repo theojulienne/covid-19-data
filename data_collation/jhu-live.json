@@ -307,9 +307,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 609288,
+      "confirmed": 609648,
       "date": "2022-03-22",
-      "deaths": 19425
+      "deaths": 19427
     }
   },
   "Canada": {
@@ -514,9 +514,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2747979,
+          "confirmed": 2787577,
           "date": "2022-03-22",
-          "deaths": 14813
+          "deaths": 14846
         }
       },
       "Bayern": {
@@ -814,9 +814,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1390177,
+      "confirmed": 1397885,
       "date": "2022-03-22",
-      "deaths": 6664
+      "deaths": 6680
     }
   },
   "Israel": {
@@ -1103,9 +1103,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1162539,
+      "confirmed": 1162626,
       "date": "2022-03-22",
-      "deaths": 16052
+      "deaths": 16053
     }
   },
   "Nepal": {
@@ -1542,9 +1542,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5735715,
+          "confirmed": 5735933,
           "date": "2022-03-22",
-          "deaths": 58896
+          "deaths": 58900
         }
       },
       "Florida": {
@@ -1584,9 +1584,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2967689,
+          "confirmed": 2967892,
           "date": "2022-03-22",
-          "deaths": 45899
+          "deaths": 45909
         }
       },
       "Pennsylvania": {
@@ -1648,30 +1648,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 17117061,
+          "confirmed": 17191749,
           "date": "2022-03-22",
-          "deaths": 142209
+          "deaths": 142409
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 668795,
+          "confirmed": 671694,
           "date": "2022-03-22",
-          "deaths": 3274
+          "deaths": 3282
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 1693308,
+          "confirmed": 1705109,
           "date": "2022-03-22",
-          "deaths": 11126
+          "deaths": 11163
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 840270,
+          "confirmed": 845179,
           "date": "2022-03-22",
-          "deaths": 7070
+          "deaths": 7075
         }
       }
     }
