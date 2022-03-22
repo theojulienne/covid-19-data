@@ -1132,18 +1132,18 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 2950605,
-        "deaths": 5175,
+        "confirmed": 2958497,
+        "deaths": 5196,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2864063,
-        "deaths": 4868,
+        "confirmed": 2876288,
+        "deaths": 4905,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3004907,
-        "deaths": 5402,
+        "confirmed": 3010128,
+        "deaths": 5430,
         "recovered": 0
       },
       "states": {

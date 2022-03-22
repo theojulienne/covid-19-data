@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 3010128,
+      "confirmed": 3017529,
       "date": "2022-03-22",
-      "deaths": 5430
+      "deaths": 5460
     }
   },
   "Dominican Republic": {
@@ -1066,21 +1066,21 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1380104,
+          "confirmed": 1380314,
           "date": "2022-03-22",
-          "deaths": 42531
+          "deaths": 42539
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 536226,
+          "confirmed": 536257,
           "date": "2022-03-22",
-          "deaths": 47004
+          "deaths": 47006
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 311929,
+          "confirmed": 311935,
           "date": "2022-03-22",
           "deaths": 14916
         }
@@ -1598,7 +1598,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2679112,
+          "confirmed": 2679252,
           "date": "2022-03-22",
           "deaths": 29318
         }
