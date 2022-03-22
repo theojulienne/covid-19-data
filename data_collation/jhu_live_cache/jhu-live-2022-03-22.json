@@ -40,9 +40,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 3498075,
+      "confirmed": 3532415,
       "date": "2022-03-22",
-      "deaths": 15432
+      "deaths": 15487
     }
   },
   "Azerbaijan": {
@@ -491,7 +491,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 812017,
+      "confirmed": 812224,
       "date": "2022-03-22",
       "deaths": 2881
     }
@@ -1184,7 +1184,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 387627,
+      "confirmed": 387730,
       "date": "2022-03-22",
       "deaths": 4250
     }
@@ -1241,9 +1241,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5895304,
+      "confirmed": 5905463,
       "date": "2022-03-22",
-      "deaths": 114221
+      "deaths": 114355
     }
   },
   "Portugal": {
@@ -1350,9 +1350,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 749730,
+      "confirmed": 749855,
       "date": "2022-03-22",
-      "deaths": 9030
+      "deaths": 9032
     }
   },
   "Serbia": {
@@ -1371,9 +1371,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2355564,
+      "confirmed": 2366902,
       "date": "2022-03-22",
-      "deaths": 19133
+      "deaths": 19161
     }
   },
   "Slovenia": {
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3329950,
       "date": "2022-03-22",
-      "deaths": 13447
+      "deaths": 13448
     }
   },
   "Thailand": {
@@ -1706,7 +1706,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 315892,
+      "confirmed": 316088,
       "date": "2022-03-22",
       "deaths": 3963
     }
