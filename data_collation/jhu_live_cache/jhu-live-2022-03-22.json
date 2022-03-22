@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 9011367,
+      "confirmed": 9016057,
       "date": "2022-03-22",
-      "deaths": 127599
+      "deaths": 127675
     }
   },
   "Armenia": {
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3353754,
       "date": "2022-03-22",
-      "deaths": 13455
+      "deaths": 13456
     }
   },
   "Thailand": {
