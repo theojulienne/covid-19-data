@@ -172,14 +172,14 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 1034598,
+          "confirmed": 1034922,
           "date": "2022-03-22",
-          "deaths": 14300
+          "deaths": 14307
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 1249777,
+          "confirmed": 1250989,
           "date": "2022-03-22",
           "deaths": 26067
         }
@@ -193,9 +193,9 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 721235,
+          "confirmed": 721678,
           "date": "2022-03-22",
-          "deaths": 14841
+          "deaths": 14847
         }
       },
       "Mato Grosso do Sul": {
@@ -214,9 +214,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 744882,
+          "confirmed": 746083,
           "date": "2022-03-22",
-          "deaths": 18036
+          "deaths": 18045
         }
       },
       "Paraiba": {
@@ -242,7 +242,7 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 367207,
+          "confirmed": 367257,
           "date": "2022-03-22",
           "deaths": 7716
         }
@@ -379,7 +379,7 @@
         "live": {
           "confirmed": 917492,
           "date": "2022-03-22",
-          "deaths": 18222
+          "deaths": 18225
         }
       },
       "Atlantico": {
@@ -393,7 +393,7 @@
         "live": {
           "confirmed": 1764710,
           "date": "2022-03-22",
-          "deaths": 29304
+          "deaths": 29307
         }
       },
       "Cundinamarca": {
@@ -407,7 +407,7 @@
         "live": {
           "confirmed": 540054,
           "date": "2022-03-22",
-          "deaths": 14992
+          "deaths": 14997
         }
       }
     }
@@ -990,14 +990,14 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 9582815,
+      "confirmed": 9936540,
       "date": "2022-03-22",
-      "deaths": 12757
+      "deaths": 13141
     }
   },
   "Kuwait": {
     "live": {
-      "confirmed": 627342,
+      "confirmed": 627584,
       "date": "2022-03-22",
       "deaths": 2553
     }
@@ -1170,9 +1170,9 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 497731,
+      "confirmed": 518685,
       "date": "2022-03-22",
-      "deaths": 163
+      "deaths": 177
     }
   },
   "Norway": {
