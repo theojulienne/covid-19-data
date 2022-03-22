@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 951758,
+      "confirmed": 952254,
       "date": "2022-03-22",
-      "deaths": 6727
+      "deaths": 6737
     }
   },
   "Belgium": {
@@ -421,9 +421,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1084304,
+      "confirmed": 1085558,
       "date": "2022-03-22",
-      "deaths": 15451
+      "deaths": 15463
     }
   },
   "Cuba": {
@@ -477,9 +477,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 543053,
+      "confirmed": 545057,
       "date": "2022-03-22",
-      "deaths": 2397
+      "deaths": 2399
     }
   },
   "Ethiopia": {
@@ -1234,9 +1234,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3674694,
+      "confirmed": 3674983,
       "date": "2022-03-22",
-      "deaths": 58276
+      "deaths": 58281
     }
   },
   "Poland": {
@@ -1262,9 +1262,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2818275,
+      "confirmed": 2823415,
       "date": "2022-03-22",
-      "deaths": 64697
+      "deaths": 64749
     }
   },
   "Russia": {
@@ -1378,9 +1378,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 937936,
+      "confirmed": 942954,
       "date": "2022-03-22",
-      "deaths": 6449
+      "deaths": 6451
     }
   },
   "South Africa": {
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3329950,
       "date": "2022-03-22",
-      "deaths": 13449
+      "deaths": 13450
     }
   },
   "Thailand": {
