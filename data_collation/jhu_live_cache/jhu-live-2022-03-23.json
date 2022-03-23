@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 946886,
+          "confirmed": 948997,
           "date": "2022-03-23",
           "deaths": 14274
         }
@@ -498,9 +498,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 23676973,
+      "confirmed": 23822533,
       "date": "2022-03-23",
-      "deaths": 138111
+      "deaths": 138212
     }
   },
   "Georgia": {
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 818454,
+      "confirmed": 820477,
       "date": "2022-03-23",
-      "deaths": 17253
+      "deaths": 17258
     }
   },
   "Honduras": {
@@ -1556,9 +1556,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1122376,
+          "confirmed": 1122841,
           "date": "2022-03-23",
-          "deaths": 14219
+          "deaths": 14226
         }
       },
       "Massachusetts": {
@@ -1577,16 +1577,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 533423,
+          "confirmed": 534168,
           "date": "2022-03-23",
-          "deaths": 7673
+          "deaths": 7739
         }
       },
       "New York": {
         "live": {
           "confirmed": 2968905,
           "date": "2022-03-23",
-          "deaths": 45917
+          "deaths": 45918
         }
       },
       "Pennsylvania": {
