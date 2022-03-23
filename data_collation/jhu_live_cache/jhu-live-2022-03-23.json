@@ -135,9 +135,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 374276,
+      "confirmed": 374426,
       "date": "2022-03-23",
-      "deaths": 15677
+      "deaths": 15685
     }
   },
   "Brazil": {
@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1140912,
+          "confirmed": 1151014,
           "date": "2022-03-23",
-          "deaths": 12343
+          "deaths": 12391
         }
       },
       "Quebec": {
@@ -514,51 +514,51 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2787577,
+          "confirmed": 2787655,
           "date": "2022-03-23",
           "deaths": 14846
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 3593915,
+          "confirmed": 3642250,
           "date": "2022-03-23",
-          "deaths": 22144
+          "deaths": 22213
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 846978,
+          "confirmed": 858503,
           "date": "2022-03-23",
-          "deaths": 4325
+          "deaths": 4332
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 636607,
+          "confirmed": 644679,
           "date": "2022-03-23",
-          "deaths": 5352
+          "deaths": 5366
         }
       },
       "Hamburg": {
         "live": {
           "confirmed": 408055,
           "date": "2022-03-23",
-          "deaths": 2351
+          "deaths": 2358
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 1296624,
+          "confirmed": 1313157,
           "date": "2022-03-23",
-          "deaths": 9503
+          "deaths": 9517
         }
       },
       "Mecklenburg-Vorpommern": {
         "live": {
-          "confirmed": 346204,
+          "confirmed": 353597,
           "date": "2022-03-23",
-          "deaths": 1911
+          "deaths": 1921
         }
       },
       "Niedersachsen": {
@@ -1193,14 +1193,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 504507,
+          "confirmed": 504577,
           "date": "2022-03-23",
           "deaths": 13551
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 573850,
+          "confirmed": 574157,
           "date": "2022-03-23",
           "deaths": 8092
         }
@@ -1255,7 +1255,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 360109,
+      "confirmed": 360251,
       "date": "2022-03-23",
       "deaths": 677
     }
@@ -1512,16 +1512,16 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3398792,
+      "confirmed": 3423956,
       "date": "2022-03-23",
-      "deaths": 24417
+      "deaths": 24497
     }
   },
   "Tunisia": {
     "live": {
-      "confirmed": 1029762,
+      "confirmed": 1033731,
       "date": "2022-03-23",
-      "deaths": 28065
+      "deaths": 28165
     }
   },
   "Turkey": {
@@ -1685,9 +1685,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 519724,
+      "confirmed": 519797,
       "date": "2022-03-23",
-      "deaths": 5670
+      "deaths": 5671
     }
   },
   "Vietnam": {
