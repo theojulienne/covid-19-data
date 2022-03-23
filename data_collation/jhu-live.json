@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 681130,
+          "confirmed": 691606,
           "date": "2022-03-23",
-          "deaths": 694
+          "deaths": 701
         }
       },
       "Victoria": {
@@ -379,7 +379,7 @@
         "live": {
           "confirmed": 917505,
           "date": "2022-03-23",
-          "deaths": 18225
+          "deaths": 18227
         }
       },
       "Atlantico": {
@@ -393,21 +393,21 @@
         "live": {
           "confirmed": 1764774,
           "date": "2022-03-23",
-          "deaths": 29307
+          "deaths": 29310
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 317824,
           "date": "2022-03-23",
-          "deaths": 7269
+          "deaths": 7270
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 540076,
           "date": "2022-03-23",
-          "deaths": 14997
+          "deaths": 14999
         }
       }
     }
@@ -1209,7 +1209,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 761643,
+      "confirmed": 762008,
       "date": "2022-03-23",
       "deaths": 8159
     }
@@ -1473,9 +1473,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 658493,
+      "confirmed": 659859,
       "date": "2022-03-23",
-      "deaths": 16436
+      "deaths": 16440
     }
   },
   "Sweden": {
