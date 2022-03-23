@@ -339,7 +339,7 @@
         "live": {
           "confirmed": 946886,
           "date": "2022-03-23",
-          "deaths": 14272
+          "deaths": 14274
         }
       }
     }
@@ -348,16 +348,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 337077,
+          "confirmed": 338505,
           "date": "2022-03-23",
           "deaths": 4087
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1302508,
+          "confirmed": 1305707,
           "date": "2022-03-23",
-          "deaths": 27757
+          "deaths": 27773
         }
       }
     }
@@ -1591,7 +1591,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 307142,
+          "confirmed": 307160,
           "date": "2022-03-23",
           "deaths": 5045
         }
