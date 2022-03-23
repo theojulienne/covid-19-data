@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 952254,
+      "confirmed": 953901,
       "date": "2022-03-23",
-      "deaths": 6737
+      "deaths": 6747
     }
   },
   "Belgium": {
@@ -366,9 +366,9 @@
     "subseries": {
       "Hong Kong": {
         "live": {
-          "confirmed": 1075910,
+          "confirmed": 1088150,
           "date": "2022-03-23",
-          "deaths": 6364
+          "deaths": 6569
         }
       }
     }
@@ -800,9 +800,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 7143409,
+      "confirmed": 7144532,
       "date": "2022-03-23",
-      "deaths": 139735
+      "deaths": 139802
     }
   },
   "Iraq": {
@@ -1255,7 +1255,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 360251,
+      "confirmed": 360382,
       "date": "2022-03-23",
       "deaths": 677
     }
@@ -1505,9 +1505,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 3353754,
+      "confirmed": 3379845,
       "date": "2022-03-23",
-      "deaths": 13460
+      "deaths": 13462
     }
   },
   "Thailand": {
