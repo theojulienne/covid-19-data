@@ -491,9 +491,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 812224,
+      "confirmed": 821536,
       "date": "2022-03-23",
-      "deaths": 2881
+      "deaths": 2948
     }
   },
   "France": {
@@ -932,28 +932,28 @@
       },
       "Hyogo": {
         "live": {
-          "confirmed": 316820,
+          "confirmed": 316818,
           "date": "2022-03-23",
           "deaths": 2046
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 568149,
+          "confirmed": 568148,
           "date": "2022-03-23",
           "deaths": 1960
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 760910,
+          "confirmed": 760903,
           "date": "2022-03-23",
           "deaths": 4498
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 396305,
+          "confirmed": 396304,
           "date": "2022-03-23",
           "deaths": 1306
         }
@@ -1184,7 +1184,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 387730,
+      "confirmed": 387829,
       "date": "2022-03-23",
       "deaths": 4250
     }
@@ -1241,9 +1241,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5905463,
+      "confirmed": 5915888,
       "date": "2022-03-23",
-      "deaths": 114355
+      "deaths": 114480
     }
   },
   "Portugal": {
@@ -1350,9 +1350,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 749855,
+      "confirmed": 749965,
       "date": "2022-03-23",
-      "deaths": 9032
+      "deaths": 9033
     }
   },
   "Serbia": {
@@ -1371,16 +1371,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2366902,
+      "confirmed": 2379094,
       "date": "2022-03-23",
-      "deaths": 19161
+      "deaths": 19185
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 942954,
+      "confirmed": 946340,
       "date": "2022-03-23",
-      "deaths": 6451
+      "deaths": 6454
     }
   },
   "South Africa": {
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3353754,
       "date": "2022-03-23",
-      "deaths": 13456
+      "deaths": 13459
     }
   },
   "Thailand": {
