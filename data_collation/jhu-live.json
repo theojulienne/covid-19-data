@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1151014,
+          "confirmed": 1152692,
           "date": "2022-03-23",
-          "deaths": 12391
+          "deaths": 12400
         }
       },
       "Quebec": {
@@ -428,7 +428,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1082880,
+      "confirmed": 1083691,
       "date": "2022-03-23",
       "deaths": 8508
     }
@@ -918,51 +918,51 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 390735,
+          "confirmed": 393893,
           "date": "2022-03-23",
-          "deaths": 1918
+          "deaths": 1924
         }
       },
       "Chiba": {
         "live": {
-          "confirmed": 334860,
+          "confirmed": 336921,
           "date": "2022-03-23",
-          "deaths": 1606
+          "deaths": 1611
         }
       },
       "Hyogo": {
         "live": {
-          "confirmed": 316818,
+          "confirmed": 318922,
           "date": "2022-03-23",
-          "deaths": 2046
+          "deaths": 2056
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 568148,
+          "confirmed": 570979,
           "date": "2022-03-23",
-          "deaths": 1960
+          "deaths": 1970
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 760903,
+          "confirmed": 765693,
           "date": "2022-03-23",
-          "deaths": 4498
+          "deaths": 4527
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 396304,
+          "confirmed": 398418,
           "date": "2022-03-23",
-          "deaths": 1306
+          "deaths": 1318
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1182871,
+          "confirmed": 1189301,
           "date": "2022-03-23",
-          "deaths": 4073
+          "deaths": 4087
         }
       }
     }
@@ -1089,9 +1089,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 510973,
+      "confirmed": 511231,
       "date": "2022-03-23",
-      "deaths": 11392
+      "deaths": 11401
     }
   },
   "Mongolia": {
@@ -1357,16 +1357,16 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1959699,
+      "confirmed": 1962013,
       "date": "2022-03-23",
-      "deaths": 15706
+      "deaths": 15718
     }
   },
   "Singapore": {
     "live": {
-      "confirmed": 1035721,
+      "confirmed": 1044661,
       "date": "2022-03-23",
-      "deaths": 1214
+      "deaths": 1220
     }
   },
   "Slovakia": {
@@ -1473,9 +1473,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 659859,
+      "confirmed": 660151,
       "date": "2022-03-23",
-      "deaths": 16440
+      "deaths": 16445
     }
   },
   "Sweden": {
@@ -1526,9 +1526,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14726276,
+      "confirmed": 14743437,
       "date": "2022-03-23",
-      "deaths": 97437
+      "deaths": 97521
     }
   },
   "US": {
@@ -1544,7 +1544,7 @@
         "live": {
           "confirmed": 5738081,
           "date": "2022-03-23",
-          "deaths": 58938
+          "deaths": 58948
         }
       },
       "Florida": {
@@ -1570,9 +1570,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 396801,
+          "confirmed": 397156,
           "date": "2022-03-23",
-          "deaths": 7823
+          "deaths": 7847
         }
       },
       "Nevada": {
