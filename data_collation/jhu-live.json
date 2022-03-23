@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 791545,
+      "confirmed": 791583,
       "date": "2022-03-23",
-      "deaths": 9666
+      "deaths": 9670
     }
   },
   "Bahrain": {
@@ -521,7 +521,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 3642250,
+          "confirmed": 3643885,
           "date": "2022-03-23",
           "deaths": 22213
         }
@@ -614,9 +614,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2838891,
+      "confirmed": 2861993,
       "date": "2022-03-23",
-      "deaths": 27029
+      "deaths": 27083
     }
   },
   "Guatemala": {
@@ -1119,51 +1119,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 917821,
+          "confirmed": 924634,
           "date": "2022-03-23",
-          "deaths": 2726
+          "deaths": 2731
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 505954,
+          "confirmed": 507998,
           "date": "2022-03-23",
-          "deaths": 2126
+          "deaths": 2127
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 1183513,
+          "confirmed": 1187960,
           "date": "2022-03-23",
-          "deaths": 3639
+          "deaths": 3640
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 1240910,
+          "confirmed": 1247755,
           "date": "2022-03-23",
-          "deaths": 3296
+          "deaths": 3298
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 525697,
+          "confirmed": 529332,
           "date": "2022-03-23",
-          "deaths": 1388
+          "deaths": 1389
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 620922,
+          "confirmed": 624426,
           "date": "2022-03-23",
-          "deaths": 1514
+          "deaths": 1515
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1586459,
+          "confirmed": 1594822,
           "date": "2022-03-23",
-          "deaths": 5035
+          "deaths": 5039
         }
       }
     }
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3379845,
       "date": "2022-03-23",
-      "deaths": 13465
+      "deaths": 13483
     }
   },
   "Thailand": {
@@ -1598,9 +1598,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2682284,
+          "confirmed": 2682457,
           "date": "2022-03-23",
-          "deaths": 29344
+          "deaths": 29350
         }
       },
       "Utah": {
