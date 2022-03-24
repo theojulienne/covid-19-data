@@ -61,7 +61,7 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1950980,
+      "confirmed": 1951072,
       "date": "2022-03-24",
       "deaths": 29118
     }
@@ -366,9 +366,9 @@
     "subseries": {
       "Hong Kong": {
         "live": {
-          "confirmed": 1088150,
+          "confirmed": 1101224,
           "date": "2022-03-24",
-          "deaths": 6569
+          "deaths": 6770
         }
       }
     }
@@ -542,7 +542,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 413544,
+          "confirmed": 419103,
           "date": "2022-03-24",
           "deaths": 2361
         }
@@ -1110,7 +1110,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 978265,
+      "confirmed": 978297,
       "date": "2022-03-24",
       "deaths": 11951
     }
@@ -1505,9 +1505,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 3379845,
+      "confirmed": 3402297,
       "date": "2022-03-24",
-      "deaths": 13489
+      "deaths": 13494
     }
   },
   "Thailand": {
