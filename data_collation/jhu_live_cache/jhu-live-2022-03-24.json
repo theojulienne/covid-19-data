@@ -135,9 +135,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 374573,
+      "confirmed": 374696,
       "date": "2022-03-24",
-      "deaths": 15691
+      "deaths": 15695
     }
   },
   "Brazil": {
@@ -307,7 +307,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 609915,
+      "confirmed": 610176,
       "date": "2022-03-24",
       "deaths": 19428
     }
@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1153318,
+          "confirmed": 1155271,
           "date": "2022-03-24",
-          "deaths": 12405
+          "deaths": 12413
         }
       },
       "Quebec": {
@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 3023820,
+      "confirmed": 3029228,
       "date": "2022-03-24",
-      "deaths": 5486
+      "deaths": 5518
     }
   },
   "Dominican Republic": {
@@ -521,7 +521,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 3704090,
+          "confirmed": 3705042,
           "date": "2022-03-24",
           "deaths": 22248
         }
@@ -807,9 +807,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2316758,
+      "confirmed": 2317128,
       "date": "2022-03-24",
-      "deaths": 25134
+      "deaths": 25138
     }
   },
   "Ireland": {
@@ -1598,9 +1598,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2691289,
+          "confirmed": 2691413,
           "date": "2022-03-24",
-          "deaths": 29375
+          "deaths": 29386
         }
       },
       "Utah": {
@@ -1692,9 +1692,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 8479751,
+      "confirmed": 8599751,
       "date": "2022-03-24",
-      "deaths": 42075
+      "deaths": 42145
     }
   },
   "West Bank and Gaza": {
