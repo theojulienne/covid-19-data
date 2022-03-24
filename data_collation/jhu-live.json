@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1647233,
+          "confirmed": 1671995,
           "date": "2022-03-23",
-          "deaths": 2034
+          "deaths": 2042
         }
       },
       "Queensland": {
@@ -31,9 +31,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1205520,
+          "confirmed": 1215779,
           "date": "2022-03-23",
-          "deaths": 2693
+          "deaths": 2704
         }
       }
     }
@@ -300,9 +300,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1128089,
+      "confirmed": 1129641,
       "date": "2022-03-23",
-      "deaths": 36350
+      "deaths": 36375
     }
   },
   "Burma": {
@@ -377,35 +377,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 917505,
+          "confirmed": 917534,
           "date": "2022-03-23",
           "deaths": 18227
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 401940,
+          "confirmed": 401955,
           "date": "2022-03-23",
           "deaths": 10122
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1764774,
+          "confirmed": 1764880,
           "date": "2022-03-23",
           "deaths": 29310
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 317824,
+          "confirmed": 317831,
           "date": "2022-03-23",
           "deaths": 7270
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 540076,
+          "confirmed": 540099,
           "date": "2022-03-23",
           "deaths": 14999
         }
@@ -1011,9 +1011,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1089005,
+      "confirmed": 1089419,
       "date": "2022-03-23",
-      "deaths": 10258
+      "deaths": 10263
     }
   },
   "Libya": {
@@ -1612,9 +1612,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 371186,
+          "confirmed": 371624,
           "date": "2022-03-23",
-          "deaths": 2629
+          "deaths": 2639
         }
       }
     }
@@ -1678,9 +1678,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 877763,
+      "confirmed": 879618,
       "date": "2022-03-23",
-      "deaths": 7142
+      "deaths": 7144
     }
   },
   "Venezuela": {
