@@ -348,16 +348,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 338505,
+          "confirmed": 339743,
           "date": "2022-03-24",
-          "deaths": 4087
+          "deaths": 4106
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1305707,
+          "confirmed": 1308931,
           "date": "2022-03-24",
-          "deaths": 27773
+          "deaths": 27800
         }
       }
     }
@@ -1526,9 +1526,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14743437,
+      "confirmed": 14760331,
       "date": "2022-03-24",
-      "deaths": 97521
+      "deaths": 97598
     }
   },
   "US": {
@@ -1542,7 +1542,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 5739718,
+          "confirmed": 5740603,
           "date": "2022-03-24",
           "deaths": 59000
         }
