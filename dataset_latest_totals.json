@@ -1047,17 +1047,17 @@
     },
     "CYP": {
       "back_1week": {
-        "confirmed": 360078,
+        "confirmed": 363792,
         "deaths": 904,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 338517,
+        "confirmed": 341383,
         "deaths": 883,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 387315,
+        "confirmed": 392019,
         "deaths": 923,
         "recovered": 0
       }
@@ -1280,17 +1280,17 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 469291,
+        "confirmed": 469329,
         "deaths": 7486,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 469047,
+        "confirmed": 469095,
         "deaths": 7477,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 469494,
+        "confirmed": 469523,
         "deaths": 7489,
         "recovered": 0
       }
@@ -1965,17 +1965,17 @@
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 323204,
+        "confirmed": 323219,
         "deaths": 5647,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 323115,
+        "confirmed": 323129,
         "deaths": 5641,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 323306,
+        "confirmed": 323319,
         "deaths": 5647,
         "recovered": 0
       }
@@ -2861,18 +2861,18 @@
     },
     "PRY": {
       "back_1week": {
-        "confirmed": 646283,
-        "deaths": 18552,
+        "confirmed": 646495,
+        "deaths": 18555,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 644609,
-        "deaths": 18494,
+        "confirmed": 645020,
+        "deaths": 18510,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 647428,
-        "deaths": 18603,
+        "confirmed": 647538,
+        "deaths": 18606,
         "recovered": 0
       }
     },
