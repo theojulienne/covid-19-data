@@ -628,7 +628,7 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 418492,
+      "confirmed": 418792,
       "date": "2022-03-24",
       "deaths": 10869
     }
@@ -1089,14 +1089,14 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 511231,
+      "confirmed": 511662,
       "date": "2022-03-24",
-      "deaths": 11401
+      "deaths": 11408
     }
   },
   "Mongolia": {
     "live": {
-      "confirmed": 917406,
+      "confirmed": 917579,
       "date": "2022-03-24",
       "deaths": 2177
     }
@@ -1385,9 +1385,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3705696,
+      "confirmed": 3709209,
       "date": "2022-03-24",
-      "deaths": 99893
+      "deaths": 99932
     }
   },
   "Spain": {
@@ -1473,9 +1473,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 660151,
+      "confirmed": 660399,
       "date": "2022-03-24",
-      "deaths": 16445
+      "deaths": 16450
     }
   },
   "Sweden": {
@@ -1584,7 +1584,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2970682,
+          "confirmed": 2971967,
           "date": "2022-03-24",
           "deaths": 45918
         }
@@ -1605,9 +1605,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 340835,
+          "confirmed": 340920,
           "date": "2022-03-24",
-          "deaths": 1605
+          "deaths": 1615
         }
       },
       "Washington": {
@@ -1699,9 +1699,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 654954,
+      "confirmed": 655468,
       "date": "2022-03-24",
-      "deaths": 5641
+      "deaths": 5649
     }
   },
   "Zambia": {
