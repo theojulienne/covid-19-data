@@ -793,9 +793,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 5981022,
+      "confirmed": 5986830,
       "date": "2022-03-24",
-      "deaths": 154221
+      "deaths": 154343
     }
   },
   "Iran": {
@@ -1018,9 +1018,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 501296,
+      "confirmed": 501379,
       "date": "2022-03-24",
-      "deaths": 6389
+      "deaths": 6392
     }
   },
   "Lithuania": {
@@ -1234,9 +1234,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3675384,
+      "confirmed": 3675821,
       "date": "2022-03-24",
-      "deaths": 58563
+      "deaths": 58771
     }
   },
   "Poland": {
@@ -1255,7 +1255,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 360382,
+      "confirmed": 360497,
       "date": "2022-03-24",
       "deaths": 677
     }
