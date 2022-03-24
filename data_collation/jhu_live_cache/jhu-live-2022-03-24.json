@@ -316,9 +316,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 534285,
+          "confirmed": 536166,
           "date": "2022-03-24",
-          "deaths": 4023
+          "deaths": 4044
         }
       },
       "British Columbia": {
@@ -1209,7 +1209,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 762008,
+      "confirmed": 762394,
       "date": "2022-03-24",
       "deaths": 8159
     }
