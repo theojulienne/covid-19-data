@@ -514,9 +514,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2831405,
+          "confirmed": 2871313,
           "date": "2022-03-24",
-          "deaths": 14878
+          "deaths": 14916
         }
       },
       "Bayern": {
@@ -830,86 +830,86 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 1334904,
+          "confirmed": 1343732,
           "date": "2022-03-24",
-          "deaths": 9965
+          "deaths": 9967
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 1248646,
+          "confirmed": 1253009,
           "date": "2022-03-24",
-          "deaths": 16179
+          "deaths": 16195
         }
       },
       "Friuli Venezia Giulia": {
         "live": {
-          "confirmed": 325969,
+          "confirmed": 327205,
           "date": "2022-03-24",
-          "deaths": 4884
+          "deaths": 4893
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 1218989,
+          "confirmed": 1228224,
           "date": "2022-03-24",
-          "deaths": 10681
+          "deaths": 10701
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 373589,
+          "confirmed": 375153,
           "date": "2022-03-24",
-          "deaths": 5182
+          "deaths": 5184
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 2470119,
+          "confirmed": 2479419,
           "date": "2022-03-24",
-          "deaths": 39107
+          "deaths": 39141
         }
       },
       "Marche": {
         "live": {
-          "confirmed": 372151,
+          "confirmed": 374972,
           "date": "2022-03-24",
-          "deaths": 3673
+          "deaths": 3677
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 1027870,
+          "confirmed": 1030956,
           "date": "2022-03-24",
-          "deaths": 13169
+          "deaths": 13172
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 859102,
+          "confirmed": 867522,
           "date": "2022-03-24",
-          "deaths": 7882
+          "deaths": 7896
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 925644,
+          "confirmed": 933284,
           "date": "2022-03-24",
-          "deaths": 9918
+          "deaths": 9936
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 945634,
+          "confirmed": 951080,
           "date": "2022-03-24",
-          "deaths": 9386
+          "deaths": 9405
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 1436225,
+          "confirmed": 1444562,
           "date": "2022-03-24",
-          "deaths": 14074
+          "deaths": 14087
         }
       }
     }
@@ -1542,9 +1542,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5738932,
+          "confirmed": 5739718,
           "date": "2022-03-24",
-          "deaths": 58975
+          "deaths": 59000
         }
       },
       "Florida": {
@@ -1584,7 +1584,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2968905,
+          "confirmed": 2970682,
           "date": "2022-03-24",
           "deaths": 45918
         }
@@ -1648,30 +1648,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 17277446,
+          "confirmed": 17356644,
           "date": "2022-03-24",
-          "deaths": 142546
+          "deaths": 142657
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 673963,
+          "confirmed": 676487,
           "date": "2022-03-24",
-          "deaths": 3285
+          "deaths": 3287
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 1717534,
+          "confirmed": 1730889,
           "date": "2022-03-24",
-          "deaths": 11202
+          "deaths": 11246
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 847055,
+          "confirmed": 849797,
           "date": "2022-03-24",
-          "deaths": 7090
+          "deaths": 7092
         }
       }
     }
