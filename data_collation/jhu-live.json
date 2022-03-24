@@ -339,7 +339,7 @@
         "live": {
           "confirmed": 948997,
           "date": "2022-03-24",
-          "deaths": 14274
+          "deaths": 14288
         }
       }
     }
@@ -428,7 +428,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1083691,
+      "confirmed": 1084568,
       "date": "2022-03-24",
       "deaths": 8508
     }
@@ -614,9 +614,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2861993,
+      "confirmed": 2884100,
       "date": "2022-03-24",
-      "deaths": 27083
+      "deaths": 27125
     }
   },
   "Guatemala": {
@@ -814,9 +814,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1404929,
+      "confirmed": 1413798,
       "date": "2022-03-24",
-      "deaths": 6685
+      "deaths": 6693
     }
   },
   "Israel": {
@@ -918,51 +918,51 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 393893,
+          "confirmed": 397117,
           "date": "2022-03-24",
-          "deaths": 1924
+          "deaths": 1932
         }
       },
       "Chiba": {
         "live": {
-          "confirmed": 336920,
+          "confirmed": 339260,
           "date": "2022-03-24",
-          "deaths": 1611
+          "deaths": 1622
         }
       },
       "Hyogo": {
         "live": {
-          "confirmed": 318922,
+          "confirmed": 321247,
           "date": "2022-03-24",
-          "deaths": 2056
+          "deaths": 2066
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 570979,
+          "confirmed": 574721,
           "date": "2022-03-24",
-          "deaths": 1970
+          "deaths": 1975
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 765685,
+          "confirmed": 770175,
           "date": "2022-03-24",
-          "deaths": 4527
+          "deaths": 4553
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 398418,
+          "confirmed": 401991,
           "date": "2022-03-24",
-          "deaths": 1318
+          "deaths": 1328
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1189301,
+          "confirmed": 1198176,
           "date": "2022-03-24",
-          "deaths": 4087
+          "deaths": 4103
         }
       }
     }
@@ -1482,23 +1482,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 335503,
+          "confirmed": 336063,
           "date": "2022-03-24",
-          "deaths": 2257
+          "deaths": 2293
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 566471,
+          "confirmed": 567646,
           "date": "2022-03-24",
-          "deaths": 5151
+          "deaths": 5163
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 430978,
+          "confirmed": 431597,
           "date": "2022-03-24",
-          "deaths": 2963
+          "deaths": 2979
         }
       }
     }
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3402297,
       "date": "2022-03-24",
-      "deaths": 13494
+      "deaths": 13495
     }
   },
   "Thailand": {
@@ -1591,9 +1591,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 307160,
+          "confirmed": 307297,
           "date": "2022-03-24",
-          "deaths": 5045
+          "deaths": 5049
         }
       },
       "Texas": {
