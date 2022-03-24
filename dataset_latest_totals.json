@@ -1523,18 +1523,18 @@
     },
     "GEO": {
       "back_1week": {
-        "confirmed": 1637691,
-        "deaths": 16585,
+        "confirmed": 1638790,
+        "deaths": 16595,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1629065,
-        "deaths": 16430,
+        "confirmed": 1629930,
+        "deaths": 16456,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1643295,
-        "deaths": 16678,
+        "confirmed": 1644112,
+        "deaths": 16681,
         "recovered": 0
       }
     },
@@ -3303,13 +3303,13 @@
     },
     "THA": {
       "back_1week": {
-        "confirmed": 3250642,
-        "deaths": 23918,
+        "confirmed": 3276098,
+        "deaths": 23995,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3088873,
-        "deaths": 23438,
+        "confirmed": 3111857,
+        "deaths": 23512,
         "recovered": 0
       },
       "latest": {
