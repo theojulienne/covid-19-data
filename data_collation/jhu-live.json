@@ -514,51 +514,51 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2831327,
+          "confirmed": 2831405,
           "date": "2022-03-24",
           "deaths": 14878
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 3643885,
+          "confirmed": 3704090,
           "date": "2022-03-24",
-          "deaths": 22213
+          "deaths": 22248
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 858503,
+          "confirmed": 867520,
           "date": "2022-03-24",
-          "deaths": 4332
+          "deaths": 4337
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 644679,
+          "confirmed": 651882,
           "date": "2022-03-24",
-          "deaths": 5366
+          "deaths": 5372
         }
       },
       "Hamburg": {
         "live": {
           "confirmed": 413544,
           "date": "2022-03-24",
-          "deaths": 2358
+          "deaths": 2361
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 1313157,
+          "confirmed": 1333336,
           "date": "2022-03-24",
-          "deaths": 9517
+          "deaths": 9529
         }
       },
       "Mecklenburg-Vorpommern": {
         "live": {
-          "confirmed": 353597,
+          "confirmed": 362737,
           "date": "2022-03-24",
-          "deaths": 1921
+          "deaths": 1937
         }
       },
       "Niedersachsen": {
@@ -1193,14 +1193,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 504577,
+          "confirmed": 504639,
           "date": "2022-03-24",
           "deaths": 13551
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 574157,
+          "confirmed": 574239,
           "date": "2022-03-24",
           "deaths": 8092
         }
@@ -1692,9 +1692,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 8338914,
+      "confirmed": 8479751,
       "date": "2022-03-24",
-      "deaths": 42014
+      "deaths": 42075
     }
   },
   "West Bank and Gaza": {
