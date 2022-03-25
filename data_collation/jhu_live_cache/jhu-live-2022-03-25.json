@@ -17,7 +17,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1695697,
+          "confirmed": 1695597,
           "date": "2022-03-25",
           "deaths": 2049
         }
@@ -54,7 +54,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 547951,
+      "confirmed": 548866,
       "date": "2022-03-25",
       "deaths": 1466
     }
@@ -377,35 +377,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 917534,
+          "confirmed": 917568,
           "date": "2022-03-25",
           "deaths": 18228
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 401955,
+          "confirmed": 401976,
           "date": "2022-03-25",
           "deaths": 10123
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1764880,
+          "confirmed": 1764992,
           "date": "2022-03-25",
           "deaths": 29313
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 317831,
+          "confirmed": 317842,
           "date": "2022-03-25",
           "deaths": 7272
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 540099,
+          "confirmed": 540130,
           "date": "2022-03-25",
           "deaths": 15003
         }
@@ -456,7 +456,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 577476,
+      "confirmed": 577673,
       "date": "2022-03-25",
       "deaths": 4375
     }
@@ -990,9 +990,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10822836,
+      "confirmed": 11162232,
       "date": "2022-03-25",
-      "deaths": 13902
+      "deaths": 14294
     }
   },
   "Kuwait": {
@@ -1170,9 +1170,9 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 557330,
+      "confirmed": 573244,
       "date": "2022-03-25",
-      "deaths": 192
+      "deaths": 201
     }
   },
   "Norway": {
@@ -1364,7 +1364,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1044661,
+      "confirmed": 1053139,
       "date": "2022-03-25",
       "deaths": 1226
     }
