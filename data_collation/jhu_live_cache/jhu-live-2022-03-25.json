@@ -1507,14 +1507,14 @@
     "live": {
       "confirmed": 3402297,
       "date": "2022-03-25",
-      "deaths": 13498
+      "deaths": 13497
     }
   },
   "Thailand": {
     "live": {
-      "confirmed": 3450980,
+      "confirmed": 3477030,
       "date": "2022-03-25",
-      "deaths": 24579
+      "deaths": 24648
     }
   },
   "Tunisia": {
@@ -1685,9 +1685,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 519872,
+      "confirmed": 519943,
       "date": "2022-03-25",
-      "deaths": 5673
+      "deaths": 5674
     }
   },
   "Vietnam": {
