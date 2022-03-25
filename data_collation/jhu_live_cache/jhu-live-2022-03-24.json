@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1671995,
+          "confirmed": 1695697,
           "date": "2022-03-24",
-          "deaths": 2042
+          "deaths": 2049
         }
       },
       "Queensland": {
@@ -31,9 +31,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1215677,
+          "confirmed": 1224921,
           "date": "2022-03-24",
-          "deaths": 2704
+          "deaths": 2713
         }
       }
     }
@@ -128,9 +128,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 900260,
+      "confirmed": 900557,
       "date": "2022-03-24",
-      "deaths": 21483
+      "deaths": 21484
     }
   },
   "Bosnia and Herzegovina": {
@@ -300,9 +300,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1129641,
+      "confirmed": 1131065,
       "date": "2022-03-24",
-      "deaths": 36375
+      "deaths": 36396
     }
   },
   "Burma": {
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 820477,
+      "confirmed": 821834,
       "date": "2022-03-24",
-      "deaths": 17258
+      "deaths": 17267
     }
   },
   "Honduras": {
@@ -1011,9 +1011,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1089419,
+      "confirmed": 1089830,
       "date": "2022-03-24",
-      "deaths": 10263
+      "deaths": 10267
     }
   },
   "Libya": {
@@ -1366,7 +1366,7 @@
     "live": {
       "confirmed": 1044661,
       "date": "2022-03-24",
-      "deaths": 1220
+      "deaths": 1226
     }
   },
   "Slovakia": {
@@ -1535,7 +1535,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1256653,
+          "confirmed": 1260012,
           "date": "2022-03-24",
           "deaths": 16393
         }
@@ -1706,9 +1706,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 316190,
+      "confirmed": 316312,
       "date": "2022-03-24",
-      "deaths": 3964
+      "deaths": 3965
     }
   }
 }
