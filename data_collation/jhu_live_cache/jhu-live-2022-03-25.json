@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1158060,
+          "confirmed": 1158685,
           "date": "2022-03-25",
-          "deaths": 12432
+          "deaths": 12434
         }
       },
       "Quebec": {
@@ -1584,9 +1584,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2972554,
+          "confirmed": 2973745,
           "date": "2022-03-25",
-          "deaths": 45926
+          "deaths": 45927
         }
       },
       "Pennsylvania": {
@@ -1605,9 +1605,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 340920,
+          "confirmed": 341030,
           "date": "2022-03-25",
-          "deaths": 1615
+          "deaths": 1618
         }
       },
       "Washington": {
