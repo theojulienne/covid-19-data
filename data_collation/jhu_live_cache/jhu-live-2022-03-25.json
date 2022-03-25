@@ -61,7 +61,7 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1951072,
+      "confirmed": 1951174,
       "date": "2022-03-25",
       "deaths": 29118
     }
@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1155877,
+          "confirmed": 1158060,
           "date": "2022-03-25",
-          "deaths": 12418
+          "deaths": 12432
         }
       },
       "Quebec": {
@@ -366,9 +366,9 @@
     "subseries": {
       "Hong Kong": {
         "live": {
-          "confirmed": 1101224,
+          "confirmed": 1111629,
           "date": "2022-03-25",
-          "deaths": 6770
+          "deaths": 6962
         }
       }
     }
@@ -628,9 +628,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 418792,
+      "confirmed": 420621,
       "date": "2022-03-25",
-      "deaths": 10869
+      "deaths": 10871
     }
   },
   "Hungary": {
@@ -1505,7 +1505,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 3402297,
+      "confirmed": 3419549,
       "date": "2022-03-25",
       "deaths": 13504
     }
