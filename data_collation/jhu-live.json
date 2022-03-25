@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1224921,
+          "confirmed": 1224825,
           "date": "2022-03-25",
           "deaths": 2713
         }
@@ -135,9 +135,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 374696,
+      "confirmed": 374810,
       "date": "2022-03-25",
-      "deaths": 15695
+      "deaths": 15702
     }
   },
   "Brazil": {
@@ -307,7 +307,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 610176,
+      "confirmed": 610493,
       "date": "2022-03-25",
       "deaths": 19428
     }
@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 3029228,
+      "confirmed": 3034882,
       "date": "2022-03-25",
-      "deaths": 5518
+      "deaths": 5542
     }
   },
   "Dominican Republic": {
@@ -521,7 +521,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 3763118,
+          "confirmed": 3763818,
           "date": "2022-03-25",
           "deaths": 22314
         }
@@ -807,9 +807,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2317128,
+      "confirmed": 2317498,
       "date": "2022-03-25",
-      "deaths": 25138
+      "deaths": 25145
     }
   },
   "Ireland": {
@@ -821,7 +821,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3831466,
+      "confirmed": 3835693,
       "date": "2022-03-25",
       "deaths": 10460
     }
@@ -1255,7 +1255,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 360497,
+      "confirmed": 360619,
       "date": "2022-03-25",
       "deaths": 677
     }
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3419549,
       "date": "2022-03-25",
-      "deaths": 13504
+      "deaths": 13505
     }
   },
   "Thailand": {
