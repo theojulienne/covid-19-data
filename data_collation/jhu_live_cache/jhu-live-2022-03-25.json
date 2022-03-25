@@ -19,7 +19,7 @@
         "live": {
           "confirmed": 1695597,
           "date": "2022-03-25",
-          "deaths": 2049
+          "deaths": 2051
         }
       },
       "Queensland": {
@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 955600,
+      "confirmed": 957088,
       "date": "2022-03-25",
-      "deaths": 6759
+      "deaths": 6767
     }
   },
   "Belgium": {
@@ -491,9 +491,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 834038,
+      "confirmed": 844713,
       "date": "2022-03-25",
-      "deaths": 2951
+      "deaths": 2985
     }
   },
   "France": {
@@ -925,7 +925,7 @@
       },
       "Chiba": {
         "live": {
-          "confirmed": 339260,
+          "confirmed": 339248,
           "date": "2022-03-25",
           "deaths": 1622
         }
@@ -939,14 +939,14 @@
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 574721,
+          "confirmed": 574720,
           "date": "2022-03-25",
           "deaths": 1975
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 770175,
+          "confirmed": 770169,
           "date": "2022-03-25",
           "deaths": 4553
         }
@@ -1004,9 +1004,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 784155,
+      "confirmed": 786974,
       "date": "2022-03-25",
-      "deaths": 5559
+      "deaths": 5569
     }
   },
   "Lebanon": {
@@ -1066,23 +1066,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1381445,
+          "confirmed": 1382139,
           "date": "2022-03-25",
-          "deaths": 42560
+          "deaths": 42569
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 536754,
+          "confirmed": 537157,
           "date": "2022-03-25",
-          "deaths": 47021
+          "deaths": 47026
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 312076,
+          "confirmed": 312118,
           "date": "2022-03-25",
-          "deaths": 14921
+          "deaths": 14925
         }
       }
     }
@@ -1241,9 +1241,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5924876,
+      "confirmed": 5933107,
       "date": "2022-03-25",
-      "deaths": 114626
+      "deaths": 114736
     }
   },
   "Portugal": {
@@ -1378,9 +1378,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 949640,
+      "confirmed": 952479,
       "date": "2022-03-25",
-      "deaths": 6461
+      "deaths": 6469
     }
   },
   "South Africa": {
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3402297,
       "date": "2022-03-25",
-      "deaths": 13499
+      "deaths": 13501
     }
   },
   "Thailand": {
