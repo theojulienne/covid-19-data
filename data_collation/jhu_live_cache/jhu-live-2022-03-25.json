@@ -505,9 +505,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 1644711,
+      "confirmed": 1645301,
       "date": "2022-03-25",
-      "deaths": 16688
+      "deaths": 16698
     }
   },
   "Germany": {
@@ -821,9 +821,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3818058,
+      "confirmed": 3831466,
       "date": "2022-03-25",
-      "deaths": 10455
+      "deaths": 10460
     }
   },
   "Italy": {
