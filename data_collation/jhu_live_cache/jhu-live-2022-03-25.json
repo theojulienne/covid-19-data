@@ -339,7 +339,7 @@
         "live": {
           "confirmed": 951292,
           "date": "2022-03-25",
-          "deaths": 14288
+          "deaths": 14300
         }
       }
     }
@@ -348,16 +348,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 339743,
+          "confirmed": 340794,
           "date": "2022-03-25",
-          "deaths": 4106
+          "deaths": 4112
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1308931,
+          "confirmed": 1311888,
           "date": "2022-03-25",
-          "deaths": 27800
+          "deaths": 27820
         }
       }
     }
@@ -918,51 +918,51 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 397117,
+          "confirmed": 399836,
           "date": "2022-03-25",
-          "deaths": 1932
+          "deaths": 1938
         }
       },
       "Chiba": {
         "live": {
-          "confirmed": 339248,
+          "confirmed": 342072,
           "date": "2022-03-25",
-          "deaths": 1622
+          "deaths": 1627
         }
       },
       "Hyogo": {
         "live": {
-          "confirmed": 321245,
+          "confirmed": 323270,
           "date": "2022-03-25",
-          "deaths": 2066
+          "deaths": 2071
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 574720,
+          "confirmed": 578492,
           "date": "2022-03-25",
-          "deaths": 1975
+          "deaths": 1982
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 770169,
+          "confirmed": 773952,
           "date": "2022-03-25",
-          "deaths": 4553
+          "deaths": 4585
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 401991,
+          "confirmed": 406136,
           "date": "2022-03-25",
-          "deaths": 1328
+          "deaths": 1339
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1198176,
+          "confirmed": 1205465,
           "date": "2022-03-25",
-          "deaths": 4103
+          "deaths": 4114
         }
       }
     }
@@ -1364,7 +1364,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1053139,
+      "confirmed": 1060723,
       "date": "2022-03-25",
       "deaths": 1226
     }
@@ -1591,9 +1591,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 307297,
+          "confirmed": 307412,
           "date": "2022-03-25",
-          "deaths": 5049
+          "deaths": 5057
         }
       },
       "Texas": {
