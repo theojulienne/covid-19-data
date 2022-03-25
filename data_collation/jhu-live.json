@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 702561,
+          "confirmed": 712260,
           "date": "2022-03-25",
-          "deaths": 706
+          "deaths": 709
         }
       },
       "Victoria": {
@@ -179,9 +179,9 @@
       },
       "Goias": {
         "live": {
-          "confirmed": 1264116,
+          "confirmed": 1264990,
           "date": "2022-03-25",
-          "deaths": 26195
+          "deaths": 26201
         }
       },
       "Maranhao": {
@@ -193,16 +193,16 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 722928,
+          "confirmed": 723464,
           "date": "2022-03-25",
-          "deaths": 14851
+          "deaths": 14852
         }
       },
       "Mato Grosso do Sul": {
         "live": {
           "confirmed": 522387,
           "date": "2022-03-25",
-          "deaths": 10479
+          "deaths": 10480
         }
       },
       "Minas Gerais": {
@@ -214,9 +214,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 748290,
+          "confirmed": 749526,
           "date": "2022-03-25",
-          "deaths": 18061
+          "deaths": 18066
         }
       },
       "Paraiba": {
@@ -242,9 +242,9 @@
       },
       "Piaui": {
         "live": {
-          "confirmed": 367441,
+          "confirmed": 367490,
           "date": "2022-03-25",
-          "deaths": 7718
+          "deaths": 7719
         }
       },
       "Rio Grande do Norte": {
@@ -379,7 +379,7 @@
         "live": {
           "confirmed": 917568,
           "date": "2022-03-25",
-          "deaths": 18228
+          "deaths": 18229
         }
       },
       "Atlantico": {
@@ -393,21 +393,21 @@
         "live": {
           "confirmed": 1764992,
           "date": "2022-03-25",
-          "deaths": 29313
+          "deaths": 29317
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 317842,
           "date": "2022-03-25",
-          "deaths": 7272
+          "deaths": 7274
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 540130,
           "date": "2022-03-25",
-          "deaths": 15003
+          "deaths": 15009
         }
       }
     }
