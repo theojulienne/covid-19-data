@@ -2254,17 +2254,17 @@
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 1162322,
+        "confirmed": 1162374,
         "deaths": 16050,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1161925,
-        "deaths": 16033,
+        "confirmed": 1161980,
+        "deaths": 16034,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1162764,
+        "confirmed": 1162841,
         "deaths": 16056,
         "recovered": 0
       }
