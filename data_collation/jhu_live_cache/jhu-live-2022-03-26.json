@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1233174,
+          "confirmed": 1233052,
           "date": "2022-03-26",
           "deaths": 2722
         }
@@ -61,7 +61,7 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1951174,
+      "confirmed": 1951239,
       "date": "2022-03-26",
       "deaths": 29118
     }
@@ -421,9 +421,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1091511,
+      "confirmed": 1093098,
       "date": "2022-03-26",
-      "deaths": 15495
+      "deaths": 15509
     }
   },
   "Cuba": {
@@ -1639,7 +1639,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 889456,
+      "confirmed": 889797,
       "date": "2022-03-26",
       "deaths": 2302
     }
@@ -1706,7 +1706,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 316422,
+      "confirmed": 316501,
       "date": "2022-03-26",
       "deaths": 3966
     }
