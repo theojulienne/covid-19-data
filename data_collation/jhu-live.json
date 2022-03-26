@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 712260,
+          "confirmed": 721628,
           "date": "2022-03-26",
-          "deaths": 709
+          "deaths": 717
         }
       },
       "Victoria": {
@@ -1692,9 +1692,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 8599751,
+      "confirmed": 8761252,
       "date": "2022-03-26",
-      "deaths": 42145
+      "deaths": 42196
     }
   },
   "West Bank and Gaza": {
