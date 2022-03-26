@@ -379,7 +379,7 @@
         "live": {
           "confirmed": 917631,
           "date": "2022-03-26",
-          "deaths": 18229
+          "deaths": 18230
         }
       },
       "Atlantico": {
@@ -393,7 +393,7 @@
         "live": {
           "confirmed": 1765147,
           "date": "2022-03-26",
-          "deaths": 29317
+          "deaths": 29318
         }
       },
       "Cundinamarca": {
@@ -407,7 +407,7 @@
         "live": {
           "confirmed": 540159,
           "date": "2022-03-26",
-          "deaths": 15009
+          "deaths": 15010
         }
       }
     }
@@ -976,7 +976,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1393546,
+      "confirmed": 1393598,
       "date": "2022-03-26",
       "deaths": 19008
     }
