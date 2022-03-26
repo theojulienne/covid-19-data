@@ -366,9 +366,9 @@
     "subseries": {
       "Hong Kong": {
         "live": {
-          "confirmed": 1111629,
+          "confirmed": 1120470,
           "date": "2022-03-26",
-          "deaths": 6962
+          "deaths": 7101
         }
       }
     }
@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 3034882,
+      "confirmed": 3039204,
       "date": "2022-03-26",
-      "deaths": 5542
+      "deaths": 5583
     }
   },
   "Dominican Republic": {
@@ -807,9 +807,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2317498,
+      "confirmed": 2317747,
       "date": "2022-03-26",
-      "deaths": 25145
+      "deaths": 25149
     }
   },
   "Ireland": {
@@ -983,7 +983,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 323350,
+      "confirmed": 323365,
       "date": "2022-03-26",
       "deaths": 5647
     }
