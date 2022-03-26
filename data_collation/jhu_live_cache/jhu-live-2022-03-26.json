@@ -54,7 +54,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 549718,
+      "confirmed": 550362,
       "date": "2022-03-26",
       "deaths": 1468
     }
@@ -484,9 +484,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 469604,
+      "confirmed": 469611,
       "date": "2022-03-26",
-      "deaths": 7491
+      "deaths": 7492
     }
   },
   "Finland": {
@@ -1011,9 +1011,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1090208,
+      "confirmed": 1090498,
       "date": "2022-03-26",
-      "deaths": 10272
+      "deaths": 10278
     }
   },
   "Libya": {
@@ -1366,7 +1366,7 @@
     "live": {
       "confirmed": 1067157,
       "date": "2022-03-26",
-      "deaths": 1239
+      "deaths": 1246
     }
   },
   "Slovakia": {
@@ -1542,9 +1542,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5743739,
+          "confirmed": 5744696,
           "date": "2022-03-26",
-          "deaths": 59069
+          "deaths": 59087
         }
       },
       "Florida": {

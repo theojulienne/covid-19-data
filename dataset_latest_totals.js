@@ -384,17 +384,17 @@ var covid19_dataset_latest_totals = {
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 542305,
+        "confirmed": 543089,
         "deaths": 1464,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 533748,
+        "confirmed": 535065,
         "deaths": 1462,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 548866,
+        "confirmed": 549718,
         "deaths": 1466,
         "recovered": 0
       }
@@ -1280,17 +1280,17 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 469393,
+        "confirmed": 469419,
         "deaths": 7488,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 469134,
+        "confirmed": 469153,
         "deaths": 7484,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 469544,
+        "confirmed": 469604,
         "deaths": 7491,
         "recovered": 0
       }
@@ -2084,18 +2084,18 @@ var covid19_dataset_latest_totals = {
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 1086890,
-        "deaths": 10232,
+        "confirmed": 1087387,
+        "deaths": 10237,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1082419,
-        "deaths": 10185,
+        "confirmed": 1083351,
+        "deaths": 10193,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1089830,
-        "deaths": 10267,
+        "confirmed": 1090208,
+        "deaths": 10272,
         "recovered": 0
       }
     },
@@ -3015,17 +3015,17 @@ var covid19_dataset_latest_totals = {
     "SGP": {
       "back_1week": {
         "confirmed": 996914,
-        "deaths": 1182,
+        "deaths": 1191,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 917103,
-        "deaths": 1116,
+        "deaths": 1129,
         "recovered": 0
       },
       "latest": {
         "confirmed": 1060723,
-        "deaths": 1226,
+        "deaths": 1239,
         "recovered": 0
       }
     },
