@@ -77,49 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 589751,
+          "confirmed": 592524,
           "date": "2022-03-26",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 424008,
+          "confirmed": 424772,
           "date": "2022-03-26",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 491983,
+          "confirmed": 493859,
           "date": "2022-03-26",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 354637,
+          "confirmed": 356113,
           "date": "2022-03-26",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 426768,
+          "confirmed": 427253,
           "date": "2022-03-26",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 354481,
+          "confirmed": 354849,
           "date": "2022-03-26",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 394651,
+          "confirmed": 395840,
           "date": "2022-03-26",
           "deaths": 0
         }
@@ -442,9 +442,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3776874,
+      "confirmed": 3784532,
       "date": "2022-03-26",
-      "deaths": 39495
+      "deaths": 39527
     }
   },
   "Denmark": {
@@ -1218,7 +1218,7 @@
     "live": {
       "confirmed": 647762,
       "date": "2022-03-26",
-      "deaths": 18612
+      "deaths": 18662
     }
   },
   "Peru": {
@@ -1512,9 +1512,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3477030,
+      "confirmed": 3503264,
       "date": "2022-03-26",
-      "deaths": 24648
+      "deaths": 24715
     }
   },
   "Tunisia": {
@@ -1685,9 +1685,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 519943,
+      "confirmed": 520038,
       "date": "2022-03-26",
-      "deaths": 5674
+      "deaths": 5676
     }
   },
   "Vietnam": {
