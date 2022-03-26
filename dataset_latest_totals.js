@@ -652,8 +652,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 16
         },
         "Quebec": {
-          "confirmed": 951292,
-          "deaths": 14288
+          "confirmed": 953495,
+          "deaths": 14300
         },
         "Repatriated Travellers": {
           "confirmed": 13,
@@ -1331,18 +1331,18 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 23201324,
-        "deaths": 137630,
+        "confirmed": 23297675,
+        "deaths": 137739,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 22668331,
-        "deaths": 136798,
+        "confirmed": 22741033,
+        "deaths": 136947,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 23962674,
-        "deaths": 138323,
+        "confirmed": 24101868,
+        "deaths": 138443,
         "recovered": 0
       },
       "states": {
@@ -1863,17 +1863,17 @@ var covid19_dataset_latest_totals = {
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 3745401,
+        "confirmed": 3751042,
         "deaths": 10417,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3704109,
+        "confirmed": 3707470,
         "deaths": 10358,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3818058,
+        "confirmed": 3835693,
         "deaths": 10455,
         "recovered": 0
       }
@@ -3405,18 +3405,18 @@ var covid19_dataset_latest_totals = {
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 14644382,
-        "deaths": 96954,
+        "confirmed": 14663508,
+        "deaths": 97077,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 14488373,
-        "deaths": 96094,
+        "confirmed": 14513774,
+        "deaths": 96217,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 14760331,
-        "deaths": 97598,
+        "confirmed": 14775634,
+        "deaths": 97666,
         "recovered": 0
       }
     },
