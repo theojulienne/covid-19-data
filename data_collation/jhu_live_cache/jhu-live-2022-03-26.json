@@ -514,51 +514,51 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2904664,
+          "confirmed": 2904750,
           "date": "2022-03-26",
           "deaths": 14955
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 3763818,
+          "confirmed": 3811869,
           "date": "2022-03-26",
-          "deaths": 22314
+          "deaths": 22361
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 875626,
+          "confirmed": 882129,
           "date": "2022-03-26",
-          "deaths": 4346
+          "deaths": 4354
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 659846,
+          "confirmed": 665073,
           "date": "2022-03-26",
-          "deaths": 5378
+          "deaths": 5387
         }
       },
       "Hamburg": {
         "live": {
           "confirmed": 424280,
           "date": "2022-03-26",
-          "deaths": 2364
+          "deaths": 2371
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 1351540,
+          "confirmed": 1366831,
           "date": "2022-03-26",
-          "deaths": 9538
+          "deaths": 9552
         }
       },
       "Mecklenburg-Vorpommern": {
         "live": {
-          "confirmed": 370209,
+          "confirmed": 375860,
           "date": "2022-03-26",
-          "deaths": 1940
+          "deaths": 1956
         }
       },
       "Niedersachsen": {
@@ -1193,16 +1193,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 504697,
+          "confirmed": 504765,
           "date": "2022-03-26",
           "deaths": 13551
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 574467,
+          "confirmed": 574549,
           "date": "2022-03-26",
-          "deaths": 8093
+          "deaths": 8094
         }
       }
     }
@@ -1248,9 +1248,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 3458727,
+      "confirmed": 3534003,
       "date": "2022-03-26",
-      "deaths": 21408
+      "deaths": 21545
     }
   },
   "Qatar": {
