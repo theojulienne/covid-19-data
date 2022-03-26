@@ -1385,9 +1385,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3710766,
+      "confirmed": 3712263,
       "date": "2022-03-26",
-      "deaths": 99939
+      "deaths": 99965
     }
   },
   "Spain": {
@@ -1473,9 +1473,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 660633,
+      "confirmed": 660797,
       "date": "2022-03-26",
-      "deaths": 16452
+      "deaths": 16454
     }
   },
   "Sweden": {
