@@ -348,16 +348,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 340794,
+          "confirmed": 341790,
           "date": "2022-03-26",
-          "deaths": 4112
+          "deaths": 4120
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1311888,
+          "confirmed": 1314674,
           "date": "2022-03-26",
-          "deaths": 27820
+          "deaths": 27842
         }
       }
     }
@@ -428,9 +428,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1085404,
+      "confirmed": 1086361,
       "date": "2022-03-26",
-      "deaths": 8508
+      "deaths": 8509
     }
   },
   "Cyprus": {
@@ -1364,7 +1364,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1060723,
+      "confirmed": 1067157,
       "date": "2022-03-26",
       "deaths": 1239
     }
@@ -1591,9 +1591,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 307412,
+          "confirmed": 307531,
           "date": "2022-03-26",
-          "deaths": 5057
+          "deaths": 5061
         }
       },
       "Texas": {
