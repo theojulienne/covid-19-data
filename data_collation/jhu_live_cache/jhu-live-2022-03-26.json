@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 957088,
+      "confirmed": 958492,
       "date": "2022-03-26",
-      "deaths": 6767
+      "deaths": 6778
     }
   },
   "Belgium": {
@@ -939,7 +939,7 @@
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 578492,
+          "confirmed": 578491,
           "date": "2022-03-26",
           "deaths": 1982
         }
@@ -1004,9 +1004,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 786974,
+      "confirmed": 789483,
       "date": "2022-03-26",
-      "deaths": 5569
+      "deaths": 5572
     }
   },
   "Lebanon": {
@@ -1110,7 +1110,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 978309,
+      "confirmed": 978317,
       "date": "2022-03-26",
       "deaths": 11951
     }
@@ -1234,9 +1234,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3676230,
+      "confirmed": 3676665,
       "date": "2022-03-26",
-      "deaths": 58831
+      "deaths": 58884
     }
   },
   "Poland": {
