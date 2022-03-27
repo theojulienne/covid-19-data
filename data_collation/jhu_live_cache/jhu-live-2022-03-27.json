@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1240518,
+          "confirmed": 1240399,
           "date": "2022-03-27",
           "deaths": 2727
         }
@@ -421,9 +421,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1093098,
+      "confirmed": 1094059,
       "date": "2022-03-27",
-      "deaths": 15509
+      "deaths": 15520
     }
   },
   "Cuba": {
@@ -1110,7 +1110,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 978317,
+      "confirmed": 978332,
       "date": "2022-03-27",
       "deaths": 11951
     }
