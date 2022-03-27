@@ -54,7 +54,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 550362,
+      "confirmed": 551342,
       "date": "2022-03-27",
       "deaths": 1468
     }
@@ -1011,9 +1011,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1090498,
+      "confirmed": 1090782,
       "date": "2022-03-27",
-      "deaths": 10278
+      "deaths": 10283
     }
   },
   "Libya": {
@@ -1706,7 +1706,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 316501,
+      "confirmed": 316550,
       "date": "2022-03-27",
       "deaths": 3966
     }
