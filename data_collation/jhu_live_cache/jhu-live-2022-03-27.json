@@ -379,7 +379,7 @@
         "live": {
           "confirmed": 917663,
           "date": "2022-03-27",
-          "deaths": 18230
+          "deaths": 18231
         }
       },
       "Atlantico": {
@@ -393,7 +393,7 @@
         "live": {
           "confirmed": 1765299,
           "date": "2022-03-27",
-          "deaths": 29318
+          "deaths": 29323
         }
       },
       "Cundinamarca": {
@@ -407,7 +407,7 @@
         "live": {
           "confirmed": 540197,
           "date": "2022-03-27",
-          "deaths": 15010
+          "deaths": 15011
         }
       }
     }
@@ -644,7 +644,7 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2319407,
+          "confirmed": 2319448,
           "date": "2022-03-27",
           "deaths": 14730
         }
@@ -658,65 +658,65 @@
       },
       "Bihar": {
         "live": {
-          "confirmed": 830448,
+          "confirmed": 830450,
           "date": "2022-03-27",
           "deaths": 12256
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 1152038,
+          "confirmed": 1152050,
           "date": "2022-03-27",
           "deaths": 14034
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 1864358,
+          "confirmed": 1864478,
           "date": "2022-03-27",
           "deaths": 26150
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 1223845,
+          "confirmed": 1223862,
           "date": "2022-03-27",
           "deaths": 10942
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 984924,
+          "confirmed": 984977,
           "date": "2022-03-27",
-          "deaths": 10603
+          "deaths": 10607
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 453637,
+          "confirmed": 453652,
           "date": "2022-03-27",
           "deaths": 4750
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 435111,
+          "confirmed": 435121,
           "date": "2022-03-27",
           "deaths": 5315
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 3945168,
+          "confirmed": 3945247,
           "date": "2022-03-27",
-          "deaths": 40048
+          "deaths": 40049
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 6530150,
+          "confirmed": 6530646,
           "date": "2022-03-27",
-          "deaths": 67631
+          "deaths": 67772
         }
       },
       "Madhya Pradesh": {
@@ -728,42 +728,42 @@
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 7873231,
+          "confirmed": 7873369,
           "date": "2022-03-27",
           "deaths": 147779
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 1287378,
+          "confirmed": 1287421,
           "date": "2022-03-27",
-          "deaths": 9117
+          "deaths": 9118
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 759002,
+          "confirmed": 759019,
           "date": "2022-03-27",
           "deaths": 17740
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 1282833,
+          "confirmed": 1282863,
           "date": "2022-03-27",
           "deaths": 9551
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 3452612,
+          "confirmed": 3452647,
           "date": "2022-03-27",
           "deaths": 38025
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 791074,
+          "confirmed": 791110,
           "date": "2022-03-27",
           "deaths": 4111
         }
@@ -772,19 +772,19 @@
         "live": {
           "confirmed": 2070486,
           "date": "2022-03-27",
-          "deaths": 23493
+          "deaths": 23494
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 437146,
+          "confirmed": 437164,
           "date": "2022-03-27",
           "deaths": 7691
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 2017072,
+          "confirmed": 2017138,
           "date": "2022-03-27",
           "deaths": 21197
         }
