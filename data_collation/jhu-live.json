@@ -61,7 +61,7 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1951239,
+      "confirmed": 1951282,
       "date": "2022-03-27",
       "deaths": 29118
     }
@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 3039204,
+      "confirmed": 3042563,
       "date": "2022-03-27",
-      "deaths": 5583
+      "deaths": 5585
     }
   },
   "Dominican Republic": {
@@ -1255,7 +1255,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 360704,
+      "confirmed": 360868,
       "date": "2022-03-27",
       "deaths": 677
     }
