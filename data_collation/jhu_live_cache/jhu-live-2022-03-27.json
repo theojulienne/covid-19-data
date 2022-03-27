@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 791695,
+      "confirmed": 791750,
       "date": "2022-03-27",
-      "deaths": 9679
+      "deaths": 9681
     }
   },
   "Bahrain": {
@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1160843,
+          "confirmed": 1162613,
           "date": "2022-03-27",
-          "deaths": 12442
+          "deaths": 12446
         }
       },
       "Quebec": {
@@ -946,7 +946,7 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 777589,
+          "confirmed": 777588,
           "date": "2022-03-27",
           "deaths": 4600
         }
@@ -1639,7 +1639,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 889797,
+      "confirmed": 890112,
       "date": "2022-03-27",
       "deaths": 2302
     }
@@ -1692,9 +1692,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 8919557,
+      "confirmed": 9011473,
       "date": "2022-03-27",
-      "deaths": 42258
+      "deaths": 42306
     }
   },
   "West Bank and Gaza": {
