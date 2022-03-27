@@ -2392,7 +2392,8 @@ var covid19_dataset_country_est = {
       2418,
       2423,
       2429,
-      2436
+      2436,
+      2439
     ],
     "recovered": [
       0,
