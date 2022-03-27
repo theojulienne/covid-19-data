@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 958492,
+      "confirmed": 959276,
       "date": "2022-03-27",
-      "deaths": 6778
+      "deaths": 6785
     }
   },
   "Belgium": {
@@ -337,9 +337,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 955711,
+          "confirmed": 957595,
           "date": "2022-03-27",
-          "deaths": 14319
+          "deaths": 14324
         }
       }
     }
@@ -435,7 +435,7 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 405706,
+      "confirmed": 410020,
       "date": "2022-03-27",
       "deaths": 932
     }
@@ -498,9 +498,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 24241385,
+      "confirmed": 24351559,
       "date": "2022-03-27",
-      "deaths": 138510
+      "deaths": 138551
     }
   },
   "Georgia": {
@@ -1089,9 +1089,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 512386,
+      "confirmed": 512602,
       "date": "2022-03-27",
-      "deaths": 11415
+      "deaths": 11417
     }
   },
   "Mongolia": {
@@ -1225,9 +1225,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 1603068,
+          "confirmed": 1604357,
           "date": "2022-03-27",
-          "deaths": 92794
+          "deaths": 92858
         }
       }
     }
@@ -1385,9 +1385,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3712263,
+      "confirmed": 3713252,
       "date": "2022-03-27",
-      "deaths": 99965
+      "deaths": 99966
     }
   },
   "Spain": {
@@ -1598,9 +1598,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2699264,
+          "confirmed": 2699407,
           "date": "2022-03-27",
-          "deaths": 29443
+          "deaths": 29452
         }
       },
       "Utah": {
