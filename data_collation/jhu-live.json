@@ -1193,16 +1193,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 504765,
+          "confirmed": 504841,
           "date": "2022-03-27",
           "deaths": 13551
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 574549,
+          "confirmed": 574730,
           "date": "2022-03-27",
-          "deaths": 8094
+          "deaths": 8095
         }
       }
     }
@@ -1512,9 +1512,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3503264,
+      "confirmed": 3529085,
       "date": "2022-03-27",
-      "deaths": 24715
+      "deaths": 24799
     }
   },
   "Tunisia": {
@@ -1685,9 +1685,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 520038,
+      "confirmed": 520077,
       "date": "2022-03-27",
-      "deaths": 5676
+      "deaths": 5677
     }
   },
   "Vietnam": {
