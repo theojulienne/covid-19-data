@@ -19,7 +19,7 @@
         "live": {
           "confirmed": 1732801,
           "date": "2022-03-27",
-          "deaths": 2056
+          "deaths": 2054
         }
       },
       "Queensland": {
@@ -477,7 +477,7 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 551067,
+      "confirmed": 551714,
       "date": "2022-03-27",
       "deaths": 2436
     }
@@ -946,14 +946,14 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 777597,
+          "confirmed": 777589,
           "date": "2022-03-27",
           "deaths": 4600
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 410265,
+          "confirmed": 410264,
           "date": "2022-03-27",
           "deaths": 1348
         }
@@ -1350,9 +1350,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 750258,
+      "confirmed": 750356,
       "date": "2022-03-27",
-      "deaths": 9038
+      "deaths": 9039
     }
   },
   "Serbia": {
@@ -1371,9 +1371,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2408571,
+      "confirmed": 2414805,
       "date": "2022-03-27",
-      "deaths": 19251
+      "deaths": 19270
     }
   },
   "Slovenia": {
