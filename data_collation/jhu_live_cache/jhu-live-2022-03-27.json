@@ -8,9 +8,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 422444,
+      "confirmed": 422458,
       "date": "2022-03-27",
-      "deaths": 8608
+      "deaths": 8610
     }
   },
   "Australia": {
@@ -442,9 +442,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3784532,
+      "confirmed": 3788063,
       "date": "2022-03-27",
-      "deaths": 39527
+      "deaths": 39541
     }
   },
   "Denmark": {
