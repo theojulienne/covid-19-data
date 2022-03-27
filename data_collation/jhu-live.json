@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 823145,
+      "confirmed": 824159,
       "date": "2022-03-27",
-      "deaths": 17274
+      "deaths": 17278
     }
   },
   "Honduras": {
@@ -990,9 +990,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 11497711,
+      "confirmed": 11815841,
       "date": "2022-03-27",
-      "deaths": 14617
+      "deaths": 14899
     }
   },
   "Kuwait": {
@@ -1170,14 +1170,14 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 587467,
+      "confirmed": 597745,
       "date": "2022-03-27",
-      "deaths": 217
+      "deaths": 223
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 1395556,
+      "confirmed": 1396911,
       "date": "2022-03-27",
       "deaths": 2339
     }
@@ -1209,9 +1209,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 763025,
+      "confirmed": 763280,
       "date": "2022-03-27",
-      "deaths": 8162
+      "deaths": 8163
     }
   },
   "Paraguay": {
