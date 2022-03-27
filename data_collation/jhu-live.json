@@ -484,7 +484,7 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 469611,
+      "confirmed": 469621,
       "date": "2022-03-27",
       "deaths": 7492
     }
@@ -821,9 +821,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3858307,
+      "confirmed": 3864148,
       "date": "2022-03-27",
-      "deaths": 10483
+      "deaths": 10485
     }
   },
   "Italy": {
@@ -1526,9 +1526,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14789483,
+      "confirmed": 14800677,
       "date": "2022-03-27",
-      "deaths": 97736
+      "deaths": 97800
     }
   },
   "US": {
