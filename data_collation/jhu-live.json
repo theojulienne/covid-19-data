@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 721628,
+          "confirmed": 729336,
           "date": "2022-03-27",
-          "deaths": 717
+          "deaths": 718
         }
       },
       "Victoria": {
@@ -128,7 +128,7 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 900845,
+      "confirmed": 901108,
       "date": "2022-03-27",
       "deaths": 21487
     }
@@ -377,35 +377,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 917631,
+          "confirmed": 917663,
           "date": "2022-03-27",
           "deaths": 18230
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 401986,
+          "confirmed": 401997,
           "date": "2022-03-27",
           "deaths": 10123
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1765147,
+          "confirmed": 1765299,
           "date": "2022-03-27",
           "deaths": 29318
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 317866,
+          "confirmed": 317889,
           "date": "2022-03-27",
           "deaths": 7274
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 540159,
+          "confirmed": 540197,
           "date": "2022-03-27",
           "deaths": 15010
         }
