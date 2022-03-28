@@ -17,7 +17,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1749000,
+          "confirmed": 1748917,
           "date": "2022-03-28",
           "deaths": 2057
         }
@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1249138,
+          "confirmed": 1249045,
           "date": "2022-03-28",
           "deaths": 2727
         }
@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 791750,
+      "confirmed": 791766,
       "date": "2022-03-28",
-      "deaths": 9681
+      "deaths": 9684
     }
   },
   "Bahrain": {
@@ -330,7 +330,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1163952,
+          "confirmed": 1163989,
           "date": "2022-03-28",
           "deaths": 12448
         }
@@ -456,7 +456,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 577841,
+      "confirmed": 577910,
       "date": "2022-03-28",
       "deaths": 4375
     }
@@ -793,9 +793,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 5995876,
+      "confirmed": 6001751,
       "date": "2022-03-28",
-      "deaths": 154570
+      "deaths": 154774
     }
   },
   "Iran": {
@@ -1103,9 +1103,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1162974,
+      "confirmed": 1163012,
       "date": "2022-03-28",
-      "deaths": 16057
+      "deaths": 16058
     }
   },
   "Nepal": {
@@ -1542,9 +1542,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5744696,
+          "confirmed": 5746470,
           "date": "2022-03-28",
-          "deaths": 59087
+          "deaths": 59127
         }
       },
       "Florida": {
