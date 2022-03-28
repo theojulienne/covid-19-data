@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1163989,
+          "confirmed": 1165369,
           "date": "2022-03-28",
-          "deaths": 12448
+          "deaths": 12453
         }
       },
       "Quebec": {
@@ -1570,9 +1570,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 397621,
+          "confirmed": 397929,
           "date": "2022-03-28",
-          "deaths": 7860
+          "deaths": 7861
         }
       },
       "Nevada": {
@@ -1598,16 +1598,16 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2699407,
+          "confirmed": 2699529,
           "date": "2022-03-28",
-          "deaths": 29452
+          "deaths": 29454
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 341030,
+          "confirmed": 341133,
           "date": "2022-03-28",
-          "deaths": 1618
+          "deaths": 1619
         }
       },
       "Washington": {
