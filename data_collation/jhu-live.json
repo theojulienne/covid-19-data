@@ -421,9 +421,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1094059,
+      "confirmed": 1094202,
       "date": "2022-03-28",
-      "deaths": 15520
+      "deaths": 15534
     }
   },
   "Cuba": {
@@ -1018,9 +1018,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 501495,
+      "confirmed": 501559,
       "date": "2022-03-28",
-      "deaths": 6404
+      "deaths": 6408
     }
   },
   "Lithuania": {
@@ -1110,7 +1110,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 978332,
+      "confirmed": 978347,
       "date": "2022-03-28",
       "deaths": 11951
     }
@@ -1234,9 +1234,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3676991,
+      "confirmed": 3677376,
       "date": "2022-03-28",
-      "deaths": 59015
+      "deaths": 59030
     }
   },
   "Poland": {
@@ -1262,9 +1262,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2840788,
+      "confirmed": 2842739,
       "date": "2022-03-28",
-      "deaths": 64905
+      "deaths": 64913
     }
   },
   "Russia": {
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3419549,
       "date": "2022-03-28",
-      "deaths": 13514
+      "deaths": 13517
     }
   },
   "Thailand": {
@@ -1639,7 +1639,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 890111,
+      "confirmed": 890398,
       "date": "2022-03-28",
       "deaths": 2302
     }
