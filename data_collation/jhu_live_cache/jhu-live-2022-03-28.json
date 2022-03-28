@@ -24,7 +24,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 729336,
+          "confirmed": 737136,
           "date": "2022-03-28",
           "deaths": 718
         }
@@ -379,7 +379,7 @@
         "live": {
           "confirmed": 917697,
           "date": "2022-03-28",
-          "deaths": 18231
+          "deaths": 18233
         }
       },
       "Atlantico": {
@@ -393,7 +393,7 @@
         "live": {
           "confirmed": 1765485,
           "date": "2022-03-28",
-          "deaths": 29323
+          "deaths": 29325
         }
       },
       "Cundinamarca": {
@@ -407,7 +407,7 @@
         "live": {
           "confirmed": 540232,
           "date": "2022-03-28",
-          "deaths": 15011
+          "deaths": 15013
         }
       }
     }
@@ -1584,7 +1584,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2974833,
+          "confirmed": 2976993,
           "date": "2022-03-28",
           "deaths": 45933
         }
@@ -1685,9 +1685,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 520077,
+      "confirmed": 520113,
       "date": "2022-03-28",
-      "deaths": 5677
+      "deaths": 5679
     }
   },
   "Vietnam": {
