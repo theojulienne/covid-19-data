@@ -8,7 +8,7 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 422458,
+      "confirmed": 422468,
       "date": "2022-03-28",
       "deaths": 8610
     }
@@ -635,9 +635,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1839358,
+      "confirmed": 1844581,
       "date": "2022-03-28",
-      "deaths": 45258
+      "deaths": 45342
     }
   },
   "India": {
@@ -821,7 +821,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3864148,
+      "confirmed": 3869812,
       "date": "2022-03-28",
       "deaths": 10485
     }
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3419549,
       "date": "2022-03-28",
-      "deaths": 13507
+      "deaths": 13508
     }
   },
   "Thailand": {
