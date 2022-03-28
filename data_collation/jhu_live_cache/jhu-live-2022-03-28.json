@@ -491,9 +491,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 844713,
+      "confirmed": 859477,
       "date": "2022-03-28",
-      "deaths": 2985
+      "deaths": 3054
     }
   },
   "France": {
@@ -925,14 +925,14 @@
       },
       "Chiba": {
         "live": {
-          "confirmed": 347236,
+          "confirmed": 347235,
           "date": "2022-03-28",
           "deaths": 1639
         }
       },
       "Hyogo": {
         "live": {
-          "confirmed": 327000,
+          "confirmed": 326997,
           "date": "2022-03-28",
           "deaths": 2078
         }
@@ -1241,9 +1241,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5943227,
+      "confirmed": 5945594,
       "date": "2022-03-28",
-      "deaths": 114828
+      "deaths": 114829
     }
   },
   "Portugal": {
@@ -1271,79 +1271,79 @@
     "subseries": {
       "Chelyabinsk Oblast": {
         "live": {
-          "confirmed": 314643,
+          "confirmed": 315214,
           "date": "2022-03-28",
-          "deaths": 7384
+          "deaths": 7393
         }
       },
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 358626,
+          "confirmed": 358887,
           "date": "2022-03-28",
-          "deaths": 10523
+          "deaths": 10535
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 2736090,
+          "confirmed": 2736793,
           "date": "2022-03-28",
-          "deaths": 42610
+          "deaths": 42630
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 958685,
+          "confirmed": 958966,
           "date": "2022-03-28",
-          "deaths": 14736
+          "deaths": 14748
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 404456,
+          "confirmed": 405220,
           "date": "2022-03-28",
-          "deaths": 11336
+          "deaths": 11342
         }
       },
       "Perm Krai": {
         "live": {
-          "confirmed": 357820,
+          "confirmed": 358339,
           "date": "2022-03-28",
-          "deaths": 8637
+          "deaths": 8641
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 359904,
+          "confirmed": 360544,
           "date": "2022-03-28",
-          "deaths": 10711
+          "deaths": 10717
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 1496291,
+          "confirmed": 1497289,
           "date": "2022-03-28",
-          "deaths": 32985
+          "deaths": 33004
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 373467,
+          "confirmed": 373928,
           "date": "2022-03-28",
-          "deaths": 7527
+          "deaths": 7540
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 421679,
+          "confirmed": 422627,
           "date": "2022-03-28",
-          "deaths": 10544
+          "deaths": 10555
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 366165,
+          "confirmed": 367116,
           "date": "2022-03-28",
-          "deaths": 8030
+          "deaths": 8032
         }
       }
     }
@@ -1378,9 +1378,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 956742,
+      "confirmed": 957720,
       "date": "2022-03-28",
-      "deaths": 6475
+      "deaths": 6479
     }
   },
   "South Africa": {
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3419549,
       "date": "2022-03-28",
-      "deaths": 13508
+      "deaths": 13513
     }
   },
   "Thailand": {
@@ -1639,7 +1639,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 890112,
+      "confirmed": 890111,
       "date": "2022-03-28",
       "deaths": 2302
     }
