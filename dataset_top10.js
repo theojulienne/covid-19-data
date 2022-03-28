@@ -25162,7 +25162,8 @@ var covid19_dataset_top10 = {
     "2022-03-25",
     "2022-03-26",
     "2022-03-27",
-    "2022-03-28"
+    "2022-03-28",
+    "2022-03-29"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10', covid19_dataset_top10, {});
