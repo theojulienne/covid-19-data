@@ -384,7 +384,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 402003,
+          "confirmed": 401965,
           "date": "2022-03-28",
           "deaths": 10123
         }
@@ -479,7 +479,7 @@
     "live": {
       "confirmed": 552287,
       "date": "2022-03-28",
-      "deaths": 2439
+      "deaths": 2444
     }
   },
   "Ethiopia": {
@@ -800,9 +800,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 7151088,
+      "confirmed": 7154003,
       "date": "2022-03-28",
-      "deaths": 140021
+      "deaths": 140063
     }
   },
   "Iraq": {
@@ -1371,9 +1371,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2414805,
+      "confirmed": 2418385,
       "date": "2022-03-28",
-      "deaths": 19270
+      "deaths": 19292
     }
   },
   "Slovenia": {
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3419549,
       "date": "2022-03-28",
-      "deaths": 13517
+      "deaths": 13519
     }
   },
   "Thailand": {
