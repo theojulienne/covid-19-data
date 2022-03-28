@@ -442,9 +442,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3788063,
+      "confirmed": 3790322,
       "date": "2022-03-28",
-      "deaths": 39541
+      "deaths": 39563
     }
   },
   "Denmark": {
@@ -1193,14 +1193,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 504841,
+          "confirmed": 504894,
           "date": "2022-03-28",
-          "deaths": 13551
+          "deaths": 13552
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 574730,
+          "confirmed": 574803,
           "date": "2022-03-28",
           "deaths": 8095
         }
@@ -1512,9 +1512,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3529085,
+      "confirmed": 3553720,
       "date": "2022-03-28",
-      "deaths": 24799
+      "deaths": 24880
     }
   },
   "Tunisia": {
