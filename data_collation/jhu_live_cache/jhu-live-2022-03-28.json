@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 9026075,
+      "confirmed": 9028730,
       "date": "2022-03-28",
-      "deaths": 127909
+      "deaths": 127943
     }
   },
   "Armenia": {
@@ -435,9 +435,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 410020,
+      "confirmed": 416514,
       "date": "2022-03-28",
-      "deaths": 932
+      "deaths": 935
     }
   },
   "Czechia": {
