@@ -976,7 +976,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1393643,
+      "confirmed": 1393671,
       "date": "2022-03-28",
       "deaths": 19008
     }
@@ -1036,21 +1036,21 @@
         "live": {
           "confirmed": 369130,
           "date": "2022-03-28",
-          "deaths": 4403
+          "deaths": 4409
         }
       },
       "Sabah": {
         "live": {
           "confirmed": 366437,
           "date": "2022-03-28",
-          "deaths": 3104
+          "deaths": 3107
         }
       },
       "Selangor": {
         "live": {
           "confirmed": 1161141,
           "date": "2022-03-28",
-          "deaths": 10492
+          "deaths": 10497
         }
       },
       "W.P. Kuala Lumpur": {
@@ -1066,21 +1066,21 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1383499,
+          "confirmed": 1383787,
           "date": "2022-03-28",
-          "deaths": 42590
+          "deaths": 42591
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 537763,
+          "confirmed": 537814,
           "date": "2022-03-28",
-          "deaths": 47070
+          "deaths": 47072
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 312192,
+          "confirmed": 312198,
           "date": "2022-03-28",
           "deaths": 14933
         }
