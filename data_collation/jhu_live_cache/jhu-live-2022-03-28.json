@@ -179,7 +179,7 @@
       },
       "Goias": {
         "live": {
-          "confirmed": 1269683,
+          "confirmed": 1269853,
           "date": "2022-03-28",
           "deaths": 26212
         }
@@ -193,9 +193,9 @@
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 724279,
+          "confirmed": 724653,
           "date": "2022-03-28",
-          "deaths": 14853
+          "deaths": 14854
         }
       },
       "Mato Grosso do Sul": {
@@ -214,9 +214,9 @@
       },
       "Para": {
         "live": {
-          "confirmed": 751002,
+          "confirmed": 751293,
           "date": "2022-03-28",
-          "deaths": 18078
+          "deaths": 18079
         }
       },
       "Paraiba": {
@@ -990,9 +990,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 11815841,
+      "confirmed": 12003054,
       "date": "2022-03-28",
-      "deaths": 14899
+      "deaths": 15186
     }
   },
   "Kuwait": {
@@ -1170,14 +1170,14 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 597745,
+      "confirmed": 610687,
       "date": "2022-03-28",
-      "deaths": 223
+      "deaths": 231
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 1396911,
+      "confirmed": 1397638,
       "date": "2022-03-28",
       "deaths": 2339
     }
@@ -1216,7 +1216,7 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 647905,
+      "confirmed": 647906,
       "date": "2022-03-28",
       "deaths": 18664
     }
