@@ -428,9 +428,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1087183,
+      "confirmed": 1088017,
       "date": "2022-03-28",
-      "deaths": 8509
+      "deaths": 8510
     }
   },
   "Cyprus": {
@@ -814,9 +814,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1422945,
+      "confirmed": 1442877,
       "date": "2022-03-28",
-      "deaths": 6710
+      "deaths": 6721
     }
   },
   "Israel": {
@@ -1216,7 +1216,7 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 647906,
+      "confirmed": 647950,
       "date": "2022-03-28",
       "deaths": 18664
     }
@@ -1364,7 +1364,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1067157,
+      "confirmed": 1072005,
       "date": "2022-03-28",
       "deaths": 1250
     }
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3453885,
       "date": "2022-03-28",
-      "deaths": 13520
+      "deaths": 13521
     }
   },
   "Thailand": {
