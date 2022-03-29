@@ -821,7 +821,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3890571,
+      "confirmed": 3894134,
       "date": "2022-03-29",
       "deaths": 10485
     }
@@ -1593,21 +1593,21 @@
         "live": {
           "confirmed": 2978516,
           "date": "2022-03-29",
-          "deaths": 45942
+          "deaths": 45945
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 2699529,
+          "confirmed": 2701244,
           "date": "2022-03-29",
-          "deaths": 29454
+          "deaths": 29469
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 341133,
+          "confirmed": 341182,
           "date": "2022-03-29",
-          "deaths": 1619
+          "deaths": 1620
         }
       },
       "Washington": {
