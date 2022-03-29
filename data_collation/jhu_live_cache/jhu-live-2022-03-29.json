@@ -339,7 +339,7 @@
         "live": {
           "confirmed": 959209,
           "date": "2022-03-29",
-          "deaths": 14325
+          "deaths": 14345
         }
       }
     }
@@ -428,7 +428,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1088017,
+      "confirmed": 1088638,
       "date": "2022-03-29",
       "deaths": 8510
     }
@@ -918,51 +918,51 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 405804,
+          "confirmed": 408731,
           "date": "2022-03-29",
-          "deaths": 1953
+          "deaths": 1958
         }
       },
       "Chiba": {
         "live": {
-          "confirmed": 349090,
+          "confirmed": 351493,
           "date": "2022-03-29",
-          "deaths": 1643
+          "deaths": 1653
         }
       },
       "Hyogo": {
         "live": {
-          "confirmed": 327954,
+          "confirmed": 329942,
           "date": "2022-03-29",
-          "deaths": 2090
+          "deaths": 2093
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 590417,
+          "confirmed": 593717,
           "date": "2022-03-29",
-          "deaths": 2006
+          "deaths": 2011
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 782219,
+          "confirmed": 786559,
           "date": "2022-03-29",
-          "deaths": 4607
+          "deaths": 4620
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 417482,
+          "confirmed": 420155,
           "date": "2022-03-29",
-          "deaths": 1363
+          "deaths": 1369
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1225293,
+          "confirmed": 1233139,
           "date": "2022-03-29",
-          "deaths": 4141
+          "deaths": 4146
         }
       }
     }
@@ -1034,28 +1034,28 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 369986,
+          "confirmed": 370737,
           "date": "2022-03-29",
-          "deaths": 4412
+          "deaths": 4417
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 366631,
+          "confirmed": 366882,
           "date": "2022-03-29",
-          "deaths": 3107
+          "deaths": 3109
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1167650,
+          "confirmed": 1174635,
           "date": "2022-03-29",
-          "deaths": 10510
+          "deaths": 10517
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 323669,
+          "confirmed": 325103,
           "date": "2022-03-29",
           "deaths": 2787
         }
@@ -1401,9 +1401,9 @@
       },
       "Aragon": {
         "live": {
-          "confirmed": 406983,
+          "confirmed": 408166,
           "date": "2022-03-29",
-          "deaths": 5010
+          "deaths": 4627
         }
       },
       "C. Valenciana": {
@@ -1584,16 +1584,16 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2978143,
+          "confirmed": 2978516,
           "date": "2022-03-29",
-          "deaths": 45934
+          "deaths": 45942
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 307610,
+          "confirmed": 307693,
           "date": "2022-03-29",
-          "deaths": 5061
+          "deaths": 5063
         }
       },
       "Texas": {
@@ -1648,30 +1648,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 17603000,
+          "confirmed": 17667861,
           "date": "2022-03-29",
-          "deaths": 142923
+          "deaths": 143174
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 682238,
+          "confirmed": 683969,
           "date": "2022-03-29",
-          "deaths": 3306
+          "deaths": 3315
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 1766147,
+          "confirmed": 1775358,
           "date": "2022-03-29",
-          "deaths": 11320
+          "deaths": 11359
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 854130,
+          "confirmed": 858983,
           "date": "2022-03-29",
-          "deaths": 7122
+          "deaths": 7126
         }
       }
     }
