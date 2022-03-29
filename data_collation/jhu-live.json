@@ -442,9 +442,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3790322,
+      "confirmed": 3799158,
       "date": "2022-03-29",
-      "deaths": 39563
+      "deaths": 39610
     }
   },
   "Denmark": {
@@ -976,7 +976,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1393671,
+      "confirmed": 1393689,
       "date": "2022-03-29",
       "deaths": 19010
     }
@@ -1685,16 +1685,16 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 520113,
+      "confirmed": 520169,
       "date": "2022-03-29",
-      "deaths": 5679
+      "deaths": 5680
     }
   },
   "Vietnam": {
     "live": {
-      "confirmed": 9011473,
+      "confirmed": 9274849,
       "date": "2022-03-29",
-      "deaths": 42306
+      "deaths": 42358
     }
   },
   "West Bank and Gaza": {
