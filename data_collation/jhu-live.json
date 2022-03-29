@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1166539,
+          "confirmed": 1156701,
           "date": "2022-03-29",
-          "deaths": 12460
+          "deaths": 12414
         }
       },
       "Quebec": {
@@ -628,7 +628,7 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 420621,
+      "confirmed": 420978,
       "date": "2022-03-29",
       "deaths": 10971
     }
@@ -821,95 +821,102 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3884622,
+      "confirmed": 3890571,
       "date": "2022-03-29",
       "deaths": 10485
     }
   },
   "Italy": {
     "subseries": {
+      "Abruzzo": {
+        "live": {
+          "confirmed": 310256,
+          "date": "2022-03-29",
+          "deaths": 3083
+        }
+      },
       "Campania": {
         "live": {
-          "confirmed": 1371686,
+          "confirmed": 1383441,
           "date": "2022-03-29",
-          "deaths": 9986
+          "deaths": 9999
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 1268538,
+          "confirmed": 1271569,
           "date": "2022-03-29",
-          "deaths": 16229
+          "deaths": 16239
         }
       },
       "Friuli Venezia Giulia": {
         "live": {
-          "confirmed": 330587,
+          "confirmed": 332088,
           "date": "2022-03-29",
-          "deaths": 4904
+          "deaths": 4911
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 1257303,
+          "confirmed": 1268733,
           "date": "2022-03-29",
-          "deaths": 10743
+          "deaths": 10753
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 380022,
+          "confirmed": 382312,
           "date": "2022-03-29",
-          "deaths": 5187
+          "deaths": 5191
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 2506129,
+          "confirmed": 2518647,
           "date": "2022-03-29",
-          "deaths": 39197
+          "deaths": 39218
         }
       },
       "Marche": {
         "live": {
-          "confirmed": 382399,
+          "confirmed": 385722,
           "date": "2022-03-29",
-          "deaths": 3696
+          "deaths": 3697
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 1040153,
+          "confirmed": 1044027,
           "date": "2022-03-29",
-          "deaths": 13180
+          "deaths": 13187
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 892209,
+          "confirmed": 903014,
           "date": "2022-03-29",
-          "deaths": 7927
+          "deaths": 7937
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 953526,
+          "confirmed": 961003,
           "date": "2022-03-29",
-          "deaths": 9995
+          "deaths": 10026
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 967286,
+          "confirmed": 974119,
           "date": "2022-03-29",
-          "deaths": 9454
+          "deaths": 9469
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 1465459,
+          "confirmed": 1475108,
           "date": "2022-03-29",
-          "deaths": 14110
+          "deaths": 14126
         }
       }
     }
@@ -1526,9 +1533,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14815041,
+      "confirmed": 14831231,
       "date": "2022-03-29",
-      "deaths": 97861
+      "deaths": 97924
     }
   },
   "US": {
@@ -1542,9 +1549,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5747525,
+          "confirmed": 5747759,
           "date": "2022-03-29",
-          "deaths": 59152
+          "deaths": 59165
         }
       },
       "Florida": {
@@ -1587,13 +1594,6 @@
           "confirmed": 2978516,
           "date": "2022-03-29",
           "deaths": 45942
-        }
-      },
-      "Pennsylvania": {
-        "live": {
-          "confirmed": 307693,
-          "date": "2022-03-29",
-          "deaths": 5063
         }
       },
       "Texas": {
@@ -1639,7 +1639,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 890398,
+      "confirmed": 890699,
       "date": "2022-03-29",
       "deaths": 2302
     }
