@@ -8,9 +8,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 422468,
+      "confirmed": 422484,
       "date": "2022-03-29",
-      "deaths": 8610
+      "deaths": 8611
     }
   },
   "Australia": {
@@ -635,9 +635,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1844581,
+      "confirmed": 1846311,
       "date": "2022-03-29",
-      "deaths": 45342
+      "deaths": 45390
     }
   },
   "India": {
