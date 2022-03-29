@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 737136,
+          "confirmed": 747434,
           "date": "2022-03-29",
-          "deaths": 718
+          "deaths": 727
         }
       },
       "Victoria": {
@@ -323,9 +323,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 355092,
+          "confirmed": 355648,
           "date": "2022-03-29",
-          "deaths": 2983
+          "deaths": 2989
         }
       },
       "Ontario": {
@@ -1170,9 +1170,9 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 610687,
+      "confirmed": 627898,
       "date": "2022-03-29",
-      "deaths": 231
+      "deaths": 266
     }
   },
   "Norway": {
@@ -1512,9 +1512,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3553720,
+      "confirmed": 3575398,
       "date": "2022-03-29",
-      "deaths": 24880
+      "deaths": 24958
     }
   },
   "Tunisia": {
