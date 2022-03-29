@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1748917,
+          "confirmed": 1770374,
           "date": "2022-03-28",
-          "deaths": 2057
+          "deaths": 2066
         }
       },
       "Queensland": {
@@ -31,9 +31,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1249045,
+          "confirmed": 1259961,
           "date": "2022-03-28",
-          "deaths": 2727
+          "deaths": 2732
         }
       }
     }
@@ -300,9 +300,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1133464,
+      "confirmed": 1134906,
       "date": "2022-03-28",
-      "deaths": 36437
+      "deaths": 36480
     }
   },
   "Burma": {
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 824502,
+      "confirmed": 824644,
       "date": "2022-03-28",
-      "deaths": 17285
+      "deaths": 17289
     }
   },
   "Honduras": {
@@ -1034,30 +1034,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 369130,
+          "confirmed": 369986,
           "date": "2022-03-28",
-          "deaths": 4409
+          "deaths": 4412
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 366437,
+          "confirmed": 366631,
           "date": "2022-03-28",
           "deaths": 3107
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1161141,
+          "confirmed": 1167650,
           "date": "2022-03-28",
-          "deaths": 10497
+          "deaths": 10510
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 322352,
+          "confirmed": 323669,
           "date": "2022-03-28",
-          "deaths": 2779
+          "deaths": 2787
         }
       }
     }
@@ -1542,9 +1542,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5746470,
+          "confirmed": 5747525,
           "date": "2022-03-28",
-          "deaths": 59127
+          "deaths": 59152
         }
       },
       "Florida": {
@@ -1612,9 +1612,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 372323,
+          "confirmed": 373237,
           "date": "2022-03-28",
-          "deaths": 2655
+          "deaths": 2665
         }
       }
     }
@@ -1678,9 +1678,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 884081,
+      "confirmed": 884742,
       "date": "2022-03-28",
-      "deaths": 7151
+      "deaths": 7154
     }
   },
   "Venezuela": {
