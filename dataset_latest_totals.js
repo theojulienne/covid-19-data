@@ -652,7 +652,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 16
         },
         "Quebec": {
-          "confirmed": 957595,
+          "confirmed": 959209,
           "deaths": 14325
         },
         "Repatriated Travellers": {
@@ -1331,18 +1331,18 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 23477062,
-        "deaths": 137831,
+        "confirmed": 23496196,
+        "deaths": 137978,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 22870593,
-        "deaths": 137025,
+        "confirmed": 22889446,
+        "deaths": 137210,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 24351559,
-        "deaths": 138551,
+        "confirmed": 24376241,
+        "deaths": 138695,
         "recovered": 0
       },
       "states": {
@@ -2254,18 +2254,18 @@ var covid19_dataset_latest_totals = {
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 1162497,
+        "confirmed": 1162539,
         "deaths": 16052,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1162096,
-        "deaths": 16039,
+        "confirmed": 1162125,
+        "deaths": 16043,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1162974,
-        "deaths": 16057,
+        "confirmed": 1163012,
+        "deaths": 16058,
         "recovered": 0
       }
     },

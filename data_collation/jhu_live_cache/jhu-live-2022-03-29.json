@@ -330,14 +330,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1166584,
+          "confirmed": 1167264,
           "date": "2022-03-29",
-          "deaths": 12460
+          "deaths": 12461
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 959209,
+          "confirmed": 961380,
           "date": "2022-03-29",
           "deaths": 14345
         }
@@ -498,9 +498,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 24376241,
+      "confirmed": 24583965,
       "date": "2022-03-29",
-      "deaths": 138695
+      "deaths": 138852
     }
   },
   "Georgia": {
@@ -563,9 +563,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 1420058,
+          "confirmed": 1626954,
           "date": "2022-03-29",
-          "deaths": 7798
+          "deaths": 7989
         }
       },
       "Nordrhein-Westfalen": {
@@ -577,30 +577,30 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 759480,
+          "confirmed": 865792,
           "date": "2022-03-29",
-          "deaths": 5151
+          "deaths": 5246
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 1174030,
+          "confirmed": 1292092,
           "date": "2022-03-29",
-          "deaths": 14540
+          "deaths": 14687
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 537449,
+          "confirmed": 595322,
           "date": "2022-03-29",
-          "deaths": 4911
+          "deaths": 4992
         }
       },
       "Schleswig-Holstein": {
         "live": {
-          "confirmed": 432426,
+          "confirmed": 486051,
           "date": "2022-03-29",
-          "deaths": 2223
+          "deaths": 2270
         }
       },
       "Thuringen": {
@@ -630,7 +630,7 @@
     "live": {
       "confirmed": 420978,
       "date": "2022-03-29",
-      "deaths": 10971
+      "deaths": 10878
     }
   },
   "Hungary": {
@@ -1110,9 +1110,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1163012,
+      "confirmed": 1163109,
       "date": "2022-03-29",
-      "deaths": 16058
+      "deaths": 16059
     }
   },
   "Nepal": {
@@ -1563,9 +1563,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1125678,
+          "confirmed": 1126435,
           "date": "2022-03-29",
-          "deaths": 14244
+          "deaths": 14250
         }
       },
       "Massachusetts": {
