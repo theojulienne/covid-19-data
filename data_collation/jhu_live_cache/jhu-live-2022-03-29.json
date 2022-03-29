@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1156701,
+          "confirmed": 1166584,
           "date": "2022-03-29",
-          "deaths": 12414
+          "deaths": 12460
         }
       },
       "Quebec": {
@@ -514,100 +514,100 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2904750,
+          "confirmed": 2993643,
           "date": "2022-03-29",
-          "deaths": 14955
+          "deaths": 15050
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 3812219,
+          "confirmed": 3901240,
           "date": "2022-03-29",
-          "deaths": 22361
+          "deaths": 22450
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 882129,
+          "confirmed": 890654,
           "date": "2022-03-29",
-          "deaths": 4354
+          "deaths": 4363
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 665073,
+          "confirmed": 671604,
           "date": "2022-03-29",
-          "deaths": 5387
+          "deaths": 5399
         }
       },
       "Hamburg": {
         "live": {
-          "confirmed": 427917,
+          "confirmed": 436301,
           "date": "2022-03-29",
-          "deaths": 2371
+          "deaths": 2375
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 1366831,
+          "confirmed": 1398790,
           "date": "2022-03-29",
-          "deaths": 9552
+          "deaths": 9566
         }
       },
       "Mecklenburg-Vorpommern": {
         "live": {
-          "confirmed": 375860,
+          "confirmed": 384392,
           "date": "2022-03-29",
-          "deaths": 1956
+          "deaths": 1986
         }
       },
       "Niedersachsen": {
         "live": {
           "confirmed": 1420058,
-          "date": "2022-03-26",
+          "date": "2022-03-29",
           "deaths": 7798
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 3807191,
-          "date": "2022-03-26",
-          "deaths": 23126
+          "confirmed": 4124435,
+          "date": "2022-03-29",
+          "deaths": 23477
         }
       },
       "Rheinland-Pfalz": {
         "live": {
           "confirmed": 759480,
-          "date": "2022-03-26",
+          "date": "2022-03-29",
           "deaths": 5151
         }
       },
       "Sachsen": {
         "live": {
           "confirmed": 1174030,
-          "date": "2022-03-26",
+          "date": "2022-03-29",
           "deaths": 14540
         }
       },
       "Sachsen-Anhalt": {
         "live": {
           "confirmed": 537449,
-          "date": "2022-03-26",
+          "date": "2022-03-29",
           "deaths": 4911
         }
       },
       "Schleswig-Holstein": {
         "live": {
           "confirmed": 432426,
-          "date": "2022-03-26",
+          "date": "2022-03-29",
           "deaths": 2223
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 530619,
-          "date": "2022-03-26",
-          "deaths": 6726
+          "confirmed": 582111,
+          "date": "2022-03-29",
+          "deaths": 6793
         }
       }
     }
@@ -985,7 +985,7 @@
     "live": {
       "confirmed": 1393689,
       "date": "2022-03-29",
-      "deaths": 19010
+      "deaths": 19011
     }
   },
   "Kenya": {
@@ -1018,7 +1018,7 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1091084,
+      "confirmed": 1091092,
       "date": "2022-03-29",
       "deaths": 10288
     }
@@ -1096,9 +1096,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 512638,
+      "confirmed": 512942,
       "date": "2022-03-29",
-      "deaths": 11421
+      "deaths": 11423
     }
   },
   "Mongolia": {
@@ -1480,9 +1480,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 661053,
+      "confirmed": 661285,
       "date": "2022-03-29",
-      "deaths": 16465
+      "deaths": 16469
     }
   },
   "Sweden": {
@@ -1549,9 +1549,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5747759,
+          "confirmed": 5747742,
           "date": "2022-03-29",
-          "deaths": 59165
+          "deaths": 59161
         }
       },
       "Florida": {
