@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1259961,
+          "confirmed": 1259745,
           "date": "2022-03-29",
           "deaths": 2732
         }
@@ -1234,9 +1234,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3677376,
+      "confirmed": 3677616,
       "date": "2022-03-29",
-      "deaths": 59030
+      "deaths": 59038
     }
   },
   "Poland": {
@@ -1255,16 +1255,16 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 361020,
+      "confirmed": 361160,
       "date": "2022-03-29",
       "deaths": 677
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 2842739,
+      "confirmed": 2847015,
       "date": "2022-03-29",
-      "deaths": 64913
+      "deaths": 64958
     }
   },
   "Russia": {
