@@ -77,49 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 592524,
+          "confirmed": 598927,
           "date": "2022-03-29",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 424772,
+          "confirmed": 426412,
           "date": "2022-03-29",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 493859,
+          "confirmed": 498334,
           "date": "2022-03-29",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 356113,
+          "confirmed": 359390,
           "date": "2022-03-29",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 427253,
+          "confirmed": 428538,
           "date": "2022-03-29",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 354849,
+          "confirmed": 355652,
           "date": "2022-03-29",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 395840,
+          "confirmed": 399018,
           "date": "2022-03-29",
           "deaths": 0
         }
@@ -128,9 +128,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 901367,
+      "confirmed": 901587,
       "date": "2022-03-29",
-      "deaths": 21487
+      "deaths": 21489
     }
   },
   "Bosnia and Herzegovina": {
@@ -379,7 +379,7 @@
         "live": {
           "confirmed": 917724,
           "date": "2022-03-29",
-          "deaths": 18233
+          "deaths": 18234
         }
       },
       "Atlantico": {
@@ -393,21 +393,21 @@
         "live": {
           "confirmed": 1765614,
           "date": "2022-03-29",
-          "deaths": 29325
+          "deaths": 29327
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 317932,
           "date": "2022-03-29",
-          "deaths": 7274
+          "deaths": 7275
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 540252,
           "date": "2022-03-29",
-          "deaths": 15013
+          "deaths": 15015
         }
       }
     }
@@ -1193,14 +1193,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 504894,
+          "confirmed": 504926,
           "date": "2022-03-29",
-          "deaths": 13552
+          "deaths": 13553
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 574803,
+          "confirmed": 574989,
           "date": "2022-03-29",
           "deaths": 8095
         }
