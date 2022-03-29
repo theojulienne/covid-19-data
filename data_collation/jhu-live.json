@@ -377,35 +377,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 917697,
+          "confirmed": 917724,
           "date": "2022-03-29",
           "deaths": 18233
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 402003,
+          "confirmed": 402015,
           "date": "2022-03-29",
           "deaths": 10123
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1765485,
+          "confirmed": 1765614,
           "date": "2022-03-29",
           "deaths": 29325
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 317909,
+          "confirmed": 317932,
           "date": "2022-03-29",
           "deaths": 7274
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 540232,
+          "confirmed": 540252,
           "date": "2022-03-29",
           "deaths": 15013
         }
@@ -990,9 +990,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 12003054,
+      "confirmed": 12350428,
       "date": "2022-03-29",
-      "deaths": 15186
+      "deaths": 15423
     }
   },
   "Kuwait": {
@@ -1209,9 +1209,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 763483,
+      "confirmed": 763608,
       "date": "2022-03-29",
-      "deaths": 8164
+      "deaths": 8167
     }
   },
   "Paraguay": {
@@ -1366,7 +1366,7 @@
     "live": {
       "confirmed": 1072005,
       "date": "2022-03-29",
-      "deaths": 1250
+      "deaths": 1254
     }
   },
   "Slovakia": {
