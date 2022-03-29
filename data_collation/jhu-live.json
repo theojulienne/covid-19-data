@@ -793,16 +793,16 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 6001751,
+      "confirmed": 6005646,
       "date": "2022-03-29",
-      "deaths": 154774
+      "deaths": 154882
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 7154003,
+      "confirmed": 7156746,
       "date": "2022-03-29",
-      "deaths": 140063
+      "deaths": 140109
     }
   },
   "Iraq": {
@@ -1110,7 +1110,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 978347,
+      "confirmed": 978377,
       "date": "2022-03-29",
       "deaths": 11951
     }
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3453885,
       "date": "2022-03-29",
-      "deaths": 13526
+      "deaths": 13529
     }
   },
   "Thailand": {
