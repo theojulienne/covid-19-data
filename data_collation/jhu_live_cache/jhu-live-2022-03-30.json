@@ -1533,9 +1533,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14831231,
+      "confirmed": 14846224,
       "date": "2022-03-30",
-      "deaths": 97924
+      "deaths": 97977
     }
   },
   "US": {
@@ -1605,7 +1605,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 341182,
+          "confirmed": 341243,
           "date": "2022-03-30",
           "deaths": 1620
         }
