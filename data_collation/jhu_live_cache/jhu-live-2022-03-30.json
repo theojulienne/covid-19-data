@@ -505,9 +505,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 1647243,
+      "confirmed": 1647796,
       "date": "2022-03-30",
-      "deaths": 16730
+      "deaths": 16739
     }
   },
   "Germany": {
@@ -1032,9 +1032,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1018758,
+      "confirmed": 1021961,
       "date": "2022-03-30",
-      "deaths": 8858
+      "deaths": 8866
     }
   },
   "Malaysia": {
