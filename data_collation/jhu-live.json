@@ -614,9 +614,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2986882,
+      "confirmed": 3009333,
       "date": "2022-03-30",
-      "deaths": 27392
+      "deaths": 27454
     }
   },
   "Guatemala": {
@@ -814,9 +814,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1448812,
+      "confirmed": 1454182,
       "date": "2022-03-30",
-      "deaths": 6730
+      "deaths": 6740
     }
   },
   "Israel": {
@@ -1371,7 +1371,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1085094,
+      "confirmed": 1090823,
       "date": "2022-03-30",
       "deaths": 1258
     }
