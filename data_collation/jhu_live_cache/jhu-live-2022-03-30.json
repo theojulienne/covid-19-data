@@ -330,14 +330,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1167264,
+          "confirmed": 1169345,
           "date": "2022-03-30",
-          "deaths": 12461
+          "deaths": 12473
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 961380,
+          "confirmed": 964447,
           "date": "2022-03-30",
           "deaths": 14353
         }
@@ -456,7 +456,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 577910,
+      "confirmed": 578020,
       "date": "2022-03-30",
       "deaths": 4375
     }
@@ -514,9 +514,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 2993716,
+          "confirmed": 3030227,
           "date": "2022-03-30",
-          "deaths": 15050
+          "deaths": 15070
         }
       },
       "Bayern": {
@@ -1110,9 +1110,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1163109,
+      "confirmed": 1163214,
       "date": "2022-03-30",
-      "deaths": 16059
+      "deaths": 16060
     }
   },
   "Nepal": {
@@ -1563,9 +1563,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1126435,
+          "confirmed": 1126979,
           "date": "2022-03-30",
-          "deaths": 14250
+          "deaths": 14252
         }
       },
       "Massachusetts": {
@@ -1577,30 +1577,30 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 397929,
+          "confirmed": 398311,
           "date": "2022-03-30",
-          "deaths": 7861
+          "deaths": 7873
         }
       },
       "Nevada": {
         "live": {
-          "confirmed": 534168,
+          "confirmed": 535036,
           "date": "2022-03-30",
-          "deaths": 7739
+          "deaths": 7789
         }
       },
       "New York": {
         "live": {
-          "confirmed": 2979331,
+          "confirmed": 2980822,
           "date": "2022-03-30",
-          "deaths": 45945
+          "deaths": 45950
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 2701244,
+          "confirmed": 2701619,
           "date": "2022-03-30",
-          "deaths": 29469
+          "deaths": 29484
         }
       },
       "Utah": {
