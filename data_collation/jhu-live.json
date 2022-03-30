@@ -477,9 +477,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 553736,
+      "confirmed": 555140,
       "date": "2022-03-30",
-      "deaths": 2448
+      "deaths": 2451
     }
   },
   "Ethiopia": {
@@ -932,14 +932,14 @@
       },
       "Chiba": {
         "live": {
-          "confirmed": 351493,
+          "confirmed": 351487,
           "date": "2022-03-30",
           "deaths": 1653
         }
       },
       "Hyogo": {
         "live": {
-          "confirmed": 329942,
+          "confirmed": 329941,
           "date": "2022-03-30",
           "deaths": 2093
         }
@@ -953,7 +953,7 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 786559,
+          "confirmed": 786558,
           "date": "2022-03-30",
           "deaths": 4620
         }
@@ -1011,9 +1011,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 794447,
+      "confirmed": 796890,
       "date": "2022-03-30",
-      "deaths": 5596
+      "deaths": 5608
     }
   },
   "Lebanon": {
@@ -1191,7 +1191,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 388229,
+      "confirmed": 388279,
       "date": "2022-03-30",
       "deaths": 4250
     }
@@ -1278,88 +1278,88 @@
     "subseries": {
       "Chelyabinsk Oblast": {
         "live": {
-          "confirmed": 315782,
+          "confirmed": 316338,
           "date": "2022-03-30",
-          "deaths": 7400
+          "deaths": 7410
         }
       },
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 359133,
+          "confirmed": 359377,
           "date": "2022-03-30",
-          "deaths": 10549
+          "deaths": 10562
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 2737501,
+          "confirmed": 2738666,
           "date": "2022-03-30",
-          "deaths": 42653
+          "deaths": 42674
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 959178,
+          "confirmed": 959592,
           "date": "2022-03-30",
-          "deaths": 14758
+          "deaths": 14769
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 405946,
+          "confirmed": 406653,
           "date": "2022-03-30",
-          "deaths": 11346
+          "deaths": 11352
         }
       },
       "Perm Krai": {
         "live": {
-          "confirmed": 358820,
+          "confirmed": 359267,
           "date": "2022-03-30",
-          "deaths": 8642
+          "deaths": 8644
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 361286,
+          "confirmed": 362143,
           "date": "2022-03-30",
-          "deaths": 10727
+          "deaths": 10735
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 1498269,
+          "confirmed": 1499353,
           "date": "2022-03-30",
-          "deaths": 33021
+          "deaths": 33041
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 374351,
+          "confirmed": 374692,
           "date": "2022-03-30",
-          "deaths": 7554
+          "deaths": 7568
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 423544,
+          "confirmed": 424359,
           "date": "2022-03-30",
-          "deaths": 10561
+          "deaths": 10567
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 368047,
+          "confirmed": 368754,
           "date": "2022-03-30",
-          "deaths": 8033
+          "deaths": 8045
         }
       }
     }
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 750589,
+      "confirmed": 750707,
       "date": "2022-03-30",
-      "deaths": 9042
+      "deaths": 9043
     }
   },
   "Serbia": {
@@ -1385,9 +1385,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 962199,
+      "confirmed": 965295,
       "date": "2022-03-30",
-      "deaths": 6480
+      "deaths": 6482
     }
   },
   "South Africa": {
@@ -1514,7 +1514,7 @@
     "live": {
       "confirmed": 3468289,
       "date": "2022-03-30",
-      "deaths": 13534
+      "deaths": 13538
     }
   },
   "Thailand": {
