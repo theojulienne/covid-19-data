@@ -316,9 +316,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 536166,
+          "confirmed": 540733,
           "date": "2022-03-30",
-          "deaths": 4044
+          "deaths": 4074
         }
       },
       "British Columbia": {
@@ -484,7 +484,7 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 469679,
+      "confirmed": 469704,
       "date": "2022-03-30",
       "deaths": 7492
     }
@@ -990,7 +990,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 323395,
+      "confirmed": 323402,
       "date": "2022-03-30",
       "deaths": 5648
     }
@@ -1018,9 +1018,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1091413,
+      "confirmed": 1091777,
       "date": "2022-03-30",
-      "deaths": 10292
+      "deaths": 10297
     }
   },
   "Libya": {
@@ -1373,7 +1373,7 @@
     "live": {
       "confirmed": 1090823,
       "date": "2022-03-30",
-      "deaths": 1258
+      "deaths": 1263
     }
   },
   "Slovakia": {
@@ -1392,9 +1392,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3715390,
+      "confirmed": 3717067,
       "date": "2022-03-30",
-      "deaths": 99976
+      "deaths": 100020
     }
   },
   "Spain": {
@@ -1514,7 +1514,7 @@
     "live": {
       "confirmed": 3484702,
       "date": "2022-03-30",
-      "deaths": 13557
+      "deaths": 13558
     }
   },
   "Thailand": {
@@ -1544,7 +1544,7 @@
         "live": {
           "confirmed": 1260012,
           "date": "2022-03-30",
-          "deaths": 16393
+          "deaths": 16686
         }
       },
       "California": {
@@ -1570,7 +1570,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 323901,
+          "confirmed": 324307,
           "date": "2022-03-30",
           "deaths": 3948
         }
