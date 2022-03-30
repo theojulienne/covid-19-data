@@ -40,9 +40,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 3770412,
+      "confirmed": 3805155,
       "date": "2022-03-30",
-      "deaths": 15764
+      "deaths": 15812
     }
   },
   "Azerbaijan": {
@@ -491,9 +491,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 864815,
+      "confirmed": 874135,
       "date": "2022-03-30",
-      "deaths": 3055
+      "deaths": 3105
     }
   },
   "France": {
@@ -1248,9 +1248,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5952200,
+      "confirmed": 5957940,
       "date": "2022-03-30",
-      "deaths": 114939
+      "deaths": 115040
     }
   },
   "Portugal": {
