@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 960245,
+      "confirmed": 961389,
       "date": "2022-03-30",
-      "deaths": 6799
+      "deaths": 6810
     }
   },
   "Belgium": {
@@ -793,9 +793,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 6005646,
+      "confirmed": 6009486,
       "date": "2022-03-30",
-      "deaths": 154882
+      "deaths": 155000
     }
   },
   "Iran": {
@@ -1269,9 +1269,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2847015,
+      "confirmed": 2850598,
       "date": "2022-03-30",
-      "deaths": 64958
+      "deaths": 64994
     }
   },
   "Russia": {
@@ -1514,7 +1514,7 @@
     "live": {
       "confirmed": 3468289,
       "date": "2022-03-30",
-      "deaths": 13536
+      "deaths": 13540
     }
   },
   "Thailand": {
