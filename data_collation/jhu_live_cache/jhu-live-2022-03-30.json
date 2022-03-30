@@ -8,7 +8,7 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 422484,
+      "confirmed": 422498,
       "date": "2022-03-30",
       "deaths": 8611
     }
@@ -635,9 +635,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1846311,
+      "confirmed": 1849217,
       "date": "2022-03-30",
-      "deaths": 45390
+      "deaths": 45430
     }
   },
   "India": {
@@ -821,7 +821,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3894134,
+      "confirmed": 3898705,
       "date": "2022-03-30",
       "deaths": 10485
     }
