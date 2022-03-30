@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1770374,
+          "confirmed": 1795558,
           "date": "2022-03-29",
-          "deaths": 2066
+          "deaths": 2081
         }
       },
       "Queensland": {
@@ -31,9 +31,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1259745,
+          "confirmed": 1271494,
           "date": "2022-03-29",
-          "deaths": 2732
+          "deaths": 2739
         }
       }
     }
@@ -300,9 +300,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1134906,
+      "confirmed": 1136604,
       "date": "2022-03-29",
-      "deaths": 36480
+      "deaths": 36498
     }
   },
   "Burma": {
@@ -1678,9 +1678,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 884742,
+      "confirmed": 885980,
       "date": "2022-03-29",
-      "deaths": 7154
+      "deaths": 7156
     }
   },
   "Venezuela": {
