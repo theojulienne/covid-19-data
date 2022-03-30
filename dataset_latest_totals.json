@@ -1948,7 +1948,7 @@
     },
     "KAZ": {
       "back_1week": {
-        "confirmed": 1393456,
+        "confirmed": 1393492,
         "deaths": 19004,
         "recovered": 0
       },
@@ -3909,13 +3909,13 @@
     },
     "VEN": {
       "back_1week": {
-        "confirmed": 519724,
-        "deaths": 5670,
+        "confirmed": 519797,
+        "deaths": 5671,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 518410,
-        "deaths": 5658,
+        "confirmed": 518460,
+        "deaths": 5659,
         "recovered": 0
       },
       "latest": {
