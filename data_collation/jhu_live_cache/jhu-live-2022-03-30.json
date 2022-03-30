@@ -128,9 +128,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 901587,
+      "confirmed": 901752,
       "date": "2022-03-30",
-      "deaths": 21489
+      "deaths": 21894
     }
   },
   "Bosnia and Herzegovina": {
@@ -393,14 +393,14 @@
         "live": {
           "confirmed": 1765739,
           "date": "2022-03-30",
-          "deaths": 29327
+          "deaths": 29331
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 317939,
           "date": "2022-03-30",
-          "deaths": 7275
+          "deaths": 7276
         }
       },
       "Valle del Cauca": {
@@ -1200,14 +1200,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 504926,
+          "confirmed": 504962,
           "date": "2022-03-30",
-          "deaths": 13553
+          "deaths": 13554
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 574989,
+          "confirmed": 575109,
           "date": "2022-03-30",
           "deaths": 8095
         }
@@ -1519,16 +1519,16 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3575398,
+      "confirmed": 3600787,
       "date": "2022-03-30",
-      "deaths": 24958
+      "deaths": 25045
     }
   },
   "Tunisia": {
     "live": {
-      "confirmed": 1033731,
+      "confirmed": 1035884,
       "date": "2022-03-30",
-      "deaths": 28165
+      "deaths": 28323
     }
   },
   "Turkey": {
