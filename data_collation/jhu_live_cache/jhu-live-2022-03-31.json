@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 758060,
+          "confirmed": 765308,
           "date": "2022-03-31",
-          "deaths": 732
+          "deaths": 737
         }
       },
       "Victoria": {
@@ -377,35 +377,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 917757,
+          "confirmed": 917781,
           "date": "2022-03-31",
           "deaths": 18234
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 402021,
+          "confirmed": 402030,
           "date": "2022-03-31",
           "deaths": 10123
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1765739,
+          "confirmed": 1765869,
           "date": "2022-03-31",
           "deaths": 29331
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 317939,
+          "confirmed": 317954,
           "date": "2022-03-31",
           "deaths": 7276
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 540303,
+          "confirmed": 540331,
           "date": "2022-03-31",
           "deaths": 15015
         }
@@ -463,7 +463,7 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 859207,
+      "confirmed": 859890,
       "date": "2022-03-31",
       "deaths": 35421
     }
@@ -997,9 +997,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 12774956,
+      "confirmed": 13095631,
       "date": "2022-03-31",
-      "deaths": 15855
+      "deaths": 16230
     }
   },
   "Kuwait": {
@@ -1177,9 +1177,9 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 643875,
+      "confirmed": 659175,
       "date": "2022-03-31",
-      "deaths": 278
+      "deaths": 299
     }
   },
   "Norway": {
