@@ -8,9 +8,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 422498,
+      "confirmed": 422519,
       "date": "2022-03-31",
-      "deaths": 8611
+      "deaths": 8613
     }
   },
   "Australia": {
@@ -635,9 +635,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1849217,
+      "confirmed": 1851871,
       "date": "2022-03-31",
-      "deaths": 45430
+      "deaths": 45470
     }
   },
   "India": {
@@ -1032,9 +1032,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1021961,
+      "confirmed": 1024839,
       "date": "2022-03-31",
-      "deaths": 8866
+      "deaths": 8876
     }
   },
   "Malaysia": {
@@ -1073,23 +1073,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1384513,
+          "confirmed": 1385199,
           "date": "2022-03-31",
-          "deaths": 42602
+          "deaths": 42608
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 538133,
+          "confirmed": 538435,
           "date": "2022-03-31",
-          "deaths": 47077
+          "deaths": 47078
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 312235,
+          "confirmed": 312302,
           "date": "2022-03-31",
-          "deaths": 14936
+          "deaths": 14945
         }
       }
     }
