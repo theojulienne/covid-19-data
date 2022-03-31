@@ -54,7 +54,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 552890,
+      "confirmed": 553750,
       "date": "2022-03-31",
       "deaths": 1470
     }
@@ -514,100 +514,100 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 3030227,
+          "confirmed": 3030304,
           "date": "2022-03-31",
           "deaths": 15070
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 3950621,
+          "confirmed": 4001721,
           "date": "2022-03-31",
-          "deaths": 22504
+          "deaths": 22550
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 897659,
+          "confirmed": 905272,
           "date": "2022-03-31",
-          "deaths": 4369
+          "deaths": 4381
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 678548,
+          "confirmed": 685976,
           "date": "2022-03-31",
-          "deaths": 5406
+          "deaths": 5419
         }
       },
       "Hamburg": {
         "live": {
-          "confirmed": 442064,
+          "confirmed": 442066,
           "date": "2022-03-31",
-          "deaths": 2381
+          "deaths": 2390
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 1416980,
+          "confirmed": 1433892,
           "date": "2022-03-31",
-          "deaths": 9585
+          "deaths": 9593
         }
       },
       "Mecklenburg-Vorpommern": {
         "live": {
-          "confirmed": 390746,
+          "confirmed": 396440,
           "date": "2022-03-31",
-          "deaths": 1991
+          "deaths": 1998
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 1660026,
+          "confirmed": 1691653,
           "date": "2022-03-31",
-          "deaths": 8008
+          "deaths": 8061
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 4174404,
+          "confirmed": 4222372,
           "date": "2022-03-31",
-          "deaths": 23553
+          "deaths": 23601
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 879254,
+          "confirmed": 879404,
           "date": "2022-03-31",
           "deaths": 5253
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 1308745,
+          "confirmed": 1310480,
           "date": "2022-03-31",
-          "deaths": 14707
+          "deaths": 14710
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 602899,
+          "confirmed": 602906,
           "date": "2022-03-31",
           "deaths": 5004
         }
       },
       "Schleswig-Holstein": {
         "live": {
-          "confirmed": 495767,
+          "confirmed": 505218,
           "date": "2022-03-31",
-          "deaths": 2294
+          "deaths": 2296
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 589451,
+          "confirmed": 597380,
           "date": "2022-03-31",
-          "deaths": 6823
+          "deaths": 6834
         }
       }
     }
