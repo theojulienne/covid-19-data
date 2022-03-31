@@ -821,7 +821,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3915702,
+      "confirmed": 3918225,
       "date": "2022-03-31",
       "deaths": 10485
     }
@@ -1110,7 +1110,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1163214,
+      "confirmed": 1163274,
       "date": "2022-03-31",
       "deaths": 16060
     }
