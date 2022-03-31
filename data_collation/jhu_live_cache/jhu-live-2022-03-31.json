@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 9035127,
+      "confirmed": 9037911,
       "date": "2022-03-31",
-      "deaths": 127997
+      "deaths": 128019
     }
   },
   "Armenia": {
@@ -435,9 +435,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 426377,
+      "confirmed": 430726,
       "date": "2022-03-31",
-      "deaths": 938
+      "deaths": 940
     }
   },
   "Czechia": {
@@ -484,9 +484,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 469704,
+      "confirmed": 469758,
       "date": "2022-03-31",
-      "deaths": 7492
+      "deaths": 7497
     }
   },
   "Finland": {
@@ -1392,9 +1392,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3717067,
+      "confirmed": 3718953,
       "date": "2022-03-31",
-      "deaths": 100020
+      "deaths": 100032
     }
   },
   "Spain": {
