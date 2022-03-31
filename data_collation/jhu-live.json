@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1795558,
+          "confirmed": 1817665,
           "date": "2022-03-30",
-          "deaths": 2081
+          "deaths": 2098
         }
       },
       "Queensland": {
@@ -31,9 +31,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1271494,
+          "confirmed": 1282714,
           "date": "2022-03-30",
-          "deaths": 2739
+          "deaths": 2743
         }
       }
     }
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 826061,
+      "confirmed": 827596,
       "date": "2022-03-30",
-      "deaths": 17295
+      "deaths": 17300
     }
   },
   "Honduras": {
@@ -1612,9 +1612,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 373237,
+          "confirmed": 373801,
           "date": "2022-03-30",
-          "deaths": 2665
+          "deaths": 2671
         }
       }
     }
