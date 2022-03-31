@@ -2404,7 +2404,8 @@ var covid19_dataset_country_sgp = {
       1250,
       1254,
       1258,
-      1263
+      1263,
+      1268
     ],
     "recovered": [
       0,
