@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1170131,
+          "confirmed": 1172464,
           "date": "2022-03-31",
-          "deaths": 12473
+          "deaths": 12478
         }
       },
       "Quebec": {
@@ -814,9 +814,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1454182,
+      "confirmed": 1459425,
       "date": "2022-03-31",
-      "deaths": 6740
+      "deaths": 6753
     }
   },
   "Israel": {
