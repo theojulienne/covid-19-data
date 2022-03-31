@@ -128,7 +128,7 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 901752,
+      "confirmed": 901943,
       "date": "2022-03-31",
       "deaths": 21894
     }
@@ -1200,16 +1200,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 504962,
+          "confirmed": 505003,
           "date": "2022-03-31",
-          "deaths": 13554
+          "deaths": 13556
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 575109,
+          "confirmed": 575257,
           "date": "2022-03-31",
-          "deaths": 8095
+          "deaths": 8096
         }
       }
     }
@@ -1685,9 +1685,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 520304,
+      "confirmed": 520373,
       "date": "2022-03-31",
-      "deaths": 5681
+      "deaths": 5682
     }
   },
   "Vietnam": {
