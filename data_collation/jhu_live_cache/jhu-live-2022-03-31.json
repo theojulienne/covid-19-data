@@ -307,7 +307,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 611448,
+      "confirmed": 611587,
       "date": "2022-03-31",
       "deaths": 19430
     }
@@ -330,16 +330,16 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1172464,
+          "confirmed": 1172559,
           "date": "2022-03-31",
-          "deaths": 12478
+          "deaths": 12479
         }
       },
       "Quebec": {
         "live": {
           "confirmed": 964447,
           "date": "2022-03-31",
-          "deaths": 14353
+          "deaths": 14365
         }
       }
     }
@@ -348,16 +348,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 344432,
+          "confirmed": 345203,
           "date": "2022-03-31",
-          "deaths": 4141
+          "deaths": 4166
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1322502,
+          "confirmed": 1324961,
           "date": "2022-03-31",
-          "deaths": 27906
+          "deaths": 27926
         }
       }
     }
@@ -428,7 +428,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1089452,
+      "confirmed": 1090285,
       "date": "2022-03-31",
       "deaths": 8510
     }
@@ -925,51 +925,51 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 412008,
+          "confirmed": 414701,
           "date": "2022-03-31",
-          "deaths": 1964
+          "deaths": 1969
         }
       },
       "Chiba": {
         "live": {
-          "confirmed": 354499,
+          "confirmed": 357458,
           "date": "2022-03-31",
           "deaths": 1657
         }
       },
       "Hyogo": {
         "live": {
-          "confirmed": 332097,
+          "confirmed": 334167,
           "date": "2022-03-31",
-          "deaths": 2096
+          "deaths": 2100
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 597511,
+          "confirmed": 601399,
           "date": "2022-03-31",
-          "deaths": 2016
+          "deaths": 2026
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 791075,
+          "confirmed": 794809,
           "date": "2022-03-31",
-          "deaths": 4643
+          "deaths": 4667
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 423959,
+          "confirmed": 428353,
           "date": "2022-03-31",
-          "deaths": 1376
+          "deaths": 1387
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1242659,
+          "confirmed": 1250651,
           "date": "2022-03-31",
-          "deaths": 4157
+          "deaths": 4169
         }
       }
     }
@@ -1371,7 +1371,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1090823,
+      "confirmed": 1096428,
       "date": "2022-03-31",
       "deaths": 1263
     }
@@ -1480,9 +1480,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 661453,
+      "confirmed": 661631,
       "date": "2022-03-31",
-      "deaths": 16473
+      "deaths": 16477
     }
   },
   "Sweden": {
@@ -1591,9 +1591,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2980822,
+          "confirmed": 2981680,
           "date": "2022-03-31",
-          "deaths": 45950
+          "deaths": 45953
         }
       },
       "Texas": {
@@ -1648,30 +1648,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 17742075,
+          "confirmed": 17804704,
           "date": "2022-03-31",
-          "deaths": 143330
+          "deaths": 143466
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 685383,
+          "confirmed": 686844,
           "date": "2022-03-31",
-          "deaths": 3320
+          "deaths": 3323
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 1784824,
+          "confirmed": 1793771,
           "date": "2022-03-31",
-          "deaths": 11393
+          "deaths": 11428
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 860727,
+          "confirmed": 862106,
           "date": "2022-03-31",
-          "deaths": 7144
+          "deaths": 7162
         }
       }
     }
