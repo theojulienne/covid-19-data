@@ -330,14 +330,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1172559,
+          "confirmed": 1173333,
           "date": "2022-03-31",
-          "deaths": 12479
+          "deaths": 12489
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 964447,
+          "confirmed": 967766,
           "date": "2022-03-31",
           "deaths": 14365
         }
@@ -1041,30 +1041,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 371515,
+          "confirmed": 372469,
           "date": "2022-03-31",
-          "deaths": 4423
+          "deaths": 4429
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 367195,
+          "confirmed": 367409,
           "date": "2022-03-31",
-          "deaths": 3110
+          "deaths": 3112
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1182383,
+          "confirmed": 1193118,
           "date": "2022-03-31",
-          "deaths": 10519
+          "deaths": 10530
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 326514,
+          "confirmed": 327702,
           "date": "2022-03-31",
-          "deaths": 2791
+          "deaths": 2790
         }
       }
     }
@@ -1551,7 +1551,7 @@
         "live": {
           "confirmed": 5752282,
           "date": "2022-03-31",
-          "deaths": 59237
+          "deaths": 59241
         }
       },
       "Florida": {
@@ -1563,9 +1563,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1126979,
+          "confirmed": 1127765,
           "date": "2022-03-31",
-          "deaths": 14252
+          "deaths": 14256
         }
       },
       "Massachusetts": {
@@ -1598,14 +1598,14 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2701619,
+          "confirmed": 2702576,
           "date": "2022-03-31",
-          "deaths": 29484
+          "deaths": 29495
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 341243,
+          "confirmed": 341302,
           "date": "2022-03-31",
           "deaths": 1620
         }
