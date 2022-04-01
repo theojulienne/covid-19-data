@@ -814,16 +814,16 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1459425,
+      "confirmed": 1465150,
       "date": "2022-04-01",
-      "deaths": 6753
+      "deaths": 6786
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 3921608,
+      "confirmed": 3926812,
       "date": "2022-04-01",
-      "deaths": 10485
+      "deaths": 10496
     }
   },
   "Italy": {
@@ -1371,7 +1371,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1096428,
+      "confirmed": 1101438,
       "date": "2022-04-01",
       "deaths": 1268
     }
