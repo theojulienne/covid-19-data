@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1166191,
+          "confirmed": 1176866,
           "date": "2022-04-01",
-          "deaths": 12451
+          "deaths": 12498
         }
       },
       "Quebec": {
@@ -1168,9 +1168,9 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1643960,
+          "confirmed": 1648657,
           "date": "2022-04-01",
-          "deaths": 5081
+          "deaths": 5078
         }
       }
     }
