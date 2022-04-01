@@ -542,7 +542,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 447355,
+          "confirmed": 451697,
           "date": "2022-04-01",
           "deaths": 2392
         }
@@ -800,9 +800,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 7162220,
+      "confirmed": 7164484,
       "date": "2022-04-01",
-      "deaths": 140204
+      "deaths": 140240
     }
   },
   "Iraq": {
@@ -1025,9 +1025,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 501705,
+      "confirmed": 501738,
       "date": "2022-04-01",
-      "deaths": 6415
+      "deaths": 6419
     }
   },
   "Lithuania": {
@@ -1117,7 +1117,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 978426,
+      "confirmed": 978442,
       "date": "2022-04-01",
       "deaths": 11951
     }
@@ -1241,9 +1241,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3678245,
+      "confirmed": 3678598,
       "date": "2022-04-01",
-      "deaths": 59249
+      "deaths": 59298
     }
   },
   "Poland": {
@@ -1269,9 +1269,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2853570,
+      "confirmed": 2856491,
       "date": "2022-04-01",
-      "deaths": 65015
+      "deaths": 65042
     }
   },
   "Russia": {
@@ -1639,7 +1639,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 891300,
+      "confirmed": 891588,
       "date": "2022-04-01",
       "deaths": 2302
     }
