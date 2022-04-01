@@ -77,49 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 598927,
+          "confirmed": 608444,
           "date": "2022-04-01",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 426412,
+          "confirmed": 428749,
           "date": "2022-04-01",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 498334,
+          "confirmed": 505555,
           "date": "2022-04-01",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 359390,
+          "confirmed": 364656,
           "date": "2022-04-01",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 428538,
+          "confirmed": 431259,
           "date": "2022-04-01",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 355652,
+          "confirmed": 358278,
           "date": "2022-04-01",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 399018,
+          "confirmed": 404249,
           "date": "2022-04-01",
           "deaths": 0
         }
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 827596,
+      "confirmed": 828874,
       "date": "2022-04-01",
-      "deaths": 17300
+      "deaths": 17312
     }
   },
   "Honduras": {
@@ -1200,16 +1200,16 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 505003,
+          "confirmed": 505054,
           "date": "2022-04-01",
-          "deaths": 13556
+          "deaths": 13557
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 575257,
+          "confirmed": 575331,
           "date": "2022-04-01",
-          "deaths": 8096
+          "deaths": 8097
         }
       }
     }
@@ -1519,9 +1519,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3628347,
+      "confirmed": 3656726,
       "date": "2022-04-01",
-      "deaths": 25130
+      "deaths": 25222
     }
   },
   "Tunisia": {
