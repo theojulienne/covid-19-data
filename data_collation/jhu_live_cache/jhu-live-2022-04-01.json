@@ -330,14 +330,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1173333,
+          "confirmed": 1166191,
           "date": "2022-04-01",
-          "deaths": 12489
+          "deaths": 12451
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 970951,
+          "confirmed": 970948,
           "date": "2022-04-01",
           "deaths": 14382
         }
@@ -1577,9 +1577,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 398311,
+          "confirmed": 398718,
           "date": "2022-04-01",
-          "deaths": 7873
+          "deaths": 7885
         }
       },
       "Nevada": {
