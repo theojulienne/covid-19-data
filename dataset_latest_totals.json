@@ -1948,17 +1948,17 @@
     },
     "KAZ": {
       "back_1week": {
-        "confirmed": 1393522,
+        "confirmed": 1393546,
         "deaths": 19006,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1393206,
+        "confirmed": 1393286,
         "deaths": 18997,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1393786,
+        "confirmed": 1393802,
         "deaths": 19011,
         "recovered": 0
       }
