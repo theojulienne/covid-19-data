@@ -61,7 +61,7 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1951577,
+      "confirmed": 1951658,
       "date": "2022-04-01",
       "deaths": 29122
     }
@@ -135,9 +135,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 375440,
+      "confirmed": 375554,
       "date": "2022-04-01",
-      "deaths": 15713
+      "deaths": 15718
     }
   },
   "Brazil": {
@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1162704,
+          "confirmed": 1173333,
           "date": "2022-04-01",
-          "deaths": 12434
+          "deaths": 12489
         }
       },
       "Quebec": {
@@ -366,9 +366,9 @@
     "subseries": {
       "Hong Kong": {
         "live": {
-          "confirmed": 1157415,
+          "confirmed": 1163238,
           "date": "2022-04-01",
-          "deaths": 7825
+          "deaths": 7945
         }
       }
     }
@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 3058773,
+      "confirmed": 3061773,
       "date": "2022-04-01",
-      "deaths": 5698
+      "deaths": 5723
     }
   },
   "Dominican Republic": {
@@ -521,7 +521,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 4052926,
+          "confirmed": 4056005,
           "date": "2022-04-01",
           "deaths": 22597
         }
@@ -577,9 +577,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 893277,
+          "confirmed": 904360,
           "date": "2022-04-01",
-          "deaths": 5265
+          "deaths": 5277
         }
       },
       "Sachsen": {
@@ -591,9 +591,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 609618,
+          "confirmed": 614344,
           "date": "2022-04-01",
-          "deaths": 5012
+          "deaths": 5028
         }
       },
       "Schleswig-Holstein": {
@@ -1512,7 +1512,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 3497499,
+      "confirmed": 3507309,
       "date": "2022-04-01",
       "deaths": 13570
     }
