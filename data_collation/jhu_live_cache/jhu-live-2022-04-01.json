@@ -19,7 +19,7 @@
         "live": {
           "confirmed": 1843078,
           "date": "2022-04-01",
-          "deaths": 2100
+          "deaths": 2431
         }
       },
       "Queensland": {
@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1293047,
+          "confirmed": 1292898,
           "date": "2022-04-01",
           "deaths": 2749
         }
@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 962707,
+      "confirmed": 963756,
       "date": "2022-04-01",
-      "deaths": 6819
+      "deaths": 6829
     }
   },
   "Belgium": {
@@ -330,9 +330,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1173333,
+          "confirmed": 1162704,
           "date": "2022-04-01",
-          "deaths": 12489
+          "deaths": 12434
         }
       },
       "Quebec": {
@@ -421,9 +421,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1099176,
+      "confirmed": 1100618,
       "date": "2022-04-01",
-      "deaths": 15563
+      "deaths": 15584
     }
   },
   "Cuba": {
@@ -793,9 +793,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 6012818,
+      "confirmed": 6015748,
       "date": "2022-04-01",
-      "deaths": 155089
+      "deaths": 155164
     }
   },
   "Iran": {
@@ -1514,7 +1514,7 @@
     "live": {
       "confirmed": 3497499,
       "date": "2022-04-01",
-      "deaths": 13569
+      "deaths": 13570
     }
   },
   "Thailand": {
@@ -1706,7 +1706,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 316850,
+      "confirmed": 316941,
       "date": "2022-04-01",
       "deaths": 3966
     }
