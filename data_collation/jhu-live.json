@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 970948,
+          "confirmed": 970951,
           "date": "2022-04-01",
           "deaths": 14382
         }
@@ -484,9 +484,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 469758,
+      "confirmed": 469784,
       "date": "2022-04-01",
-      "deaths": 7497
+      "deaths": 7500
     }
   },
   "Finland": {
@@ -537,7 +537,7 @@
         "live": {
           "confirmed": 690935,
           "date": "2022-04-01",
-          "deaths": 5425
+          "deaths": 5424
         }
       },
       "Hamburg": {
@@ -565,14 +565,14 @@
         "live": {
           "confirmed": 1722101,
           "date": "2022-04-01",
-          "deaths": 8096
+          "deaths": 8095
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
           "confirmed": 4266992,
           "date": "2022-04-01",
-          "deaths": 23675
+          "deaths": 23674
         }
       },
       "Rheinland-Pfalz": {
@@ -607,7 +607,7 @@
         "live": {
           "confirmed": 605277,
           "date": "2022-04-01",
-          "deaths": 6844
+          "deaths": 6842
         }
       }
     }
@@ -990,7 +990,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 323423,
+      "confirmed": 323436,
       "date": "2022-04-01",
       "deaths": 5648
     }
@@ -1018,9 +1018,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1092157,
+      "confirmed": 1092509,
       "date": "2022-04-01",
-      "deaths": 10303
+      "deaths": 10307
     }
   },
   "Libya": {
@@ -1041,30 +1041,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 372469,
+          "confirmed": 373092,
           "date": "2022-04-01",
-          "deaths": 4429
+          "deaths": 4437
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 367409,
+          "confirmed": 367679,
           "date": "2022-04-01",
           "deaths": 3112
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1193118,
+          "confirmed": 1203741,
           "date": "2022-04-01",
-          "deaths": 10530
+          "deaths": 10531
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 327702,
+          "confirmed": 328893,
           "date": "2022-04-01",
-          "deaths": 2790
+          "deaths": 2791
         }
       }
     }
@@ -1262,7 +1262,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 361415,
+      "confirmed": 361545,
       "date": "2022-04-01",
       "deaths": 677
     }
@@ -1373,7 +1373,7 @@
     "live": {
       "confirmed": 1101438,
       "date": "2022-04-01",
-      "deaths": 1268
+      "deaths": 1270
     }
   },
   "Slovakia": {
@@ -1570,9 +1570,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 324707,
+          "confirmed": 325150,
           "date": "2022-04-01",
-          "deaths": 3949
+          "deaths": 3951
         }
       },
       "Michigan": {
@@ -1598,9 +1598,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2702576,
+          "confirmed": 2703084,
           "date": "2022-04-01",
-          "deaths": 29495
+          "deaths": 29504
         }
       },
       "Utah": {
