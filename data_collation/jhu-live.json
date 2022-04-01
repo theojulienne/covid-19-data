@@ -1073,21 +1073,21 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1385199,
+          "confirmed": 1385841,
           "date": "2022-04-01",
-          "deaths": 42608
+          "deaths": 42617
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 538435,
+          "confirmed": 538731,
           "date": "2022-04-01",
-          "deaths": 47078
+          "deaths": 47089
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 312302,
+          "confirmed": 312349,
           "date": "2022-04-01",
           "deaths": 14945
         }
@@ -1685,9 +1685,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 520373,
+      "confirmed": 520497,
       "date": "2022-04-01",
-      "deaths": 5682
+      "deaths": 5683
     }
   },
   "Vietnam": {
