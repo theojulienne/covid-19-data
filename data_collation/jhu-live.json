@@ -8,7 +8,7 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 422540,
+      "confirmed": 422563,
       "date": "2022-04-02",
       "deaths": 8616
     }
@@ -40,9 +40,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 3854405,
+      "confirmed": 3873448,
       "date": "2022-04-02",
-      "deaths": 15905
+      "deaths": 15957
     }
   },
   "Azerbaijan": {
@@ -505,9 +505,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 1648653,
+      "confirmed": 1649005,
       "date": "2022-04-02",
-      "deaths": 16748
+      "deaths": 16751
     }
   },
   "Germany": {
