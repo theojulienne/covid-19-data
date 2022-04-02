@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 970951,
+          "confirmed": 970948,
           "date": "2022-04-02",
           "deaths": 14382
         }
@@ -477,9 +477,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 557314,
+      "confirmed": 558253,
       "date": "2022-04-02",
-      "deaths": 2463
+      "deaths": 2466
     }
   },
   "Ethiopia": {
@@ -1357,9 +1357,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 750910,
+      "confirmed": 750998,
       "date": "2022-04-02",
-      "deaths": 9046
+      "deaths": 9047
     }
   },
   "Serbia": {
