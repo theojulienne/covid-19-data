@@ -442,9 +442,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 3822035,
+      "confirmed": 3828021,
       "date": "2022-04-02",
-      "deaths": 39692
+      "deaths": 39706
     }
   },
   "Denmark": {
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 828874,
+      "confirmed": 829881,
       "date": "2022-04-02",
-      "deaths": 17312
+      "deaths": 17318
     }
   },
   "Honduras": {
@@ -644,7 +644,7 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2319532,
+          "confirmed": 2319560,
           "date": "2022-04-02",
           "deaths": 14730
         }
@@ -665,126 +665,126 @@
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 1152134,
+          "confirmed": 1152148,
           "date": "2022-04-02",
           "deaths": 14034
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 1864970,
+          "confirmed": 1865101,
           "date": "2022-04-02",
-          "deaths": 26152
+          "deaths": 26153
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 1223904,
+          "confirmed": 1223911,
           "date": "2022-04-02",
           "deaths": 10942
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 985218,
+          "confirmed": 985263,
           "date": "2022-04-02",
           "deaths": 10616
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 453737,
+          "confirmed": 453768,
           "date": "2022-04-02",
           "deaths": 4750
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 435145,
+          "confirmed": 435146,
           "date": "2022-04-02",
           "deaths": 5315
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 3945514,
+          "confirmed": 3945576,
           "date": "2022-04-02",
           "deaths": 40054
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 6532683,
+          "confirmed": 6533101,
           "date": "2022-04-02",
-          "deaths": 67913
+          "deaths": 67992
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 1041110,
+          "confirmed": 1041137,
           "date": "2022-04-02",
           "deaths": 10734
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 7874024,
+          "confirmed": 7874147,
           "date": "2022-04-02",
-          "deaths": 147783
+          "deaths": 147785
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 1287640,
+          "confirmed": 1287661,
           "date": "2022-04-02",
           "deaths": 9121
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 759107,
+          "confirmed": 759132,
           "date": "2022-04-02",
           "deaths": 17741
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 1282986,
+          "confirmed": 1283006,
           "date": "2022-04-02",
           "deaths": 9552
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 3452825,
+          "confirmed": 3452857,
           "date": "2022-04-02",
           "deaths": 38025
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 791284,
+          "confirmed": 791309,
           "date": "2022-04-02",
           "deaths": 4111
         }
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 2070728,
+          "confirmed": 2070774,
           "date": "2022-04-02",
-          "deaths": 23495
+          "deaths": 23496
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 437247,
+          "confirmed": 437256,
           "date": "2022-04-02",
           "deaths": 7691
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 2017348,
+          "confirmed": 2017389,
           "date": "2022-04-02",
           "deaths": 21197
         }
@@ -1177,9 +1177,9 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 672712,
+      "confirmed": 684374,
       "date": "2022-04-02",
-      "deaths": 314
+      "deaths": 330
     }
   },
   "Norway": {
@@ -1519,9 +1519,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3656726,
+      "confirmed": 3684755,
       "date": "2022-04-02",
-      "deaths": 25222
+      "deaths": 25318
     }
   },
   "Tunisia": {
