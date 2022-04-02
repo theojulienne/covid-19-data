@@ -17,9 +17,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1843078,
+          "confirmed": 1863375,
           "date": "2022-04-01",
-          "deaths": 2431
+          "deaths": 2444
         }
       },
       "Queensland": {
@@ -31,9 +31,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1292898,
+          "confirmed": 1302047,
           "date": "2022-04-01",
-          "deaths": 2749
+          "deaths": 2752
         }
       }
     }
@@ -300,9 +300,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1138923,
+      "confirmed": 1139956,
       "date": "2022-04-01",
-      "deaths": 36529
+      "deaths": 36554
     }
   },
   "Burma": {
@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 970951,
+          "confirmed": 970948,
           "date": "2022-04-01",
           "deaths": 14382
         }
@@ -377,35 +377,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 917810,
+          "confirmed": 917837,
           "date": "2022-04-01",
           "deaths": 18236
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 402040,
+          "confirmed": 402053,
           "date": "2022-04-01",
           "deaths": 10126
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1766029,
+          "confirmed": 1766198,
           "date": "2022-04-01",
           "deaths": 29338
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 317964,
+          "confirmed": 317976,
           "date": "2022-04-01",
           "deaths": 7277
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 540359,
+          "confirmed": 540388,
           "date": "2022-04-01",
           "deaths": 15018
         }
@@ -1563,9 +1563,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1127765,
+          "confirmed": 1128478,
           "date": "2022-04-01",
-          "deaths": 14256
+          "deaths": 14265
         }
       },
       "Massachusetts": {
@@ -1591,9 +1591,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2983320,
+          "confirmed": 2985202,
           "date": "2022-04-01",
-          "deaths": 45953
+          "deaths": 45962
         }
       },
       "Texas": {
