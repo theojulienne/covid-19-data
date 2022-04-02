@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 970951,
+          "confirmed": 970948,
           "date": "2022-04-02",
           "deaths": 14382
         }
@@ -428,9 +428,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1091063,
+      "confirmed": 1091852,
       "date": "2022-04-02",
-      "deaths": 8510
+      "deaths": 8512
     }
   },
   "Cyprus": {
@@ -1110,7 +1110,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1163359,
+      "confirmed": 1163472,
       "date": "2022-04-02",
       "deaths": 16060
     }
@@ -1533,9 +1533,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14873927,
+      "confirmed": 14885710,
       "date": "2022-04-02",
-      "deaths": 98078
+      "deaths": 98119
     }
   },
   "US": {
