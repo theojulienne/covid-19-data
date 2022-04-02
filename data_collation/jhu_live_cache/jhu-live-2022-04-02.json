@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 970948,
+          "confirmed": 970951,
           "date": "2022-04-02",
           "deaths": 14382
         }
@@ -348,16 +348,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 345917,
+          "confirmed": 346471,
           "date": "2022-04-02",
-          "deaths": 4173
+          "deaths": 4176
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1327214,
+          "confirmed": 1329262,
           "date": "2022-04-02",
-          "deaths": 27950
+          "deaths": 27972
         }
       }
     }
@@ -925,51 +925,51 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 417390,
+          "confirmed": 419954,
           "date": "2022-04-02",
-          "deaths": 1970
+          "deaths": 1972
         }
       },
       "Chiba": {
         "live": {
-          "confirmed": 360016,
+          "confirmed": 362789,
           "date": "2022-04-02",
-          "deaths": 1657
+          "deaths": 1660
         }
       },
       "Hyogo": {
         "live": {
-          "confirmed": 335964,
+          "confirmed": 337815,
           "date": "2022-04-02",
-          "deaths": 2109
+          "deaths": 2111
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 605051,
+          "confirmed": 609858,
           "date": "2022-04-02",
-          "deaths": 2026
+          "deaths": 2032
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 798479,
+          "confirmed": 802145,
           "date": "2022-04-02",
-          "deaths": 4701
+          "deaths": 4714
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 432384,
+          "confirmed": 435628,
           "date": "2022-04-02",
-          "deaths": 1395
+          "deaths": 1396
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1258633,
+          "confirmed": 1266028,
           "date": "2022-04-02",
-          "deaths": 4178
+          "deaths": 4182
         }
       }
     }
