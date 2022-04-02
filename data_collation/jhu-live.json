@@ -1032,9 +1032,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1027432,
+      "confirmed": 1029426,
       "date": "2022-04-02",
-      "deaths": 8888
+      "deaths": 8899
     }
   },
   "Malaysia": {
@@ -1073,23 +1073,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1385841,
+          "confirmed": 1386597,
           "date": "2022-04-02",
-          "deaths": 42617
+          "deaths": 42625
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 538731,
+          "confirmed": 538981,
           "date": "2022-04-02",
-          "deaths": 47089
+          "deaths": 47100
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 312349,
+          "confirmed": 312384,
           "date": "2022-04-02",
-          "deaths": 14945
+          "deaths": 14952
         }
       }
     }
