@@ -983,7 +983,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1393820,
+      "confirmed": 1393839,
       "date": "2022-04-02",
       "deaths": 19012
     }
@@ -1685,9 +1685,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 520497,
+      "confirmed": 520627,
       "date": "2022-04-02",
-      "deaths": 5683
+      "deaths": 5684
     }
   },
   "Vietnam": {
