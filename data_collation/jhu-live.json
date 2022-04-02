@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 776011,
+          "confirmed": 785417,
           "date": "2022-04-02",
-          "deaths": 740
+          "deaths": 746
         }
       },
       "Victoria": {
@@ -379,7 +379,7 @@
         "live": {
           "confirmed": 917837,
           "date": "2022-04-02",
-          "deaths": 18236
+          "deaths": 18237
         }
       },
       "Atlantico": {
@@ -393,21 +393,21 @@
         "live": {
           "confirmed": 1766198,
           "date": "2022-04-02",
-          "deaths": 29338
+          "deaths": 29341
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 317976,
           "date": "2022-04-02",
-          "deaths": 7277
+          "deaths": 7279
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 540388,
           "date": "2022-04-02",
-          "deaths": 15018
+          "deaths": 15020
         }
       }
     }
@@ -997,9 +997,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 13375818,
+      "confirmed": 13639915,
       "date": "2022-04-02",
-      "deaths": 16590
+      "deaths": 16929
     }
   },
   "Kuwait": {
