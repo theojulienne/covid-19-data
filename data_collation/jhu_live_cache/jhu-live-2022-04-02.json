@@ -128,7 +128,7 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 902135,
+      "confirmed": 902316,
       "date": "2022-04-02",
       "deaths": 21895
     }
@@ -1200,14 +1200,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 505054,
+          "confirmed": 505087,
           "date": "2022-04-02",
           "deaths": 13557
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 575331,
+          "confirmed": 575473,
           "date": "2022-04-02",
           "deaths": 8097
         }
@@ -1225,7 +1225,7 @@
     "live": {
       "confirmed": 648353,
       "date": "2022-04-02",
-      "deaths": 18664
+      "deaths": 18731
     }
   },
   "Peru": {
