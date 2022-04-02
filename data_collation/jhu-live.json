@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 9039838,
+      "confirmed": 9040640,
       "date": "2022-04-02",
-      "deaths": 128052
+      "deaths": 128059
     }
   },
   "Armenia": {
@@ -484,9 +484,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 469784,
+      "confirmed": 469806,
       "date": "2022-04-02",
-      "deaths": 7500
+      "deaths": 7504
     }
   },
   "Finland": {
@@ -990,7 +990,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 323436,
+      "confirmed": 323450,
       "date": "2022-04-02",
       "deaths": 5648
     }
@@ -1018,9 +1018,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1092509,
+      "confirmed": 1092807,
       "date": "2022-04-02",
-      "deaths": 10307
+      "deaths": 10312
     }
   },
   "Libya": {
@@ -1373,7 +1373,7 @@
     "live": {
       "confirmed": 1106001,
       "date": "2022-04-02",
-      "deaths": 1270
+      "deaths": 1272
     }
   },
   "Slovakia": {
@@ -1480,9 +1480,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 661781,
+      "confirmed": 661885,
       "date": "2022-04-02",
-      "deaths": 16479
+      "deaths": 16480
     }
   },
   "Sweden": {
