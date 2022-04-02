@@ -54,7 +54,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 555003,
+      "confirmed": 555560,
       "date": "2022-04-02",
       "deaths": 1471
     }
@@ -377,35 +377,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 917837,
+          "confirmed": 917877,
           "date": "2022-04-02",
           "deaths": 18237
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 402053,
+          "confirmed": 402060,
           "date": "2022-04-02",
           "deaths": 10126
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1766198,
+          "confirmed": 1766333,
           "date": "2022-04-02",
           "deaths": 29341
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 317976,
+          "confirmed": 317990,
           "date": "2022-04-02",
           "deaths": 7279
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 540388,
+          "confirmed": 540421,
           "date": "2022-04-02",
           "deaths": 15020
         }
@@ -1591,7 +1591,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2985202,
+          "confirmed": 2986740,
           "date": "2022-04-02",
           "deaths": 45962
         }
