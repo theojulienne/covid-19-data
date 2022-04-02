@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 970948,
+          "confirmed": 970951,
           "date": "2022-04-02",
           "deaths": 14382
         }
@@ -925,7 +925,7 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 417391,
+          "confirmed": 417390,
           "date": "2022-04-02",
           "deaths": 1970
         }
@@ -1117,7 +1117,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 978442,
+      "confirmed": 978452,
       "date": "2022-04-02",
       "deaths": 11951
     }
@@ -1241,9 +1241,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3678598,
+      "confirmed": 3678968,
       "date": "2022-04-02",
-      "deaths": 59298
+      "deaths": 59324
     }
   },
   "Poland": {
@@ -1269,9 +1269,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2856491,
+      "confirmed": 2858665,
       "date": "2022-04-02",
-      "deaths": 65042
+      "deaths": 65079
     }
   },
   "Russia": {
@@ -1378,9 +1378,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2450101,
+      "confirmed": 2456636,
       "date": "2022-04-02",
-      "deaths": 19368
+      "deaths": 19392
     }
   },
   "Slovenia": {
@@ -1639,7 +1639,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 891588,
+      "confirmed": 891872,
       "date": "2022-04-02",
       "deaths": 2302
     }
