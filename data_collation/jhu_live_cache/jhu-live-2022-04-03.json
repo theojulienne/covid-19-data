@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 9040640,
+      "confirmed": 9041124,
       "date": "2022-04-03",
-      "deaths": 128059
+      "deaths": 128065
     }
   },
   "Armenia": {
@@ -821,7 +821,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3943146,
+      "confirmed": 3946288,
       "date": "2022-04-03",
       "deaths": 10530
     }
@@ -1392,9 +1392,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3718953,
+      "confirmed": 3722954,
       "date": "2022-04-03",
-      "deaths": 100032
+      "deaths": 100050
     }
   },
   "Spain": {
@@ -1692,9 +1692,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 9716282,
+      "confirmed": 9818328,
       "date": "2022-04-03",
-      "deaths": 42563
+      "deaths": 42600
     }
   },
   "West Bank and Gaza": {
