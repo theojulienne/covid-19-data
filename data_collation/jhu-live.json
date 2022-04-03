@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 964677,
+      "confirmed": 965322,
       "date": "2022-04-03",
-      "deaths": 6836
+      "deaths": 6844
     }
   },
   "Belgium": {
@@ -484,7 +484,7 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 469806,
+      "confirmed": 469819,
       "date": "2022-04-03",
       "deaths": 7504
     }
@@ -990,7 +990,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 323450,
+      "confirmed": 323454,
       "date": "2022-04-03",
       "deaths": 5648
     }
@@ -1018,9 +1018,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1092807,
+      "confirmed": 1092995,
       "date": "2022-04-03",
-      "deaths": 10312
+      "deaths": 10315
     }
   },
   "Libya": {
@@ -1373,7 +1373,7 @@
     "live": {
       "confirmed": 1109744,
       "date": "2022-04-03",
-      "deaths": 1272
+      "deaths": 1276
     }
   },
   "Slovakia": {
