@@ -24,7 +24,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 785417,
+          "confirmed": 793885,
           "date": "2022-04-03",
           "deaths": 746
         }
@@ -1177,9 +1177,9 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 684374,
+      "confirmed": 693219,
       "date": "2022-04-03",
-      "deaths": 330
+      "deaths": 350
     }
   },
   "Norway": {
