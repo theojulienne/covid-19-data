@@ -348,16 +348,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 346471,
+          "confirmed": 347020,
           "date": "2022-04-03",
-          "deaths": 4176
+          "deaths": 4188
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1329262,
+          "confirmed": 1331119,
           "date": "2022-04-03",
-          "deaths": 27972
+          "deaths": 27985
         }
       }
     }
@@ -830,93 +830,93 @@
     "subseries": {
       "Abruzzo": {
         "live": {
-          "confirmed": 319158,
+          "confirmed": 320958,
           "date": "2022-04-03",
-          "deaths": 3098
+          "deaths": 3103
         }
       },
       "Campania": {
         "live": {
-          "confirmed": 1415743,
+          "confirmed": 1422116,
           "date": "2022-04-03",
-          "deaths": 10040
+          "deaths": 10047
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 1290959,
+          "confirmed": 1295322,
           "date": "2022-04-03",
-          "deaths": 16278
+          "deaths": 16285
         }
       },
       "Friuli Venezia Giulia": {
         "live": {
-          "confirmed": 336823,
+          "confirmed": 337534,
           "date": "2022-04-03",
-          "deaths": 4921
+          "deaths": 4922
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 1304521,
+          "confirmed": 1311054,
           "date": "2022-04-03",
-          "deaths": 10791
+          "deaths": 10795
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 388430,
+          "confirmed": 389441,
           "date": "2022-04-03",
-          "deaths": 5204
+          "deaths": 5206
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 2555102,
+          "confirmed": 2561473,
           "date": "2022-04-03",
-          "deaths": 39280
+          "deaths": 39315
         }
       },
       "Marche": {
         "live": {
-          "confirmed": 395052,
+          "confirmed": 396937,
           "date": "2022-04-03",
           "deaths": 3716
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 1056144,
+          "confirmed": 1057868,
           "date": "2022-04-03",
-          "deaths": 13205
+          "deaths": 13206
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 931368,
+          "confirmed": 936297,
           "date": "2022-04-03",
-          "deaths": 7989
+          "deaths": 7999
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 986308,
+          "confirmed": 991165,
           "date": "2022-04-03",
-          "deaths": 10120
+          "deaths": 10137
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 993875,
+          "confirmed": 997757,
           "date": "2022-04-03",
           "deaths": 9524
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 1504856,
+          "confirmed": 1509737,
           "date": "2022-04-03",
-          "deaths": 14184
+          "deaths": 14192
         }
       }
     }
@@ -925,51 +925,51 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 419954,
+          "confirmed": 422042,
           "date": "2022-04-03",
-          "deaths": 1972
+          "deaths": 1973
         }
       },
       "Chiba": {
         "live": {
-          "confirmed": 362784,
+          "confirmed": 366087,
           "date": "2022-04-03",
-          "deaths": 1660
+          "deaths": 1663
         }
       },
       "Hyogo": {
         "live": {
-          "confirmed": 337815,
+          "confirmed": 339516,
           "date": "2022-04-03",
-          "deaths": 2111
+          "deaths": 2117
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 609857,
+          "confirmed": 614101,
           "date": "2022-04-03",
-          "deaths": 2032
+          "deaths": 2034
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 802145,
+          "confirmed": 805905,
           "date": "2022-04-03",
-          "deaths": 4714
+          "deaths": 4715
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 435628,
+          "confirmed": 439330,
           "date": "2022-04-03",
           "deaths": 1396
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1266028,
+          "confirmed": 1273927,
           "date": "2022-04-03",
-          "deaths": 4182
+          "deaths": 4191
         }
       }
     }
@@ -1371,7 +1371,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1106001,
+      "confirmed": 1109744,
       "date": "2022-04-03",
       "deaths": 1272
     }
