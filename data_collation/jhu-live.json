@@ -379,7 +379,7 @@
         "live": {
           "confirmed": 917877,
           "date": "2022-04-03",
-          "deaths": 18237
+          "deaths": 18238
         }
       },
       "Atlantico": {
@@ -393,7 +393,7 @@
         "live": {
           "confirmed": 1766333,
           "date": "2022-04-03",
-          "deaths": 29341
+          "deaths": 29344
         }
       },
       "Cundinamarca": {
@@ -407,7 +407,7 @@
         "live": {
           "confirmed": 540421,
           "date": "2022-04-03",
-          "deaths": 15020
+          "deaths": 15022
         }
       }
     }
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 829881,
+      "confirmed": 830745,
       "date": "2022-04-03",
-      "deaths": 17318
+      "deaths": 17325
     }
   },
   "Honduras": {
@@ -997,9 +997,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 13639915,
+      "confirmed": 13874216,
       "date": "2022-04-03",
-      "deaths": 16929
+      "deaths": 17235
     }
   },
   "Kuwait": {
@@ -1041,30 +1041,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 373092,
+          "confirmed": 373756,
           "date": "2022-04-03",
-          "deaths": 4437
+          "deaths": 4445
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 367679,
+          "confirmed": 367913,
           "date": "2022-04-03",
-          "deaths": 3112
+          "deaths": 3113
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1203741,
+          "confirmed": 1212403,
           "date": "2022-04-03",
-          "deaths": 10531
+          "deaths": 10541
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 328893,
+          "confirmed": 330204,
           "date": "2022-04-03",
-          "deaths": 2791
+          "deaths": 2801
         }
       }
     }
@@ -1184,7 +1184,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 1407422,
+      "confirmed": 1408257,
       "date": "2022-04-03",
       "deaths": 2518
     }
