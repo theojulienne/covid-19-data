@@ -588,18 +588,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 3445404,
-        "deaths": 37449,
+        "confirmed": 3449778,
+        "deaths": 37476,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3399704,
-        "deaths": 37183,
+        "confirmed": 3402711,
+        "deaths": 37204,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3502925,
-        "deaths": 37713,
+        "confirmed": 3506282,
+        "deaths": 37728,
         "recovered": 0
       },
       "states": {
@@ -652,8 +652,8 @@
           "deaths": 18
         },
         "Quebec": {
-          "confirmed": 970951,
-          "deaths": 14382
+          "confirmed": 974009,
+          "deaths": 14397
         },
         "Repatriated Travellers": {
           "confirmed": 13,
@@ -1047,18 +1047,18 @@
     },
     "CYP": {
       "back_1week": {
-        "confirmed": 400534,
-        "deaths": 930,
+        "confirmed": 405706,
+        "deaths": 932,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 370311,
-        "deaths": 915,
+        "confirmed": 373658,
+        "deaths": 916,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 433217,
-        "deaths": 942,
+        "confirmed": 437111,
+        "deaths": 945,
         "recovered": 0
       }
     },
