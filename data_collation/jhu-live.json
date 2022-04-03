@@ -307,9 +307,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 611809,
+      "confirmed": 611875,
       "date": "2022-04-03",
-      "deaths": 19432
+      "deaths": 19433
     }
   },
   "Canada": {
@@ -1364,9 +1364,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1979729,
+      "confirmed": 1980722,
       "date": "2022-04-03",
-      "deaths": 15818
+      "deaths": 15825
     }
   },
   "Singapore": {
