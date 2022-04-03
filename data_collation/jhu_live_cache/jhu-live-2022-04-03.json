@@ -47,7 +47,7 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 792019,
+      "confirmed": 792061,
       "date": "2022-04-03",
       "deaths": 9697
     }
@@ -366,9 +366,9 @@
     "subseries": {
       "Hong Kong": {
         "live": {
-          "confirmed": 1167713,
+          "confirmed": 1171422,
           "date": "2022-04-03",
-          "deaths": 8061
+          "deaths": 8172
         }
       }
     }
@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 3064625,
+      "confirmed": 3066705,
       "date": "2022-04-03",
-      "deaths": 5745
+      "deaths": 5762
     }
   },
   "Dominican Republic": {
