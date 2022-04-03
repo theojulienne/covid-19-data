@@ -1041,30 +1041,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 373756,
+          "confirmed": 374266,
           "date": "2022-04-03",
-          "deaths": 4445
+          "deaths": 4446
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 367913,
+          "confirmed": 368080,
           "date": "2022-04-03",
           "deaths": 3113
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1212403,
+          "confirmed": 1220016,
           "date": "2022-04-03",
-          "deaths": 10541
+          "deaths": 10544
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 330204,
+          "confirmed": 331113,
           "date": "2022-04-03",
-          "deaths": 2801
+          "deaths": 2802
         }
       }
     }
@@ -1591,7 +1591,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2986740,
+          "confirmed": 2988155,
           "date": "2022-04-03",
           "deaths": 45963
         }
