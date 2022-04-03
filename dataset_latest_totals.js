@@ -2742,7 +2742,7 @@ var covid19_dataset_latest_totals = {
     },
     "PAN": {
       "back_1week": {
-        "confirmed": 763025,
+        "confirmed": 763280,
         "deaths": 8162,
         "recovered": 0
       },
