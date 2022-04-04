@@ -435,9 +435,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 439964,
+      "confirmed": 444174,
       "date": "2022-04-04",
-      "deaths": 947
+      "deaths": 951
     }
   },
   "Czechia": {
@@ -470,9 +470,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 505264,
+      "confirmed": 509177,
       "date": "2022-04-04",
-      "deaths": 24417
+      "deaths": 24473
     }
   },
   "Estonia": {
@@ -628,9 +628,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 421062,
+      "confirmed": 421121,
       "date": "2022-04-04",
-      "deaths": 10880
+      "deaths": 10882
     }
   },
   "Hungary": {
@@ -821,9 +821,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3955126,
+      "confirmed": 3957492,
       "date": "2022-04-04",
-      "deaths": 10532
+      "deaths": 10554
     }
   },
   "Italy": {
@@ -976,9 +976,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1692485,
+      "confirmed": 1694216,
       "date": "2022-04-04",
-      "deaths": 14031
+      "deaths": 14048
     }
   },
   "Kazakhstan": {
@@ -1096,14 +1096,14 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 514199,
+      "confirmed": 514222,
       "date": "2022-04-04",
-      "deaths": 11446
+      "deaths": 11449
     }
   },
   "Mongolia": {
     "live": {
-      "confirmed": 918867,
+      "confirmed": 919544,
       "date": "2022-04-04",
       "deaths": 2177
     }
@@ -1255,9 +1255,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 3604114,
+      "confirmed": 3609846,
       "date": "2022-04-04",
-      "deaths": 21716
+      "deaths": 21733
     }
   },
   "Qatar": {
@@ -1699,7 +1699,7 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 655750,
+      "confirmed": 656287,
       "date": "2022-04-04",
       "deaths": 5655
     }
