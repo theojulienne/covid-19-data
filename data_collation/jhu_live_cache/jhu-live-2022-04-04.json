@@ -1563,9 +1563,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1128478,
+          "confirmed": 1130052,
           "date": "2022-04-04",
-          "deaths": 14265
+          "deaths": 14267
         }
       },
       "Massachusetts": {
@@ -1598,9 +1598,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2704473,
+          "confirmed": 2704732,
           "date": "2022-04-04",
-          "deaths": 29518
+          "deaths": 29519
         }
       },
       "Utah": {
