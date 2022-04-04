@@ -614,9 +614,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 3077711,
+      "confirmed": 3096135,
       "date": "2022-04-04",
-      "deaths": 27684
+      "deaths": 27746
     }
   },
   "Guatemala": {
@@ -814,9 +814,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1465150,
+      "confirmed": 1474374,
       "date": "2022-04-04",
-      "deaths": 6786
+      "deaths": 6799
     }
   },
   "Israel": {
@@ -1126,51 +1126,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 964210,
+          "confirmed": 965702,
           "date": "2022-04-04",
           "deaths": 2761
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 521565,
+          "confirmed": 522054,
           "date": "2022-04-04",
-          "deaths": 2146
+          "deaths": 2147
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 1218764,
+          "confirmed": 1219890,
           "date": "2022-04-04",
           "deaths": 3666
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 1291856,
+          "confirmed": 1293566,
           "date": "2022-04-04",
-          "deaths": 3321
+          "deaths": 3322
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 553673,
+          "confirmed": 554531,
           "date": "2022-04-04",
-          "deaths": 1397
+          "deaths": 1398
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 648874,
+          "confirmed": 649788,
           "date": "2022-04-04",
           "deaths": 1523
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1655063,
+          "confirmed": 1657424,
           "date": "2022-04-04",
-          "deaths": 5081
+          "deaths": 5088
         }
       }
     }
@@ -1232,9 +1232,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 1604357,
+          "confirmed": 1605583,
           "date": "2022-04-04",
-          "deaths": 92858
+          "deaths": 92946
         }
       }
     }
