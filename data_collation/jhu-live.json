@@ -498,9 +498,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 25302925,
+      "confirmed": 25330573,
       "date": "2022-04-04",
-      "deaths": 139371
+      "deaths": 139520
     }
   },
   "Georgia": {
@@ -1533,9 +1533,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14894731,
+      "confirmed": 14907378,
       "date": "2022-04-04",
-      "deaths": 98157
+      "deaths": 98197
     }
   },
   "US": {
