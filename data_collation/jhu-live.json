@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 830745,
+      "confirmed": 830933,
       "date": "2022-04-04",
-      "deaths": 17325
+      "deaths": 17327
     }
   },
   "Honduras": {
@@ -997,9 +997,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 13874216,
+      "confirmed": 14001406,
       "date": "2022-04-04",
-      "deaths": 17235
+      "deaths": 17453
     }
   },
   "Kuwait": {
@@ -1685,9 +1685,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 520708,
+      "confirmed": 520843,
       "date": "2022-04-04",
-      "deaths": 5685
+      "deaths": 5686
     }
   },
   "Vietnam": {
