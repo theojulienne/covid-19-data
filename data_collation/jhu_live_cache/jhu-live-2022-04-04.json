@@ -24,7 +24,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 793885,
+          "confirmed": 801592,
           "date": "2022-04-04",
           "deaths": 746
         }
@@ -1177,9 +1177,9 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 693219,
+      "confirmed": 703467,
       "date": "2022-04-04",
-      "deaths": 350
+      "deaths": 363
     }
   },
   "Norway": {
@@ -1216,7 +1216,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 765054,
+      "confirmed": 765213,
       "date": "2022-04-04",
       "deaths": 8170
     }
@@ -1519,9 +1519,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3711595,
+      "confirmed": 3736487,
       "date": "2022-04-04",
-      "deaths": 25415
+      "deaths": 25512
     }
   },
   "Tunisia": {
