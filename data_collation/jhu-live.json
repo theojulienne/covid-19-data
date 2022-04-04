@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 792061,
+      "confirmed": 792067,
       "date": "2022-04-04",
-      "deaths": 9697
+      "deaths": 9698
     }
   },
   "Bahrain": {
@@ -307,7 +307,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 611875,
+      "confirmed": 611926,
       "date": "2022-04-04",
       "deaths": 19433
     }
@@ -807,9 +807,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2320260,
+      "confirmed": 2320526,
       "date": "2022-04-04",
-      "deaths": 25173
+      "deaths": 25177
     }
   },
   "Ireland": {
@@ -1262,7 +1262,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 361819,
+      "confirmed": 362007,
       "date": "2022-04-04",
       "deaths": 677
     }
@@ -1364,9 +1364,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1980722,
+      "confirmed": 1982193,
       "date": "2022-04-04",
-      "deaths": 15825
+      "deaths": 15834
     }
   },
   "Singapore": {

@@ -265,17 +265,17 @@
     },
     "AZE": {
       "back_1week": {
-        "confirmed": 791695,
-        "deaths": 9679,
+        "confirmed": 791750,
+        "deaths": 9681,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 791404,
-        "deaths": 9651,
+        "confirmed": 791482,
+        "deaths": 9656,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 792019,
+        "confirmed": 792061,
         "deaths": 9697,
         "recovered": 0
       }
@@ -1829,18 +1829,18 @@
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 2317747,
-        "deaths": 25149,
+        "confirmed": 2317977,
+        "deaths": 25150,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2315791,
-        "deaths": 25127,
+        "confirmed": 2316044,
+        "deaths": 25129,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2320126,
-        "deaths": 25170,
+        "confirmed": 2320260,
+        "deaths": 25173,
         "recovered": 0
       }
     },
@@ -2878,17 +2878,17 @@
     },
     "QAT": {
       "back_1week": {
-        "confirmed": 360704,
+        "confirmed": 360868,
         "deaths": 677,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 359806,
+        "confirmed": 359956,
         "deaths": 677,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 361667,
+        "confirmed": 361819,
         "deaths": 677,
         "recovered": 0
       }
@@ -3116,18 +3116,18 @@
     },
     "SRB": {
       "back_1week": {
-        "confirmed": 1967771,
-        "deaths": 15746,
+        "confirmed": 1969044,
+        "deaths": 15758,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1953897,
-        "deaths": 15676,
+        "confirmed": 1955280,
+        "deaths": 15687,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1979729,
-        "deaths": 15818,
+        "confirmed": 1980722,
+        "deaths": 15825,
         "recovered": 0
       }
     },
