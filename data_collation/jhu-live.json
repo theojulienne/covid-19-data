@@ -339,7 +339,7 @@
         "live": {
           "confirmed": 976590,
           "date": "2022-04-04",
-          "deaths": 14404
+          "deaths": 14411
         }
       }
     }
@@ -348,16 +348,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 347020,
+          "confirmed": 347376,
           "date": "2022-04-04",
-          "deaths": 4188
+          "deaths": 4192
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1331119,
+          "confirmed": 1332520,
           "date": "2022-04-04",
-          "deaths": 27985
+          "deaths": 28001
         }
       }
     }
@@ -428,9 +428,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1092547,
+      "confirmed": 1093166,
       "date": "2022-04-04",
-      "deaths": 8514
+      "deaths": 8515
     }
   },
   "Cyprus": {
@@ -821,9 +821,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3950226,
+      "confirmed": 3955126,
       "date": "2022-04-04",
-      "deaths": 10530
+      "deaths": 10532
     }
   },
   "Italy": {
@@ -925,51 +925,51 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 422042,
+          "confirmed": 423116,
           "date": "2022-04-04",
-          "deaths": 1973
+          "deaths": 1977
         }
       },
       "Chiba": {
         "live": {
-          "confirmed": 366085,
+          "confirmed": 368127,
           "date": "2022-04-04",
-          "deaths": 1663
+          "deaths": 1667
         }
       },
       "Hyogo": {
         "live": {
-          "confirmed": 339516,
+          "confirmed": 340512,
           "date": "2022-04-04",
-          "deaths": 2117
+          "deaths": 2122
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 614100,
+          "confirmed": 617155,
           "date": "2022-04-04",
-          "deaths": 2034
+          "deaths": 2035
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 805903,
+          "confirmed": 807144,
           "date": "2022-04-04",
-          "deaths": 4715
+          "deaths": 4722
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 439330,
+          "confirmed": 442213,
           "date": "2022-04-04",
           "deaths": 1396
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1273927,
+          "confirmed": 1278311,
           "date": "2022-04-04",
-          "deaths": 4191
+          "deaths": 4198
         }
       }
     }
@@ -1648,30 +1648,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 17864687,
+          "confirmed": 17986241,
           "date": "2022-04-04",
-          "deaths": 143600
+          "deaths": 143752
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 688062,
+          "confirmed": 690750,
           "date": "2022-04-04",
-          "deaths": 3329
+          "deaths": 3342
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 1800581,
+          "confirmed": 1817661,
           "date": "2022-04-04",
-          "deaths": 11469
+          "deaths": 11507
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 863544,
+          "confirmed": 865029,
           "date": "2022-04-04",
-          "deaths": 7172
+          "deaths": 7179
         }
       }
     }
