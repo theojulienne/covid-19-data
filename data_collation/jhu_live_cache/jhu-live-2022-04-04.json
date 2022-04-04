@@ -1241,9 +1241,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3679629,
+      "confirmed": 3679761,
       "date": "2022-04-04",
-      "deaths": 59343
+      "deaths": 59365
     }
   },
   "Poland": {
@@ -1269,9 +1269,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2860094,
+      "confirmed": 2861426,
       "date": "2022-04-04",
-      "deaths": 65090
+      "deaths": 65102
     }
   },
   "Russia": {
