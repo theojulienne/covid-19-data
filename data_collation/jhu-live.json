@@ -830,93 +830,93 @@
     "subseries": {
       "Abruzzo": {
         "live": {
-          "confirmed": 320958,
+          "confirmed": 321720,
           "date": "2022-04-04",
-          "deaths": 3103
+          "deaths": 3112
         }
       },
       "Campania": {
         "live": {
-          "confirmed": 1422116,
+          "confirmed": 1425500,
           "date": "2022-04-04",
-          "deaths": 10047
+          "deaths": 10053
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 1295322,
+          "confirmed": 1298517,
           "date": "2022-04-04",
-          "deaths": 16285
+          "deaths": 16303
         }
       },
       "Friuli Venezia Giulia": {
         "live": {
-          "confirmed": 337534,
+          "confirmed": 337816,
           "date": "2022-04-04",
-          "deaths": 4922
+          "deaths": 4923
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 1311054,
+          "confirmed": 1314888,
           "date": "2022-04-04",
-          "deaths": 10795
+          "deaths": 10804
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 389441,
+          "confirmed": 389964,
           "date": "2022-04-04",
-          "deaths": 5206
+          "deaths": 5207
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 2561473,
+          "confirmed": 2563985,
           "date": "2022-04-04",
-          "deaths": 39315
+          "deaths": 39329
         }
       },
       "Marche": {
         "live": {
-          "confirmed": 396937,
+          "confirmed": 397797,
           "date": "2022-04-04",
-          "deaths": 3716
+          "deaths": 3724
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 1057868,
+          "confirmed": 1060434,
           "date": "2022-04-04",
-          "deaths": 13206
+          "deaths": 13208
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 936297,
+          "confirmed": 938980,
           "date": "2022-04-04",
-          "deaths": 7999
+          "deaths": 8005
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 991165,
+          "confirmed": 993857,
           "date": "2022-04-04",
-          "deaths": 10137
+          "deaths": 10142
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 997757,
+          "confirmed": 999397,
           "date": "2022-04-04",
-          "deaths": 9524
+          "deaths": 9546
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 1509737,
+          "confirmed": 1511785,
           "date": "2022-04-04",
-          "deaths": 14192
+          "deaths": 14193
         }
       }
     }
@@ -1041,30 +1041,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 374266,
+          "confirmed": 374755,
           "date": "2022-04-04",
-          "deaths": 4446
+          "deaths": 4451
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 368080,
+          "confirmed": 368220,
           "date": "2022-04-04",
           "deaths": 3113
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1220016,
+          "confirmed": 1225807,
           "date": "2022-04-04",
-          "deaths": 10544
+          "deaths": 10551
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 331113,
+          "confirmed": 331594,
           "date": "2022-04-04",
-          "deaths": 2802
+          "deaths": 2803
         }
       }
     }
@@ -1110,7 +1110,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1163526,
+      "confirmed": 1163561,
       "date": "2022-04-04",
       "deaths": 16060
     }
@@ -1551,7 +1551,7 @@
         "live": {
           "confirmed": 5755241,
           "date": "2022-04-04",
-          "deaths": 59288
+          "deaths": 59293
         }
       },
       "Florida": {
@@ -1591,9 +1591,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2988155,
+          "confirmed": 2990071,
           "date": "2022-04-04",
-          "deaths": 45963
+          "deaths": 45968
         }
       },
       "Texas": {
