@@ -61,9 +61,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1951770,
+      "confirmed": 1951831,
       "date": "2022-04-04",
-      "deaths": 29122
+      "deaths": 29123
     }
   },
   "Belarus": {
@@ -477,9 +477,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 558706,
+      "confirmed": 559133,
       "date": "2022-04-04",
-      "deaths": 2468
+      "deaths": 2469
     }
   },
   "Ethiopia": {
@@ -800,9 +800,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 7167646,
+      "confirmed": 7171165,
       "date": "2022-04-04",
-      "deaths": 140315
+      "deaths": 140368
     }
   },
   "Iraq": {
@@ -1692,9 +1692,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 9818328,
+      "confirmed": 9867045,
       "date": "2022-04-04",
-      "deaths": 42600
+      "deaths": 42642
     }
   },
   "West Bank and Gaza": {
