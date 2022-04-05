@@ -805,9 +805,11 @@ var covid19_dataset_country_nzl = {
           1986,
           2118,
           2118,
-          2296
+          2296,
+          2526
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -1613,6 +1615,7 @@ var covid19_dataset_country_nzl = {
           0
         ],
         "recovered": [
+          0,
           0,
           0,
           0,
@@ -4032,7 +4035,8 @@ var covid19_dataset_country_nzl = {
       672712,
       684374,
       693219,
-      703467
+      703467,
+      717650
     ],
     "deaths": [
       0,
@@ -4837,7 +4841,8 @@ var covid19_dataset_country_nzl = {
       314,
       330,
       350,
-      363
+      363,
+      386
     ],
     "recovered": [
       0,
@@ -5401,6 +5406,7 @@ var covid19_dataset_country_nzl = {
       2821,
       2824,
       2824,
+      0,
       0,
       0,
       0,
