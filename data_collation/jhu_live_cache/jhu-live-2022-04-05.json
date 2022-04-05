@@ -19,7 +19,7 @@
         "live": {
           "confirmed": 1914764,
           "date": "2022-04-05",
-          "deaths": 2473
+          "deaths": 2472
         }
       },
       "Queensland": {
@@ -1184,7 +1184,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 388500,
+      "confirmed": 388536,
       "date": "2022-04-05",
       "deaths": 4252
     }
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 3507309,
       "date": "2022-04-05",
-      "deaths": 13585
+      "deaths": 13586
     }
   },
   "Thailand": {
@@ -1639,7 +1639,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 892470,
+      "confirmed": 892714,
       "date": "2022-04-05",
       "deaths": 2302
     }
