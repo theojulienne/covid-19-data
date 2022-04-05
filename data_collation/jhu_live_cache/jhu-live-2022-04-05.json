@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1332181,
+          "confirmed": 1331498,
           "date": "2022-04-05",
           "deaths": 2763
         }
@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 965654,
+      "confirmed": 965948,
       "date": "2022-04-05",
-      "deaths": 6849
+      "deaths": 6853
     }
   },
   "Belgium": {
@@ -421,9 +421,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1102827,
+      "confirmed": 1103662,
       "date": "2022-04-05",
-      "deaths": 15619
+      "deaths": 15634
     }
   },
   "Cuba": {
@@ -493,14 +493,14 @@
     "live": {
       "confirmed": 907786,
       "date": "2022-04-05",
-      "deaths": 3252
+      "deaths": 3254
     }
   },
   "France": {
     "live": {
-      "confirmed": 25330573,
+      "confirmed": 25326183,
       "date": "2022-04-05",
-      "deaths": 139520
+      "deaths": 139511
     }
   },
   "Georgia": {
@@ -800,9 +800,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 7171165,
+      "confirmed": 7175780,
       "date": "2022-04-05",
-      "deaths": 140368
+      "deaths": 140407
     }
   },
   "Iraq": {
@@ -1110,7 +1110,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 978507,
+      "confirmed": 978528,
       "date": "2022-04-05",
       "deaths": 11951
     }
@@ -1234,9 +1234,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3679761,
+      "confirmed": 3679983,
       "date": "2022-04-05",
-      "deaths": 59365
+      "deaths": 59370
     }
   },
   "Poland": {
@@ -1262,9 +1262,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2861426,
+      "confirmed": 2864473,
       "date": "2022-04-05",
-      "deaths": 65102
+      "deaths": 65129
     }
   },
   "Russia": {
@@ -1692,9 +1692,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 9867045,
+      "confirmed": 9922040,
       "date": "2022-04-05",
-      "deaths": 42642
+      "deaths": 42681
     }
   },
   "West Bank and Gaza": {
