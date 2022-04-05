@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 976590,
+          "confirmed": 981536,
           "date": "2022-04-05",
           "deaths": 14442
         }
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 831149,
+      "confirmed": 832159,
       "date": "2022-04-05",
-      "deaths": 17329
+      "deaths": 17338
     }
   },
   "Honduras": {
@@ -1563,9 +1563,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1130052,
+          "confirmed": 1130951,
           "date": "2022-04-05",
-          "deaths": 14267
+          "deaths": 14275
         }
       },
       "Massachusetts": {
