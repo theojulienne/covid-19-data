@@ -300,9 +300,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1140679,
+      "confirmed": 1141859,
       "date": "2022-04-04",
-      "deaths": 36568
+      "deaths": 36608
     }
   },
   "Burma": {
@@ -1593,7 +1593,7 @@
         "live": {
           "confirmed": 2990071,
           "date": "2022-04-04",
-          "deaths": 45968
+          "deaths": 45970
         }
       },
       "Texas": {
@@ -1612,7 +1612,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 374494,
+          "confirmed": 375674,
           "date": "2022-04-04",
           "deaths": 2681
         }
