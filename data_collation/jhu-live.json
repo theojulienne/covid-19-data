@@ -307,7 +307,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 611926,
+      "confirmed": 611984,
       "date": "2022-04-05",
       "deaths": 19433
     }
@@ -814,9 +814,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1474374,
+      "confirmed": 1477112,
       "date": "2022-04-05",
-      "deaths": 6799
+      "deaths": 6805
     }
   },
   "Israel": {
@@ -1083,6 +1083,13 @@
           "confirmed": 539514,
           "date": "2022-04-05",
           "deaths": 47103
+        }
+      },
+      "Nuevo Leon": {
+        "live": {
+          "confirmed": 312554,
+          "date": "2022-04-05",
+          "deaths": 14954
         }
       }
     }
@@ -1364,7 +1371,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1109744,
+      "confirmed": 1119419,
       "date": "2022-04-05",
       "deaths": 1283
     }
@@ -1507,7 +1514,7 @@
     "live": {
       "confirmed": 3507309,
       "date": "2022-04-05",
-      "deaths": 13586
+      "deaths": 13588
     }
   },
   "Thailand": {
@@ -1559,13 +1566,6 @@
           "confirmed": 1130052,
           "date": "2022-04-05",
           "deaths": 14267
-        }
-      },
-      "Kentucky": {
-        "live": {
-          "confirmed": 1318914,
-          "date": "2022-04-05",
-          "deaths": 15028
         }
       },
       "Massachusetts": {
