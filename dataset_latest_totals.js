@@ -160,7 +160,7 @@ var covid19_dataset_latest_totals = {
         "current_icu": 8,
         "deaths": 35,
         "recovered": 19522,
-        "tested": 4885394
+        "tested": 4881271
       },
       "back_2week": {
         "confirmed": 46390,
@@ -168,7 +168,7 @@ var covid19_dataset_latest_totals = {
         "current_icu": 8,
         "deaths": 35,
         "recovered": 19522,
-        "tested": 4874783
+        "tested": 4873483
       },
       "latest": {
         "confirmed": 48662,
@@ -205,12 +205,12 @@ var covid19_dataset_latest_totals = {
           "tested": 350231
         },
         "QLD": {
-          "confirmed": 9435,
+          "confirmed": 8478,
           "current_hospitalized": 15,
           "current_icu": 0,
           "deaths": 6,
           "recovered": 0,
-          "tested": 15652
+          "tested": 16532
         },
         "SA": {
           "confirmed": 871,

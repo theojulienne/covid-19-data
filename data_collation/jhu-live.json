@@ -24,7 +24,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 801592,
+          "confirmed": 811538,
           "date": "2022-04-05",
           "deaths": 747
         }
@@ -379,7 +379,7 @@
         "live": {
           "confirmed": 917919,
           "date": "2022-04-05",
-          "deaths": 18238
+          "deaths": 18239
         }
       },
       "Atlantico": {
@@ -393,7 +393,7 @@
         "live": {
           "confirmed": 1766607,
           "date": "2022-04-05",
-          "deaths": 29344
+          "deaths": 29346
         }
       },
       "Cundinamarca": {
@@ -407,7 +407,7 @@
         "live": {
           "confirmed": 540462,
           "date": "2022-04-05",
-          "deaths": 15024
+          "deaths": 15025
         }
       }
     }
@@ -456,16 +456,16 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 578130,
+      "confirmed": 578209,
       "date": "2022-04-05",
       "deaths": 4375
     }
   },
   "Ecuador": {
     "live": {
-      "confirmed": 859890,
+      "confirmed": 862321,
       "date": "2022-04-05",
-      "deaths": 35421
+      "deaths": 35449
     }
   },
   "Egypt": {
@@ -1170,9 +1170,9 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 703467,
+      "confirmed": 717650,
       "date": "2022-04-05",
-      "deaths": 363
+      "deaths": 386
     }
   },
   "Norway": {
@@ -1366,7 +1366,7 @@
     "live": {
       "confirmed": 1109744,
       "date": "2022-04-05",
-      "deaths": 1276
+      "deaths": 1283
     }
   },
   "Slovakia": {
@@ -1512,9 +1512,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3736487,
+      "confirmed": 3757575,
       "date": "2022-04-05",
-      "deaths": 25512
+      "deaths": 25603
     }
   },
   "Tunisia": {
