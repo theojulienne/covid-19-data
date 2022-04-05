@@ -1761,13 +1761,13 @@
     },
     "IDN": {
       "back_1week": {
-        "confirmed": 5995876,
-        "deaths": 154570,
+        "confirmed": 6001751,
+        "deaths": 154774,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 5962483,
-        "deaths": 153738,
+        "confirmed": 5967182,
+        "deaths": 153892,
         "recovered": 0
       },
       "latest": {
