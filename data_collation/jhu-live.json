@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 9043098,
+      "confirmed": 9045326,
       "date": "2022-04-05",
-      "deaths": 128086
+      "deaths": 128106
     }
   },
   "Armenia": {
@@ -484,7 +484,7 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 469843,
+      "confirmed": 469879,
       "date": "2022-04-05",
       "deaths": 7508
     }
@@ -1549,9 +1549,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5760404,
+          "confirmed": 5761229,
           "date": "2022-04-05",
-          "deaths": 59375
+          "deaths": 59387
         }
       },
       "Florida": {
