@@ -377,35 +377,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 917908,
+          "confirmed": 917919,
           "date": "2022-04-05",
           "deaths": 18238
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 402068,
+          "confirmed": 402088,
           "date": "2022-04-05",
           "deaths": 10126
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1766495,
+          "confirmed": 1766607,
           "date": "2022-04-05",
           "deaths": 29344
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 318018,
+          "confirmed": 318034,
           "date": "2022-04-05",
           "deaths": 7279
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 540441,
+          "confirmed": 540462,
           "date": "2022-04-05",
           "deaths": 15024
         }
@@ -997,9 +997,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 14001406,
+      "confirmed": 14267401,
       "date": "2022-04-05",
-      "deaths": 17453
+      "deaths": 17662
     }
   },
   "Kuwait": {
@@ -1083,13 +1083,6 @@
           "confirmed": 539477,
           "date": "2022-04-05",
           "deaths": 47102
-        }
-      },
-      "Nuevo Leon": {
-        "live": {
-          "confirmed": 312549,
-          "date": "2022-04-05",
-          "deaths": 14954
         }
       }
     }
@@ -1566,6 +1559,13 @@
           "confirmed": 1130052,
           "date": "2022-04-05",
           "deaths": 14267
+        }
+      },
+      "Kentucky": {
+        "live": {
+          "confirmed": 1318914,
+          "date": "2022-04-05",
+          "deaths": 15028
         }
       },
       "Massachusetts": {
