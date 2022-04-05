@@ -248,18 +248,18 @@
     },
     "AUT": {
       "back_1week": {
-        "confirmed": 3698511,
-        "deaths": 15665,
+        "confirmed": 3747582,
+        "deaths": 15706,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3466203,
-        "deaths": 15409,
+        "confirmed": 3498075,
+        "deaths": 15432,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3887355,
-        "deaths": 15985,
+        "confirmed": 3899660,
+        "deaths": 16002,
         "recovered": 0
       }
     },
@@ -1263,18 +1263,18 @@
     },
     "EST": {
       "back_1week": {
-        "confirmed": 551714,
-        "deaths": 2439,
+        "confirmed": 552287,
+        "deaths": 2444,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 542386,
-        "deaths": 2392,
+        "confirmed": 543053,
+        "deaths": 2397,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 558706,
-        "deaths": 2468,
+        "confirmed": 559133,
+        "deaths": 2469,
         "recovered": 0
       }
     },
@@ -2963,17 +2963,17 @@
     },
     "SAU": {
       "back_1week": {
-        "confirmed": 750356,
+        "confirmed": 750483,
         "deaths": 9039,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 749597,
+        "confirmed": 749730,
         "deaths": 9028,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 751076,
+        "confirmed": 751180,
         "deaths": 9048,
         "recovered": 0
       }
@@ -3184,18 +3184,18 @@
     },
     "SVN": {
       "back_1week": {
-        "confirmed": 956742,
-        "deaths": 6475,
+        "confirmed": 957720,
+        "deaths": 6479,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 936847,
-        "deaths": 6442,
+        "confirmed": 937936,
+        "deaths": 6449,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 973876,
-        "deaths": 6501,
+        "confirmed": 974694,
+        "deaths": 6505,
         "recovered": 0
       }
     },
