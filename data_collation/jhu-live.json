@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 811538,
+          "confirmed": 811525,
           "date": "2022-04-05",
-          "deaths": 747
+          "deaths": 755
         }
       },
       "Victoria": {
@@ -77,49 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 608444,
+          "confirmed": 615022,
           "date": "2022-04-05",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 428749,
+          "confirmed": 431026,
           "date": "2022-04-05",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 505555,
+          "confirmed": 510738,
           "date": "2022-04-05",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 364656,
+          "confirmed": 368508,
           "date": "2022-04-05",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 431259,
+          "confirmed": 433153,
           "date": "2022-04-05",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 358278,
+          "confirmed": 359597,
           "date": "2022-04-05",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 404249,
+          "confirmed": 408125,
           "date": "2022-04-05",
           "deaths": 0
         }
@@ -1073,16 +1073,16 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1387532,
+          "confirmed": 1387670,
           "date": "2022-04-05",
-          "deaths": 42626
+          "deaths": 42628
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 539477,
+          "confirmed": 539514,
           "date": "2022-04-05",
-          "deaths": 47102
+          "deaths": 47103
         }
       }
     }
@@ -1193,14 +1193,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 505148,
+          "confirmed": 505186,
           "date": "2022-04-05",
           "deaths": 13558
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 575781,
+          "confirmed": 575872,
           "date": "2022-04-05",
           "deaths": 8097
         }
@@ -1209,9 +1209,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 765213,
+      "confirmed": 765337,
       "date": "2022-04-05",
-      "deaths": 8170
+      "deaths": 8172
     }
   },
   "Paraguay": {
