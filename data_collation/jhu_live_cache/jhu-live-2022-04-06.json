@@ -614,9 +614,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 3114591,
+      "confirmed": 3126856,
       "date": "2022-04-06",
-      "deaths": 27816
+      "deaths": 27892
     }
   },
   "Guatemala": {
@@ -628,9 +628,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 421121,
+      "confirmed": 421170,
       "date": "2022-04-06",
-      "deaths": 10882
+      "deaths": 10885
     }
   },
   "Hungary": {
@@ -821,102 +821,102 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3971165,
+      "confirmed": 3974774,
       "date": "2022-04-06",
-      "deaths": 10554
+      "deaths": 10555
     }
   },
   "Italy": {
     "subseries": {
       "Abruzzo": {
         "live": {
-          "confirmed": 324619,
+          "confirmed": 326601,
           "date": "2022-04-06",
-          "deaths": 3115
+          "deaths": 3116
         }
       },
       "Campania": {
         "live": {
-          "confirmed": 1435599,
+          "confirmed": 1442876,
           "date": "2022-04-06",
-          "deaths": 10066
+          "deaths": 10079
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 1301617,
+          "confirmed": 1306958,
           "date": "2022-04-06",
-          "deaths": 16314
+          "deaths": 16325
         }
       },
       "Friuli Venezia Giulia": {
         "live": {
-          "confirmed": 339378,
+          "confirmed": 340509,
           "date": "2022-04-06",
-          "deaths": 4926
+          "deaths": 4930
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 1324791,
+          "confirmed": 1332573,
           "date": "2022-04-06",
-          "deaths": 10814
+          "deaths": 10823
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 391943,
+          "confirmed": 393461,
           "date": "2022-04-06",
-          "deaths": 5213
+          "deaths": 5217
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 2575651,
+          "confirmed": 2584745,
           "date": "2022-04-06",
-          "deaths": 39347
+          "deaths": 39359
         }
       },
       "Marche": {
         "live": {
-          "confirmed": 400611,
+          "confirmed": 402592,
           "date": "2022-04-06",
-          "deaths": 3733
+          "deaths": 3741
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 1064329,
+          "confirmed": 1067697,
           "date": "2022-04-06",
-          "deaths": 13216
+          "deaths": 13221
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 947421,
+          "confirmed": 953194,
           "date": "2022-04-06",
-          "deaths": 8015
+          "deaths": 8031
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 1000371,
+          "confirmed": 1005548,
           "date": "2022-04-06",
-          "deaths": 10185
+          "deaths": 10208
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 1005371,
+          "confirmed": 1009829,
           "date": "2022-04-06",
-          "deaths": 9574
+          "deaths": 9586
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 1520865,
+          "confirmed": 1527854,
           "date": "2022-04-06",
-          "deaths": 14210
+          "deaths": 14223
         }
       }
     }
@@ -1096,14 +1096,14 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 514428,
+      "confirmed": 514650,
       "date": "2022-04-06",
-      "deaths": 11452
+      "deaths": 11453
     }
   },
   "Mongolia": {
     "live": {
-      "confirmed": 919625,
+      "confirmed": 919712,
       "date": "2022-04-06",
       "deaths": 2177
     }
@@ -1186,7 +1186,7 @@
     "live": {
       "confirmed": 1411550,
       "date": "2022-04-06",
-      "deaths": 2518
+      "deaths": 2667
     }
   },
   "Oman": {
@@ -1255,9 +1255,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 3628756,
+      "confirmed": 3638788,
       "date": "2022-04-06",
-      "deaths": 21789
+      "deaths": 21813
     }
   },
   "Qatar": {
@@ -1533,9 +1533,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14919591,
+      "confirmed": 14929905,
       "date": "2022-04-06",
-      "deaths": 98234
+      "deaths": 98275
     }
   },
   "US": {
