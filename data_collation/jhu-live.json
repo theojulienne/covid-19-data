@@ -348,16 +348,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 347645,
+          "confirmed": 348113,
           "date": "2022-04-06",
           "deaths": 4192
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 1333260,
+          "confirmed": 1334802,
           "date": "2022-04-06",
-          "deaths": 28011
+          "deaths": 28024
         }
       }
     }
@@ -428,9 +428,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1093676,
+      "confirmed": 1094352,
       "date": "2022-04-06",
-      "deaths": 8516
+      "deaths": 8517
     }
   },
   "Cyprus": {
@@ -814,9 +814,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1477112,
+      "confirmed": 1481171,
       "date": "2022-04-06",
-      "deaths": 6805
+      "deaths": 6824
     }
   },
   "Israel": {
@@ -925,51 +925,58 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 426244,
+          "confirmed": 429459,
           "date": "2022-04-06",
-          "deaths": 1979
+          "deaths": 1981
         }
       },
       "Chiba": {
         "live": {
-          "confirmed": 370322,
+          "confirmed": 373098,
           "date": "2022-04-06",
-          "deaths": 1669
+          "deaths": 1673
+        }
+      },
+      "Fukuoka": {
+        "live": {
+          "confirmed": 315301,
+          "date": "2022-04-06",
+          "deaths": 1148
         }
       },
       "Hyogo": {
         "live": {
-          "confirmed": 342473,
+          "confirmed": 344671,
           "date": "2022-04-06",
-          "deaths": 2125
+          "deaths": 2130
         }
       },
       "Kanagawa": {
         "live": {
-          "confirmed": 620477,
+          "confirmed": 624433,
           "date": "2022-04-06",
-          "deaths": 2046
+          "deaths": 2054
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 811491,
+          "confirmed": 816387,
           "date": "2022-04-06",
-          "deaths": 4738
+          "deaths": 4753
         }
       },
       "Saitama": {
         "live": {
-          "confirmed": 444795,
+          "confirmed": 448123,
           "date": "2022-04-06",
-          "deaths": 1396
+          "deaths": 1399
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 1285279,
+          "confirmed": 1293931,
           "date": "2022-04-06",
-          "deaths": 4207
+          "deaths": 4213
         }
       }
     }
@@ -1041,28 +1048,28 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 375315,
+          "confirmed": 375741,
           "date": "2022-04-06",
           "deaths": 4453
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 368418,
+          "confirmed": 368606,
           "date": "2022-04-06",
           "deaths": 3113
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1233255,
+          "confirmed": 1240038,
           "date": "2022-04-06",
           "deaths": 10559
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 332350,
+          "confirmed": 333083,
           "date": "2022-04-06",
           "deaths": 2804
         }
@@ -1083,13 +1090,6 @@
           "confirmed": 539912,
           "date": "2022-04-06",
           "deaths": 47114
-        }
-      },
-      "Nuevo Leon": {
-        "live": {
-          "confirmed": 312934,
-          "date": "2022-04-06",
-          "deaths": 14963
         }
       }
     }
