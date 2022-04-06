@@ -1371,7 +1371,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1119419,
+      "confirmed": 1123886,
       "date": "2022-04-06",
       "deaths": 1284
     }
@@ -1480,9 +1480,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 662216,
+      "confirmed": 662342,
       "date": "2022-04-06",
-      "deaths": 16485
+      "deaths": 16486
     }
   },
   "Sweden": {
@@ -1514,7 +1514,7 @@
     "live": {
       "confirmed": 3528689,
       "date": "2022-04-06",
-      "deaths": 13592
+      "deaths": 13600
     }
   },
   "Thailand": {
