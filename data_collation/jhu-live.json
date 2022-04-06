@@ -128,7 +128,7 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 902605,
+      "confirmed": 902749,
       "date": "2022-04-06",
       "deaths": 21897
     }
@@ -386,14 +386,14 @@
         "live": {
           "confirmed": 402106,
           "date": "2022-04-06",
-          "deaths": 10126
+          "deaths": 10127
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1766673,
           "date": "2022-04-06",
-          "deaths": 29346
+          "deaths": 29347
         }
       },
       "Cundinamarca": {
@@ -407,7 +407,7 @@
         "live": {
           "confirmed": 540485,
           "date": "2022-04-06",
-          "deaths": 15025
+          "deaths": 15028
         }
       }
     }
@@ -1200,14 +1200,14 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 505186,
+          "confirmed": 505224,
           "date": "2022-04-06",
           "deaths": 13558
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 575872,
+          "confirmed": 575949,
           "date": "2022-04-06",
           "deaths": 8097
         }
@@ -1512,7 +1512,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 3507309,
+      "confirmed": 3528689,
       "date": "2022-04-06",
       "deaths": 13588
     }
@@ -1685,9 +1685,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 520905,
+      "confirmed": 521030,
       "date": "2022-04-06",
-      "deaths": 5687
+      "deaths": 5688
     }
   },
   "Vietnam": {
