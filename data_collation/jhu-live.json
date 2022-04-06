@@ -17,7 +17,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1938915,
+          "confirmed": 1938880,
           "date": "2022-04-06",
           "deaths": 2487
         }
@@ -414,9 +414,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 839368,
+      "confirmed": 841343,
       "date": "2022-04-06",
-      "deaths": 8308
+      "deaths": 8327
     }
   },
   "Croatia": {
@@ -456,7 +456,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 578209,
+      "confirmed": 578319,
       "date": "2022-04-06",
       "deaths": 4375
     }
@@ -1004,9 +1004,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 14267401,
+      "confirmed": 14553644,
       "date": "2022-04-06",
-      "deaths": 17662
+      "deaths": 18033
     }
   },
   "Kuwait": {
@@ -1558,7 +1558,7 @@
         "live": {
           "confirmed": 2906549,
           "date": "2022-04-06",
-          "deaths": 28060
+          "deaths": 28159
         }
       },
       "Illinois": {
