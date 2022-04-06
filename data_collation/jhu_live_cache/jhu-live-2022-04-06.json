@@ -937,13 +937,6 @@
           "deaths": 1669
         }
       },
-      "Fukuoka": {
-        "live": {
-          "confirmed": 312601,
-          "date": "2022-04-06",
-          "deaths": 1141
-        }
-      },
       "Hyogo": {
         "live": {
           "confirmed": 342477,
@@ -1080,16 +1073,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1387670,
+          "confirmed": 1388201,
           "date": "2022-04-06",
-          "deaths": 42628
+          "deaths": 42640
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 539514,
+          "confirmed": 539912,
           "date": "2022-04-06",
-          "deaths": 47103
+          "deaths": 47114
+        }
+      },
+      "Nuevo Leon": {
+        "live": {
+          "confirmed": 312934,
+          "date": "2022-04-06",
+          "deaths": 14963
         }
       }
     }
