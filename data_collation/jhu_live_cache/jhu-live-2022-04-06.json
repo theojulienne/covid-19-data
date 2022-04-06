@@ -1110,7 +1110,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1163656,
+      "confirmed": 1163726,
       "date": "2022-04-06",
       "deaths": 16061
     }
@@ -1378,9 +1378,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2468812,
+      "confirmed": 2474869,
       "date": "2022-04-06",
-      "deaths": 19462
+      "deaths": 19482
     }
   },
   "Slovenia": {
@@ -1392,9 +1392,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3725177,
+      "confirmed": 3727208,
       "date": "2022-04-06",
-      "deaths": 100067
+      "deaths": 100070
     }
   },
   "Spain": {
@@ -1577,9 +1577,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 398718,
+          "confirmed": 399476,
           "date": "2022-04-06",
-          "deaths": 7885
+          "deaths": 7895
         }
       },
       "Nevada": {
@@ -1591,9 +1591,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2992002,
+          "confirmed": 2992361,
           "date": "2022-04-06",
-          "deaths": 45973
+          "deaths": 45978
         }
       },
       "Texas": {
