@@ -54,7 +54,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 557387,
+      "confirmed": 558007,
       "date": "2022-04-06",
       "deaths": 1472
     }
@@ -316,9 +316,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 540733,
+          "confirmed": 546247,
           "date": "2022-04-06",
-          "deaths": 4074
+          "deaths": 4104
         }
       },
       "British Columbia": {
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 832159,
+      "confirmed": 832956,
       "date": "2022-04-06",
-      "deaths": 17338
+      "deaths": 17350
     }
   },
   "Honduras": {
@@ -1025,9 +1025,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1093551,
+      "confirmed": 1093850,
       "date": "2022-04-06",
-      "deaths": 10324
+      "deaths": 10327
     }
   },
   "Libya": {
@@ -1373,7 +1373,7 @@
     "live": {
       "confirmed": 1123886,
       "date": "2022-04-06",
-      "deaths": 1284
+      "deaths": 1287
     }
   },
   "Slovakia": {
@@ -1549,9 +1549,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5761229,
+          "confirmed": 5762241,
           "date": "2022-04-06",
-          "deaths": 59396
+          "deaths": 59413
         }
       },
       "Florida": {
@@ -1570,7 +1570,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 326413,
+          "confirmed": 326882,
           "date": "2022-04-06",
           "deaths": 3953
         }
