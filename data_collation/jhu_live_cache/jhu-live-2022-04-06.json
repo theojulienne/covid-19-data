@@ -1050,7 +1050,7 @@
         "live": {
           "confirmed": 375741,
           "date": "2022-04-06",
-          "deaths": 4453
+          "deaths": 4460
         }
       },
       "Sabah": {
@@ -1064,14 +1064,14 @@
         "live": {
           "confirmed": 1240038,
           "date": "2022-04-06",
-          "deaths": 10559
+          "deaths": 10566
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
           "confirmed": 333083,
           "date": "2022-04-06",
-          "deaths": 2804
+          "deaths": 2805
         }
       }
     }
@@ -1544,14 +1544,14 @@
         "live": {
           "confirmed": 1268293,
           "date": "2022-04-06",
-          "deaths": 16686
+          "deaths": 17004
         }
       },
       "California": {
         "live": {
           "confirmed": 5761229,
           "date": "2022-04-06",
-          "deaths": 59387
+          "deaths": 59396
         }
       },
       "Florida": {
@@ -1648,30 +1648,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 18027644,
+          "confirmed": 18070000,
           "date": "2022-04-06",
-          "deaths": 144065
+          "deaths": 146963
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 692137,
+          "confirmed": 693292,
           "date": "2022-04-06",
-          "deaths": 3346
+          "deaths": 3348
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 1823661,
+          "confirmed": 1831010,
           "date": "2022-04-06",
-          "deaths": 11551
+          "deaths": 11582
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 866863,
+          "confirmed": 867254,
           "date": "2022-04-06",
-          "deaths": 7186
+          "deaths": 7202
         }
       }
     }
