@@ -8,7 +8,7 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 422594,
+      "confirmed": 422610,
       "date": "2022-04-06",
       "deaths": 8619
     }
@@ -40,9 +40,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 3912606,
+      "confirmed": 3933682,
       "date": "2022-04-06",
-      "deaths": 16061
+      "deaths": 16097
     }
   },
   "Azerbaijan": {
@@ -491,9 +491,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 907786,
+      "confirmed": 913476,
       "date": "2022-04-06",
-      "deaths": 3254
+      "deaths": 3307
     }
   },
   "France": {
@@ -793,9 +793,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 6023924,
+      "confirmed": 6026324,
       "date": "2022-04-06",
-      "deaths": 155421
+      "deaths": 155464
     }
   },
   "Iran": {
@@ -939,7 +939,7 @@
       },
       "Hyogo": {
         "live": {
-          "confirmed": 342477,
+          "confirmed": 342473,
           "date": "2022-04-06",
           "deaths": 2125
         }
@@ -1011,9 +1011,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 804288,
+      "confirmed": 805353,
       "date": "2022-04-06",
-      "deaths": 5657
+      "deaths": 5667
     }
   },
   "Lebanon": {
@@ -1032,9 +1032,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1033634,
+      "confirmed": 1035798,
       "date": "2022-04-06",
-      "deaths": 8925
+      "deaths": 8936
     }
   },
   "Malaysia": {
@@ -1248,9 +1248,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 5971998,
+      "confirmed": 5973557,
       "date": "2022-04-06",
-      "deaths": 115395
+      "deaths": 115472
     }
   },
   "Portugal": {
@@ -1385,9 +1385,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 978134,
+      "confirmed": 980451,
       "date": "2022-04-06",
-      "deaths": 6512
+      "deaths": 6517
     }
   },
   "South Africa": {
