@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1343648,
+          "confirmed": 1342013,
           "date": "2022-04-06",
           "deaths": 2766
         }
@@ -135,9 +135,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 375849,
+      "confirmed": 375948,
       "date": "2022-04-06",
-      "deaths": 15727
+      "deaths": 15728
     }
   },
   "Brazil": {
@@ -307,9 +307,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 611984,
+      "confirmed": 612079,
       "date": "2022-04-06",
-      "deaths": 19433
+      "deaths": 19434
     }
   },
   "Canada": {
@@ -514,100 +514,100 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 3121027,
+          "confirmed": 3147915,
           "date": "2022-04-06",
-          "deaths": 15187
+          "deaths": 15233
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 4146308,
+          "confirmed": 4186983,
           "date": "2022-04-06",
-          "deaths": 22707
+          "deaths": 22758
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 923488,
+          "confirmed": 930761,
           "date": "2022-04-06",
-          "deaths": 4392
+          "deaths": 4396
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 700249,
+          "confirmed": 706298,
           "date": "2022-04-06",
-          "deaths": 5446
+          "deaths": 5453
         }
       },
       "Hamburg": {
         "live": {
-          "confirmed": 460094,
+          "confirmed": 463732,
           "date": "2022-04-06",
-          "deaths": 2398
+          "deaths": 2409
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 1488441,
+          "confirmed": 1503787,
           "date": "2022-04-06",
-          "deaths": 9655
+          "deaths": 9666
         }
       },
       "Mecklenburg-Vorpommern": {
         "live": {
-          "confirmed": 412395,
+          "confirmed": 418401,
           "date": "2022-04-06",
-          "deaths": 2029
+          "deaths": 2044
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 1776367,
+          "confirmed": 1801396,
           "date": "2022-04-06",
-          "deaths": 8156
+          "deaths": 8199
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 4362997,
+          "confirmed": 4400712,
           "date": "2022-04-06",
-          "deaths": 23813
+          "deaths": 23866
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 918750,
+          "confirmed": 931407,
           "date": "2022-04-06",
-          "deaths": 5295
+          "deaths": 5314
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 1345397,
+          "confirmed": 1356311,
           "date": "2022-04-06",
-          "deaths": 14806
+          "deaths": 14834
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 622320,
+          "confirmed": 626624,
           "date": "2022-04-06",
-          "deaths": 5035
+          "deaths": 5057
         }
       },
       "Schleswig-Holstein": {
         "live": {
-          "confirmed": 529090,
+          "confirmed": 537098,
           "date": "2022-04-06",
-          "deaths": 2314
+          "deaths": 2323
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 623607,
+          "confirmed": 629669,
           "date": "2022-04-06",
-          "deaths": 6865
+          "deaths": 6877
         }
       }
     }
@@ -807,9 +807,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2320806,
+      "confirmed": 2321095,
       "date": "2022-04-06",
-      "deaths": 25178
+      "deaths": 25179
     }
   },
   "Ireland": {
@@ -1126,51 +1126,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 967668,
+          "confirmed": 969430,
           "date": "2022-04-06",
-          "deaths": 2763
+          "deaths": 2766
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 522665,
+          "confirmed": 523201,
           "date": "2022-04-06",
-          "deaths": 2147
+          "deaths": 2148
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 1221479,
+          "confirmed": 1222693,
           "date": "2022-04-06",
-          "deaths": 3668
+          "deaths": 3674
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 1295630,
+          "confirmed": 1297815,
           "date": "2022-04-06",
-          "deaths": 3326
+          "deaths": 3328
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 555683,
+          "confirmed": 556759,
           "date": "2022-04-06",
-          "deaths": 1401
+          "deaths": 1402
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 651023,
+          "confirmed": 652296,
           "date": "2022-04-06",
-          "deaths": 1523
+          "deaths": 1525
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1660567,
+          "confirmed": 1663502,
           "date": "2022-04-06",
-          "deaths": 5090
+          "deaths": 5094
         }
       }
     }
@@ -1364,9 +1364,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1983734,
+      "confirmed": 1985085,
       "date": "2022-04-06",
-      "deaths": 15842
+      "deaths": 15850
     }
   },
   "Singapore": {
