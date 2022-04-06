@@ -323,7 +323,7 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 357500,
+          "confirmed": 357758,
           "date": "2022-04-06",
           "deaths": 3002
         }
@@ -1117,7 +1117,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 978528,
+      "confirmed": 978538,
       "date": "2022-04-06",
       "deaths": 11951
     }
@@ -1706,7 +1706,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 317221,
+      "confirmed": 317358,
       "date": "2022-04-06",
       "deaths": 3967
     }
