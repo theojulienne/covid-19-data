@@ -1392,9 +1392,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3727208,
+      "confirmed": 3728689,
       "date": "2022-04-07",
-      "deaths": 100070
+      "deaths": 100075
     }
   },
   "Spain": {
@@ -1591,7 +1591,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 2994926,
+          "confirmed": 2997073,
           "date": "2022-04-07",
           "deaths": 45976
         }
