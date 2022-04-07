@@ -1,9 +1,9 @@
 {
   "Argentina": {
     "live": {
-      "confirmed": 9047408,
+      "confirmed": 9049250,
       "date": "2022-04-07",
-      "deaths": 128144
+      "deaths": 128158
     }
   },
   "Armenia": {
@@ -325,7 +325,7 @@
         "live": {
           "confirmed": 357974,
           "date": "2022-04-07",
-          "deaths": 3002
+          "deaths": 3004
         }
       },
       "Ontario": {
@@ -435,9 +435,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 449877,
+      "confirmed": 452334,
       "date": "2022-04-07",
-      "deaths": 955
+      "deaths": 957
     }
   },
   "Czechia": {
@@ -821,7 +821,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3981324,
+      "confirmed": 3982524,
       "date": "2022-04-07",
       "deaths": 10559
     }
