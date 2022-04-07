@@ -307,7 +307,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 612079,
+      "confirmed": 612132,
       "date": "2022-04-07",
       "deaths": 19434
     }
@@ -814,9 +814,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 1481171,
+      "confirmed": 1484321,
       "date": "2022-04-07",
-      "deaths": 6824
+      "deaths": 6843
     }
   },
   "Israel": {
@@ -1542,7 +1542,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 1268293,
+          "confirmed": 1272999,
           "date": "2022-04-07",
           "deaths": 17004
         }
