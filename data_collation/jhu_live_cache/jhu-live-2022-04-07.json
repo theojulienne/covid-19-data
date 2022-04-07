@@ -1080,16 +1080,16 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1388201,
+          "confirmed": 1389140,
           "date": "2022-04-07",
-          "deaths": 42640
+          "deaths": 42650
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 539912,
+          "confirmed": 546879,
           "date": "2022-04-07",
-          "deaths": 47114
+          "deaths": 47122
         }
       }
     }
