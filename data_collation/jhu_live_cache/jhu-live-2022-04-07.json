@@ -337,7 +337,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 985297,
+          "confirmed": 989074,
           "date": "2022-04-07",
           "deaths": 14482
         }
@@ -621,16 +621,16 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 832956,
+      "confirmed": 833723,
       "date": "2022-04-07",
-      "deaths": 17350
+      "deaths": 17361
     }
   },
   "Honduras": {
     "live": {
-      "confirmed": 421170,
+      "confirmed": 421268,
       "date": "2022-04-07",
-      "deaths": 10885
+      "deaths": 10888
     }
   },
   "Hungary": {
@@ -1551,7 +1551,7 @@
         "live": {
           "confirmed": 5762241,
           "date": "2022-04-07",
-          "deaths": 59413
+          "deaths": 59422
         }
       },
       "Florida": {
@@ -1563,9 +1563,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 1132072,
+          "confirmed": 1132875,
           "date": "2022-04-07",
-          "deaths": 14276
+          "deaths": 14283
         }
       },
       "Massachusetts": {
@@ -1598,16 +1598,16 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2705593,
+          "confirmed": 2706128,
           "date": "2022-04-07",
-          "deaths": 29536
+          "deaths": 29547
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 341302,
+          "confirmed": 341630,
           "date": "2022-04-07",
-          "deaths": 1620
+          "deaths": 1625
         }
       },
       "Washington": {
