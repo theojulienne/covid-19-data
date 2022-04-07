@@ -47,9 +47,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 792141,
+      "confirmed": 792166,
       "date": "2022-04-07",
-      "deaths": 9701
+      "deaths": 9703
     }
   },
   "Bahrain": {
@@ -135,7 +135,7 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 375948,
+      "confirmed": 376028,
       "date": "2022-04-07",
       "deaths": 15728
     }
@@ -323,7 +323,7 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 357758,
+          "confirmed": 357974,
           "date": "2022-04-07",
           "deaths": 3002
         }
@@ -366,9 +366,9 @@
     "subseries": {
       "Hong Kong": {
         "live": {
-          "confirmed": 1180591,
+          "confirmed": 1183235,
           "date": "2022-04-07",
-          "deaths": 8460
+          "deaths": 8557
         }
       }
     }
@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 3075548,
+      "confirmed": 3078295,
       "date": "2022-04-07",
-      "deaths": 5813
+      "deaths": 5837
     }
   },
   "Dominican Republic": {
@@ -1489,23 +1489,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 336552,
+          "confirmed": 336868,
           "date": "2022-04-07",
-          "deaths": 2319
+          "deaths": 2337
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 569184,
+          "confirmed": 570047,
           "date": "2022-04-07",
-          "deaths": 5177
+          "deaths": 5202
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 432181,
+          "confirmed": 432659,
           "date": "2022-04-07",
-          "deaths": 3001
+          "deaths": 3024
         }
       }
     }
