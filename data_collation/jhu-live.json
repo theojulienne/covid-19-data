@@ -377,35 +377,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 917954,
+          "confirmed": 917994,
           "date": "2022-04-07",
           "deaths": 18239
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 402106,
+          "confirmed": 402123,
           "date": "2022-04-07",
           "deaths": 10127
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1766673,
+          "confirmed": 1766814,
           "date": "2022-04-07",
           "deaths": 29347
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 318042,
+          "confirmed": 318053,
           "date": "2022-04-07",
           "deaths": 7279
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 540485,
+          "confirmed": 540506,
           "date": "2022-04-07",
           "deaths": 15028
         }
@@ -1004,9 +1004,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 14553644,
+      "confirmed": 14778405,
       "date": "2022-04-07",
-      "deaths": 18033
+      "deaths": 18381
     }
   },
   "Kuwait": {
