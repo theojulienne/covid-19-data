@@ -614,9 +614,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 3126856,
+      "confirmed": 3137714,
       "date": "2022-04-07",
-      "deaths": 27892
+      "deaths": 27968
     }
   },
   "Guatemala": {
@@ -807,9 +807,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2321095,
+      "confirmed": 2321369,
       "date": "2022-04-07",
-      "deaths": 25179
+      "deaths": 25181
     }
   },
   "Ireland": {
@@ -997,7 +997,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 323515,
+      "confirmed": 323524,
       "date": "2022-04-07",
       "deaths": 5648
     }
@@ -1126,51 +1126,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 969430,
+          "confirmed": 971129,
           "date": "2022-04-07",
           "deaths": 2766
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 523201,
+          "confirmed": 523770,
           "date": "2022-04-07",
           "deaths": 2148
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 1222693,
+          "confirmed": 1224179,
           "date": "2022-04-07",
-          "deaths": 3674
+          "deaths": 3675
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 1297815,
+          "confirmed": 1299762,
           "date": "2022-04-07",
           "deaths": 3328
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 556759,
+          "confirmed": 557786,
           "date": "2022-04-07",
           "deaths": 1402
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 652296,
+          "confirmed": 653400,
           "date": "2022-04-07",
           "deaths": 1525
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 1663502,
+          "confirmed": 1666540,
           "date": "2022-04-07",
-          "deaths": 5094
+          "deaths": 5099
         }
       }
     }
@@ -1364,9 +1364,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1985085,
+      "confirmed": 1986439,
       "date": "2022-04-07",
-      "deaths": 15850
+      "deaths": 15862
     }
   },
   "Singapore": {
@@ -1706,7 +1706,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 317358,
+      "confirmed": 317483,
       "date": "2022-04-07",
       "deaths": 3967
     }
