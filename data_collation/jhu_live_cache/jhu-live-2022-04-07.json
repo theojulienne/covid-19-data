@@ -821,9 +821,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3979113,
+      "confirmed": 3981324,
       "date": "2022-04-07",
-      "deaths": 10555
+      "deaths": 10559
     }
   },
   "Italy": {
@@ -1110,7 +1110,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1163726,
+      "confirmed": 1163806,
       "date": "2022-04-07",
       "deaths": 16061
     }
@@ -1371,7 +1371,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1123886,
+      "confirmed": 1128155,
       "date": "2022-04-07",
       "deaths": 1287
     }
@@ -1533,9 +1533,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14929905,
+      "confirmed": 14939259,
       "date": "2022-04-07",
-      "deaths": 98275
+      "deaths": 98311
     }
   },
   "US": {
@@ -1639,7 +1639,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 892929,
+      "confirmed": 893072,
       "date": "2022-04-07",
       "deaths": 2302
     }
