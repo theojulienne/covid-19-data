@@ -31,7 +31,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1354327,
+          "confirmed": 1354194,
           "date": "2022-04-07",
           "deaths": 2770
         }
@@ -498,9 +498,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 25679132,
+      "confirmed": 25837924,
       "date": "2022-04-07",
-      "deaths": 139755
+      "deaths": 139860
     }
   },
   "Georgia": {
@@ -1048,30 +1048,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 375741,
+          "confirmed": 376366,
           "date": "2022-04-07",
-          "deaths": 4460
+          "deaths": 4464
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 368606,
+          "confirmed": 368782,
           "date": "2022-04-07",
-          "deaths": 3113
+          "deaths": 3114
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1240038,
+          "confirmed": 1246457,
           "date": "2022-04-07",
-          "deaths": 10566
+          "deaths": 10575
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 333083,
+          "confirmed": 334177,
           "date": "2022-04-07",
-          "deaths": 2805
+          "deaths": 2806
         }
       }
     }
@@ -1480,9 +1480,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 662342,
+      "confirmed": 662425,
       "date": "2022-04-07",
-      "deaths": 16486
+      "deaths": 16487
     }
   },
   "Sweden": {
