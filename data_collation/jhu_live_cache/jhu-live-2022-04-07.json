@@ -300,9 +300,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1143424,
+      "confirmed": 1144107,
       "date": "2022-04-07",
-      "deaths": 36655
+      "deaths": 36672
     }
   },
   "Burma": {
@@ -1549,9 +1549,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5762241,
+          "confirmed": 5763279,
           "date": "2022-04-07",
-          "deaths": 59422
+          "deaths": 59437
         }
       },
       "Florida": {
@@ -1678,9 +1678,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 891800,
+      "confirmed": 892454,
       "date": "2022-04-07",
-      "deaths": 7176
+      "deaths": 7179
     }
   },
   "Venezuela": {
