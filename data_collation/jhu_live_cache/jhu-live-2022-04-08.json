@@ -800,9 +800,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 7183808,
+      "confirmed": 7186992,
       "date": "2022-04-08",
-      "deaths": 140492
+      "deaths": 140528
     }
   },
   "Iraq": {
@@ -1124,7 +1124,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 978545,
+      "confirmed": 978556,
       "date": "2022-04-08",
       "deaths": 11951
     }
@@ -1276,9 +1276,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 2868777,
+      "confirmed": 2870486,
       "date": "2022-04-08",
-      "deaths": 65170
+      "deaths": 65179
     }
   },
   "Russia": {
@@ -1385,9 +1385,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2480132,
+      "confirmed": 2484354,
       "date": "2022-04-08",
-      "deaths": 19500
+      "deaths": 19523
     }
   },
   "Slovenia": {
@@ -1521,7 +1521,7 @@
     "live": {
       "confirmed": 3528689,
       "date": "2022-04-08",
-      "deaths": 13606
+      "deaths": 13607
     }
   },
   "Thailand": {
