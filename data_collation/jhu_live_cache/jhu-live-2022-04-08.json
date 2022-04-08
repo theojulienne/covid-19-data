@@ -505,9 +505,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 1650708,
+      "confirmed": 1650981,
       "date": "2022-04-08",
-      "deaths": 16765
+      "deaths": 16766
     }
   },
   "Germany": {
@@ -821,7 +821,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3982524,
+      "confirmed": 3984861,
       "date": "2022-04-08",
       "deaths": 10559
     }
@@ -1039,9 +1039,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1037422,
+      "confirmed": 1038962,
       "date": "2022-04-08",
-      "deaths": 8944
+      "deaths": 8954
     }
   },
   "Malaysia": {
