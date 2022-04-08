@@ -498,9 +498,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 25837924,
+      "confirmed": 25985800,
       "date": "2022-04-08",
-      "deaths": 139860
+      "deaths": 139999
     }
   },
   "Georgia": {
@@ -1103,14 +1103,14 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 514882,
+      "confirmed": 515121,
       "date": "2022-04-08",
-      "deaths": 11455
+      "deaths": 11460
     }
   },
   "Mongolia": {
     "live": {
-      "confirmed": 919784,
+      "confirmed": 919870,
       "date": "2022-04-08",
       "deaths": 2177
     }
@@ -1262,9 +1262,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 3648634,
+      "confirmed": 3657785,
       "date": "2022-04-08",
-      "deaths": 21827
+      "deaths": 21851
     }
   },
   "Qatar": {
@@ -1558,7 +1558,7 @@
         "live": {
           "confirmed": 5766702,
           "date": "2022-04-08",
-          "deaths": 59470
+          "deaths": 59478
         }
       },
       "Florida": {
@@ -1646,7 +1646,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 893072,
+      "confirmed": 893312,
       "date": "2022-04-08",
       "deaths": 2302
     }
