@@ -24,9 +24,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 831012,
+          "confirmed": 841085,
           "date": "2022-04-08",
-          "deaths": 763
+          "deaths": 772
         }
       },
       "Victoria": {
@@ -77,49 +77,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 615022,
+          "confirmed": 622062,
           "date": "2022-04-08",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 431026,
+          "confirmed": 433172,
           "date": "2022-04-08",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 510738,
+          "confirmed": 516826,
           "date": "2022-04-08",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 368508,
+          "confirmed": 373052,
           "date": "2022-04-08",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 433153,
+          "confirmed": 435540,
           "date": "2022-04-08",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 359597,
+          "confirmed": 361247,
           "date": "2022-04-08",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 408125,
+          "confirmed": 412660,
           "date": "2022-04-08",
           "deaths": 0
         }
@@ -379,7 +379,7 @@
         "live": {
           "confirmed": 918026,
           "date": "2022-04-08",
-          "deaths": 18242
+          "deaths": 18243
         }
       },
       "Atlantico": {
