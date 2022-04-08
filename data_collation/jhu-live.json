@@ -128,7 +128,7 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 902749,
+      "confirmed": 902920,
       "date": "2022-04-08",
       "deaths": 21897
     }
@@ -456,7 +456,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 578319,
+      "confirmed": 578416,
       "date": "2022-04-08",
       "deaths": 4375
     }
@@ -1004,16 +1004,16 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 14778405,
+      "confirmed": 14983694,
       "date": "2022-04-08",
-      "deaths": 18381
+      "deaths": 18754
     }
   },
   "Kuwait": {
     "live": {
-      "confirmed": 629525,
+      "confirmed": 629912,
       "date": "2022-04-08",
-      "deaths": 2554
+      "deaths": 2555
     }
   },
   "Latvia": {
@@ -1080,16 +1080,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 1389140,
+          "confirmed": 1390691,
           "date": "2022-04-08",
-          "deaths": 42650
+          "deaths": 42669
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 546879,
+          "confirmed": 570169,
           "date": "2022-04-08",
-          "deaths": 47122
+          "deaths": 47129
+        }
+      },
+      "Nuevo Leon": {
+        "live": {
+          "confirmed": 318237,
+          "date": "2022-04-08",
+          "deaths": 14966
         }
       }
     }
@@ -1184,7 +1191,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 1412969,
+      "confirmed": 1413957,
       "date": "2022-04-08",
       "deaths": 2667
     }
@@ -1216,9 +1223,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 765930,
+      "confirmed": 766177,
       "date": "2022-04-08",
-      "deaths": 8172
+      "deaths": 8174
     }
   },
   "Paraguay": {
@@ -1702,13 +1709,6 @@
       "confirmed": 656287,
       "date": "2022-04-08",
       "deaths": 5655
-    }
-  },
-  "Zambia": {
-    "live": {
-      "confirmed": 317483,
-      "date": "2022-04-08",
-      "deaths": 3967
     }
   }
 }
