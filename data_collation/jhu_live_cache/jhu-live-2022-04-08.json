@@ -8,7 +8,7 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 422629,
+      "confirmed": 422643,
       "date": "2022-04-08",
       "deaths": 8619
     }
@@ -40,9 +40,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 3950161,
+      "confirmed": 3964246,
       "date": "2022-04-08",
-      "deaths": 16141
+      "deaths": 16168
     }
   },
   "Azerbaijan": {
@@ -635,9 +635,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1865607,
+      "confirmed": 1868007,
       "date": "2022-04-08",
-      "deaths": 45684
+      "deaths": 45721
     }
   },
   "India": {
@@ -1521,14 +1521,14 @@
     "live": {
       "confirmed": 3528689,
       "date": "2022-04-08",
-      "deaths": 13604
+      "deaths": 13605
     }
   },
   "Thailand": {
     "live": {
-      "confirmed": 3807908,
+      "confirmed": 3833048,
       "date": "2022-04-08",
-      "deaths": 25788
+      "deaths": 25877
     }
   },
   "Tunisia": {
