@@ -2684,13 +2684,13 @@ var covid19_dataset_latest_totals = {
     },
     "NZL": {
       "back_1week": {
-        "confirmed": 659175,
-        "deaths": 299,
+        "confirmed": 672712,
+        "deaths": 314,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 557330,
-        "deaths": 192,
+        "confirmed": 573244,
+        "deaths": 201,
         "recovered": 0
       },
       "latest": {
