@@ -47,7 +47,7 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 792166,
+      "confirmed": 792188,
       "date": "2022-04-08",
       "deaths": 9703
     }
@@ -135,9 +135,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 376028,
+      "confirmed": 376081,
       "date": "2022-04-08",
-      "deaths": 15728
+      "deaths": 15732
     }
   },
   "Brazil": {
@@ -366,9 +366,9 @@
     "subseries": {
       "Hong Kong": {
         "live": {
-          "confirmed": 1183235,
+          "confirmed": 1185727,
           "date": "2022-04-08",
-          "deaths": 8557
+          "deaths": 8643
         }
       }
     }
@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 3078295,
+      "confirmed": 3080975,
       "date": "2022-04-08",
-      "deaths": 5837
+      "deaths": 5861
     }
   },
   "Dominican Republic": {
@@ -614,9 +614,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 3137714,
+      "confirmed": 3152477,
       "date": "2022-04-08",
-      "deaths": 27968
+      "deaths": 28025
     }
   },
   "Guatemala": {
