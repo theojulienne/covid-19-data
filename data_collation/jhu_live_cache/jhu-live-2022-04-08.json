@@ -61,16 +61,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1951947,
+      "confirmed": 1951995,
       "date": "2022-04-08",
       "deaths": 29123
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 967731,
+      "confirmed": 968676,
       "date": "2022-04-08",
-      "deaths": 6866
+      "deaths": 6870
     }
   },
   "Belgium": {
@@ -421,9 +421,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1106557,
+      "confirmed": 1107648,
       "date": "2022-04-08",
-      "deaths": 15652
+      "deaths": 15660
     }
   },
   "Cuba": {
@@ -925,7 +925,7 @@
     "subseries": {
       "Aichi": {
         "live": {
-          "confirmed": 432242,
+          "confirmed": 432241,
           "date": "2022-04-08",
           "deaths": 1982
         }
@@ -1248,9 +1248,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3680514,
+      "confirmed": 3680802,
       "date": "2022-04-08",
-      "deaths": 59591
+      "deaths": 59660
     }
   },
   "Poland": {
