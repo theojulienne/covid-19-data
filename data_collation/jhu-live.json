@@ -1378,7 +1378,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1128155,
+      "confirmed": 1132169,
       "date": "2022-04-08",
       "deaths": 1297
     }
@@ -1605,9 +1605,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 2706613,
+          "confirmed": 2722547,
           "date": "2022-04-08",
-          "deaths": 29548
+          "deaths": 29612
         }
       },
       "Utah": {
