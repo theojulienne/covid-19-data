@@ -1048,30 +1048,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 376366,
+          "confirmed": 376922,
           "date": "2022-04-08",
-          "deaths": 4464
+          "deaths": 4468
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 368782,
+          "confirmed": 368954,
           "date": "2022-04-08",
           "deaths": 3114
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1246457,
+          "confirmed": 1256131,
           "date": "2022-04-08",
-          "deaths": 10575
+          "deaths": 10577
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 334177,
+          "confirmed": 335147,
           "date": "2022-04-08",
-          "deaths": 2806
+          "deaths": 2807
         }
       }
     }
@@ -1540,9 +1540,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 14939259,
+      "confirmed": 14946379,
       "date": "2022-04-08",
-      "deaths": 98311
+      "deaths": 98342
     }
   },
   "US": {
@@ -1556,9 +1556,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5763279,
+          "confirmed": 5766702,
           "date": "2022-04-08",
-          "deaths": 59437
+          "deaths": 59470
         }
       },
       "Florida": {
