@@ -477,9 +477,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 562114,
+      "confirmed": 562939,
       "date": "2022-04-08",
-      "deaths": 2481
+      "deaths": 2486
     }
   },
   "Ethiopia": {
@@ -939,7 +939,7 @@
       },
       "Fukuoka": {
         "live": {
-          "confirmed": 317947,
+          "confirmed": 317942,
           "date": "2022-04-08",
           "deaths": 1152
         }
@@ -1018,9 +1018,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 806425,
+      "confirmed": 807385,
       "date": "2022-04-08",
-      "deaths": 5670
+      "deaths": 5673
     }
   },
   "Lebanon": {
@@ -1364,9 +1364,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 751518,
+      "confirmed": 751622,
       "date": "2022-04-08",
-      "deaths": 9054
+      "deaths": 9055
     }
   },
   "Serbia": {
@@ -1392,9 +1392,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 982784,
+      "confirmed": 984838,
       "date": "2022-04-08",
-      "deaths": 6523
+      "deaths": 6527
     }
   },
   "South Africa": {
@@ -1521,7 +1521,7 @@
     "live": {
       "confirmed": 3528689,
       "date": "2022-04-08",
-      "deaths": 13605
+      "deaths": 13606
     }
   },
   "Thailand": {
