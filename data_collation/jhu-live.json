@@ -68,9 +68,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 968676,
+      "confirmed": 969616,
       "date": "2022-04-09",
-      "deaths": 6870
+      "deaths": 6872
     }
   },
   "Belgium": {
@@ -435,9 +435,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 454362,
+      "confirmed": 456126,
       "date": "2022-04-09",
-      "deaths": 979
+      "deaths": 980
     }
   },
   "Czechia": {
@@ -821,7 +821,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3987827,
+      "confirmed": 3993515,
       "date": "2022-04-09",
       "deaths": 10559
     }
@@ -1103,9 +1103,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 515121,
+      "confirmed": 515312,
       "date": "2022-04-09",
-      "deaths": 11460
+      "deaths": 11461
     }
   },
   "Mongolia": {
@@ -1399,9 +1399,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3730066,
+      "confirmed": 3731247,
       "date": "2022-04-09",
-      "deaths": 100084
+      "deaths": 100096
     }
   },
   "Spain": {
