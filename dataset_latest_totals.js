@@ -2827,18 +2827,18 @@ var covid19_dataset_latest_totals = {
     },
     "POL": {
       "back_1week": {
-        "confirmed": 5962931,
-        "deaths": 115173,
+        "confirmed": 5966970,
+        "deaths": 115247,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 5924876,
-        "deaths": 114626,
+        "confirmed": 5933107,
+        "deaths": 114736,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 5975040,
-        "deaths": 115536,
+        "confirmed": 5976364,
+        "deaths": 115594,
         "recovered": 0
       }
     },
