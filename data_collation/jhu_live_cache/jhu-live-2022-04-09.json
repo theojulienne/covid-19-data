@@ -47,7 +47,7 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 792188,
+      "confirmed": 792216,
       "date": "2022-04-09",
       "deaths": 9703
     }
@@ -1371,9 +1371,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1987756,
+      "confirmed": 1988716,
       "date": "2022-04-09",
-      "deaths": 15869
+      "deaths": 15877
     }
   },
   "Singapore": {
