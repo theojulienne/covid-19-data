@@ -61,7 +61,7 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1951995,
+      "confirmed": 1952023,
       "date": "2022-04-09",
       "deaths": 29123
     }
@@ -800,9 +800,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 7186992,
+      "confirmed": 7188749,
       "date": "2022-04-09",
-      "deaths": 140528
+      "deaths": 140577
     }
   },
   "Iraq": {
@@ -1699,9 +1699,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 10135789,
+      "confirmed": 10169929,
       "date": "2022-04-09",
-      "deaths": 42768
+      "deaths": 42794
     }
   },
   "West Bank and Gaza": {
