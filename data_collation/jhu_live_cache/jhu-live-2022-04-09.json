@@ -307,7 +307,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 612224,
+      "confirmed": 612278,
       "date": "2022-04-09",
       "deaths": 19434
     }
@@ -614,9 +614,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 3152477,
+      "confirmed": 3164995,
       "date": "2022-04-09",
-      "deaths": 28025
+      "deaths": 28076
     }
   },
   "Guatemala": {
