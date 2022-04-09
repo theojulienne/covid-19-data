@@ -54,7 +54,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 559034,
+      "confirmed": 559431,
       "date": "2022-04-09",
       "deaths": 1472
     }
@@ -997,7 +997,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 323524,
+      "confirmed": 323531,
       "date": "2022-04-09",
       "deaths": 5648
     }
@@ -1025,9 +1025,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1094314,
+      "confirmed": 1094503,
       "date": "2022-04-09",
-      "deaths": 10334
+      "deaths": 10338
     }
   },
   "Libya": {
