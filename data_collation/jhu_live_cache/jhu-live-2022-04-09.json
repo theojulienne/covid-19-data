@@ -366,9 +366,9 @@
     "subseries": {
       "Hong Kong": {
         "live": {
-          "confirmed": 1185727,
+          "confirmed": 1188262,
           "date": "2022-04-09",
-          "deaths": 8643
+          "deaths": 8705
         }
       }
     }
@@ -421,9 +421,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1107648,
+      "confirmed": 1108551,
       "date": "2022-04-09",
-      "deaths": 15660
+      "deaths": 15675
     }
   },
   "Cuba": {
@@ -449,9 +449,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 3080975,
+      "confirmed": 3083432,
       "date": "2022-04-09",
-      "deaths": 5861
+      "deaths": 5885
     }
   },
   "Dominican Republic": {
