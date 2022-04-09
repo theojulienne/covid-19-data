@@ -1598,16 +1598,16 @@
       },
       "New York": {
         "live": {
-          "confirmed": 3000041,
+          "confirmed": 3001979,
           "date": "2022-04-09",
-          "deaths": 45980
+          "deaths": 45981
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 2722547,
+          "confirmed": 2723102,
           "date": "2022-04-09",
-          "deaths": 29612
+          "deaths": 29622
         }
       },
       "Utah": {
