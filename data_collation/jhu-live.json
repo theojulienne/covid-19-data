@@ -477,9 +477,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 562939,
+      "confirmed": 563684,
       "date": "2022-04-09",
-      "deaths": 2486
+      "deaths": 2490
     }
   },
   "Ethiopia": {
@@ -932,21 +932,21 @@
       },
       "Chiba": {
         "live": {
-          "confirmed": 378823,
+          "confirmed": 378816,
           "date": "2022-04-09",
           "deaths": 1678
         }
       },
       "Fukuoka": {
         "live": {
-          "confirmed": 320818,
+          "confirmed": 320817,
           "date": "2022-04-09",
           "deaths": 1152
         }
       },
       "Hyogo": {
         "live": {
-          "confirmed": 348977,
+          "confirmed": 348976,
           "date": "2022-04-09",
           "deaths": 2136
         }
@@ -967,7 +967,7 @@
       },
       "Saitama": {
         "live": {
-          "confirmed": 455550,
+          "confirmed": 455549,
           "date": "2022-04-09",
           "deaths": 1407
         }
@@ -1124,7 +1124,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 978556,
+      "confirmed": 978568,
       "date": "2022-04-09",
       "deaths": 11951
     }
@@ -1248,9 +1248,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3680802,
+      "confirmed": 3681101,
       "date": "2022-04-09",
-      "deaths": 59660
+      "deaths": 59730
     }
   },
   "Poland": {
@@ -1269,16 +1269,16 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 362404,
+      "confirmed": 362529,
       "date": "2022-04-09",
       "deaths": 677
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 2870486,
+      "confirmed": 2871937,
       "date": "2022-04-09",
-      "deaths": 65179
+      "deaths": 65198
     }
   },
   "Russia": {
@@ -1385,9 +1385,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 2484354,
+      "confirmed": 2488243,
       "date": "2022-04-09",
-      "deaths": 19523
+      "deaths": 19549
     }
   },
   "Slovenia": {
@@ -1646,7 +1646,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 893312,
+      "confirmed": 893538,
       "date": "2022-04-09",
       "deaths": 2302
     }
