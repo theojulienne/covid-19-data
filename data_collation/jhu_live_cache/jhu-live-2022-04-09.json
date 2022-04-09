@@ -379,7 +379,7 @@
         "live": {
           "confirmed": 918057,
           "date": "2022-04-09",
-          "deaths": 18243
+          "deaths": 18245
         }
       },
       "Atlantico": {
@@ -393,21 +393,21 @@
         "live": {
           "confirmed": 1767086,
           "date": "2022-04-09",
-          "deaths": 29347
+          "deaths": 29348
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 318067,
           "date": "2022-04-09",
-          "deaths": 7280
+          "deaths": 7282
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 540547,
           "date": "2022-04-09",
-          "deaths": 15029
+          "deaths": 15032
         }
       }
     }
@@ -1004,14 +1004,14 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 14983694,
+      "confirmed": 15169189,
       "date": "2022-04-09",
-      "deaths": 18754
+      "deaths": 19092
     }
   },
   "Kuwait": {
     "live": {
-      "confirmed": 629912,
+      "confirmed": 630252,
       "date": "2022-04-09",
       "deaths": 2555
     }
@@ -1223,16 +1223,16 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 766177,
+      "confirmed": 766504,
       "date": "2022-04-09",
       "deaths": 8174
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 648353,
+      "confirmed": 648446,
       "date": "2022-04-09",
-      "deaths": 18731
+      "deaths": 18734
     }
   },
   "Peru": {
