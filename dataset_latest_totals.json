@@ -160,7 +160,7 @@
         "current_icu": 8,
         "deaths": 35,
         "recovered": 19522,
-        "tested": 4886433
+        "tested": 4883471
       },
       "back_2week": {
         "confirmed": 49588,
@@ -168,7 +168,7 @@
         "current_icu": 8,
         "deaths": 35,
         "recovered": 19522,
-        "tested": 4884621
+        "tested": 4884765
       },
       "latest": {
         "confirmed": 48871,
@@ -176,7 +176,7 @@
         "current_icu": 8,
         "deaths": 35,
         "recovered": 19522,
-        "tested": 4880367
+        "tested": 4878248
       },
       "states": {
         "ACT": {
