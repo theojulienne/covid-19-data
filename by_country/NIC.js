@@ -1621,6 +1621,7 @@ var covid19_dataset_country_nic = {
       18491,
       18491,
       18491,
+      18491,
       18491
     ],
     "deaths": [
@@ -2431,6 +2432,7 @@ var covid19_dataset_country_nic = {
       230,
       231,
       231,
+      231,
       231
     ],
     "recovered": [
@@ -2995,6 +2997,7 @@ var covid19_dataset_country_nic = {
       4225,
       4225,
       4225,
+      0,
       0,
       0,
       0,
