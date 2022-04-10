@@ -128,7 +128,7 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 903062,
+      "confirmed": 903244,
       "date": "2022-04-09",
       "deaths": 21899
     }
@@ -300,9 +300,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1144822,
+      "confirmed": 1145143,
       "date": "2022-04-09",
-      "deaths": 36685
+      "deaths": 36692
     }
   },
   "Burma": {
@@ -377,35 +377,35 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 918057,
+          "confirmed": 918088,
           "date": "2022-04-09",
           "deaths": 18245
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 402157,
+          "confirmed": 402168,
           "date": "2022-04-09",
           "deaths": 10127
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1767086,
+          "confirmed": 1767225,
           "date": "2022-04-09",
           "deaths": 29348
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 318067,
+          "confirmed": 318075,
           "date": "2022-04-09",
           "deaths": 7282
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 540547,
+          "confirmed": 540580,
           "date": "2022-04-09",
           "deaths": 15032
         }
@@ -1685,7 +1685,7 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 893009,
+      "confirmed": 893575,
       "date": "2022-04-09",
       "deaths": 7181
     }
