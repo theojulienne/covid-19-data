@@ -1004,9 +1004,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 15169189,
+      "confirmed": 15333670,
       "date": "2022-04-10",
-      "deaths": 19092
+      "deaths": 19421
     }
   },
   "Kuwait": {
@@ -1048,30 +1048,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 376922,
+          "confirmed": 377466,
           "date": "2022-04-10",
-          "deaths": 4468
+          "deaths": 4472
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 368954,
+          "confirmed": 369060,
           "date": "2022-04-10",
           "deaths": 3114
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1256131,
+          "confirmed": 1261817,
           "date": "2022-04-10",
-          "deaths": 10577
+          "deaths": 10580
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 335147,
+          "confirmed": 336155,
           "date": "2022-04-10",
-          "deaths": 2807
+          "deaths": 2808
         }
       }
     }
