@@ -1032,9 +1032,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 1094672,
+      "confirmed": 1094803,
       "date": "2022-04-11",
-      "deaths": 10341
+      "deaths": 10345
     }
   },
   "Libya": {
@@ -1262,9 +1262,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 3667184,
+      "confirmed": 3686491,
       "date": "2022-04-11",
-      "deaths": 21874
+      "deaths": 21935
     }
   },
   "Qatar": {
@@ -1380,7 +1380,7 @@
     "live": {
       "confirmed": 1140569,
       "date": "2022-04-11",
-      "deaths": 1301
+      "deaths": 1303
     }
   },
   "Slovakia": {
@@ -1577,9 +1577,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 327895,
+          "confirmed": 329073,
           "date": "2022-04-11",
-          "deaths": 3955
+          "deaths": 3958
         }
       },
       "Michigan": {
