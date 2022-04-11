@@ -17,7 +17,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 2028020,
+          "confirmed": 2027963,
           "date": "2022-04-11",
           "deaths": 2532
         }
@@ -38,7 +38,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1391785,
+          "confirmed": 1391087,
           "date": "2022-04-11",
           "deaths": 2783
         }
@@ -621,9 +621,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 835338,
+      "confirmed": 835425,
       "date": "2022-04-11",
-      "deaths": 17377
+      "deaths": 17379
     }
   },
   "Honduras": {
@@ -821,7 +821,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 4000595,
+      "confirmed": 4006170,
       "date": "2022-04-11",
       "deaths": 10591
     }
@@ -1055,30 +1055,30 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 377870,
+          "confirmed": 378364,
           "date": "2022-04-11",
-          "deaths": 4473
+          "deaths": 4475
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 369184,
+          "confirmed": 369249,
           "date": "2022-04-11",
           "deaths": 3114
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1266116,
+          "confirmed": 1270560,
           "date": "2022-04-11",
-          "deaths": 10581
+          "deaths": 10585
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 336863,
+          "confirmed": 337303,
           "date": "2022-04-11",
-          "deaths": 2809
+          "deaths": 2811
         }
       }
     }
@@ -1117,7 +1117,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1164030,
+      "confirmed": 1164052,
       "date": "2022-04-11",
       "deaths": 16061
     }
@@ -1487,9 +1487,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 662592,
+      "confirmed": 662657,
       "date": "2022-04-11",
-      "deaths": 16489
+      "deaths": 16492
     }
   },
   "Sweden": {
@@ -1598,9 +1598,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 3004481,
+          "confirmed": 3006974,
           "date": "2022-04-11",
-          "deaths": 45981
+          "deaths": 45985
         }
       },
       "Texas": {
