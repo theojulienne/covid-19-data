@@ -3542,7 +3542,7 @@ var covid19_dataset_latest_totals = {
         "AR": {
           "confirmed": 833485,
           "deaths": 11301,
-          "hospitalized": 77645,
+          "hospitalized": 77632,
           "recovered": 315181,
           "tested": 4687179
         },
@@ -3560,7 +3560,7 @@ var covid19_dataset_latest_totals = {
         "CO": {
           "confirmed": 1353641,
           "deaths": 11980,
-          "hospitalized": 102470,
+          "hospitalized": 102469,
           "tested": 15586335
         },
         "CT": {
@@ -3585,7 +3585,7 @@ var covid19_dataset_latest_totals = {
         "FL": {
           "confirmed": 5862803,
           "deaths": 73555,
-          "hospitalized": 453702,
+          "hospitalized": 453696,
           "tested": 56252792
         },
         "GA": {
@@ -3706,7 +3706,7 @@ var covid19_dataset_latest_totals = {
         "ND": {
           "confirmed": 240062,
           "deaths": 2251,
-          "hospitalized": 14888,
+          "hospitalized": 14889,
           "recovered": 98240,
           "tested": 2303809
         },
@@ -3750,7 +3750,7 @@ var covid19_dataset_latest_totals = {
         "OH": {
           "confirmed": 2676629,
           "deaths": 38166,
-          "hospitalized": 264001,
+          "hospitalized": 264002,
           "recovered": 923986,
           "tested": 21455043
         },
@@ -3771,7 +3771,7 @@ var covid19_dataset_latest_totals = {
         "PA": {
           "confirmed": 2786509,
           "deaths": 44391,
-          "hospitalized": 264347,
+          "hospitalized": 264344,
           "recovered": 859218,
           "tested": 25712078
         },
@@ -3784,7 +3784,7 @@ var covid19_dataset_latest_totals = {
         "SC": {
           "confirmed": 1469706,
           "deaths": 17650,
-          "hospitalized": 81787,
+          "hospitalized": 81785,
           "recovered": 218863,
           "tested": 12657516
         },
@@ -3818,7 +3818,7 @@ var covid19_dataset_latest_totals = {
         "VA": {
           "confirmed": 1675858,
           "deaths": 19859,
-          "hospitalized": 152040,
+          "hospitalized": 152035,
           "tested": 14461600
         },
         "VT": {
@@ -3837,7 +3837,7 @@ var covid19_dataset_latest_totals = {
         "WI": {
           "confirmed": 1588689,
           "deaths": 14340,
-          "hospitalized": 102554,
+          "hospitalized": 102553,
           "recovered": 552642,
           "tested": 16199303
         },
