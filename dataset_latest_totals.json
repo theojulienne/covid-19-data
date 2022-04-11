@@ -87,18 +87,18 @@
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 9040640,
-        "deaths": 128059,
+        "confirmed": 9041124,
+        "deaths": 128065,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 9025257,
-        "deaths": 127904,
+        "confirmed": 9026075,
+        "deaths": 127909,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 9052083,
-        "deaths": 128197,
+        "confirmed": 9052536,
+        "deaths": 128198,
         "recovered": 0
       }
     },
@@ -1965,17 +1965,17 @@
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 323450,
+        "confirmed": 323454,
         "deaths": 5648,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 323365,
+        "confirmed": 323374,
         "deaths": 5647,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 323531,
+        "confirmed": 323541,
         "deaths": 5648,
         "recovered": 0
       }
