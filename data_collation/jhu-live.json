@@ -435,9 +435,9 @@
   },
   "Cyprus": {
     "live": {
-      "confirmed": 457585,
+      "confirmed": 459839,
       "date": "2022-04-11",
-      "deaths": 982
+      "deaths": 985
     }
   },
   "Czechia": {
@@ -470,9 +470,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 509177,
+      "confirmed": 511977,
       "date": "2022-04-11",
-      "deaths": 24473
+      "deaths": 24522
     }
   },
   "Estonia": {
@@ -821,7 +821,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 4006170,
+      "confirmed": 4006847,
       "date": "2022-04-11",
       "deaths": 10591
     }
@@ -990,9 +990,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1694216,
+      "confirmed": 1694957,
       "date": "2022-04-11",
-      "deaths": 14048
+      "deaths": 14055
     }
   },
   "Kazakhstan": {
@@ -1103,14 +1103,14 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 515445,
+      "confirmed": 515488,
       "date": "2022-04-11",
-      "deaths": 11462
+      "deaths": 11470
     }
   },
   "Mongolia": {
     "live": {
-      "confirmed": 919870,
+      "confirmed": 920004,
       "date": "2022-04-11",
       "deaths": 2177
     }
@@ -1598,7 +1598,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 3006974,
+          "confirmed": 3008606,
           "date": "2022-04-11",
           "deaths": 45986
         }
