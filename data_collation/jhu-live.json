@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 560023,
+      "confirmed": 560552,
       "date": "2022-04-12",
       "deaths": 1473
     }
@@ -463,9 +463,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 863398,
+      "confirmed": 865263,
       "date": "2022-04-12",
-      "deaths": 35461
+      "deaths": 35508
     }
   },
   "Egypt": {
@@ -484,7 +484,7 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 470050,
+      "confirmed": 470096,
       "date": "2022-04-12",
       "deaths": 7509
     }
@@ -1011,9 +1011,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 15424598,
+      "confirmed": 15635274,
       "date": "2022-04-12",
-      "deaths": 19679
+      "deaths": 19850
     }
   },
   "Kuwait": {
