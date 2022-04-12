@@ -38,7 +38,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1401380,
+          "confirmed": 1399921,
           "date": "2022-04-12",
           "deaths": 2795
         }
@@ -1055,28 +1055,28 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 378364,
+          "confirmed": 378723,
           "date": "2022-04-12",
-          "deaths": 4475
+          "deaths": 4480
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 369249,
+          "confirmed": 369399,
           "date": "2022-04-12",
-          "deaths": 3114
+          "deaths": 3115
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 1270560,
+          "confirmed": 1275660,
           "date": "2022-04-12",
-          "deaths": 10585
+          "deaths": 10588
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 337303,
+          "confirmed": 338306,
           "date": "2022-04-12",
           "deaths": 2811
         }
@@ -1117,7 +1117,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 1164052,
+      "confirmed": 1164135,
       "date": "2022-04-12",
       "deaths": 16061
     }
@@ -1378,7 +1378,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1140569,
+      "confirmed": 1145121,
       "date": "2022-04-12",
       "deaths": 1303
     }
@@ -1598,9 +1598,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 3008606,
+          "confirmed": 3009093,
           "date": "2022-04-12",
-          "deaths": 45986
+          "deaths": 45994
         }
       },
       "Texas": {
@@ -1646,7 +1646,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 893970,
+      "confirmed": 894186,
       "date": "2022-04-12",
       "deaths": 2302
     }
