@@ -715,7 +715,7 @@ var covid19_dataset_latest_totals = {
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1602956,
+        "confirmed": 1605905,
         "deaths": 13408,
         "recovered": 0
       },
@@ -846,7 +846,7 @@ var covid19_dataset_latest_totals = {
           "recovered": 0
         },
         "Shanghai": {
-          "confirmed": 9336,
+          "confirmed": 12285,
           "deaths": 7,
           "recovered": 0
         },
